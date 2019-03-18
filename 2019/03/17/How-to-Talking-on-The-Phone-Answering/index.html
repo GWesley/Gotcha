@@ -61,6 +61,8 @@
   <link rel="stylesheet" href="/css/hiero.css">
   <link rel="stylesheet" href="/css/glyphs.css">
   
+    <link rel="stylesheet" href="/css/vdonate.css">
+  
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/my.css">
@@ -178,7 +180,7 @@ var themeMenus = {};
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="https://ws1.sinaimg.cn/large/5ff914a8ly1g16k8agn72j20p00gotaf.jpg" rel="gallery_cjtds7f4t000dzc0qenx5bj7q">
+      <a class="article-gallery-img fancybox" href="https://ws1.sinaimg.cn/large/5ff914a8ly1g16k8agn72j20p00gotaf.jpg" rel="gallery_cjtdi78ln00007b0qw0rb7m4h">
         <img src="https://ws1.sinaimg.cn/large/5ff914a8ly1g16k8agn72j20p00gotaf.jpg" itemprop="image">
       </a>
     
@@ -230,6 +232,19 @@ var themeMenus = {};
   <span class="ico-tags"></span>
   <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/English/">English</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Phone-Calls/">Phone Calls</a></li></ul>
 
+      
+        <div id="donation_div"></div>
+
+<script src="/js/vdonate.js"></script>
+<script>
+var a = new Donate({
+  title: 'If you think the information for this site is usefull, please consider making a donation', // 可选参数，打赏标题
+  btnText: 'Donate', // 可选参数，打赏按钮文字
+  el: document.getElementById('donation_div'),
+  wechatImage: 'https://ws1.sinaimg.cn/large/5ff914a8ly1g17nhc2mcpj20yi1audkq.jpg',
+  alipayImage: 'https://ws1.sinaimg.cn/large/5ff914a8ly1g17ngys804j20p011i0wj.jpg'
+});
+</script>
       
             
       

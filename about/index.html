@@ -59,6 +59,8 @@
   <link rel="stylesheet" href="/css/hiero.css">
   <link rel="stylesheet" href="/css/glyphs.css">
   
+    <link rel="stylesheet" href="/css/vdonate.css">
+  
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/my.css">
@@ -202,6 +204,19 @@ var themeMenus = {};
     <footer class="entry-meta entry-footer">
       
       
+      
+        <div id="donation_div"></div>
+
+<script src="/js/vdonate.js"></script>
+<script>
+var a = new Donate({
+  title: 'If you think the information for this site is usefull, please consider making a donation', // 可选参数，打赏标题
+  btnText: 'Donate', // 可选参数，打赏按钮文字
+  el: document.getElementById('donation_div'),
+  wechatImage: 'https://ws1.sinaimg.cn/large/5ff914a8ly1g17nhc2mcpj20yi1audkq.jpg',
+  alipayImage: 'https://ws1.sinaimg.cn/large/5ff914a8ly1g17ngys804j20p011i0wj.jpg'
+});
+</script>
       
             
       
