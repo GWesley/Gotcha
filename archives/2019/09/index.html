@@ -28,6 +28,8 @@
 
 
 
+<link rel="icon" href="/images/favicon.svg">
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.7.2/css/bulma.css">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
@@ -88,15 +90,29 @@
         <div class="navbar-brand is-flex-center">
             <a class="navbar-item navbar-logo" href="/">
             
-                <img src="https://ws1.sinaimg.cn/mw690/5ff914a8ly1g6qebz2949j20sg0sg127.jpg" alt="Gotcha - Pokemon Go Guide" height="28">
+                <img src="/images/logo.svg" alt="Gotcha - Pokemon Go Guide" height="28">
             
             </a>
         </div>
         <div class="navbar-menu">
             
+            <div class="navbar-start">
+                
+                <a class="navbar-item"
+                href="/">Home</a>
+                
+                <a class="navbar-item"
+                href="/archives">Archives</a>
+                
+            </div>
+            
             <div class="navbar-end">
                 
                 
+                
+                <a class="navbar-item search" title="Search" href="javascript:;">
+                    <i class="fas fa-search"></i>
+                </a>
                 
             </div>
         </div>
@@ -252,7 +268,7 @@
             <div class="level-start has-text-centered-mobile">
                 <a class="footer-logo is-block has-mb-6" href="/">
                 
-                    <img src="https://ws1.sinaimg.cn/mw690/5ff914a8ly1g6qebz2949j20sg0sg127.jpg" alt="Gotcha - Pokemon Go Guide" height="28">
+                    <img src="/images/logo.svg" alt="Gotcha - Pokemon Go Guide" height="28">
                 
                 </a>
                 <p class="is-size-7">
@@ -270,7 +286,7 @@
 </footer>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment-with-locales.min.js"></script>
-<script>moment.locale("en-us");</script>
+<script>moment.locale("en");</script>
 
 <script>
 var IcarusThemeSettings = {
@@ -374,6 +390,36 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <script src="/js/main.js" defer></script>
 
+    
+    <div class="searchbox ins-search">
+    <div class="searchbox-container ins-search-container">
+        <div class="searchbox-input-wrapper">
+            <input type="text" class="searchbox-input ins-search-input" placeholder="Type something..." />
+            <span class="searchbox-close ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
+        </div>
+        <div class="searchbox-result-wrapper ins-section-wrapper">
+            <div class="ins-section-container"></div>
+        </div>
+    </div>
+</div>
+<script>
+    (function (window) {
+        var INSIGHT_CONFIG = {
+            TRANSLATION: {
+                POSTS: 'Entradas',
+                PAGES: 'Pages',
+                CATEGORIES: 'Categorias',
+                TAGS: 'Etiquetas',
+                UNTITLED: '(Untitled)',
+            },
+            CONTENT_URL: '/content.json',
+        };
+        window.INSIGHT_CONFIG = INSIGHT_CONFIG;
+    })(window);
+</script>
+<script src="/js/insight.js" defer></script>
+<link rel="stylesheet" href="/css/search.css">
+<link rel="stylesheet" href="/css/insight.css">
     
 </body>
 </html>
