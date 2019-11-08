@@ -4,7 +4,17 @@
     ],
     "posts": [
         {
-            "date": "11/1/19",
+            "date": "11/7/19",
+            "title": "Find the Team GO Rocket Leaders and defeat Giovanni!",
+            "link": "https://pokemongolive.com/en/post/teamgorocketleaders2019/"
+        },
+        {
+            "date": "11/7/19",
+            "title": "The Team GO Rocket Leaders have disrupted Pokémon habitats!",
+            "link": "https://pokemongolive.com/en/post/teamgorocketleadersdisruption2019/"
+        },
+        {
+            "date": "11/6/19",
             "title": "Willow Report: Looming in the Shadows",
             "link": "https://pokemongolive.com/en/post/willowreport-loomingshadow/"
         },
