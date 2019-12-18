@@ -4,6 +4,36 @@
     ],
     "posts": [
         {
+            "date": "12/17/19",
+            "title": "Dev Insights: Discovering more with Buddy Adventure",
+            "link": "https://pokemongolive.com/en/post/buddyadventure-devinsights/"
+        },
+        {
+            "date": "12/17/19",
+            "title": "Buddy Adventure coming soon—even more ways to explore, grow, and bond with your buddy!",
+            "link": "https://pokemongolive.com/en/post/buddyadventurelaunch/"
+        },
+        {
+            "date": "12/16/19",
+            "title": "Pokémon GO 2019 year in review",
+            "link": "https://pokemongolive.com/en/post/pokemongo2019yearinreview/"
+        },
+        {
+            "date": "12/12/19",
+            "title": "Community Note: Pokémon can now be found in more places around the world",
+            "link": "https://pokemongolive.com/en/post/communitynote-niantic-encounters/"
+        },
+        {
+            "date": "12/11/19",
+            "title": "Community Note: GO Battle League preview, combat system update, legacy attacks, and more!",
+            "link": "https://pokemongolive.com/en/post/combatrebalance-dec2019/"
+        },
+        {
+            "date": "12/10/19",
+            "title": "A gift from us to you: Pokémon GO’s December events!",
+            "link": "https://pokemongolive.com/en/post/holiday2019/"
+        },
+        {
             "date": "12/4/19",
             "title": "Celebrate the power of change with the Evolution Event!",
             "link": "https://pokemongolive.com/en/post/evolutioneleganza2019/"
@@ -52,6 +82,26 @@
             "date": "11/6/19",
             "title": "Willow Report: Looming in the Shadows",
             "link": "https://pokemongolive.com/en/post/willowreport-loomingshadow/"
+        },
+        {
+            "date": "10/31/19",
+            "title": "The first of a Legendary trio—Cobalion will be in five-star raids!",
+            "link": "https://pokemongolive.com/en/post/cobalion-raids-nov2019/"
+        },
+        {
+            "date": "10/31/19",
+            "title": "A Research Breakthrough reward rotation is coming!",
+            "link": "https://pokemongolive.com/en/post/novemberdecemberupdate2019/"
+        },
+        {
+            "date": "10/22/19",
+            "title": "Community Note: Improvements to the Pokémon GO experience",
+            "link": "https://pokemongolive.com/en/post/communitynoteoct2019/"
+        },
+        {
+            "date": "10/21/19",
+            "title": "Coming 2020: GO Battle League",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-announcement/"
         }
     ]
 }
