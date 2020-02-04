@@ -4,104 +4,44 @@
     ],
     "posts": [
         {
-            "date": "12/17/19",
-            "title": "Dev Insights: Discovering more with Buddy Adventure",
-            "link": "https://pokemongolive.com/en/post/buddyadventure-devinsights/"
+            "date": "2/3/20",
+            "title": "The featured Pokémon for February Community Day is...",
+            "link": "https://pokemongolive.com/en/post/feb2020-cd-winner/"
         },
         {
-            "date": "12/17/19",
-            "title": "Buddy Adventure coming soon—even more ways to explore, grow, and bond with your buddy!",
-            "link": "https://pokemongolive.com/en/post/buddyadventurelaunch/"
+            "date": "1/31/20",
+            "title": "February events to make your heart flutter!",
+            "link": "https://pokemongolive.com/en/post/feb2020-events/"
         },
         {
-            "date": "12/16/19",
-            "title": "Pokémon GO 2019 year in review",
-            "link": "https://pokemongolive.com/en/post/pokemongo2019yearinreview/"
+            "date": "1/28/20",
+            "title": "Battle other Trainers globally soon—the GO Battle League has started rolling out!",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-announcement-2/"
         },
         {
-            "date": "12/12/19",
-            "title": "Community Note: Pokémon can now be found in more places around the world",
-            "link": "https://pokemongolive.com/en/post/communitynote-niantic-encounters/"
+            "date": "1/23/20",
+            "title": "Community Note: Attack updates and more",
+            "link": "https://pokemongolive.com/en/post/combatrebalance-jan2020/"
         },
         {
-            "date": "12/11/19",
-            "title": "Community Note: GO Battle League preview, combat system update, legacy attacks, and more!",
-            "link": "https://pokemongolive.com/en/post/combatrebalance-dec2019/"
+            "date": "1/22/20",
+            "title": "Make your voices heard—vote for February Community Day’s featured Pokémon",
+            "link": "https://pokemongolive.com/en/post/feb2020-cd-voting/"
         },
         {
-            "date": "12/10/19",
-            "title": "A gift from us to you: Pokémon GO’s December events!",
-            "link": "https://pokemongolive.com/en/post/holiday2019/"
+            "date": "1/22/20",
+            "title": "Pokémon GO live events are coming to Taiwan, the US, and the UK!",
+            "link": "https://pokemongolive.com/en/post/liveevents-2020/"
         },
         {
-            "date": "12/4/19",
-            "title": "Celebrate the power of change with the Evolution Event!",
-            "link": "https://pokemongolive.com/en/post/evolutioneleganza2019/"
+            "date": "1/21/20",
+            "title": "Year of the Rat: Celebrate Lunar New Year with red Pokémon and Minccino Limited Research",
+            "link": "https://pokemongolive.com/en/post/lunar-2020/"
         },
         {
-            "date": "11/20/19",
-            "title": "Prepare for increased Team GO Rocket activity!",
-            "link": "https://pokemongolive.com/en/post/teamgorocket-increasedactivity-nov2019/"
-        },
-        {
-            "date": "11/20/19",
-            "title": "Enjoy a weekend of Community Day encounters, bonuses, and more in December!",
-            "link": "https://pokemongolive.com/en/post/dec19-cd/"
-        },
-        {
-            "date": "11/15/19",
-            "title": "In celebration of the Pokémon Sword and Pokémon Shield release, Galarian Weezing will be appearing in raids!",
-            "link": "https://pokemongolive.com/en/post/swordshield-galarianweezing/"
-        },
-        {
-            "date": "11/13/19",
-            "title": "Community Note: Niantic Wayfarer, and PokéStop and Gym nominations, now available to level 40 Trainers!",
-            "link": "https://pokemongolive.com/en/post/communitynote-niantic-wayfarer-launch/"
-        },
-        {
-            "date": "11/13/19",
-            "title": "Gather round for a feast of November events!",
-            "link": "https://pokemongolive.com/en/post/nov2019-events/"
-        },
-        {
-            "date": "11/12/19",
-            "title": "Team GO Rocket Leaders vs team leaders face-off recap!",
-            "link": "https://pokemongolive.com/en/post/teamleaders-battle-recap/"
-        },
-        {
-            "date": "11/7/19",
-            "title": "Find the Team GO Rocket Leaders and defeat Giovanni!",
-            "link": "https://pokemongolive.com/en/post/teamgorocketleaders2019/"
-        },
-        {
-            "date": "11/7/19",
-            "title": "The Team GO Rocket Leaders have disrupted Pokémon habitats!",
-            "link": "https://pokemongolive.com/en/post/teamgorocketleadersdisruption2019/"
-        },
-        {
-            "date": "11/6/19",
-            "title": "Willow Report: Looming in the Shadows",
-            "link": "https://pokemongolive.com/en/post/willowreport-loomingshadow/"
-        },
-        {
-            "date": "10/31/19",
-            "title": "The first of a Legendary trio—Cobalion will be in five-star raids!",
-            "link": "https://pokemongolive.com/en/post/cobalion-raids-nov2019/"
-        },
-        {
-            "date": "10/31/19",
-            "title": "A Research Breakthrough reward rotation is coming!",
-            "link": "https://pokemongolive.com/en/post/novemberdecemberupdate2019/"
-        },
-        {
-            "date": "10/22/19",
-            "title": "Community Note: Improvements to the Pokémon GO experience",
-            "link": "https://pokemongolive.com/en/post/communitynoteoct2019/"
-        },
-        {
-            "date": "10/21/19",
-            "title": "Coming 2020: GO Battle League",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-announcement/"
+            "date": "1/16/20",
+            "title": "Latias and Latios zip into a Special Raid Weekend event!",
+            "link": "https://pokemongolive.com/en/post/weekendraid2020-latias-latios/"
         }
     ]
 }
