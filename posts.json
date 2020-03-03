@@ -3,6 +3,47 @@
         "1.1"
     ],
     "posts": [
+        [
+        {
+            "date": "3/2/20",
+            "title": "Team GO Rocket is making Shadow Pokémon stronger!",
+            "link": "https://pokemongolive.com/en/post/shadowpokemonupdate/"
+        },
+        {
+            "date": "2/28/20",
+            "title": "Stardust bonuses, Shadow Entei, Thundurus in raids, and more in March!",
+            "link": "https://pokemongolive.com/en/post/mar2020-events/"
+        },
+        {
+            "date": "2/21/20",
+            "title": "Explore historic Philadelphia with the City Explorer Pass during Safari Zone Philadelphia",
+            "link": "https://pokemongolive.com/en/post/safarizone-philadelphia-2020/"
+        },
+        {
+            "date": "2/18/20",
+            "title": "Start eggs-cavating, Trainers—fossil Pokémon are now hatching from 7 km Eggs!",
+            "link": "https://pokemongolive.com/en/post/7kmeggs-fossilpokemon/"
+        },
+        {
+            "date": "2/14/20",
+            "title": "Pokémon GO Valentine’s Day Celebration 2020",
+            "link": "https://pokemongolive.com/en/post/valentinesday2020/"
+        },
+        {
+            "date": "2/12/20",
+            "title": "Discover iconic Liverpool locations with the City Explorer Pass during Safari Zone Liverpool",
+            "link": "https://pokemongolive.com/en/post/safarizoneliverpool-cityexplorerpass/"
+        },
+        {
+            "date": "2/7/20",
+            "title": "The Sinnoh region appreciation event is now live!",
+            "link": "https://pokemongolive.com/en/post/sinnohcelebration/"
+        },
+        {
+            "date": "2/5/20",
+            "title": "Celebrate Pokémon Day 2020 with Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/pokemonday2020/"
+        },
         {
             "date": "2/3/20",
             "title": "The featured Pokémon for February Community Day is...",
@@ -22,26 +63,6 @@
             "date": "1/23/20",
             "title": "Community Note: Attack updates and more",
             "link": "https://pokemongolive.com/en/post/combatrebalance-jan2020/"
-        },
-        {
-            "date": "1/22/20",
-            "title": "Make your voices heard—vote for February Community Day’s featured Pokémon",
-            "link": "https://pokemongolive.com/en/post/feb2020-cd-voting/"
-        },
-        {
-            "date": "1/22/20",
-            "title": "Pokémon GO live events are coming to Taiwan, the US, and the UK!",
-            "link": "https://pokemongolive.com/en/post/liveevents-2020/"
-        },
-        {
-            "date": "1/21/20",
-            "title": "Year of the Rat: Celebrate Lunar New Year with red Pokémon and Minccino Limited Research",
-            "link": "https://pokemongolive.com/en/post/lunar-2020/"
-        },
-        {
-            "date": "1/16/20",
-            "title": "Latias and Latios zip into a Special Raid Weekend event!",
-            "link": "https://pokemongolive.com/en/post/weekendraid2020-latias-latios/"
         }
     ]
 }
