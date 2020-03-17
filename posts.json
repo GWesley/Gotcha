@@ -4,6 +4,26 @@
     ],
     "posts": [
         {
+            "date": "3/12/20",
+            "title": "Special Raid Weekends update—Cobalion and Lugia raids extended!",
+            "link": "https://pokemongolive.com/en/post/cobalion-lugia-raid-events/"
+        },
+        {
+            "date": "3/12/20",
+            "title": "A new Special Research story event is coming: A Drive to Investigate!",
+            "link": "https://pokemongolive.com/en/post/genesectspecialresearch/"
+        },
+        {
+            "date": "3/12/20",
+            "title": "Updates to events: Abra Community Day",
+            "link": "https://pokemongolive.com/en/post/updatedevents-abracommunityday/"
+        },
+        {
+            "date": "3/5/20",
+            "title": "GO Battle League Season 1 begins Friday, March 13, 2020, at 1:00 p.m. PDT (GMT −7)",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season1/"
+        },
+        {
             "date": "3/2/20",
             "title": "Team GO Rocket is making Shadow Pokémon stronger!",
             "link": "https://pokemongolive.com/en/post/shadowpokemonupdate/"
@@ -62,6 +82,26 @@
             "date": "1/23/20",
             "title": "Community Note: Attack updates and more",
             "link": "https://pokemongolive.com/en/post/combatrebalance-jan2020/"
+        },
+        {
+            "date": "1/22/20",
+            "title": "Make your voices heard—vote for February Community Day’s featured Pokémon",
+            "link": "https://pokemongolive.com/en/post/feb2020-cd-voting/"
+        },
+        {
+            "date": "1/22/20",
+            "title": "Pokémon GO live events are coming to Taiwan, the US, and the UK!",
+            "link": "https://pokemongolive.com/en/post/liveevents-2020/"
+        },
+        {
+            "date": "1/21/20",
+            "title": "Year of the Rat: Celebrate Lunar New Year with red Pokémon and Minccino Limited Research",
+            "link": "https://pokemongolive.com/en/post/lunar-2020/"
+        },
+        {
+            "date": "1/16/20",
+            "title": "Latias and Latios zip into a Special Raid Weekend event!",
+            "link": "https://pokemongolive.com/en/post/weekendraid2020-latias-latios/"
         }
     ]
 }
