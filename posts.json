@@ -4,6 +4,46 @@
     ],
     "posts": [
         {
+            "date": "6/9/20",
+            "title": "The featured Pokémon for June Community Day is Weedle!",
+            "link": "https://pokemongolive.com/en/post/communityday-jun2020/"
+        },
+        {
+            "date": "6/5/20",
+            "title": "Certain Pokémon’s Alolan and Galarian forms will soon hatch from 7 km Eggs!",
+            "link": "https://pokemongolive.com/en/post/7kmeggs-alolan-galarian-forms/"
+        },
+        {
+            "date": "6/5/20",
+            "title": "Latias and Latios zip back for another Special Raid Weekend event!",
+            "link": "https://pokemongolive.com/en/post/weekendraid2020-latias-latios-2/"
+        },
+        {
+            "date": "6/2/20",
+            "title": "Feature updates: Adding stickers to Gifts coming soon; inviting friends to raids coming later this month!",
+            "link": "https://pokemongolive.com/en/post/raid-gift-update-2020/"
+        },
+        {
+            "date": "5/29/20",
+            "title": "Zekrom’s Pokémon GO debut and more in June!",
+            "link": "https://pokemongolive.com/en/post/jun2020-events/"
+        },
+        {
+            "date": "5/27/20",
+            "title": "Pokémon GO Fest 2020—a completely reimagined virtual event experience is coming July 25 and 26!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2020/"
+        },
+        {
+            "date": "5/26/20",
+            "title": "Limited release of Reality Blending and PokéStop scanning coming to AR functionality in select phones",
+            "link": "https://pokemongolive.com/en/post/realityblending-announcement/"
+        },
+        {
+            "date": "5/22/20",
+            "title": "Pokémon GO will be down on Monday, June 1, 2020, from 11:00 a.m. to 6:00 p.m. PDT (GMT −7)",
+            "link": "https://pokemongolive.com/en/post/globaldowntime-jun2020/"
+        },
+        {
             "date": "5/20/20",
             "title": "Throwback Challenge 2020 Special Research—complete the challenge on a high note!",
             "link": "https://pokemongolive.com/en/post/throwbackchallengechampion-2020/"
@@ -62,46 +102,6 @@
             "date": "5/4/20",
             "title": "Try out a new Remote Raid Pass during Altered Forme Giratina Raid Hour!",
             "link": "https://pokemongolive.com/en/post/remoteraidpass-giratinaraidhour/"
-        },
-        {
-            "date": "5/4/20",
-            "title": "For 1 PokéCoin in the shop, you can get the following: Incense × 3, Poké Balls × 20, Razz Berries × 15, Pinap Berries × 10",
-            "link": "https://pokemongolive.com/en/post/updates-20200504/"
-        },
-        {
-            "date": "4/30/20",
-            "title": "May’s Research Breakthrough encounter and Pokémon Spotlight Hours",
-            "link": "https://pokemongolive.com/en/post/may2020/"
-        },
-        {
-            "date": "4/28/20",
-            "title": "Throwback Challenge: Celebrate our Pokémon journeys together!",
-            "link": "https://pokemongolive.com/en/post/throwbackchallenge2020/"
-        },
-        {
-            "date": "4/27/20",
-            "title": "Remote Raid Pass celebration: Darkrai, Altered Forme Giratina, and Virizion will be in five-star raids!",
-            "link": "https://pokemongolive.com/en/post/update-aprilmayraids/"
-        },
-        {
-            "date": "4/27/20",
-            "title": "For 1 PokéCoin in the shop, you can get the following: Ultra Balls × 20, Pinap Berries × 15, Razz Berries × 15",
-            "link": "https://pokemongolive.com/en/post/updates-20200427/"
-        },
-        {
-            "date": "4/20/20",
-            "title": "Updates to events: Landorus in raids",
-            "link": "https://pokemongolive.com/en/post/updatedevents-landorus/"
-        },
-        {
-            "date": "4/20/20",
-            "title": "For 1 PokéCoin in the shop, you can get the following: Great Balls × 50",
-            "link": "https://pokemongolive.com/en/post/updates-20200420/"
-        },
-        {
-            "date": "4/16/20",
-            "title": "Bond with your Buddy Pokémon during the Buddy Up event!",
-            "link": "https://pokemongolive.com/en/post/buddyup-april2020/"
         }
     ]
 }
