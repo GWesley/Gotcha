@@ -4,6 +4,36 @@
     ],
     "posts": [
         {
+            "date": "6/18/20",
+            "title": "Limited tests incoming: daily guaranteed Pokémon encounters and Daily Free Boxes in the shop",
+            "link": "https://pokemongolive.com/en/post/daily-encounter-daily-box/"
+        },
+        {
+            "date": "6/17/20",
+            "title": "Galarian Farfetch’d and new avatar items arrive in celebration of The Isle of Armor!",
+            "link": "https://pokemongolive.com/en/post/pokemonpresents2020/"
+        },
+        {
+            "date": "6/15/20",
+            "title": "Nominate businesses for the Niantic Local Business Recovery Initiative ",
+            "link": "https://pokemongolive.com/en/post/niantic-local-business-recovery-initiative/"
+        },
+        {
+            "date": "6/15/20",
+            "title": "Pokémon GO Fest 2020 brings summer adventure to you!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2020-details/"
+        },
+        {
+            "date": "6/12/20",
+            "title": "Solstice-themed event and Bug Out! event details",
+            "link": "https://pokemongolive.com/en/post/bugout-solstice-2020/"
+        },
+        {
+            "date": "6/9/20",
+            "title": "Pokémon GO to discontinue support on 32-bit Android devices",
+            "link": "https://pokemongolive.com/en/post/32-bit-android-discontinued-support/"
+        },
+        {
             "date": "6/9/20",
             "title": "The featured Pokémon for June Community Day is Weedle!",
             "link": "https://pokemongolive.com/en/post/communityday-jun2020/"
@@ -72,36 +102,6 @@
             "date": "5/12/20",
             "title": "Community Day: Play at Home Edition featuring Seedot!",
             "link": "https://pokemongolive.com/en/post/communityday-may2020/"
-        },
-        {
-            "date": "5/12/20",
-            "title": "Your guide to playing Pokémon GO at home is coming soon",
-            "link": "https://pokemongolive.com/en/post/playathome-menu/"
-        },
-        {
-            "date": "5/11/20",
-            "title": "Final 1 PokéCoin bundle: Remote Raid Pass × 1, Poké Balls × 20, Great Balls × 10, and Ultra Balls × 5",
-            "link": "https://pokemongolive.com/en/post/final-pokecoin-bundle/"
-        },
-        {
-            "date": "5/6/20",
-            "title": "We’ll be running small tests for revamping the PokéCoin system",
-            "link": "https://pokemongolive.com/en/post/pokecoinupdate/"
-        },
-        {
-            "date": "5/5/20",
-            "title": "Look forward to Snubbull Limited Research and Incense Day: Water and Dark Type in May!",
-            "link": "https://pokemongolive.com/en/post/may2020-events/"
-        },
-        {
-            "date": "5/4/20",
-            "title": "GO Battle League Season 2 begins Monday, May 11, 2020, at 1:00 p.m. PDT (GMT −7)",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season2/"
-        },
-        {
-            "date": "5/4/20",
-            "title": "Try out a new Remote Raid Pass during Altered Forme Giratina Raid Hour!",
-            "link": "https://pokemongolive.com/en/post/remoteraidpass-giratinaraidhour/"
         }
     ]
 }
