@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "6/25/20",
+            "title": "Celebrate Pokémon GO’s fourth anniversary by completing weekly challenges to unlock more species of Pokémon that’ll appear during Pokémon GO Fest 2020!",
+            "link": "https://pokemongolive.com/en/post/anniversary-gofest-weeklychallenges-2020/"
+        },
+        {
+            "date": "6/24/20",
+            "title": "Updates to events: Pinsir Raid Day",
+            "link": "https://pokemongolive.com/en/post/pinsirraidday-update/"
+        },
+        {
             "date": "6/18/20",
             "title": "Limited tests incoming: daily guaranteed Pokémon encounters and Daily Free Boxes in the shop",
             "link": "https://pokemongolive.com/en/post/daily-encounter-daily-box/"
@@ -92,16 +102,6 @@
             "date": "5/18/20",
             "title": "T-shirt avatar items from the UNIQLO UT With Pokémon Collection come to Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/uniqlo-collaboration/"
-        },
-        {
-            "date": "5/13/20",
-            "title": "Battle Terrakion in five-star raids with a Remote Raid Pass; Virizion Raid Hour this Wednesday, May 13!",
-            "link": "https://pokemongolive.com/en/post/remoteraidpass-terrakion/"
-        },
-        {
-            "date": "5/12/20",
-            "title": "Community Day: Play at Home Edition featuring Seedot!",
-            "link": "https://pokemongolive.com/en/post/communityday-may2020/"
         }
     ]
 }
