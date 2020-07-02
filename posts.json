@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "6/30/20",
+            "title": "Kyurem arrives in five-star raids and more in July!",
+            "link": "https://pokemongolive.com/en/post/jul2020-events/"
+        },
+        {
+            "date": "6/30/20",
+            "title": "Willow Report: Strange Scraps",
+            "link": "https://pokemongolive.com/en/post/willowreport-strangescraps/"
+        },
+        {
             "date": "6/25/20",
             "title": "Celebrate Pokémon GO’s fourth anniversary by completing weekly challenges to unlock more species of Pokémon that’ll appear during Pokémon GO Fest 2020!",
             "link": "https://pokemongolive.com/en/post/anniversary-gofest-weeklychallenges-2020/"
@@ -92,16 +102,6 @@
             "date": "5/19/20",
             "title": "Unova’s legendary elite—Reshiram, Zekrom, and Kyurem—are coming to five-star raids!",
             "link": "https://pokemongolive.com/en/post/reshiram-zekrom-kyurem-raids/"
-        },
-        {
-            "date": "5/18/20",
-            "title": "Community Day voting is back! Which Pokémon will you choose to be featured during June and July Community Days?",
-            "link": "https://pokemongolive.com/en/post/communityday-junjuly2020/"
-        },
-        {
-            "date": "5/18/20",
-            "title": "T-shirt avatar items from the UNIQLO UT With Pokémon Collection come to Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/uniqlo-collaboration/"
         }
     ]
 }
