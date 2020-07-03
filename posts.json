@@ -4,14 +4,19 @@
     ],
     "posts": [
         {
-            "date": "6/30/20",
-            "title": "Kyurem arrives in five-star raids and more in July!",
-            "link": "https://pokemongolive.com/en/post/jul2020-events/"
+            "date": "7/3/20",
+            "title": "Willow Report: Strange Scraps",
+            "link": "https://pokemongolive.com/en/post/willowreport-strangescraps/"
+        },
+        {
+            "date": "7/2/20",
+            "title": "The featured Pokémon for July Community Day is Gastly!",
+            "link": "https://pokemongolive.com/en/post/communityday-july20/"
         },
         {
             "date": "6/30/20",
-            "title": "Willow Report: Strange Scraps",
-            "link": "https://pokemongolive.com/en/post/willowreport-strangescraps/"
+            "title": "Kyurem arrives in five-star raids and more in July!",
+            "link": "https://pokemongolive.com/en/post/jul2020-events/"
         },
         {
             "date": "6/25/20",
@@ -97,11 +102,6 @@
             "date": "5/20/20",
             "title": "Throwback Challenge 2020 Special Research—complete the challenge on a high note!",
             "link": "https://pokemongolive.com/en/post/throwbackchallengechampion-2020/"
-        },
-        {
-            "date": "5/19/20",
-            "title": "Unova’s legendary elite—Reshiram, Zekrom, and Kyurem—are coming to five-star raids!",
-            "link": "https://pokemongolive.com/en/post/reshiram-zekrom-kyurem-raids/"
         }
     ]
 }
