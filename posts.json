@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "7/6/20",
+            "title": "Look closer to discover what Pokémon GO Fest 2020 has in store!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2020-lookcloser/"
+        },
+        {
             "date": "7/3/20",
             "title": "Willow Report: Strange Scraps",
             "link": "https://pokemongolive.com/en/post/willowreport-strangescraps/"
@@ -97,11 +102,6 @@
             "date": "5/22/20",
             "title": "Pokémon GO will be down on Monday, June 1, 2020, from 11:00 a.m. to 6:00 p.m. PDT (GMT −7)",
             "link": "https://pokemongolive.com/en/post/globaldowntime-jun2020/"
-        },
-        {
-            "date": "5/20/20",
-            "title": "Throwback Challenge 2020 Special Research—complete the challenge on a high note!",
-            "link": "https://pokemongolive.com/en/post/throwbackchallengechampion-2020/"
         }
     ]
 }
