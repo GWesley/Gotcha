@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "7/7/20",
+            "title": "Look up, Trainers—Team GO Rocket balloons have arrived in Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/teamgorocket-balloon-launch/"
+        },
+        {
             "date": "7/6/20",
             "title": "Look closer to discover what Pokémon GO Fest 2020 has in store!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2020-lookcloser/"
@@ -97,11 +102,6 @@
             "date": "5/26/20",
             "title": "Limited release of Reality Blending and PokéStop scanning coming to AR functionality in select phones",
             "link": "https://pokemongolive.com/en/post/realityblending-announcement/"
-        },
-        {
-            "date": "5/22/20",
-            "title": "Pokémon GO will be down on Monday, June 1, 2020, from 11:00 a.m. to 6:00 p.m. PDT (GMT −7)",
-            "link": "https://pokemongolive.com/en/post/globaldowntime-jun2020/"
         }
     ]
 }
