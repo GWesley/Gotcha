@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "7/9/20",
+            "title": "Team GO Rocket has taken over the GO Fest Weekly Challenge!",
+            "link": "https://pokemongolive.com/en/post/gofestweeklychallenge-teamgorocket/"
+        },
+        {
+            "date": "7/9/20",
+            "title": "Battle Jessie and James by finding their Meowth balloon!",
+            "link": "https://pokemongolive.com/en/post/teamgorocket-jessie-james/"
+        },
+        {
             "date": "7/7/20",
             "title": "Look up, Trainers—Team GO Rocket balloons have arrived in Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/teamgorocket-balloon-launch/"
@@ -92,16 +102,6 @@
             "date": "5/29/20",
             "title": "Zekrom’s Pokémon GO debut and more in June!",
             "link": "https://pokemongolive.com/en/post/jun2020-events/"
-        },
-        {
-            "date": "5/27/20",
-            "title": "Pokémon GO Fest 2020—a completely reimagined virtual event experience is coming July 25 and 26!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2020/"
-        },
-        {
-            "date": "5/26/20",
-            "title": "Limited release of Reality Blending and PokéStop scanning coming to AR functionality in select phones",
-            "link": "https://pokemongolive.com/en/post/realityblending-announcement/"
         }
     ]
 }
