@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "7/14/20",
+            "title": "Get hyped for Pokémon GO Fest with the Print at Home kit!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2020-printathome/"
+        },
+        {
             "date": "7/9/20",
             "title": "Team GO Rocket has taken over the GO Fest Weekly Challenge!",
             "link": "https://pokemongolive.com/en/post/gofestweeklychallenge-teamgorocket/"
@@ -97,11 +102,6 @@
             "date": "6/2/20",
             "title": "Feature updates: Adding stickers to Gifts coming soon; inviting friends to raids coming later this month!",
             "link": "https://pokemongolive.com/en/post/raid-gift-update-2020/"
-        },
-        {
-            "date": "5/29/20",
-            "title": "Zekrom’s Pokémon GO debut and more in June!",
-            "link": "https://pokemongolive.com/en/post/jun2020-events/"
         }
     ]
 }
