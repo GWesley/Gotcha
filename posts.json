@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "July30,2020",
+            "title": "August Research Breakthrough, Pokémon Spotlight Hours, and more",
+            "link": "https://pokemongolive.com/en/post/aug2020-events/"
+        },
+        {
+            "date": "July30,2020",
+            "title": "Pokémon GO Fest 2020: Upcoming makeup event for players who purchased a ticket",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2020-update/"
+        },
+        {
             "date": "July28,2020",
             "title": "The featured Pokémon for August Community Day is...",
             "link": "https://pokemongolive.com/en/post/communityday-aug20/"
@@ -92,16 +102,6 @@
             "date": "June18,2020",
             "title": "Limited tests incoming: daily guaranteed Pokémon encounters and Daily Free Boxes in the shop",
             "link": "https://pokemongolive.com/en/post/daily-encounter-daily-box/"
-        },
-        {
-            "date": "June17,2020",
-            "title": "Galarian Farfetch’d and new avatar items arrive in celebration of The Isle of Armor!",
-            "link": "https://pokemongolive.com/en/post/pokemonpresents2020/"
-        },
-        {
-            "date": "June15,2020",
-            "title": "Nominate businesses for the Niantic Local Business Recovery Initiative ",
-            "link": "https://pokemongolive.com/en/post/niantic-local-business-recovery-initiative/"
         }
     ]
 }
