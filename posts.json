@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "August18,2020",
+            "title": "Ultra Unlock Dragon Week: Makeup Timed Research event",
+            "link": "https://pokemongolive.com/en/post/ultraunlock-dragonweek-make-up-event/"
+        },
+        {
+            "date": "August17,2020",
+            "title": "September and October Community Day voting is coming! Will Charmander, Caterpie, Grimer, or Porygon be the winner?",
+            "link": "https://pokemongolive.com/en/post/communityday-septoct2020/"
+        },
+        {
             "date": "July30,2020",
             "title": "August Research Breakthrough, Pokémon Spotlight Hours, and more",
             "link": "https://pokemongolive.com/en/post/aug2020-events/"
@@ -92,16 +102,6 @@
             "date": "June25,2020",
             "title": "Celebrate Pokémon GO’s fourth anniversary by completing weekly challenges to unlock more species of Pokémon that’ll appear during Pokémon GO Fest 2020!",
             "link": "https://pokemongolive.com/en/post/anniversary-gofest-weeklychallenges-2020/"
-        },
-        {
-            "date": "June24,2020",
-            "title": "Updates to events: Pinsir Raid Day",
-            "link": "https://pokemongolive.com/en/post/pinsirraidday-update/"
-        },
-        {
-            "date": "June18,2020",
-            "title": "Limited tests incoming: daily guaranteed Pokémon encounters and Daily Free Boxes in the shop",
-            "link": "https://pokemongolive.com/en/post/daily-encounter-daily-box/"
         }
     ]
 }
