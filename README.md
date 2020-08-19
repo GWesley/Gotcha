@@ -2,12 +2,14 @@ Pokemongolive posts update with date, title and link.
 
 Synchronize every 90 minutes.
 
-##Usage
+## Usage
+
 https://raw.githubusercontent.com/GWesley/gotcha/master/posts.json?ts=1597852271
 
 You can update the `ts` value to avoid get cached content.
 
-##source
+## source
+
 https://pokemongolive.com/en/post/
 
 ```
