@@ -1,7 +1,16 @@
 # Pokemongolive posts update with date, title and link.
-# source: https://pokemongolive.com/en/post/
 
+Synchronize every 90 minutes.
 
+##Usage
+https://raw.githubusercontent.com/GWesley/gotcha/master/posts.json?ts=1597852271
+
+You can update the `ts` value to avoid get cached content.
+
+##source
+https://pokemongolive.com/en/post/
+
+```
 {
     "versions": [
         "1.1"
@@ -18,3 +27,4 @@
             "link": "https://pokemongolive.com/en/post/communityday-septoct2020/"
         },
     ...
+```
