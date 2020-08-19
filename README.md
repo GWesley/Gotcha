@@ -1,5 +1,4 @@
-# Pokemongolive posts update with date, title and link.
-
+Pokemongolive posts update with date, title and link.
 Synchronize every 90 minutes.
 
 ##Usage
