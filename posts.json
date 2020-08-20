@@ -4,6 +4,21 @@
     ],
     "posts": [
         {
+            "date": "August19,2020",
+            "title": "More Gift stickers coming to the Stickers section of the shop",
+            "link": "https://pokemongolive.com/en/post/giftstickers-update/"
+        },
+        {
+            "date": "August19,2020",
+            "title": "Battle Heatran in raids from August 21, 2020 at 1:00 p.m. PDT to September 10, 2020 at 1:00 p.m. PDT (GMT −7)",
+            "link": "https://pokemongolive.com/en/post/legendary-heatran-2/"
+        },
+        {
+            "date": "August19,2020",
+            "title": "Pokémon GO Fest 2020: Upcoming makeup event in Australia, New Zealand, and other parts of the Asia Pacific region for Trainers who purchased a ticket",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2020-update2/"
+        },
+        {
             "date": "August18,2020",
             "title": "Ultra Unlock Dragon Week: Makeup Timed Research event",
             "link": "https://pokemongolive.com/en/post/ultraunlock-dragonweek-make-up-event/"
@@ -87,21 +102,6 @@
             "date": "July3,2020",
             "title": "Willow Report: Strange Scraps",
             "link": "https://pokemongolive.com/en/post/willowreport-strangescraps/"
-        },
-        {
-            "date": "July2,2020",
-            "title": "The featured Pokémon for July Community Day is Gastly!",
-            "link": "https://pokemongolive.com/en/post/communityday-july20/"
-        },
-        {
-            "date": "June30,2020",
-            "title": "Kyurem arrives in five-star raids and more in July!",
-            "link": "https://pokemongolive.com/en/post/jul2020-events/"
-        },
-        {
-            "date": "June25,2020",
-            "title": "Celebrate Pokémon GO’s fourth anniversary by completing weekly challenges to unlock more species of Pokémon that’ll appear during Pokémon GO Fest 2020!",
-            "link": "https://pokemongolive.com/en/post/anniversary-gofest-weeklychallenges-2020/"
         }
     ]
 }
