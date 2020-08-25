@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "August 25, 2020",
+            "title": "Community Note: Pokémon can now be found in more places around the world",
+            "link": "https://pokemongolive.com/en/post/communitynote-niantic-encounters/"
+        },
+        {
             "date": "August 19, 2020",
             "title": "More Gift stickers coming to the Stickers section of the shop",
             "link": "https://pokemongolive.com/en/post/giftstickers-update/"
@@ -97,11 +102,6 @@
             "date": "July 6, 2020",
             "title": "Look closer to discover what Pokémon GO Fest 2020 has in store!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2020-lookcloser/"
-        },
-        {
-            "date": "July 3, 2020",
-            "title": "Willow Report: Strange Scraps",
-            "link": "https://pokemongolive.com/en/post/willowreport-strangescraps/"
         }
     ]
 }
