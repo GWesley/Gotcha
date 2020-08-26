@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "August 26, 2020",
+            "title": "A letter to the GO Battle League community",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-response-2020/"
+        },
+        {
+            "date": "August 26, 2020",
+            "title": "Different Legendary Raid Bosses each week, Victini Special Research, and more in September!",
+            "link": "https://pokemongolive.com/en/post/sept-content-update/"
+        },
+        {
             "date": "August 25, 2020",
             "title": "Community Note: Pokémon can now be found in more places around the world",
             "link": "https://pokemongolive.com/en/post/communitynote-niantic-encounters/"
@@ -92,16 +102,6 @@
             "date": "July 9, 2020",
             "title": "Battle Jessie and James by finding their Meowth balloon!",
             "link": "https://pokemongolive.com/en/post/teamgorocket-jessie-james/"
-        },
-        {
-            "date": "July 7, 2020",
-            "title": "Look up, Trainers—Team GO Rocket balloons have arrived in Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/teamgorocket-balloon-launch/"
-        },
-        {
-            "date": "July 6, 2020",
-            "title": "Look closer to discover what Pokémon GO Fest 2020 has in store!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2020-lookcloser/"
         }
     ]
 }
