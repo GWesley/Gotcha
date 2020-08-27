@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "August 27, 2020",
+            "title": "Mega Evolution is here! Battle in raids against Mega Venusaur, Mega Charizard, Mega Blastoise, and more!",
+            "link": "https://pokemongolive.com/en/post/megaevolution-launch/"
+        },
+        {
             "date": "August 26, 2020",
             "title": "A letter to the GO Battle League community",
             "link": "https://pokemongolive.com/en/post/gobattleleague-response-2020/"
@@ -97,11 +102,6 @@
             "date": "July 9, 2020",
             "title": "Team GO Rocket has taken over the GO Fest Weekly Challenge!",
             "link": "https://pokemongolive.com/en/post/gofestweeklychallenge-teamgorocket/"
-        },
-        {
-            "date": "July 9, 2020",
-            "title": "Battle Jessie and James by finding their Meowth balloon!",
-            "link": "https://pokemongolive.com/en/post/teamgorocket-jessie-james/"
         }
     ]
 }
