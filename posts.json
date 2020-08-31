@@ -4,9 +4,19 @@
     ],
     "posts": [
         {
+            "date": "September 1, 2020",
+            "title": "Friends make Mega Raids more rewarding: Enjoy three Remote Raid Passes for 1 PokéCoin!",
+            "link": "https://pokemongolive.com/en/post/remoteraidmegas2020/"
+        },
+        {
             "date": "August 27, 2020",
             "title": "Mega Evolution is here! Battle in raids against Mega Venusaur, Mega Charizard, Mega Blastoise, and more!",
             "link": "https://pokemongolive.com/en/post/megaevolution-launch/"
+        },
+        {
+            "date": "August 27, 2020",
+            "title": "With Mega Raids come mega changes to Raid Battles!",
+            "link": "https://pokemongolive.com/en/post/raid-changes-2020/"
         },
         {
             "date": "August 26, 2020",
@@ -92,16 +102,6 @@
             "date": "July 21, 2020",
             "title": "Join the Pokémon GO Fest celebration on TikTok!",
             "link": "https://pokemongolive.com/en/post/tiktok/"
-        },
-        {
-            "date": "July 14, 2020",
-            "title": "Get hyped for Pokémon GO Fest with the Print at Home kit!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2020-printathome/"
-        },
-        {
-            "date": "July 9, 2020",
-            "title": "Team GO Rocket has taken over the GO Fest Weekly Challenge!",
-            "link": "https://pokemongolive.com/en/post/gofestweeklychallenge-teamgorocket/"
         }
     ]
 }
