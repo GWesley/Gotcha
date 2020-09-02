@@ -4,9 +4,24 @@
     ],
     "posts": [
         {
+            "date": "September 3, 2020",
+            "title": "Porygon will be featured during September Community Day!",
+            "link": "https://pokemongolive.com/en/post/communityday-sept20/"
+        },
+        {
             "date": "September 1, 2020",
             "title": "Friends make Mega Raids more rewarding: Enjoy three Remote Raid Passes for 1 PokéCoin!",
             "link": "https://pokemongolive.com/en/post/remoteraidmegas2020/"
+        },
+        {
+            "date": "August 31, 2020",
+            "title": "Pokémon GO to discontinue support for Android 5, iOS 10, and iOS 11, as well as iPhone 5s and iPhone 6",
+            "link": "https://pokemongolive.com/en/post/ios10-ios11-android5-discontinued-support/"
+        },
+        {
+            "date": "August 31, 2020",
+            "title": "Mega Evolve your Pokémon and get ready for a Mega September event!",
+            "link": "https://pokemongolive.com/en/post/mega-september-event/"
         },
         {
             "date": "August 27, 2020",
@@ -87,21 +102,6 @@
             "date": "July 23, 2020",
             "title": "Tips for the best Pokémon GO Fest experience—plus, Ultra Unlock details!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2020-ultraunlock/"
-        },
-        {
-            "date": "July 22, 2020",
-            "title": "GO Battle League Season 3 begins Monday, July 27, 2020, at 1:00 p.m. PDT (GMT −7)",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season3/"
-        },
-        {
-            "date": "July 21, 2020",
-            "title": "Get ready to hang out in the Virtual Team Lounge, and sneak a peek at our livestream lineup for Pokémon GO Fest 2020",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2020-virtualteamlounge/"
-        },
-        {
-            "date": "July 21, 2020",
-            "title": "Join the Pokémon GO Fest celebration on TikTok!",
-            "link": "https://pokemongolive.com/en/post/tiktok/"
         }
     ]
 }
