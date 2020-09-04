@@ -4,9 +4,19 @@
     ],
     "posts": [
         {
+            "date": "September 4, 2020",
+            "title": "GO Battle League Season 4 begins Monday, September 14, 2020, at 1:00 p.m. PDT (GMT −7)",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season4/"
+        },
+        {
             "date": "September 3, 2020",
             "title": "Porygon will be featured during September Community Day!",
             "link": "https://pokemongolive.com/en/post/communityday-sept20/"
+        },
+        {
+            "date": "September 3, 2020",
+            "title": "Community Note: Updates to Mega Evolution",
+            "link": "https://pokemongolive.com/en/post/megaevolution-updates/"
         },
         {
             "date": "September 1, 2020",
@@ -92,16 +102,6 @@
             "date": "July 27, 2020",
             "title": "Thank you for an amazing Pokémon GO Fest 2020!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2020-recap/"
-        },
-        {
-            "date": "July 25, 2020",
-            "title": "Pokémon GO Fest 2020 has been taken over by Team GO Rocket in certain parts of the world!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2020-day2/"
-        },
-        {
-            "date": "July 23, 2020",
-            "title": "Tips for the best Pokémon GO Fest experience—plus, Ultra Unlock details!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2020-ultraunlock/"
         }
     ]
 }
