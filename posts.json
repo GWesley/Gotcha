@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "September 17, 2020",
+            "title": "Battle Jessie and James before they leave Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/jessie-james-leaving/"
+        },
+        {
             "date": "September 4, 2020",
             "title": "GO Battle League Season 4 begins Monday, September 14, 2020, at 1:00 p.m. PDT (GMT −7)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season4/"
@@ -97,11 +102,6 @@
             "date": "July 28, 2020",
             "title": "The featured Pokémon for August Community Day is...",
             "link": "https://pokemongolive.com/en/post/communityday-aug20/"
-        },
-        {
-            "date": "July 27, 2020",
-            "title": "Thank you for an amazing Pokémon GO Fest 2020!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2020-recap/"
         }
     ]
 }
