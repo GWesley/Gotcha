@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "September 21, 2020",
+            "title": "Have fun with the Longchamp x Pokémon collaboration, arriving soon in stores and in Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/longchampfashionweek/"
+        },
+        {
             "date": "September 17, 2020",
             "title": "Battle Jessie and James before they leave Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/jessie-james-leaving/"
@@ -97,11 +102,6 @@
             "date": "July 30, 2020",
             "title": "Pokémon GO Fest 2020: Upcoming makeup event for players who purchased a ticket",
             "link": "https://pokemongolive.com/en/post/pokemongofest2020-update/"
-        },
-        {
-            "date": "July 28, 2020",
-            "title": "The featured Pokémon for August Community Day is...",
-            "link": "https://pokemongolive.com/en/post/communityday-aug20/"
         }
     ]
 }
