@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "September 23, 2020",
+            "title": "Pokémon GO October—Halloween, a fashion-themed event, and more!",
+            "link": "https://pokemongolive.com/en/post/oct2020-events/"
+        },
+        {
+            "date": "September 23, 2020",
+            "title": "Updates to events: GO Battle Night, Flying Cup",
+            "link": "https://pokemongolive.com/en/post/updatedevents-flyingcup/"
+        },
+        {
             "date": "September 21, 2020",
             "title": "Have fun with the Longchamp x Pokémon collaboration, arriving soon in stores and in Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/longchampfashionweek/"
@@ -92,16 +102,6 @@
             "date": "August 17, 2020",
             "title": "September and October Community Day voting is coming! Will Charmander, Caterpie, Grimer, or Porygon be the winner?",
             "link": "https://pokemongolive.com/en/post/communityday-septoct2020/"
-        },
-        {
-            "date": "July 30, 2020",
-            "title": "August Research Breakthrough, Pokémon Spotlight Hours, and more",
-            "link": "https://pokemongolive.com/en/post/aug2020-events/"
-        },
-        {
-            "date": "July 30, 2020",
-            "title": "Pokémon GO Fest 2020: Upcoming makeup event for players who purchased a ticket",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2020-update/"
         }
     ]
 }
