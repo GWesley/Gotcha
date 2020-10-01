@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "October 1, 2020",
+            "title": "Look forward to autumn-themed Pokémon, Berry bonuses, and Deerling coming as the seasons change!",
+            "link": "https://pokemongolive.com/en/post/autumn-event-2020/"
+        },
+        {
             "date": "September 30, 2020",
             "title": "Enjoy a limited-time free Remote Raid Pass every Monday from October 5 to November 30! ",
             "link": "https://pokemongolive.com/en/post/limitedtime-remoteraidpass/"
@@ -97,11 +102,6 @@
             "date": "August 25, 2020",
             "title": "Community Note: Pokémon can now be found in more places around the world",
             "link": "https://pokemongolive.com/en/post/communitynote-niantic-encounters/"
-        },
-        {
-            "date": "August 19, 2020",
-            "title": "More Gift stickers coming to the Stickers section of the shop",
-            "link": "https://pokemongolive.com/en/post/giftstickers-update/"
         }
     ]
 }
