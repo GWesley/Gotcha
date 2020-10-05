@@ -4,9 +4,19 @@
     ],
     "posts": [
         {
+            "date": "October 5, 2020",
+            "title": "Encounter special Pikachu wearing one of Ash’s caps during Pokémon Spotlight Hour! ",
+            "link": "https://pokemongolive.com/en/post/spotlight-oct20/"
+        },
+        {
             "date": "October 1, 2020",
             "title": "Look forward to autumn-themed Pokémon, Berry bonuses, and Deerling coming as the seasons change!",
             "link": "https://pokemongolive.com/en/post/autumn-event-2020/"
+        },
+        {
+            "date": "October 1, 2020",
+            "title": "Celebrate Niantic’s fifth birthday with a special event!",
+            "link": "https://pokemongolive.com/en/post/niantic-birthday-event-2020/"
         },
         {
             "date": "September 30, 2020",
@@ -92,16 +102,6 @@
             "date": "August 26, 2020",
             "title": "A letter to the GO Battle League community",
             "link": "https://pokemongolive.com/en/post/gobattleleague-response-2020/"
-        },
-        {
-            "date": "August 26, 2020",
-            "title": "Different Legendary Raid Bosses each week, Victini Special Research, and more in September!",
-            "link": "https://pokemongolive.com/en/post/sept-content-update/"
-        },
-        {
-            "date": "August 25, 2020",
-            "title": "Community Note: Pokémon can now be found in more places around the world",
-            "link": "https://pokemongolive.com/en/post/communitynote-niantic-encounters/"
         }
     ]
 }
