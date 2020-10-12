@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "October 12, 2020",
+            "title": "What are these Strange Eggs? Save them from Team GO Rocket during the autumn event!",
+            "link": "https://pokemongolive.com/en/post/autumn-event-2020-strange-eggs/"
+        },
+        {
             "date": "October 9, 2020",
             "title": "Updates to events: GO Battle Night, Flying Cup",
             "link": "https://pokemongolive.com/en/post/updatedevents-flyingcup/"
@@ -97,11 +102,6 @@
             "date": "August 27, 2020",
             "title": "With Mega Raids come mega changes to Raid Battles!",
             "link": "https://pokemongolive.com/en/post/raid-changes-2020/"
-        },
-        {
-            "date": "August 26, 2020",
-            "title": "A letter to the GO Battle League community",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-response-2020/"
         }
     ]
 }
