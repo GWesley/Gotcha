@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "October 15, 2020",
+            "title": "Pokémon GO Special Weekend, presented by Grubhub",
+            "link": "https://pokemongolive.com/en/post/grubhub-specialweekend2020/"
+        },
+        {
             "date": "October 12, 2020",
             "title": "What are these Strange Eggs? Save them from Team GO Rocket during the autumn event!",
             "link": "https://pokemongolive.com/en/post/autumn-event-2020-strange-eggs/"
@@ -97,11 +102,6 @@
             "date": "August 27, 2020",
             "title": "Mega Evolution is here! Battle in raids against Mega Venusaur, Mega Charizard, Mega Blastoise, and more!",
             "link": "https://pokemongolive.com/en/post/megaevolution-launch/"
-        },
-        {
-            "date": "August 27, 2020",
-            "title": "With Mega Raids come mega changes to Raid Battles!",
-            "link": "https://pokemongolive.com/en/post/raid-changes-2020/"
         }
     ]
 }
