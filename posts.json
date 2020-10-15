@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "October 15, 2020",
+            "title": "Catch Ghost-type Pokémon in an all-new kind of Pokémon GO event!",
+            "link": "https://pokemongolive.com/en/post/catchmastery-ghost-2020/"
+        },
+        {
+            "date": "October 15, 2020",
             "title": "Pokémon GO Special Weekend, presented by Grubhub",
             "link": "https://pokemongolive.com/en/post/grubhub-specialweekend2020/"
         },
@@ -97,11 +102,6 @@
             "date": "August 31, 2020",
             "title": "Mega Evolve your Pokémon and get ready for a Mega September event!",
             "link": "https://pokemongolive.com/en/post/mega-september-event/"
-        },
-        {
-            "date": "August 27, 2020",
-            "title": "Mega Evolution is here! Battle in raids against Mega Venusaur, Mega Charizard, Mega Blastoise, and more!",
-            "link": "https://pokemongolive.com/en/post/megaevolution-launch/"
         }
     ]
 }
