@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "October 19, 2020",
+            "title": "Steel yourself for some spooky scary shenanigans during Pokémon GO Halloween 2020!",
+            "link": "https://pokemongolive.com/en/post/halloween2020/"
+        },
+        {
+            "date": "October 19, 2020",
+            "title": "Mega Venusaur leaves Mega Raids on October 23. Plus, take a sneak peek at some Mega Evolution updates. ",
+            "link": "https://pokemongolive.com/en/post/megavenusaurraids/"
+        },
+        {
             "date": "October 15, 2020",
             "title": "Catch Ghost-type Pokémon in an all-new kind of Pokémon GO event!",
             "link": "https://pokemongolive.com/en/post/catchmastery-ghost-2020/"
@@ -14,14 +24,14 @@
             "link": "https://pokemongolive.com/en/post/grubhub-specialweekend2020/"
         },
         {
+            "date": "October 15, 2020",
+            "title": "Updates to Mega Evolution!",
+            "link": "https://pokemongolive.com/en/post/megaevolutions-updates/"
+        },
+        {
             "date": "October 12, 2020",
             "title": "What are these Strange Eggs? Save them from Team GO Rocket during the autumn event!",
             "link": "https://pokemongolive.com/en/post/autumn-event-2020-strange-eggs/"
-        },
-        {
-            "date": "October 9, 2020",
-            "title": "Updates to events: GO Battle Night, Flying Cup",
-            "link": "https://pokemongolive.com/en/post/updatedevents-flyingcup/"
         },
         {
             "date": "October 5, 2020",
@@ -64,6 +74,11 @@
             "link": "https://pokemongolive.com/en/post/oct2020-events/"
         },
         {
+            "date": "September 23, 2020",
+            "title": "Updates to events: GO Battle Night, Flying Cup",
+            "link": "https://pokemongolive.com/en/post/updatedevents-flyingcup/"
+        },
+        {
             "date": "September 21, 2020",
             "title": "Have fun with the Longchamp x Pokémon collaboration, arriving soon in stores and in Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/longchampfashionweek/"
@@ -87,21 +102,6 @@
             "date": "September 3, 2020",
             "title": "Community Note: Updates to Mega Evolution",
             "link": "https://pokemongolive.com/en/post/megaevolution-updates/"
-        },
-        {
-            "date": "September 1, 2020",
-            "title": "Friends make Mega Raids more rewarding: Enjoy three Remote Raid Passes for 1 PokéCoin!",
-            "link": "https://pokemongolive.com/en/post/remoteraidmegas2020/"
-        },
-        {
-            "date": "August 31, 2020",
-            "title": "Pokémon GO to discontinue support for Android 5, iOS 10, and iOS 11, as well as iPhone 5s and iPhone 6",
-            "link": "https://pokemongolive.com/en/post/ios10-ios11-android5-discontinued-support/"
-        },
-        {
-            "date": "August 31, 2020",
-            "title": "Mega Evolve your Pokémon and get ready for a Mega September event!",
-            "link": "https://pokemongolive.com/en/post/mega-september-event/"
         }
     ]
 }
