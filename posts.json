@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "October 20, 2020",
+            "title": "Grow your Pokémon GO experiences with Verizon!",
+            "link": "https://pokemongolive.com/en/post/verizon-partnership/"
+        },
+        {
             "date": "October 19, 2020",
             "title": "Steel yourself for some spooky scary shenanigans during Pokémon GO Halloween 2020!",
             "link": "https://pokemongolive.com/en/post/halloween2020/"
@@ -97,11 +102,6 @@
             "date": "September 3, 2020",
             "title": "Porygon will be featured during September Community Day!",
             "link": "https://pokemongolive.com/en/post/communityday-sept20/"
-        },
-        {
-            "date": "September 3, 2020",
-            "title": "Community Note: Updates to Mega Evolution",
-            "link": "https://pokemongolive.com/en/post/megaevolution-updates/"
         }
     ]
 }
