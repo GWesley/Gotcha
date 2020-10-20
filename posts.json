@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "October 20, 2020",
+            "title": "Get to eggs-ploring, and see which Pokémon are now hatching from Eggs! ",
+            "link": "https://pokemongolive.com/en/post/egg-changes-2020/"
+        },
+        {
+            "date": "October 20, 2020",
             "title": "Grow your Pokémon GO experiences with Verizon!",
             "link": "https://pokemongolive.com/en/post/verizon-partnership/"
         },
@@ -97,11 +102,6 @@
             "date": "September 4, 2020",
             "title": "GO Battle League Season 4 begins Monday, September 14, 2020, at 1:00 p.m. PDT (GMT −7)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season4/"
-        },
-        {
-            "date": "September 3, 2020",
-            "title": "Porygon will be featured during September Community Day!",
-            "link": "https://pokemongolive.com/en/post/communityday-sept20/"
         }
     ]
 }
