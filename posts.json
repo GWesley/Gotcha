@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "October 22, 2020",
+            "title": "Celebrate Day of the Dead with Pokémon GO! ",
+            "link": "https://pokemongolive.com/en/post/diademuertos2020/"
+        },
+        {
             "date": "October 20, 2020",
             "title": "AR Mapping tasks are coming to Pokémon GO",
             "link": "https://pokemongolive.com/en/post/armapping-researchtask/"
@@ -97,11 +102,6 @@
             "date": "September 21, 2020",
             "title": "Have fun with the Longchamp x Pokémon collaboration, arriving soon in stores and in Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/longchampfashionweek/"
-        },
-        {
-            "date": "September 17, 2020",
-            "title": "Battle Jessie and James before they leave Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/jessie-james-leaving/"
         }
     ]
 }
