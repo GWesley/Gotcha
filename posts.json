@@ -4,9 +4,24 @@
     ],
     "posts": [
         {
+            "date": "October 26, 2020",
+            "title": "Celebrate Pokémon Journeys: The Series with the Animation Week 2020 event!",
+            "link": "https://pokemongolive.com/en/post/animationweek2020/"
+        },
+        {
             "date": "October 22, 2020",
             "title": "Celebrate Day of the Dead with Pokémon GO! ",
             "link": "https://pokemongolive.com/en/post/diademuertos2020/"
+        },
+        {
+            "date": "October 22, 2020",
+            "title": "Familiar faces return to raids, new feature updates, and more in November!",
+            "link": "https://pokemongolive.com/en/post/nov2020-events/"
+        },
+        {
+            "date": "October 22, 2020",
+            "title": "In celebration of the release of The Crown Tundra, Galarian Ponyta and Sirfetch’d will arrive in Pokémon GO and new avatar items will be available!",
+            "link": "https://pokemongolive.com/en/post/the-crown-tundra/"
         },
         {
             "date": "October 20, 2020",
@@ -87,21 +102,6 @@
             "date": "September 29, 2020",
             "title": "Updates to temporary bonuses",
             "link": "https://pokemongolive.com/en/post/update-20200929/"
-        },
-        {
-            "date": "September 23, 2020",
-            "title": "Pokémon GO October—Halloween, a fashion-themed event, and more!",
-            "link": "https://pokemongolive.com/en/post/oct2020-events/"
-        },
-        {
-            "date": "September 23, 2020",
-            "title": "Updates to events: GO Battle Night, Flying Cup",
-            "link": "https://pokemongolive.com/en/post/updatedevents-flyingcup/"
-        },
-        {
-            "date": "September 21, 2020",
-            "title": "Have fun with the Longchamp x Pokémon collaboration, arriving soon in stores and in Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/longchampfashionweek/"
         }
     ]
 }
