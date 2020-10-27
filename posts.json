@@ -4,9 +4,19 @@
     ],
     "posts": [
         {
+            "date": "October 27, 2020",
+            "title": "Electabuzz and Magmar will be featured during November’s Community Day events!",
+            "link": "https://pokemongolive.com/en/post/communityday-nov20/"
+        },
+        {
             "date": "October 26, 2020",
             "title": "Celebrate Pokémon Journeys: The Series with the Animation Week 2020 event!",
             "link": "https://pokemongolive.com/en/post/animationweek2020/"
+        },
+        {
+            "date": "October 26, 2020",
+            "title": "Special Weekend events, presented by selected partners, are coming in November! ",
+            "link": "https://pokemongolive.com/en/post/specialweekend-reminder/"
         },
         {
             "date": "October 22, 2020",
@@ -92,16 +102,6 @@
             "date": "September 29, 2020",
             "title": "Charmander will be featured during October Community Day!",
             "link": "https://pokemongolive.com/en/post/communityday-oct20/"
-        },
-        {
-            "date": "September 29, 2020",
-            "title": "Pokémon GO integration with Pokémon HOME coming soon!",
-            "link": "https://pokemongolive.com/en/post/pokemon-home-2020/"
-        },
-        {
-            "date": "September 29, 2020",
-            "title": "Updates to temporary bonuses",
-            "link": "https://pokemongolive.com/en/post/update-20200929/"
         }
     ]
 }
