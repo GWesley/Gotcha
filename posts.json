@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "November 2, 2020",
+            "title": "GO Battle League Season 5 begins Monday, November 9, 2020, at 1:00 p.m. PST (GMT −8)",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season5/"
+        },
+        {
             "date": "October 27, 2020",
             "title": "Electabuzz and Magmar will be featured during November’s Community Day events!",
             "link": "https://pokemongolive.com/en/post/communityday-nov20/"
@@ -97,11 +102,6 @@
             "date": "September 30, 2020",
             "title": "Enjoy a limited-time free Remote Raid Pass every Monday from October 5 to November 30! ",
             "link": "https://pokemongolive.com/en/post/limitedtime-remoteraidpass/"
-        },
-        {
-            "date": "September 29, 2020",
-            "title": "Charmander will be featured during October Community Day!",
-            "link": "https://pokemongolive.com/en/post/communityday-oct20/"
         }
     ]
 }
