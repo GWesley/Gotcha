@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "November 6, 2020",
+            "title": "New tests coming soon for select Trainers",
+            "link": "https://pokemongolive.com/en/post/november-testing/"
+        },
+        {
             "date": "November 2, 2020",
             "title": "GO Battle League Season 5 begins Monday, November 9, 2020, at 1:00 p.m. PST (GMT −8)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season5/"
@@ -97,11 +102,6 @@
             "date": "October 1, 2020",
             "title": "Celebrate Niantic’s fifth birthday with a special event!",
             "link": "https://pokemongolive.com/en/post/niantic-birthday-event-2020/"
-        },
-        {
-            "date": "September 30, 2020",
-            "title": "Enjoy a limited-time free Remote Raid Pass every Monday from October 5 to November 30! ",
-            "link": "https://pokemongolive.com/en/post/limitedtime-remoteraidpass/"
         }
     ]
 }
