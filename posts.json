@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "November 12, 2020",
+            "title": "Limited-time test: Trade range increased until Monday, November 16, 2020, at 10:00 a.m. PST (GMT −8)",
+            "link": "https://pokemongolive.com/en/post/test-increasedtrading/"
+        },
+        {
             "date": "November 10, 2020",
             "title": "City Spotlight: Rediscover your city with your Buddy Pokémon!",
             "link": "https://pokemongolive.com/en/post/cityspotlight-2020/"
@@ -97,11 +102,6 @@
             "date": "October 5, 2020",
             "title": "Encounter special Pikachu wearing one of Ash’s caps during Pokémon Spotlight Hour! ",
             "link": "https://pokemongolive.com/en/post/spotlight-oct20/"
-        },
-        {
-            "date": "October 1, 2020",
-            "title": "Look forward to autumn-themed Pokémon, Berry bonuses, and Deerling coming as the seasons change!",
-            "link": "https://pokemongolive.com/en/post/autumn-event-2020/"
         }
     ]
 }
