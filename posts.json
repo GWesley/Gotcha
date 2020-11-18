@@ -4,6 +4,36 @@
     ],
     "posts": [
         {
+            "date": "November 18, 2020",
+            "title": "GO Beyond: The Pokémon GO journey continues beyond",
+            "link": "https://pokemongolive.com/en/post/gobeyond-2020/"
+        },
+        {
+            "date": "November 18, 2020",
+            "title": "Prepare to GO Beyond with the 12 Days of Friendship event!",
+            "link": "https://pokemongolive.com/en/post/gobeyond-12daysoffriendship/"
+        },
+        {
+            "date": "November 18, 2020",
+            "title": "Dev Insights: Going Beyond in Pokémon GO",
+            "link": "https://pokemongolive.com/en/post/gobeyond-devinsights/"
+        },
+        {
+            "date": "November 18, 2020",
+            "title": "GO Beyond: Pokémon originally discovered in the Kalos region are coming!",
+            "link": "https://pokemongolive.com/en/post/gobeyond-kalos/"
+        },
+        {
+            "date": "November 18, 2020",
+            "title": "GO Beyond: Level up redesign coming soon; level cap increased to 50!",
+            "link": "https://pokemongolive.com/en/post/gobeyond-level40/"
+        },
+        {
+            "date": "November 18, 2020",
+            "title": "GO Beyond: Experience Pokémon GO in a new way with Seasons!",
+            "link": "https://pokemongolive.com/en/post/gobeyond-seasons/"
+        },
+        {
             "date": "November 17, 2020",
             "title": "How to prepare for Pokémon GO City Spotlight!",
             "link": "https://pokemongolive.com/en/post/cityspotlight2020-knowbeforeyougo/"
@@ -72,36 +102,6 @@
             "date": "October 22, 2020",
             "title": "In celebration of the release of The Crown Tundra, Galarian Ponyta and Sirfetch’d will arrive in Pokémon GO and new avatar items will be available!",
             "link": "https://pokemongolive.com/en/post/the-crown-tundra/"
-        },
-        {
-            "date": "October 20, 2020",
-            "title": "AR Mapping tasks are coming to Pokémon GO",
-            "link": "https://pokemongolive.com/en/post/armapping-researchtask/"
-        },
-        {
-            "date": "October 20, 2020",
-            "title": "Get to eggs-ploring, and see which Pokémon are now hatching from Eggs! ",
-            "link": "https://pokemongolive.com/en/post/egg-changes-2020/"
-        },
-        {
-            "date": "October 20, 2020",
-            "title": "Grow your Pokémon GO experiences with Verizon!",
-            "link": "https://pokemongolive.com/en/post/verizon-partnership/"
-        },
-        {
-            "date": "October 19, 2020",
-            "title": "Steel yourself for some spooky scary shenanigans during Pokémon GO Halloween 2020!",
-            "link": "https://pokemongolive.com/en/post/halloween2020/"
-        },
-        {
-            "date": "October 19, 2020",
-            "title": "Mega Venusaur leaves Mega Raids on October 23. Plus, take a sneak peek at some Mega Evolution updates. ",
-            "link": "https://pokemongolive.com/en/post/megavenusaurraids/"
-        },
-        {
-            "date": "October 15, 2020",
-            "title": "Catch Ghost-type Pokémon in an all-new kind of Pokémon GO event!",
-            "link": "https://pokemongolive.com/en/post/catchmastery-ghost-2020/"
         }
     ]
 }
