@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "November 17, 2020",
+            "title": "How to prepare for Pokémon GO City Spotlight!",
+            "link": "https://pokemongolive.com/en/post/cityspotlight2020-knowbeforeyougo/"
+        },
+        {
+            "date": "November 17, 2020",
             "title": "Uxie, Mesprit, and Azelf return to raids for a limited time!",
             "link": "https://pokemongolive.com/en/post/lakelegends2020/"
         },
@@ -97,11 +102,6 @@
             "date": "October 15, 2020",
             "title": "Catch Ghost-type Pokémon in an all-new kind of Pokémon GO event!",
             "link": "https://pokemongolive.com/en/post/catchmastery-ghost-2020/"
-        },
-        {
-            "date": "October 15, 2020",
-            "title": "Pokémon GO Special Weekend, presented by Grubhub",
-            "link": "https://pokemongolive.com/en/post/grubhub-specialweekend2020/"
         }
     ]
 }
