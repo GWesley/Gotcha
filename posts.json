@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "November 23, 2020",
+            "title": "The first Pokémon GO City Spotlight finishes up! City competition winner announced.",
+            "link": "https://pokemongolive.com/en/post/cityspotlight2020-recap/"
+        },
+        {
             "date": "November 19, 2020",
             "title": "Updates to temporary bonuses",
             "link": "https://pokemongolive.com/en/post/update-20200929/"
@@ -97,11 +102,6 @@
             "date": "October 22, 2020",
             "title": "Celebrate Day of the Dead with Pokémon GO! ",
             "link": "https://pokemongolive.com/en/post/diademuertos2020/"
-        },
-        {
-            "date": "October 22, 2020",
-            "title": "Familiar faces return to raids, new feature updates, and more in November!",
-            "link": "https://pokemongolive.com/en/post/nov2020-events/"
         }
     ]
 }
