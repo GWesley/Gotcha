@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "November 25, 2020",
+            "title": "Celebrate the end of 2020 with December events!",
+            "link": "https://pokemongolive.com/en/post/dec2020-events/"
+        },
+        {
             "date": "November 23, 2020",
             "title": "The first Pokémon GO City Spotlight finishes up! City competition winner announced.",
             "link": "https://pokemongolive.com/en/post/cityspotlight2020-recap/"
@@ -97,11 +102,6 @@
             "date": "October 26, 2020",
             "title": "Special Weekend events, presented by selected partners, are coming in November! ",
             "link": "https://pokemongolive.com/en/post/specialweekend-reminder/"
-        },
-        {
-            "date": "October 22, 2020",
-            "title": "Celebrate Day of the Dead with Pokémon GO! ",
-            "link": "https://pokemongolive.com/en/post/diademuertos2020/"
         }
     ]
 }
