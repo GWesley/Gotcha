@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "December 1, 2020",
+            "title": "Celebrate the arrival of Pokémon originally discovered in Kalos with a special event!",
+            "link": "https://pokemongolive.com/en/post/gobeyond-kalos-launch/"
+        },
+        {
             "date": "November 30, 2020",
             "title": "GO Battle League Season 6 begins Monday, November 30, 2020, at 1:00 p.m. PST (GMT −8)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season6/"
@@ -97,11 +102,6 @@
             "date": "November 2, 2020",
             "title": "GO Battle League Season 5 begins Monday, November 9, 2020, at 1:00 p.m. PST (GMT −8)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season5/"
-        },
-        {
-            "date": "October 27, 2020",
-            "title": "Electabuzz and Magmar will be featured during November’s Community Day events!",
-            "link": "https://pokemongolive.com/en/post/communityday-nov20/"
         }
     ]
 }
