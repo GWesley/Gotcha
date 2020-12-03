@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "December 3, 2020",
+            "title": "Don’t miss December Community Day!",
+            "link": "https://pokemongolive.com/en/post/communityday-dec20/"
+        },
+        {
             "date": "December 1, 2020",
             "title": "Celebrate the arrival of Pokémon originally discovered in Kalos with a special event!",
             "link": "https://pokemongolive.com/en/post/gobeyond-kalos-launch/"
@@ -97,11 +102,6 @@
             "date": "November 6, 2020",
             "title": "New tests coming soon for select Trainers",
             "link": "https://pokemongolive.com/en/post/november-testing/"
-        },
-        {
-            "date": "November 2, 2020",
-            "title": "GO Battle League Season 5 begins Monday, November 9, 2020, at 1:00 p.m. PST (GMT −8)",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season5/"
         }
     ]
 }
