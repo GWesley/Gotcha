@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "December 3, 2020",
+            "title": " Celebrate _Pokémon the Movie: Secrets of the Jungle_ with a collaboration event featuring Shiny Celebi in Special Research and Jessie and James’s return to Pokémon GO",
+            "link": "https://pokemongolive.com/en/post/movie2020/"
+        },
+        {
+            "date": "December 3, 2020",
             "title": "Don’t miss December Community Day!",
             "link": "https://pokemongolive.com/en/post/communityday-dec20/"
         },
@@ -97,11 +102,6 @@
             "date": "November 10, 2020",
             "title": "City Spotlight: Rediscover your city with your Buddy Pokémon!",
             "link": "https://pokemongolive.com/en/post/cityspotlight-2020/"
-        },
-        {
-            "date": "November 6, 2020",
-            "title": "New tests coming soon for select Trainers",
-            "link": "https://pokemongolive.com/en/post/november-testing/"
         }
     ]
 }
