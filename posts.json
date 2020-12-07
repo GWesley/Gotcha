@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "December 7, 2020",
+            "title": "GO Beyond: Level up redesign coming soon; level cap increased to 50!",
+            "link": "https://pokemongolive.com/en/post/gobeyond-level40/"
+        },
+        {
             "date": "December 3, 2020",
             "title": "Don’t miss December Community Day!",
             "link": "https://pokemongolive.com/en/post/communityday-dec20/"
@@ -62,11 +67,6 @@
             "date": "November 18, 2020",
             "title": "GO Beyond: Pokémon originally discovered in the Kalos region are coming!",
             "link": "https://pokemongolive.com/en/post/gobeyond-kalos/"
-        },
-        {
-            "date": "November 18, 2020",
-            "title": "GO Beyond: Level up redesign coming soon; level cap increased to 50!",
-            "link": "https://pokemongolive.com/en/post/gobeyond-level40/"
         },
         {
             "date": "November 18, 2020",
