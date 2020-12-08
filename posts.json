@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "December 8, 2020",
+            "title": "Celebrate Pokémon’s anniversary with a brand-new event—Pokémon GO Tour: Kanto!",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto/"
+        },
+        {
             "date": "December 7, 2020",
             "title": "GO Beyond: Level up redesign coming soon; level cap increased to 50!",
             "link": "https://pokemongolive.com/en/post/gobeyond-level40/"
@@ -97,11 +102,6 @@
             "date": "November 12, 2020",
             "title": "Limited-time test: Trade range increased until Monday, November 16, 2020, at 10:00 a.m. PST (GMT −8)",
             "link": "https://pokemongolive.com/en/post/test-increasedtrading/"
-        },
-        {
-            "date": "November 10, 2020",
-            "title": "City Spotlight: Rediscover your city with your Buddy Pokémon!",
-            "link": "https://pokemongolive.com/en/post/cityspotlight-2020/"
         }
     ]
 }
