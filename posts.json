@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "December 9, 2020",
+            "title": "Raid Battle–reward and Egg-management tests happening soon",
+            "link": "https://pokemongolive.com/en/post/raidbattle-egg-tests-2020/"
+        },
+        {
+            "date": "December 9, 2020",
+            "title": "Let’s watch The Game Awards 2020 together!",
+            "link": "https://pokemongolive.com/en/post/the-game-awards-2020/"
+        },
+        {
             "date": "December 8, 2020",
             "title": "Celebrate Pokémon’s anniversary with a brand-new event—Pokémon GO Tour: Kanto!",
             "link": "https://pokemongolive.com/en/post/pokemongotour-kanto/"
@@ -92,16 +102,6 @@
             "date": "November 17, 2020",
             "title": "November Limited Research featuring Nidoran♀ and Nidoran♂ is coming soon!",
             "link": "https://pokemongolive.com/en/post/limitedresearch-nov2020/"
-        },
-        {
-            "date": "November 16, 2020",
-            "title": "Shiny Slowpoke, Shiny Meltan from the Mystery Box, and more during the Pokémon HOME event!",
-            "link": "https://pokemongolive.com/en/post/pokemonhome-2020-details/"
-        },
-        {
-            "date": "November 12, 2020",
-            "title": "Limited-time test: Trade range increased until Monday, November 16, 2020, at 10:00 a.m. PST (GMT −8)",
-            "link": "https://pokemongolive.com/en/post/test-increasedtrading/"
         }
     ]
 }
