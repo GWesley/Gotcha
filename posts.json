@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "December 10, 2020",
+            "title": "Regirock, Registeel, and Regice will be back in raids during different weekends in December!",
+            "link": "https://pokemongolive.com/en/post/weekendraid2020-regi/"
+        },
+        {
             "date": "December 9, 2020",
             "title": "Raid Battle–reward and Egg-management tests happening soon",
             "link": "https://pokemongolive.com/en/post/raidbattle-egg-tests-2020/"
@@ -97,11 +102,6 @@
             "date": "November 17, 2020",
             "title": "Uxie, Mesprit, and Azelf return to raids for a limited time!",
             "link": "https://pokemongolive.com/en/post/lakelegends2020/"
-        },
-        {
-            "date": "November 17, 2020",
-            "title": "November Limited Research featuring Nidoran♀ and Nidoran♂ is coming soon!",
-            "link": "https://pokemongolive.com/en/post/limitedresearch-nov2020/"
         }
     ]
 }
