@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "December 10, 2020",
+            "title": "Let’s watch The Game Awards 2020 together!",
+            "link": "https://pokemongolive.com/en/post/the-game-awards-2020/"
+        },
+        {
+            "date": "December 10, 2020",
             "title": "Regirock, Registeel, and Regice will be back in raids during different weekends in December!",
             "link": "https://pokemongolive.com/en/post/weekendraid2020-regi/"
         },
@@ -12,11 +17,6 @@
             "date": "December 9, 2020",
             "title": "Raid Battle–reward and Egg-management tests happening soon",
             "link": "https://pokemongolive.com/en/post/raidbattle-egg-tests-2020/"
-        },
-        {
-            "date": "December 9, 2020",
-            "title": "Let’s watch The Game Awards 2020 together!",
-            "link": "https://pokemongolive.com/en/post/the-game-awards-2020/"
         },
         {
             "date": "December 8, 2020",
