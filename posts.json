@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "December 14, 2020",
+            "title": "Celebrate Pokémon GO Holidays 2020 with holiday- and ice-themed Pokémon!",
+            "link": "https://pokemongolive.com/en/post/holiday2020/"
+        },
+        {
             "date": "December 11, 2020",
             "title": "Where’s that cold air coming from? What’s that tapping noise?",
             "link": "https://pokemongolive.com/en/post/galarianmrmimespecialresearch/"
@@ -97,11 +102,6 @@
             "date": "November 18, 2020",
             "title": "GO Beyond: Experience Pokémon GO in a new way with Seasons!",
             "link": "https://pokemongolive.com/en/post/gobeyond-seasons/"
-        },
-        {
-            "date": "November 17, 2020",
-            "title": "How to prepare for Pokémon GO City Spotlight!",
-            "link": "https://pokemongolive.com/en/post/cityspotlight2020-knowbeforeyougo/"
         }
     ]
 }
