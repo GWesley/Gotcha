@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "December 21, 2020",
+            "title": "Rising to the challenge of January Community Day is none other than Machop!",
+            "link": "https://pokemongolive.com/en/post/communityday-jan21/"
+        },
+        {
             "date": "December 14, 2020",
             "title": "Pokémon GO partners with Starbucks in Select Asia Markets",
             "link": "https://pokemongolive.com/en/post/starbucks-apac/"
@@ -97,11 +102,6 @@
             "date": "November 18, 2020",
             "title": "Dev Insights: Going Beyond in Pokémon GO",
             "link": "https://pokemongolive.com/en/post/gobeyond-devinsights/"
-        },
-        {
-            "date": "November 18, 2020",
-            "title": "GO Beyond: Pokémon originally discovered in the Kalos region are coming!",
-            "link": "https://pokemongolive.com/en/post/gobeyond-kalos/"
         }
     ]
 }
