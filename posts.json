@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "December 22, 2020",
+            "title": "Ring in 2021 with Pokémon GO’s January events",
+            "link": "https://pokemongolive.com/en/post/jan2021-events/"
+        },
+        {
+            "date": "December 22, 2020",
+            "title": "Celebrate the new year with Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/new-year-2021/"
+        },
+        {
             "date": "December 21, 2020",
             "title": "Rising to the challenge of January Community Day is none other than Machop!",
             "link": "https://pokemongolive.com/en/post/communityday-jan21/"
@@ -92,16 +102,6 @@
             "date": "November 18, 2020",
             "title": "GO Beyond: The Pokémon GO journey continues beyond",
             "link": "https://pokemongolive.com/en/post/gobeyond-2020/"
-        },
-        {
-            "date": "November 18, 2020",
-            "title": "Prepare to GO Beyond with the 12 Days of Friendship event!",
-            "link": "https://pokemongolive.com/en/post/gobeyond-12daysoffriendship/"
-        },
-        {
-            "date": "November 18, 2020",
-            "title": "Dev Insights: Going Beyond in Pokémon GO",
-            "link": "https://pokemongolive.com/en/post/gobeyond-devinsights/"
         }
     ]
 }
