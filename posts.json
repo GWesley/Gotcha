@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "December 23, 2020",
+            "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Unova region with us! ",
+            "link": "https://pokemongolive.com/en/post/unova-celebration-event-2021/"
+        },
+        {
             "date": "December 22, 2020",
             "title": "Ring in 2021 with Pokémon GO’s January events",
             "link": "https://pokemongolive.com/en/post/jan2021-events/"
@@ -97,11 +102,6 @@
             "date": "November 19, 2020",
             "title": "Updates to temporary bonuses",
             "link": "https://pokemongolive.com/en/post/update-20200929/"
-        },
-        {
-            "date": "November 18, 2020",
-            "title": "GO Beyond: The Pokémon GO journey continues beyond",
-            "link": "https://pokemongolive.com/en/post/gobeyond-2020/"
         }
     ]
 }
