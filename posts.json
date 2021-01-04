@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "January 4, 2021",
+            "title": "Make your childhood dream come true and become a character in a Pokémon game",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-npccontest/"
+        },
+        {
+            "date": "January 4, 2021",
+            "title": "Pokémon GO Tour: Kanto Contest Official Rules",
+            "link": "https://pokemongolive.com/en/post/kantotourcontestrules/"
+        },
+        {
             "date": "December 23, 2020",
             "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Unova region with us! ",
             "link": "https://pokemongolive.com/en/post/unova-celebration-event-2021/"
@@ -92,16 +102,6 @@
             "date": "November 25, 2020",
             "title": "Celebrate the end of 2020 with December events!",
             "link": "https://pokemongolive.com/en/post/dec2020-events/"
-        },
-        {
-            "date": "November 23, 2020",
-            "title": "The first Pokémon GO City Spotlight finishes up! City competition winner announced.",
-            "link": "https://pokemongolive.com/en/post/cityspotlight2020-recap/"
-        },
-        {
-            "date": "November 19, 2020",
-            "title": "Updates to temporary bonuses",
-            "link": "https://pokemongolive.com/en/post/update-20200929/"
         }
     ]
 }
