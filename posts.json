@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "January 5, 2021",
+            "title": "GO Battle League Season 6 begins Monday, November 30, 2020, at 1:00 p.m. PST (GMT −8)",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season6/"
+        },
+        {
             "date": "January 4, 2021",
             "title": "Collection Challenges are here!",
             "link": "https://pokemongolive.com/en/post/collections-launch/"
@@ -97,11 +102,6 @@
             "date": "December 1, 2020",
             "title": "Celebrate the arrival of Pokémon originally discovered in Kalos with a special event!",
             "link": "https://pokemongolive.com/en/post/gobeyond-kalos-launch/"
-        },
-        {
-            "date": "November 30, 2020",
-            "title": "GO Battle League Season 6 begins Monday, November 30, 2020, at 1:00 p.m. PST (GMT −8)",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season6/"
         }
     ]
 }
