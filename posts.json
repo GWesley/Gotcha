@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "January 13, 2021",
+            "title": "Roselia is the featured February Community Day Pokémon!",
+            "link": "https://pokemongolive.com/en/post/communityday-feb21/"
+        },
+        {
             "date": "January 7, 2021",
             "title": "Celebrate the end of 2020 with December events!",
             "link": "https://pokemongolive.com/en/post/dec2020-events/"
@@ -97,11 +102,6 @@
             "date": "December 7, 2020",
             "title": "GO Beyond: Level up redesign coming soon; level cap increased to 50!",
             "link": "https://pokemongolive.com/en/post/gobeyond-level40/"
-        },
-        {
-            "date": "December 3, 2020",
-            "title": "Don’t miss December Community Day!",
-            "link": "https://pokemongolive.com/en/post/communityday-dec20/"
         }
     ]
 }
