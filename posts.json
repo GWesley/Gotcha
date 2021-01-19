@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "January 19, 2021",
+            "title": "Mega Ampharos is coming! Plus, get ready for an Incense Day featuring Mareep!",
+            "link": "https://pokemongolive.com/en/post/incenseday-electric-dragon-mareep/"
+        },
+        {
+            "date": "January 19, 2021",
+            "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Johto region with us!",
+            "link": "https://pokemongolive.com/en/post/johto-celebration-event-2021/"
+        },
+        {
             "date": "January 14, 2021",
             "title": "Rising to the challenge of January Community Day is none other than Machop!",
             "link": "https://pokemongolive.com/en/post/communityday-jan21/"
@@ -92,16 +102,6 @@
             "date": "December 10, 2020",
             "title": "Regirock, Registeel, and Regice will be back in raids during different weekends in December!",
             "link": "https://pokemongolive.com/en/post/weekendraid2020-regi/"
-        },
-        {
-            "date": "December 9, 2020",
-            "title": "Raid Battle–reward and Egg-management tests happening soon",
-            "link": "https://pokemongolive.com/en/post/raidbattle-egg-tests-2020/"
-        },
-        {
-            "date": "December 8, 2020",
-            "title": "Celebrate Pokémon’s anniversary with a brand-new event—Pokémon GO Tour: Kanto!",
-            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto/"
         }
     ]
 }
