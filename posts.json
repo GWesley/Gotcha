@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "January 25, 2021",
+            "title": "GO Battle League Season 6 begins Monday, November 30, 2020, at 1:00 p.m. PST (GMT −8)",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season6/"
+        },
+        {
+            "date": "January 25, 2021",
+            "title": "Nothing to sneeze at—get ready for Limited Research featuring Sneasel! Plus, new Timed Research is coming soon!",
+            "link": "https://pokemongolive.com/en/post/limited-research-sneasel-challenge/"
+        },
+        {
             "date": "January 19, 2021",
             "title": "Mega Ampharos is coming! Plus, get ready for an Incense Day featuring Mareep!",
             "link": "https://pokemongolive.com/en/post/incenseday-electric-dragon-mareep/"
@@ -37,11 +47,6 @@
             "date": "January 7, 2021",
             "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Sinnoh region with us!",
             "link": "https://pokemongolive.com/en/post/sinnoh-celebration-event-2021/"
-        },
-        {
-            "date": "January 5, 2021",
-            "title": "GO Battle League Season 6 begins Monday, November 30, 2020, at 1:00 p.m. PST (GMT −8)",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season6/"
         },
         {
             "date": "January 4, 2021",
@@ -97,11 +102,6 @@
             "date": "December 10, 2020",
             "title": "Let’s watch The Game Awards 2020 together!",
             "link": "https://pokemongolive.com/en/post/the-game-awards-2020/"
-        },
-        {
-            "date": "December 10, 2020",
-            "title": "Regirock, Registeel, and Regice will be back in raids during different weekends in December!",
-            "link": "https://pokemongolive.com/en/post/weekendraid2020-regi/"
         }
     ]
 }
