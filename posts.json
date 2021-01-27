@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "January 27, 2021",
+            "title": "Feel the love with Pokémon GO’s February events!",
+            "link": "https://pokemongolive.com/en/post/feb-2021-events/"
+        },
+        {
+            "date": "January 27, 2021",
+            "title": "Team GO Rocket is celebrating? Smells like trouble!",
+            "link": "https://pokemongolive.com/en/post/team-go-rocket-celebration-2021/"
+        },
+        {
             "date": "January 25, 2021",
             "title": "GO Battle League Season 6 begins Monday, November 30, 2020, at 1:00 p.m. PST (GMT −8)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season6/"
@@ -92,16 +102,6 @@
             "date": "December 14, 2020",
             "title": "Celebrate Pokémon GO Holidays 2020 with holiday- and ice-themed Pokémon!",
             "link": "https://pokemongolive.com/en/post/holiday2020/"
-        },
-        {
-            "date": "December 11, 2020",
-            "title": "Where’s that cold air coming from? What’s that tapping noise?",
-            "link": "https://pokemongolive.com/en/post/galarianmrmimespecialresearch/"
-        },
-        {
-            "date": "December 10, 2020",
-            "title": "Let’s watch The Game Awards 2020 together!",
-            "link": "https://pokemongolive.com/en/post/the-game-awards-2020/"
         }
     ]
 }
