@@ -4,11 +4,6 @@
     ],
     "posts": [
         {
-            "date": "January 28, 2021",
-            "title": "",
-            "link": "https://pokemongolive.com/en/post/claro-partnership/"
-        },
-        {
             "date": "January 27, 2021",
             "title": "Feel the love with Pokémon GO’s February events!",
             "link": "https://pokemongolive.com/en/post/feb-2021-events/"
@@ -102,6 +97,11 @@
             "date": "December 14, 2020",
             "title": "Pokémon GO partners with Starbucks in Select Asia Markets",
             "link": "https://pokemongolive.com/en/post/starbucks-apac/"
+        },
+        {
+            "date": "December 14, 2020",
+            "title": "Celebrate Pokémon GO Holidays 2020 with holiday- and ice-themed Pokémon!",
+            "link": "https://pokemongolive.com/en/post/holiday2020/"
         }
     ]
 }
