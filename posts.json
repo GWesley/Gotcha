@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "February 2, 2021",
+            "title": "Celebrate Lunar New Year with Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/lunar-2021/"
+        },
+        {
+            "date": "February 2, 2021",
             "title": "Which journey will you choose? Pokémon GO Tour: Kanto ticket holders will be able to choose their event version soon!",
             "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-version/"
         },
@@ -97,11 +102,6 @@
             "date": "December 22, 2020",
             "title": "Celebrate the new year with Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/new-year-2021/"
-        },
-        {
-            "date": "December 14, 2020",
-            "title": "Pokémon GO partners with Starbucks in Select Asia Markets",
-            "link": "https://pokemongolive.com/en/post/starbucks-apac/"
         }
     ]
 }
