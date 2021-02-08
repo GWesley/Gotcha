@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "February 8, 2021",
+            "title": "Pokémon GO Valentine’s Day celebration 2021",
+            "link": "https://pokemongolive.com/en/post/valentinesday2021/"
+        },
+        {
             "date": "February 2, 2021",
             "title": "Feel the love with Pokémon GO’s February events!",
             "link": "https://pokemongolive.com/en/post/feb-2021-events/"
@@ -97,11 +102,6 @@
             "date": "December 22, 2020",
             "title": "Ring in 2021 with Pokémon GO’s January events",
             "link": "https://pokemongolive.com/en/post/jan2021-events/"
-        },
-        {
-            "date": "December 22, 2020",
-            "title": "Celebrate the new year with Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/new-year-2021/"
         }
     ]
 }
