@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "February 9, 2021",
+            "title": "Celebrate Pokémon’s anniversary with a brand-new event—Pokémon GO Tour: Kanto!",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto/"
+        },
+        {
+            "date": "February 9, 2021",
+            "title": "Are you ready for Pokémon GO Tour: Kanto? Learn more about what to expect from the event!",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-details/"
+        },
+        {
             "date": "February 8, 2021",
             "title": "Pokémon GO Valentine’s Day celebration 2021",
             "link": "https://pokemongolive.com/en/post/valentinesday2021/"
@@ -92,16 +102,6 @@
             "date": "January 4, 2021",
             "title": "Pokémon GO Tour: Kanto Contest Official Rules",
             "link": "https://pokemongolive.com/en/post/kantotourcontestrules/"
-        },
-        {
-            "date": "December 23, 2020",
-            "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Unova region with us! ",
-            "link": "https://pokemongolive.com/en/post/unova-celebration-event-2021/"
-        },
-        {
-            "date": "December 22, 2020",
-            "title": "Ring in 2021 with Pokémon GO’s January events",
-            "link": "https://pokemongolive.com/en/post/jan2021-events/"
         }
     ]
 }
