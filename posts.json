@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "February 10, 2021",
+            "title": "Pokémon GO Tour: Kanto sweepstakes",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-sweepstakes/"
+        },
+        {
             "date": "February 9, 2021",
             "title": "Celebrate Pokémon’s anniversary with a brand-new event—Pokémon GO Tour: Kanto!",
             "link": "https://pokemongolive.com/en/post/pokemongotour-kanto/"
@@ -97,11 +102,6 @@
             "date": "January 4, 2021",
             "title": "Make your childhood dream come true and become a character in a Pokémon game",
             "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-npccontest/"
-        },
-        {
-            "date": "January 4, 2021",
-            "title": "Pokémon GO Tour: Kanto Contest Official Rules",
-            "link": "https://pokemongolive.com/en/post/kantotourcontestrules/"
         }
     ]
 }
