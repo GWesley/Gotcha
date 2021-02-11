@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "February 11, 2021",
+            "title": "Keep the Kanto celebration going after Pokémon GO Tour: Kanto with a special event!",
+            "link": "https://pokemongolive.com/en/post/kanto-celebration-event-2021/"
+        },
+        {
             "date": "February 10, 2021",
             "title": "Pokémon GO Tour: Kanto sweepstakes",
             "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-sweepstakes/"
@@ -97,11 +102,6 @@
             "date": "January 4, 2021",
             "title": "Avatar items from The North Face x Gucci Collection are coming to Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/gucci-northface-collection/"
-        },
-        {
-            "date": "January 4, 2021",
-            "title": "Make your childhood dream come true and become a character in a Pokémon game",
-            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-npccontest/"
         }
     ]
 }
