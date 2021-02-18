@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "February 18, 2021",
+            "title": "Close out the Pokémon Day weekend with a Kanto-themed Raid Day!",
+            "link": "https://pokemongolive.com/en/post/kanto-raid-day-2021/"
+        },
+        {
             "date": "February 16, 2021",
             "title": "March Community Day’s featured Pokémon will be Fletchling!",
             "link": "https://pokemongolive.com/en/post/communityday-mar21/"
@@ -97,11 +102,6 @@
             "date": "January 7, 2021",
             "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Sinnoh region with us!",
             "link": "https://pokemongolive.com/en/post/sinnoh-celebration-event-2021/"
-        },
-        {
-            "date": "January 4, 2021",
-            "title": "Collection Challenges are here!",
-            "link": "https://pokemongolive.com/en/post/collections-launch/"
         }
     ]
 }
