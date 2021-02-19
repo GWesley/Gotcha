@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "February 19, 2021",
+            "title": "Everything you need to know before Pokémon GO Tour: Kanto!",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-knowbeforeyougo/"
+        },
+        {
             "date": "February 18, 2021",
             "title": "Close out the Pokémon Day weekend with a Kanto-themed Raid Day!",
             "link": "https://pokemongolive.com/en/post/kanto-raid-day-2021/"
@@ -97,11 +102,6 @@
             "date": "January 7, 2021",
             "title": "Celebrate the end of 2020 with December events!",
             "link": "https://pokemongolive.com/en/post/dec2020-events/"
-        },
-        {
-            "date": "January 7, 2021",
-            "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Sinnoh region with us!",
-            "link": "https://pokemongolive.com/en/post/sinnoh-celebration-event-2021/"
         }
     ]
 }
