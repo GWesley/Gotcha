@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "February 22, 2021",
+            "title": "GO Battle League Season 7 begins Monday, March 1, 2021, at 1:00 p.m. PST (GMT −8)",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season7/"
+        },
+        {
+            "date": "February 22, 2021",
+            "title": "The Season of Legends starts soon!",
+            "link": "https://pokemongolive.com/en/post/season-of-legends-2021/"
+        },
+        {
             "date": "February 19, 2021",
             "title": "Everything you need to know before Pokémon GO Tour: Kanto!",
             "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-knowbeforeyougo/"
@@ -92,16 +102,6 @@
             "date": "January 13, 2021",
             "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Hoenn region with us!",
             "link": "https://pokemongolive.com/en/post/hoenn-celebration-event-2021/"
-        },
-        {
-            "date": "January 13, 2021",
-            "title": "Roselia is the featured February Community Day Pokémon!",
-            "link": "https://pokemongolive.com/en/post/communityday-feb21/"
-        },
-        {
-            "date": "January 7, 2021",
-            "title": "Celebrate the end of 2020 with December events!",
-            "link": "https://pokemongolive.com/en/post/dec2020-events/"
         }
     ]
 }
