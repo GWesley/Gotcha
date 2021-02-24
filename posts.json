@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "February 24, 2021",
+            "title": "A new Season is coming—and so are March’s Pokémon GO events!",
+            "link": "https://pokemongolive.com/en/post/mar-2021-events/"
+        },
+        {
             "date": "February 22, 2021",
             "title": "GO Battle League Season 7 begins Monday, March 1, 2021, at 1:00 p.m. PST (GMT −8)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season7/"
@@ -97,11 +102,6 @@
             "date": "January 14, 2021",
             "title": "Rising to the challenge of January Community Day is none other than Machop!",
             "link": "https://pokemongolive.com/en/post/communityday-jan21/"
-        },
-        {
-            "date": "January 13, 2021",
-            "title": "Countdown to Pokémon GO Tour: Kanto—celebrate the Hoenn region with us!",
-            "link": "https://pokemongolive.com/en/post/hoenn-celebration-event-2021/"
         }
     ]
 }
