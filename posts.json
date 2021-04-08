@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "April 5, 2021",
+            "title": "Rivals’ Week brings rival Pokémon and competition! Plus, Therian Forme Landorus is coming to five-star raids!",
+            "link": "https://pokemongolive.com/en/post/rivals-week-2021/"
+        },
+        {
+            "date": "April 5, 2021",
+            "title": "GO Battle League Season 7 begins Monday, March 1, 2021, at 1:00 p.m. PST (GMT −8)",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season7/"
+        },
+        {
             "date": "March 30, 2021",
             "title": "Journeys are always better with friends—the Pokémon GO referral program is here!",
             "link": "https://pokemongolive.com/en/post/referrals-launch-live/"
@@ -12,11 +22,6 @@
             "date": "March 30, 2021",
             "title": "BREAKING: Pokémon mischief is on the rise, and Team GO Rocket has an Aipom problem",
             "link": "https://pokemongolive.com/en/post/trickypokemon-2021/"
-        },
-        {
-            "date": "March 29, 2021",
-            "title": "GO Battle League Season 7 begins Monday, March 1, 2021, at 1:00 p.m. PST (GMT −8)",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season7/"
         },
         {
             "date": "March 29, 2021",
@@ -97,11 +102,6 @@
             "date": "February 22, 2021",
             "title": "The Season of Legends starts soon!",
             "link": "https://pokemongolive.com/en/post/season-of-legends-2021/"
-        },
-        {
-            "date": "February 19, 2021",
-            "title": "Everything you need to know before Pokémon GO Tour: Kanto!",
-            "link": "https://pokemongolive.com/en/post/pokemongotour-kanto-knowbeforeyougo/"
         }
     ]
 }
