@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "April 12, 2021",
+            "title": "Catch Pokémon with your friends during Friendship Day!",
+            "link": "https://pokemongolive.com/en/post/friendshipday-grass-2021/"
+        },
+        {
             "date": "April 5, 2021",
             "title": "Rivals’ Week brings rival Pokémon and competition! Plus, Therian Forme Landorus is coming to five-star raids!",
             "link": "https://pokemongolive.com/en/post/rivals-week-2021/"
@@ -97,11 +102,6 @@
             "date": "February 24, 2021",
             "title": "A new Season is coming—and so are March’s Pokémon GO events!",
             "link": "https://pokemongolive.com/en/post/mar-2021-events/"
-        },
-        {
-            "date": "February 22, 2021",
-            "title": "The Season of Legends starts soon!",
-            "link": "https://pokemongolive.com/en/post/season-of-legends-2021/"
         }
     ]
 }
