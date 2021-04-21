@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "April 21, 2021",
+            "title": "Catch Pokémon with your friends during Friendship Day!",
+            "link": "https://pokemongolive.com/en/post/friendshipday-grass-2021/"
+        },
+        {
             "date": "April 14, 2021",
             "title": "Pokémon GO celebrates the release of New Pokémon Snap with a special event!",
             "link": "https://pokemongolive.com/en/post/new-pokemon-snap-celebration/"
@@ -12,11 +17,6 @@
             "date": "April 13, 2021",
             "title": "In partnership with the Niantic Sustainability Campaign, clean up to unlock in-game bonuses!",
             "link": "https://pokemongolive.com/en/post/sustainabilityweek-2021/"
-        },
-        {
-            "date": "April 12, 2021",
-            "title": "Catch Pokémon with your friends during Friendship Day!",
-            "link": "https://pokemongolive.com/en/post/friendshipday-grass-2021/"
         },
         {
             "date": "April 5, 2021",
