@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "April 22, 2021",
+            "title": "Team GO Rocket is back",
+            "link": "https://pokemongolive.com/en/post/rocket-return/"
+        },
+        {
             "date": "April 21, 2021",
             "title": "Catch Pokémon with your friends during Friendship Day!",
             "link": "https://pokemongolive.com/en/post/friendshipday-grass-2021/"
@@ -97,11 +102,6 @@
             "date": "March 4, 2021",
             "title": "Pokémon GO Tour: Kanto bonus event",
             "link": "https://pokemongolive.com/en/post/gotourkanto-bonus/"
-        },
-        {
-            "date": "March 2, 2021",
-            "title": "Sniff out Legendary Pokémon in the Searching for Legends event!",
-            "link": "https://pokemongolive.com/en/post/searching-for-legends-2021/"
         }
     ]
 }
