@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "April 26, 2021",
+            "title": "Luminous Legends X: Xerneas makes its Pokémon GO debut alongside Dragon- and Fairy-type Pokémon originally discovered in the Kalos region!",
+            "link": "https://pokemongolive.com/en/post/luminouslegends-x-2021/"
+        },
+        {
             "date": "April 22, 2021",
             "title": "Team GO Rocket is back",
             "link": "https://pokemongolive.com/en/post/rocket-return/"
@@ -97,11 +102,6 @@
             "date": "March 4, 2021",
             "title": "A collaboration has been finalized between Pokémon GO and the Pokémon Trading Card Game!",
             "link": "https://pokemongolive.com/en/post/pcg-professor-willow/"
-        },
-        {
-            "date": "March 4, 2021",
-            "title": "Pokémon GO Tour: Kanto bonus event",
-            "link": "https://pokemongolive.com/en/post/gotourkanto-bonus/"
         }
     ]
 }
