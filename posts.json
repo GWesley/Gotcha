@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "April 29, 2021",
+            "title": "Swablu features during May Community Day—and Mega Altaria will be appearing afterward! ",
+            "link": "https://pokemongolive.com/en/post/communityday-may21/"
+        },
+        {
             "date": "April 27, 2021",
             "title": "Mark your calendars! Pokémon GO Fest 2021 returns this July",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-save-the-date/"
@@ -97,11 +102,6 @@
             "date": "March 10, 2021",
             "title": "Invite your friends to enjoy Pokémon GO and earn rewards together!",
             "link": "https://pokemongolive.com/en/post/referrals-launch/"
-        },
-        {
-            "date": "March 9, 2021",
-            "title": "Tynamo, Mega Manectric, and Therian Forme Thundurus come roaring in for the first-ever Electric-type-themed event: Charge Up!",
-            "link": "https://pokemongolive.com/en/post/chargeup-2021/"
         }
     ]
 }
