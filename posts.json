@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "May 10, 2021",
+            "title": "Luminous Legends Y: Yveltal joins Xerneas in Pokémon GO—and Team GO Rocket wants in on the action!",
+            "link": "https://pokemongolive.com/en/post/luminouslegends-y-2021/"
+        },
+        {
+            "date": "May 10, 2021",
+            "title": "Enjoy a Pokémon GO Special Weekend in May with Verizon and other partners!",
+            "link": "https://pokemongolive.com/en/post/specialweekend2021/"
+        },
+        {
             "date": "May 3, 2021",
             "title": "May Limited Research featuring Marill is coming soon!",
             "link": "https://pokemongolive.com/en/post/limitedresearch-may2021/"
@@ -92,16 +102,6 @@
             "date": "March 17, 2021",
             "title": "Celebrate the Festival of Colors in India with Pokémon GO! Plus, unlock more bonuses in the India Wayfarer Challenge!",
             "link": "https://pokemongolive.com/en/post/festivalofcolors/"
-        },
-        {
-            "date": "March 16, 2021",
-            "title": "Therian Forme Thundurus brings rain and wind to Weather Week! \n",
-            "link": "https://pokemongolive.com/en/post/weather-week-2021/"
-        },
-        {
-            "date": "March 10, 2021",
-            "title": "Great East Japan Earthquake: On the 10th Memorial Day",
-            "link": "https://pokemongolive.com/en/post/tohoku2021/"
         }
     ]
 }
