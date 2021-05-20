@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "May 20, 2021",
+            "title": "Gible Community Day is coming!",
+            "link": "https://pokemongolive.com/en/post/communityday-jun21/"
+        },
+        {
             "date": "May 10, 2021",
             "title": "Luminous Legends Y: Yveltal joins Xerneas in Pokémon GO—and Team GO Rocket wants in on the action!",
             "link": "https://pokemongolive.com/en/post/luminouslegends-y-2021/"
@@ -97,11 +102,6 @@
             "date": "March 23, 2021",
             "title": "Snivy stars during April Community Day!",
             "link": "https://pokemongolive.com/en/post/communityday-apr21/"
-        },
-        {
-            "date": "March 17, 2021",
-            "title": "Celebrate the Festival of Colors in India with Pokémon GO! Plus, unlock more bonuses in the India Wayfarer Challenge!",
-            "link": "https://pokemongolive.com/en/post/festivalofcolors/"
         }
     ]
 }
