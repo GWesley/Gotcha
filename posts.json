@@ -5,6 +5,16 @@
     "posts": [
         {
             "date": "May 27, 2021",
+            "title": "GO Battle League Season 8 begins Monday, May 31, 2021, at 1:00 p.m. PDT (GMT −7)",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season8/"
+        },
+        {
+            "date": "May 27, 2021",
+            "title": "June events: Get a free Remote Raid Pass from Research Breakthroughs all through this month, and more!",
+            "link": "https://pokemongolive.com/en/post/jun-2021-events/"
+        },
+        {
+            "date": "May 27, 2021",
             "title": "Get ready for a musical summer—Pokémon GO Fest 2021 is coming soon!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-announcement/"
         },
@@ -92,16 +102,6 @@
             "date": "March 29, 2021",
             "title": "Celebrate spring in Pokémon GO with the debut of Mega Lopunny!",
             "link": "https://pokemongolive.com/en/post/springevent2021/"
-        },
-        {
-            "date": "March 24, 2021",
-            "title": "Learn all about April’s events here!",
-            "link": "https://pokemongolive.com/en/post/apr-2021-events/"
-        },
-        {
-            "date": "March 23, 2021",
-            "title": "Rayquaza returns to raids for a limited time!",
-            "link": "https://pokemongolive.com/en/post/raidquaza-2021/"
         }
     ]
 }
