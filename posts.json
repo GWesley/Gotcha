@@ -4,7 +4,12 @@
     ],
     "posts": [
         {
-            "date": "May 30, 2021",
+            "date": "June 1, 2021",
+            "title": "The Season of Discovery begins with a very slow event",
+            "link": "https://pokemongolive.com/en/post/a-very-slow-discovery/"
+        },
+        {
+            "date": "June 1, 2021",
             "title": "The Season of Discovery starts soon!",
             "link": "https://pokemongolive.com/en/post/season-of-discovery-2021/"
         },
@@ -97,11 +102,6 @@
             "date": "March 30, 2021",
             "title": "Journeys are always better with friends—the Pokémon GO referral program is here!",
             "link": "https://pokemongolive.com/en/post/referrals-launch-live/"
-        },
-        {
-            "date": "March 30, 2021",
-            "title": "BREAKING: Pokémon mischief is on the rise, and Team GO Rocket has an Aipom problem",
-            "link": "https://pokemongolive.com/en/post/trickypokemon-2021/"
         }
     ]
 }
