@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "June 7, 2021",
+            "title": "Special Raid Weekend incoming: Earn bonus Candy and Candy XL, and find more raids! ",
+            "link": "https://pokemongolive.com/en/post/bonusxlcandy2021/"
+        },
+        {
             "date": "June 1, 2021",
             "title": "The Season of Discovery begins with a very slow event",
             "link": "https://pokemongolive.com/en/post/a-very-slow-discovery/"
@@ -97,11 +102,6 @@
             "date": "April 5, 2021",
             "title": "GO Battle League Season 7 begins Monday, March 1, 2021, at 1:00 p.m. PST (GMT −8)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season7/"
-        },
-        {
-            "date": "March 30, 2021",
-            "title": "Journeys are always better with friends—the Pokémon GO referral program is here!",
-            "link": "https://pokemongolive.com/en/post/referrals-launch-live/"
         }
     ]
 }
