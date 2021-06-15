@@ -4,6 +4,16 @@
     ],
     "posts": [
         {
+            "date": "June 15, 2021",
+            "title": "Bidoof will be breaking out, and Shiny Bidoof is coming—BIDOOF! ",
+            "link": "https://pokemongolive.com/en/post/bidoof-breakout-2021/"
+        },
+        {
+            "date": "June 15, 2021",
+            "title": "It’s a solstice surprise: Regigigas is coming to five-star raids!",
+            "link": "https://pokemongolive.com/en/post/solstice-2021/"
+        },
+        {
             "date": "June 11, 2021",
             "title": "GO Battle League Season 8 begins Monday, May 31, 2021, at 1:00 p.m. PDT (GMT −7)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season8/"
@@ -92,16 +102,6 @@
             "date": "April 13, 2021",
             "title": "In partnership with the Niantic Sustainability Campaign, clean up to unlock in-game bonuses!",
             "link": "https://pokemongolive.com/en/post/sustainabilityweek-2021/"
-        },
-        {
-            "date": "April 5, 2021",
-            "title": "Rivals’ Week brings rival Pokémon and competition! Plus, Therian Forme Landorus is coming to five-star raids!",
-            "link": "https://pokemongolive.com/en/post/rivals-week-2021/"
-        },
-        {
-            "date": "April 5, 2021",
-            "title": "GO Battle League Season 7 begins Monday, March 1, 2021, at 1:00 p.m. PST (GMT −8)",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season7/"
         }
     ]
 }
