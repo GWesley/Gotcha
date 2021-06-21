@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "June 20, 2021",
+            "title": "Shiny Corsola is appearing for the first time in Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/flying-pikachu-2021/"
+        },
+        {
             "date": "June 17, 2021",
             "title": "Pokémon GO Fest 2021 T-shirts will be available to Trainers in the United States, Canada, and Japan! ",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-shirt/"
@@ -97,11 +102,6 @@
             "date": "April 26, 2021",
             "title": "Luminous Legends X: Xerneas makes its Pokémon GO debut alongside Dragon- and Fairy-type Pokémon originally discovered in the Kalos region!",
             "link": "https://pokemongolive.com/en/post/luminouslegends-x-2021/"
-        },
-        {
-            "date": "April 22, 2021",
-            "title": "Team GO Rocket is back",
-            "link": "https://pokemongolive.com/en/post/rocket-return/"
         }
     ]
 }
