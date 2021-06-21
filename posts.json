@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "June 21, 2021",
+            "title": "Exploration Bonus Updates Coming to Pokémon GO",
+            "link": "https://pokemongolive.com/en/post/hello-world-pokemon-go/"
+        },
+        {
+            "date": "June 21, 2021",
             "title": "Get fired up for Tepig Community Day!",
             "link": "https://pokemongolive.com/en/post/communityday-jul21/"
         },
@@ -97,11 +102,6 @@
             "date": "April 27, 2021",
             "title": "Mark your calendars! Pokémon GO Fest 2021 returns this July",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-save-the-date/"
-        },
-        {
-            "date": "April 26, 2021",
-            "title": "The Legendary Pokémon Xerneas and Yveltal make their Pokémon GO debuts during an eventful May!",
-            "link": "https://pokemongolive.com/en/post/may-2021-events/"
         }
     ]
 }
