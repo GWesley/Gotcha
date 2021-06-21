@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "June 21, 2021",
+            "title": "Get fired up for Tepig Community Day!",
+            "link": "https://pokemongolive.com/en/post/communityday-jul21/"
+        },
+        {
             "date": "June 20, 2021",
             "title": "Shiny Corsola is appearing for the first time in Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/flying-pikachu-2021/"
@@ -97,11 +102,6 @@
             "date": "April 26, 2021",
             "title": "The Legendary Pokémon Xerneas and Yveltal make their Pokémon GO debuts during an eventful May!",
             "link": "https://pokemongolive.com/en/post/may-2021-events/"
-        },
-        {
-            "date": "April 26, 2021",
-            "title": "Luminous Legends X: Xerneas makes its Pokémon GO debut alongside Dragon- and Fairy-type Pokémon originally discovered in the Kalos region!",
-            "link": "https://pokemongolive.com/en/post/luminouslegends-x-2021/"
         }
     ]
 }
