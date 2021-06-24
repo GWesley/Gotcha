@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "June 24, 2021",
+            "title": "Together We Raid: A Summer of Updates in Celebration of Raid Battles",
+            "link": "https://pokemongolive.com/en/post/togetherweraid/"
+        },
+        {
             "date": "June 21, 2021",
             "title": "Exploration Bonus Updates Coming to Pokémon GO",
             "link": "https://pokemongolive.com/en/post/hello-world-pokemon-go/"
@@ -97,11 +102,6 @@
             "date": "April 29, 2021",
             "title": "Swablu features during May Community Day—and Mega Altaria will be appearing afterward! ",
             "link": "https://pokemongolive.com/en/post/communityday-may21/"
-        },
-        {
-            "date": "April 27, 2021",
-            "title": "Mark your calendars! Pokémon GO Fest 2021 returns this July",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-save-the-date/"
         }
     ]
 }
