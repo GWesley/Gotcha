@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "June 24, 2021",
+            "title": "Pokémon GO Fest 2021: Raid Day will feature every Legendary Pokémon discovered in Pokémon GO so far!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2021-raidday/"
+        },
+        {
+            "date": "June 24, 2021",
             "title": "Together We Raid: A Summer of Updates in Celebration of Raid Battles",
             "link": "https://pokemongolive.com/en/post/togetherweraid/"
         },
@@ -97,11 +102,6 @@
             "date": "May 3, 2021",
             "title": "May Limited Research featuring Marill is coming soon!",
             "link": "https://pokemongolive.com/en/post/limitedresearch-may2021/"
-        },
-        {
-            "date": "April 29, 2021",
-            "title": "Swablu features during May Community Day—and Mega Altaria will be appearing afterward! ",
-            "link": "https://pokemongolive.com/en/post/communityday-may21/"
         }
     ]
 }
