@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "July 1, 2021",
+            "title": "Pokémon GO Fest 2021 might be coming to a city near you!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2021-cityactivations/"
+        },
+        {
             "date": "June 29, 2021",
             "title": "Coming in July: Pokémon GO Fest 2021 and more!",
             "link": "https://pokemongolive.com/en/post/jul-2021-events/"
@@ -97,11 +102,6 @@
             "date": "May 20, 2021",
             "title": "Gible Community Day is coming!",
             "link": "https://pokemongolive.com/en/post/communityday-jun21/"
-        },
-        {
-            "date": "May 10, 2021",
-            "title": "Luminous Legends Y: Yveltal joins Xerneas in Pokémon GO—and Team GO Rocket wants in on the action!",
-            "link": "https://pokemongolive.com/en/post/luminouslegends-y-2021/"
         }
     ]
 }
