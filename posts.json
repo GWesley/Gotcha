@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "July 5, 2021",
+            "title": "Happy fifth anniversary, Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/birthday2021/"
+        },
+        {
             "date": "July 1, 2021",
             "title": "Pokémon GO Fest 2021 might be coming to a city near you!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-cityactivations/"
@@ -97,11 +102,6 @@
             "date": "May 27, 2021",
             "title": "Get ready for a musical summer—Pokémon GO Fest 2021 is coming soon!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-announcement/"
-        },
-        {
-            "date": "May 20, 2021",
-            "title": "Gible Community Day is coming!",
-            "link": "https://pokemongolive.com/en/post/communityday-jun21/"
         }
     ]
 }
