@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "July 7, 2021",
+            "title": "Make the most of Pokémon GO Fest 2021 with exclusives from Google Play!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2021-googleplay/"
+        },
+        {
             "date": "July 5, 2021",
             "title": "Happy fifth anniversary, Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/birthday2021/"
@@ -97,11 +102,6 @@
             "date": "June 1, 2021",
             "title": "The Season of Discovery starts soon!",
             "link": "https://pokemongolive.com/en/post/season-of-discovery-2021/"
-        },
-        {
-            "date": "May 27, 2021",
-            "title": "Get ready for a musical summer—Pokémon GO Fest 2021 is coming soon!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-announcement/"
         }
     ]
 }
