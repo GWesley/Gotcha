@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "July 8, 2021",
+            "title": "More Pokémon GO Fest 2021 details, as well as a preview of a new Ultra Unlock!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2021-ultraunlock/"
+        },
+        {
             "date": "July 7, 2021",
             "title": "Make the most of Pokémon GO Fest 2021 with exclusives from Google Play!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-googleplay/"
@@ -97,11 +102,6 @@
             "date": "June 1, 2021",
             "title": "The Season of Discovery begins with a very slow event",
             "link": "https://pokemongolive.com/en/post/a-very-slow-discovery/"
-        },
-        {
-            "date": "June 1, 2021",
-            "title": "The Season of Discovery starts soon!",
-            "link": "https://pokemongolive.com/en/post/season-of-discovery-2021/"
         }
     ]
 }
