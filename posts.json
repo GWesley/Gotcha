@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "July 16, 2021",
+            "title": "Tune in for the Pokémon GO Fest 2021 kickoff video and more! ",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2021-content/"
+        },
+        {
             "date": "July 12, 2021",
             "title": "Get three months of YouTube Premium on us!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-youtubepremium/"
@@ -97,11 +102,6 @@
             "date": "June 11, 2021",
             "title": "GO Battle League Season 8 begins Monday, May 31, 2021, at 1:00 p.m. PDT (GMT −7)",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season8/"
-        },
-        {
-            "date": "June 10, 2021",
-            "title": "June events: Get a free Remote Raid Pass from Research Breakthroughs all through this month, and more!",
-            "link": "https://pokemongolive.com/en/post/jun-2021-events/"
         }
     ]
 }
