@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "July 19, 2021",
+            "title": "Thank you for an amazing Pokémon GO Fest 2021!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2021-recap/"
+        },
+        {
             "date": "July 16, 2021",
             "title": "Tune in for the Pokémon GO Fest 2021 kickoff video and more! ",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-content/"
@@ -97,11 +102,6 @@
             "date": "June 15, 2021",
             "title": "It’s a solstice surprise: Regigigas is coming to five-star raids!",
             "link": "https://pokemongolive.com/en/post/solstice-2021/"
-        },
-        {
-            "date": "June 11, 2021",
-            "title": "GO Battle League Season 8 begins Monday, May 31, 2021, at 1:00 p.m. PDT (GMT −7)",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season8/"
         }
     ]
 }
