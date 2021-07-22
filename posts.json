@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "July 22, 2021",
+            "title": "Eevee Community Day is back—with special attacks for each of Eevee’s Evolutions!",
+            "link": "https://pokemongolive.com/en/post/communityday-aug21/"
+        },
+        {
             "date": "July 21, 2021",
             "title": "Prepare for Ultra Unlock Part 1: Time and Ultra Unlock Part 2: Space!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-ultraunlock-time-space/"
@@ -97,11 +102,6 @@
             "date": "June 15, 2021",
             "title": "Professor Willow’s Pokémon TCG Debut!",
             "link": "https://pokemongolive.com/en/post/pcg-professor-willow-details/"
-        },
-        {
-            "date": "June 15, 2021",
-            "title": "Bidoof will be breaking out, and Shiny Bidoof is coming—BIDOOF! ",
-            "link": "https://pokemongolive.com/en/post/bidoof-breakout-2021/"
         }
     ]
 }
