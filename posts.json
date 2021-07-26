@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "July 26, 2021",
+            "title": "Coming in August: Ultra Unlock and more!",
+            "link": "https://pokemongolive.com/en/post/aug-2021-events/"
+        },
+        {
             "date": "July 22, 2021",
             "title": "Eevee Community Day is back—with special attacks for each of Eevee’s Evolutions!",
             "link": "https://pokemongolive.com/en/post/communityday-aug21/"
@@ -97,11 +102,6 @@
             "date": "June 17, 2021",
             "title": "Revamped Pokémon GO homepage, upcoming in-game updates, and more!",
             "link": "https://pokemongolive.com/en/post/webpagerefresh-2021/"
-        },
-        {
-            "date": "June 15, 2021",
-            "title": "Professor Willow’s Pokémon TCG Debut!",
-            "link": "https://pokemongolive.com/en/post/pcg-professor-willow-details/"
         }
     ]
 }
