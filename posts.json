@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "August 16, 2021",
+            "title": "Celebrate adventuring by starlight with the lyrical version of Pokémon GO’s Night Theme!",
+            "link": "https://pokemongolive.com/en/post/night-theme-lyrical-music-video/"
+        },
+        {
             "date": "August 4, 2021",
             "title": "Trainers can now add friends directly from their device’s contacts list!",
             "link": "https://pokemongolive.com/en/post/import-contacts-live/"
@@ -97,11 +102,6 @@
             "date": "June 21, 2021",
             "title": "Get fired up for Tepig Community Day!",
             "link": "https://pokemongolive.com/en/post/communityday-jul21/"
-        },
-        {
-            "date": "June 20, 2021",
-            "title": "Shiny Corsola is appearing for the first time in Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/flying-pikachu-2021/"
         }
     ]
 }
