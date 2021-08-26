@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "August 26, 2021",
+            "title": "GO Battle League: Season 9 Update",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season9/"
+        },
+        {
             "date": "August 20, 2021",
             "title": "September Community Day: Osha-watch out—the Sea Otter Pokémon, Oshawott, will be featured!",
             "link": "https://pokemongolive.com/en/post/communityday-sept21/"
@@ -97,11 +102,6 @@
             "date": "June 24, 2021",
             "title": "Together We Raid: A Summer of Updates in Celebration of Raid Battles",
             "link": "https://pokemongolive.com/en/post/togetherweraid/"
-        },
-        {
-            "date": "June 21, 2021",
-            "title": "Exploration Bonus Updates Coming to Pokémon GO",
-            "link": "https://pokemongolive.com/en/post/hello-world-pokemon-go/"
         }
     ]
 }
