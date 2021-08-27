@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "August 27, 2021",
+            "title": "Coming in September: Get ready for the Season of Mischief and more!",
+            "link": "https://pokemongolive.com/en/post/sept-2021-events/"
+        },
+        {
+            "date": "August 27, 2021",
             "title": "Welcome to the Season of Mischief!",
             "link": "https://pokemongolive.com/en/post/season-of-mischief-2021/"
         },
@@ -97,11 +102,6 @@
             "date": "June 28, 2021",
             "title": "More Bidoof incoming...",
             "link": "https://pokemongolive.com/en/post/bidoof-day-2021/"
-        },
-        {
-            "date": "June 24, 2021",
-            "title": "Pokémon GO Fest 2021: Raid Day will feature every Legendary Pokémon discovered in Pokémon GO so far!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-raidday/"
         }
     ]
 }
