@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "August 27, 2021",
+            "title": "Welcome to the Season of Mischief!",
+            "link": "https://pokemongolive.com/en/post/season-of-mischief-2021/"
+        },
+        {
             "date": "August 26, 2021",
             "title": "GO Battle League: Season 9 Update",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season9/"
@@ -97,11 +102,6 @@
             "date": "June 24, 2021",
             "title": "Pokémon GO Fest 2021: Raid Day will feature every Legendary Pokémon discovered in Pokémon GO so far!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-raidday/"
-        },
-        {
-            "date": "June 24, 2021",
-            "title": "Together We Raid: A Summer of Updates in Celebration of Raid Battles",
-            "link": "https://pokemongolive.com/en/post/togetherweraid/"
         }
     ]
 }
