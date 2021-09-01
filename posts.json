@@ -5,6 +5,11 @@
     "posts": [
         {
             "date": "September 1, 2021",
+            "title": "Inkay and Malamar make their Pokémon GO debuts during the Psychic Spectacular!",
+            "link": "https://pokemongolive.com/en/post/psychic-spectacular-2021/"
+        },
+        {
+            "date": "September 1, 2021",
             "title": "What we heard -- an update from our task force",
             "link": "https://pokemongolive.com/en/post/sep-taskforce-update/"
         },
@@ -97,11 +102,6 @@
             "date": "July 1, 2021",
             "title": "Pokémon GO Fest 2021 might be coming to a city near you!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-cityactivations/"
-        },
-        {
-            "date": "June 29, 2021",
-            "title": "Coming in July: Pokémon GO Fest 2021 and more!",
-            "link": "https://pokemongolive.com/en/post/jul-2021-events/"
         }
     ]
 }
