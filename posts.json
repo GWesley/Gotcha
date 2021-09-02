@@ -4,6 +4,11 @@
     ],
     "posts": [
         {
+            "date": "September 2, 2021",
+            "title": "New dates and details now available for rescheduled Pokémon GO Safari Zone events",
+            "link": "https://pokemongolive.com/en/post/safarizone-2021/"
+        },
+        {
             "date": "September 1, 2021",
             "title": "Inkay and Malamar make their Pokémon GO debuts during the Psychic Spectacular!",
             "link": "https://pokemongolive.com/en/post/psychic-spectacular-2021/"
@@ -97,11 +102,6 @@
             "date": "July 5, 2021",
             "title": "Happy fifth anniversary, Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/birthday2021/"
-        },
-        {
-            "date": "July 1, 2021",
-            "title": "Pokémon GO Fest 2021 might be coming to a city near you!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-cityactivations/"
         }
     ]
 }
