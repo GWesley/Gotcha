@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "September 9, 2021",
+            "title": "October Community Day: Duskull, the Requiem Pokémon, will be featured!",
+            "link": "https://pokemongolive.com/en/post/communityday-oct21/"
+        },
+        {
             "date": "September 2, 2021",
             "title": "New dates and details now available for rescheduled Pokémon GO Safari Zone events",
             "link": "https://pokemongolive.com/en/post/safarizone-2021/"
@@ -98,11 +103,6 @@
             "date": "July 7, 2021",
             "title": "Make the most of Pokémon GO Fest 2021 with exclusives from Google Play!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-googleplay/"
-        },
-        {
-            "date": "July 5, 2021",
-            "title": "Happy fifth anniversary, Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/birthday2021/"
         }
     ]
 }
