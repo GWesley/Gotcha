@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "September 13, 2021",
+            "title": "Furfrou and costumed Pokémon frolic into Pokémon GO for Fashion Week!",
+            "link": "https://pokemongolive.com/en/post/fashion-week-2021/"
+        },
+        {
             "date": "September 9, 2021",
             "title": "October Community Day: Duskull, the Requiem Pokémon, will be featured!",
             "link": "https://pokemongolive.com/en/post/communityday-oct21/"
@@ -98,11 +103,6 @@
             "date": "July 8, 2021",
             "title": "More Pokémon GO Fest 2021 details, as well as a preview of a new Ultra Unlock!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-ultraunlock/"
-        },
-        {
-            "date": "July 7, 2021",
-            "title": "Make the most of Pokémon GO Fest 2021 with exclusives from Google Play!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-googleplay/"
         }
     ]
 }
