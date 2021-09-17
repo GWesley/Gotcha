@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年9月16日",
+            "title": "『ポケモン GO』5周年を記念した特別動画を公開しました！\n",
+            "link": "https://pokemongolive.com/ja/post/birthday2021-video/"
+        },
+        {
             "date": "2021年9月13日",
             "title": "「トリミアン」とおしゃれなポケモンたちが「ファッションウィーク」にやって来ます！",
             "link": "https://pokemongolive.com/ja/post/fashion-week-2021/"
@@ -98,11 +103,6 @@
             "date": "2021年7月9日",
             "title": "「Pokémon GO Fest 2021」で「プリントアットホームキット」がさらに進化して再登場！\n",
             "link": "https://pokemongolive.com/ja/post/pokemongofest2021-printathome/"
-        },
-        {
-            "date": "2021年7月8日",
-            "title": "「Pokémon GO Fest 2021」の追加情報と「ウルトラアンロック」について",
-            "link": "https://pokemongolive.com/ja/post/pokemongofest2021-ultraunlock/"
         }
     ]
 }
