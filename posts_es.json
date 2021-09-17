@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 de septiembre de 2021",
+            "title": "¡Ya está aquí el vídeo del quinto aniversario de Pokémon GO!",
+            "link": "https://pokemongolive.com/es/post/birthday2021-video/"
+        },
+        {
             "date": "13 de septiembre de 2021",
             "title": "¡Furfrou y otros Pokémon vestidos llegan a Pokémon GO por la Semana de la Moda!",
             "link": "https://pokemongolive.com/es/post/fashion-week-2021/"
@@ -98,11 +103,6 @@
             "date": "9 de julio de 2021",
             "title": "¡El kit para imprimir en casa del Festival de Pokémon GO ha vuelto y es mejor que nunca!",
             "link": "https://pokemongolive.com/es/post/pokemongofest2021-printathome/"
-        },
-        {
-            "date": "8 de julio de 2021",
-            "title": "¡Más detalles del Festival de Pokémon GO 2021 y una vista previa del nuevo ultrabonus!",
-            "link": "https://pokemongolive.com/es/post/pokemongofest2021-ultraunlock/"
         }
     ]
 }
