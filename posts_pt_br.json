@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 de setembro de 2021",
+            "title": "Confiram aqui o vídeo do 5º aniversário do Pokémon GO!",
+            "link": "https://pokemongolive.com/pt_br/post/birthday2021-video/"
+        },
+        {
             "date": "14 de setembro de 2021",
             "title": "Participem do Wayfarer Challenge Brasil, ajudem a aprovar novas Poképaradas e ganhem recompensas exclusivas!",
             "link": "https://pokemongolive.com/pt_br/post/wayfarer-challenge-brazil/"
@@ -98,11 +103,6 @@
             "date": "12 de julho de 2021",
             "title": "Obtenha três meses de YouTube Premium por nossa conta!",
             "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-youtubepremium/"
-        },
-        {
-            "date": "9 de julho de 2021",
-            "title": "O kit de impressão em casa do Pokémon GO Fest está de volta, e melhor do que nunca!",
-            "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-printathome/"
         }
     ]
 }
