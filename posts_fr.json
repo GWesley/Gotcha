@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 septembre 2021",
+            "title": "La vidéo du 5e anniversaire de Pokémon GO est là !",
+            "link": "https://pokemongolive.com/fr/post/birthday2021-video/"
+        },
+        {
             "date": "13 septembre 2021",
             "title": "Couafarel et les Pokémon costumés sont les stars de la Fashion Week dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/fashion-week-2021/"
@@ -98,11 +103,6 @@
             "date": "8 juillet 2021",
             "title": "Plus de détails sur le Pokémon GO Fest 2021, ainsi qu'un aperçu d'un nouvel Ultra Bonus !",
             "link": "https://pokemongolive.com/fr/post/pokemongofest2021-ultraunlock/"
-        },
-        {
-            "date": "7 juillet 2021",
-            "title": "Profitez au maximum du Pokémon GO Fest 2021 avec les exclusivités de Google Play !",
-            "link": "https://pokemongolive.com/fr/post/pokemongofest2021-googleplay/"
         }
     ]
 }
