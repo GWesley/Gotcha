@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "date": "2021年9月16日",
+            "title": "Pokémon GO公開5週年紀念影片！",
+            "link": "https://pokemongolive.com/zh_hant/post/birthday2021-video/"
+        },
+        {
+            "date": "2021年9月16日",
+            "title": "台灣專屬活動「高雄全島糖王爭霸戰」：為你的城市挺身而戰！\n",
+            "link": "https://pokemongolive.com/zh_hant/post/tw-candychallenge/"
+        },
+        {
             "date": "2021年9月13日",
             "title": "「時裝週」：多麗米亞和其他扮裝的寶可夢將登上《Pokémon GO》！",
             "link": "https://pokemongolive.com/zh_hant/post/fashion-week-2021/"
@@ -93,16 +103,6 @@
             "date": "2021年7月7日",
             "title": "獲得Google Play獨家好禮，讓你的Pokémon GO Fest 2021精彩無比！",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-googleplay/"
-        },
-        {
-            "date": "2021年7月5日",
-            "title": "歡慶《Pokémon GO》5週年！",
-            "link": "https://pokemongolive.com/zh_hant/post/birthday2021/"
-        },
-        {
-            "date": "2021年6月29日",
-            "title": "7月活動：「Pokémon GO Fest」以及更多精彩內容！",
-            "link": "https://pokemongolive.com/zh_hant/post/jul-2021-events/"
         }
     ]
 }
