@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16. September 2021",
+            "title": "Das Video zum 5. Jubiläum von Pokémon GO ist da!",
+            "link": "https://pokemongolive.com/de/post/birthday2021-video/"
+        },
+        {
             "date": "13. September 2021",
             "title": "Coiffwaff und kostümierte Pokémon stürmen Pokémon GO für die Fashion Week!",
             "link": "https://pokemongolive.com/de/post/fashion-week-2021/"
@@ -98,11 +103,6 @@
             "date": "9. Juli 2021",
             "title": "Die neuen Bastelvorlagen für das Pokémon GO Fest sind besser als je zuvor!",
             "link": "https://pokemongolive.com/de/post/pokemongofest2021-printathome/"
-        },
-        {
-            "date": "8. Juli 2021",
-            "title": "Weitere Details zum Pokémon GO Fest 2021 und Ausblick auf den diesjährigen Hyperbonus",
-            "link": "https://pokemongolive.com/de/post/pokemongofest2021-ultraunlock/"
         }
     ]
 }
