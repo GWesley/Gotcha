@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 9월 16일",
+            "title": " “Pokémon GO” 5주년을 기념한 특별 영상을 공개했습니다!",
+            "link": "https://pokemongolive.com/ko/post/birthday2021-video/"
+        },
+        {
             "date": "2021년 9월 13일",
             "title": "「트리미앙」 과 의상을 입은 포켓몬들이 「패션 위크」에 옵니다!",
             "link": "https://pokemongolive.com/ko/post/fashion-week-2021/"
@@ -98,11 +103,6 @@
             "date": "2021년 7월 7일",
             "title": "Google Play에서 드리는 한정 특전으로 「Pokémon GO Fest 2021」을 최대한 즐겨보세요!\n",
             "link": "https://pokemongolive.com/ko/post/pokemongofest2021-googleplay/"
-        },
-        {
-            "date": "2021년 7월 5일",
-            "title": "「Pokémon GO」 5주년을 축하해주세요!\n",
-            "link": "https://pokemongolive.com/ko/post/birthday2021/"
         }
     ]
 }
