@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "September 16, 2021",
+            "title": "The Pokémon GO 5th anniversary video is here!",
+            "link": "https://pokemongolive.com/en/post/birthday2021-video/"
+        },
+        {
             "date": "September 13, 2021",
             "title": "Furfrou and costumed Pokémon frolic into Pokémon GO for Fashion Week!",
             "link": "https://pokemongolive.com/en/post/fashion-week-2021/"
@@ -98,11 +103,6 @@
             "date": "July 9, 2021",
             "title": "The Pokémon GO Fest Print at Home kit is back and better than ever!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-printathome/"
-        },
-        {
-            "date": "July 8, 2021",
-            "title": "More Pokémon GO Fest 2021 details, as well as a preview of a new Ultra Unlock!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-ultraunlock/"
         }
     ]
 }
