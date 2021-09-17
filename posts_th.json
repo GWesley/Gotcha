@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 กันยายน 2564",
+            "title": "วิดีโอพิเศษฉลองครบรอบ 5 ปี Pokémon GO!\n",
+            "link": "https://pokemongolive.com/th/post/birthday2021-video/"
+        },
+        {
             "date": "13 กันยายน 2564",
             "title": "ทริมเมียนและโปเกมอนในชุดคอสตูมจะมาเฉิดฉายใน Pokémon GO ในสัปดาห์แฟชั่น!",
             "link": "https://pokemongolive.com/th/post/fashion-week-2021/"
@@ -98,11 +103,6 @@
             "date": "7 กรกฎาคม 2564",
             "title": "สนุกไปกับ Pokémon GO Fest 2021 ด้วยสิทธิพิเศษจาก Google Play กันเลย!",
             "link": "https://pokemongolive.com/th/post/pokemongofest2021-googleplay/"
-        },
-        {
-            "date": "5 กรกฎาคม 2564",
-            "title": "ฉลองครบรอบ 5 ปี Pokémon GO!",
-            "link": "https://pokemongolive.com/th/post/birthday2021/"
         }
     ]
 }
