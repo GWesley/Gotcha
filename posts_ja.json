@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年9月21日",
+            "title": "「劇場版ポケットモンスター ココ」の海外公開を記念して、幻のポケモン「ザルード」が初登場！",
+            "link": "https://pokemongolive.com/ja/post/movie-2021/"
+        },
+        {
             "date": "2021年9月16日",
             "title": "『ポケモン GO』5周年を記念した特別動画を公開しました！\n",
             "link": "https://pokemongolive.com/ja/post/birthday2021-video/"
@@ -98,11 +103,6 @@
             "date": "2021年7月12日",
             "title": "トレーナーの皆さん：YouTube Premium 3ヶ月分をプレゼント！\n",
             "link": "https://pokemongolive.com/ja/post/pokemongofest2021-youtubepremium/"
-        },
-        {
-            "date": "2021年7月9日",
-            "title": "「Pokémon GO Fest 2021」で「プリントアットホームキット」がさらに進化して再登場！\n",
-            "link": "https://pokemongolive.com/ja/post/pokemongofest2021-printathome/"
         }
     ]
 }
