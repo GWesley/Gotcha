@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "September 21, 2021",
+            "title": "The Mythical Pokémon Zarude debuts in Pokémon GO to celebrate the global release of Pokémon the Movie: Secrets of the Jungle",
+            "link": "https://pokemongolive.com/en/post/movie-2021/"
+        },
+        {
             "date": "September 16, 2021",
             "title": "The Pokémon GO 5th anniversary video is here!",
             "link": "https://pokemongolive.com/en/post/birthday2021-video/"
@@ -98,11 +103,6 @@
             "date": "July 12, 2021",
             "title": "Get three months of YouTube Premium on us!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-youtubepremium/"
-        },
-        {
-            "date": "July 9, 2021",
-            "title": "The Pokémon GO Fest Print at Home kit is back and better than ever!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-printathome/"
         }
     ]
 }
