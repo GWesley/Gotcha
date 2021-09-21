@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "21 กันยายน 2564",
+            "title": "โปเกมอนมายา \"ซารู้ด\" จะเปิดตัวใน Pokémon GO เพื่อฉลองการเปิดตัวภาพยนตร์ \"โปเกมอน: การผจญภัยของพิคาชูและโคโค\" ทั่วโลก",
+            "link": "https://pokemongolive.com/th/post/movie-2021/"
+        },
+        {
             "date": "16 กันยายน 2564",
             "title": "วิดีโอพิเศษฉลองครบรอบ 5 ปี Pokémon GO!\n",
             "link": "https://pokemongolive.com/th/post/birthday2021-video/"
@@ -98,11 +103,6 @@
             "date": "8 กรกฎาคม 2564",
             "title": "รายละเอียดเพิ่มเติมของ Pokémon GO Fest 2021 และปลดล็อกอัลตร้า!",
             "link": "https://pokemongolive.com/th/post/pokemongofest2021-ultraunlock/"
-        },
-        {
-            "date": "7 กรกฎาคม 2564",
-            "title": "สนุกไปกับ Pokémon GO Fest 2021 ด้วยสิทธิพิเศษจาก Google Play กันเลย!",
-            "link": "https://pokemongolive.com/th/post/pokemongofest2021-googleplay/"
         }
     ]
 }
