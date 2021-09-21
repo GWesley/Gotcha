@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "21 settembre 2021",
+            "title": "Il Pokémon misterioso Zarude fa il suo debutto in Pokémon GO per festeggiare l’uscita mondiale del film Pokémon I segreti della giungla",
+            "link": "https://pokemongolive.com/it/post/movie-2021/"
+        },
+        {
             "date": "16 settembre 2021",
             "title": "Il video del quinto anniversario di Pokémon GO è pronto!",
             "link": "https://pokemongolive.com/it/post/birthday2021-video/"
@@ -98,11 +103,6 @@
             "date": "12 luglio 2021",
             "title": "Tre mesi di YouTube Premium gratis!",
             "link": "https://pokemongolive.com/it/post/pokemongofest2021-youtubepremium/"
-        },
-        {
-            "date": "9 luglio 2021",
-            "title": "Il kit \"Stampa da casa\" del Pokémon GO Fest è tornato ed è più bello che mai!",
-            "link": "https://pokemongolive.com/it/post/pokemongofest2021-printathome/"
         }
     ]
 }
