@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "21 de septiembre de 2021",
+            "title": "El Pokémon singular Zarude aparece por primera vez en Pokémon GO para celebrar el lanzamiento mundial de la película Pokémon Los secretos de la selva.",
+            "link": "https://pokemongolive.com/es/post/movie-2021/"
+        },
+        {
             "date": "16 de septiembre de 2021",
             "title": "¡Ya está aquí el vídeo del quinto aniversario de Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/birthday2021-video/"
@@ -98,11 +103,6 @@
             "date": "12 de julio de 2021",
             "title": "¡Tres meses de YouTube Premium corren por nuestra cuenta!",
             "link": "https://pokemongolive.com/es/post/pokemongofest2021-youtubepremium/"
-        },
-        {
-            "date": "9 de julio de 2021",
-            "title": "¡El kit para imprimir en casa del Festival de Pokémon GO ha vuelto y es mejor que nunca!",
-            "link": "https://pokemongolive.com/es/post/pokemongofest2021-printathome/"
         }
     ]
 }
