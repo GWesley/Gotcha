@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 de setembro de 2021",
+            "title": "Em outubro: Pokémon GO Halloween 2021 e muito mais!",
+            "link": "https://pokemongolive.com/pt_br/post/oct-2021-events/"
+        },
+        {
             "date": "21 de setembro de 2021",
             "title": "O Pokémon Mítico Zarude faz sua estreia no Pokémon GO para celebrar o lançamento global de Pokémon, o filme: Segredos da selva",
             "link": "https://pokemongolive.com/pt_br/post/movie-2021/"
@@ -98,11 +103,6 @@
             "date": "19 de julho de 2021",
             "title": "Obrigado por um incrível Pokémon GO Fest 2021!",
             "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-recap/"
-        },
-        {
-            "date": "16 de julho de 2021",
-            "title": "Fiquem ligados no vídeo de lançamento do Pokémon GO Fest 2021 e em várias outras novidades! ",
-            "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-content/"
         }
     ]
 }
