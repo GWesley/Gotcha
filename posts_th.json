@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 กันยายน 2564",
+            "title": "ตุลาคมมาแน่:  Pokémon GO ฮาโลวีน 2021 และอีกมากมาย!",
+            "link": "https://pokemongolive.com/th/post/oct-2021-events/"
+        },
+        {
             "date": "21 กันยายน 2564",
             "title": "โปเกมอนมายา \"ซารู้ด\" จะเปิดตัวใน Pokémon GO เพื่อฉลองการเปิดตัวภาพยนตร์ \"โปเกมอน: การผจญภัยของพิคาชูและโคโค\" ทั่วโลก",
             "link": "https://pokemongolive.com/th/post/movie-2021/"
@@ -98,11 +103,6 @@
             "date": "9 กรกฎาคม 2564",
             "title": "ชุดพิมพ์ที่บ้านกลับมาแล้วและเจ๋งขึ้นกว่าที่เคย!\n",
             "link": "https://pokemongolive.com/th/post/pokemongofest2021-printathome/"
-        },
-        {
-            "date": "8 กรกฎาคม 2564",
-            "title": "รายละเอียดเพิ่มเติมของ Pokémon GO Fest 2021 และปลดล็อกอัลตร้า!",
-            "link": "https://pokemongolive.com/th/post/pokemongofest2021-ultraunlock/"
         }
     ]
 }
