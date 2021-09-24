@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 9월 24일",
+            "title": "10월 일정: 「Pokémon GO 핼러윈 2021」 및 다양한 이벤트가 개최!",
+            "link": "https://pokemongolive.com/ko/post/oct-2021-events/"
+        },
+        {
             "date": "2021년 9월 21일",
             "title": "극장판 포켓몬스터 「정글의 아이, 코코」 개봉을 기념하여 환상의 포켓몬 \"자루도\"가 처음으로 등장!",
             "link": "https://pokemongolive.com/ko/post/movie-2021/"
@@ -98,11 +103,6 @@
             "date": "2021년 7월 12일",
             "title": "트레이너 여러분: YouTube Premium 3개월 체험권을 받아 가세요!\n",
             "link": "https://pokemongolive.com/ko/post/pokemongofest2021-youtubepremium/"
-        },
-        {
-            "date": "2021년 7월 8일",
-            "title": "「Pokémon GO Fest 2021」 추가 소식 및 울트라 언록에 대해!\n",
-            "link": "https://pokemongolive.com/ko/post/pokemongofest2021-ultraunlock/"
         }
     ]
 }
