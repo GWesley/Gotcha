@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年9月24日",
+            "title": "10月活動：「Pokémon GO萬聖節 2021」及更多活動即將登場！",
+            "link": "https://pokemongolive.com/zh_hant/post/oct-2021-events/"
+        },
+        {
             "date": "2021年9月21日",
             "title": "慶祝寶可夢電影「寶可夢：皮卡丘與可可的冒險」全球上映，幻之寶可夢薩戮德將首次登場！",
             "link": "https://pokemongolive.com/zh_hant/post/movie-2021/"
@@ -98,11 +103,6 @@
             "date": "2021年7月12日",
             "title": "親愛的訓練家們：我們將贈送3個月的免費YouTube Premium！\n",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-youtubepremium/"
-        },
-        {
-            "date": "2021年7月8日",
-            "title": "更多「Pokémon GO Fest 2021」的消息，以及究極解鎖的情報！\n",
-            "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-ultraunlock/"
         }
     ]
 }
