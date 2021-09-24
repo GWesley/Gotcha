@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 septembre 2021",
+            "title": "À venir en octobre : Pokémon GO Halloween 2021 et bien plus encore !",
+            "link": "https://pokemongolive.com/fr/post/oct-2021-events/"
+        },
+        {
             "date": "21 septembre 2021",
             "title": "Zarude, le Pokémon fabuleux, fait son entrée dans Pokémon GO pour fêter la sortie mondiale de Pokémon, le film : Les secrets de la jungle",
             "link": "https://pokemongolive.com/fr/post/movie-2021/"
@@ -98,11 +103,6 @@
             "date": "12 juillet 2021",
             "title": "Profitez de trois mois de YouTube Premium offerts !",
             "link": "https://pokemongolive.com/fr/post/pokemongofest2021-youtubepremium/"
-        },
-        {
-            "date": "9 juillet 2021",
-            "title": "Le kit Pokémon GO Fest « Imprimer à la maison » est de retour et plus cool que jamais !",
-            "link": "https://pokemongolive.com/fr/post/pokemongofest2021-printathome/"
         }
     ]
 }
