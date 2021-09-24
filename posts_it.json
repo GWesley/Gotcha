@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 settembre 2021",
+            "title": "In arrivo a ottobre: Pokémon GO Halloween 2021 e molto altro!",
+            "link": "https://pokemongolive.com/it/post/oct-2021-events/"
+        },
+        {
             "date": "21 settembre 2021",
             "title": "Il Pokémon misterioso Zarude fa il suo debutto in Pokémon GO per festeggiare l’uscita mondiale del film Pokémon I segreti della giungla",
             "link": "https://pokemongolive.com/it/post/movie-2021/"
@@ -98,11 +103,6 @@
             "date": "16 luglio 2021",
             "title": "Sintonizzatevi per il trailer di lancio del Pokémon GO Fest 2021 e molto altro! ",
             "link": "https://pokemongolive.com/it/post/pokemongofest2021-content/"
-        },
-        {
-            "date": "12 luglio 2021",
-            "title": "Tre mesi di YouTube Premium gratis!",
-            "link": "https://pokemongolive.com/it/post/pokemongofest2021-youtubepremium/"
         }
     ]
 }
