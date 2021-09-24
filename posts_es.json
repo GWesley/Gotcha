@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 de septiembre de 2021",
+            "title": "Próximamente en octubre: ¡Pokémon GO Halloween 2021 y más!",
+            "link": "https://pokemongolive.com/es/post/oct-2021-events/"
+        },
+        {
             "date": "21 de septiembre de 2021",
             "title": "El Pokémon singular Zarude aparece por primera vez en Pokémon GO para celebrar el lanzamiento mundial de la película Pokémon Los secretos de la selva.",
             "link": "https://pokemongolive.com/es/post/movie-2021/"
@@ -98,11 +103,6 @@
             "date": "16 de julio de 2021",
             "title": "¡Conéctate para ver el vídeo de inauguración del Festival de Pokémon GO 2021 y mucho más! ",
             "link": "https://pokemongolive.com/es/post/pokemongofest2021-content/"
-        },
-        {
-            "date": "12 de julio de 2021",
-            "title": "¡Tres meses de YouTube Premium corren por nuestra cuenta!",
-            "link": "https://pokemongolive.com/es/post/pokemongofest2021-youtubepremium/"
         }
     ]
 }
