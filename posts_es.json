@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5 de octubre de 2021",
+            "title": "Anuncio de la Serie de Campeonatos de Pokémon GO",
+            "link": "https://pokemongolive.com/es/post/pgo-championship-series-announce/"
+        },
+        {
             "date": "24 de septiembre de 2021",
             "title": "Próximamente en octubre: ¡Pokémon GO Halloween 2021 y más!",
             "link": "https://pokemongolive.com/es/post/oct-2021-events/"
@@ -98,11 +103,6 @@
             "date": "19 de julio de 2021",
             "title": "¡Gracias por este maravilloso Festival de Pokémon GO 2021!",
             "link": "https://pokemongolive.com/es/post/pokemongofest2021-recap/"
-        },
-        {
-            "date": "16 de julio de 2021",
-            "title": "¡Conéctate para ver el vídeo de inauguración del Festival de Pokémon GO 2021 y mucho más! ",
-            "link": "https://pokemongolive.com/es/post/pokemongofest2021-content/"
         }
     ]
 }
