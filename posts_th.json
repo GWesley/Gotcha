@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5 ตุลาคม 2564",
+            "title": "Pokémon World Championships 2022",
+            "link": "https://pokemongolive.com/th/post/pgo-championship-series-announce/"
+        },
+        {
             "date": "24 กันยายน 2564",
             "title": "ตุลาคมมาแน่:  Pokémon GO ฮาโลวีน 2021 และอีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/oct-2021-events/"
@@ -98,11 +103,6 @@
             "date": "16 กรกฎาคม 2564",
             "title": "รับชมวิดีโอเปิดตัว GO Fest 2021 และอื่นๆ อีกมากมาย! ",
             "link": "https://pokemongolive.com/th/post/pokemongofest2021-content/"
-        },
-        {
-            "date": "9 กรกฎาคม 2564",
-            "title": "ชุดพิมพ์ที่บ้านกลับมาแล้วและเจ๋งขึ้นกว่าที่เคย!\n",
-            "link": "https://pokemongolive.com/th/post/pokemongofest2021-printathome/"
         }
     ]
 }
