@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 10월 5일",
+            "title": "“포켓몬 월드 챔피언십2022”",
+            "link": "https://pokemongolive.com/ko/post/pgo-championship-series-announce/"
+        },
+        {
             "date": "2021년 9월 24일",
             "title": "10월 일정: 「Pokémon GO 핼러윈 2021」 및 다양한 이벤트가 개최!",
             "link": "https://pokemongolive.com/ko/post/oct-2021-events/"
@@ -98,11 +103,6 @@
             "date": "2021년 7월 16일",
             "title": "\"Pokémon GO Fest 2021\" 킥오프 동영상과 다양한 소식을 확인하세요! ",
             "link": "https://pokemongolive.com/ko/post/pokemongofest2021-content/"
-        },
-        {
-            "date": "2021년 7월 12일",
-            "title": "트레이너 여러분: YouTube Premium 3개월 체험권을 받아 가세요!\n",
-            "link": "https://pokemongolive.com/ko/post/pokemongofest2021-youtubepremium/"
         }
     ]
 }
