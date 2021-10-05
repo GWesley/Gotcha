@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月5日",
+            "title": "「2022 Pokémon World Championships」",
+            "link": "https://pokemongolive.com/zh_hant/post/pgo-championship-series-announce/"
+        },
+        {
             "date": "2021年9月24日",
             "title": "10月活動：「Pokémon GO萬聖節 2021」及更多活動即將登場！",
             "link": "https://pokemongolive.com/zh_hant/post/oct-2021-events/"
@@ -98,11 +103,6 @@
             "date": "2021年7月16日",
             "title": "鎖定Pokémon GO Fest 2021開幕影片，還有更多內容！\n",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-content/"
-        },
-        {
-            "date": "2021年7月12日",
-            "title": "親愛的訓練家們：我們將贈送3個月的免費YouTube Premium！\n",
-            "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-youtubepremium/"
         }
     ]
 }
