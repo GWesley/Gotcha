@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5 de outubro de 2021",
+            "title": "Anunciamos o Pokémon GO Championship Series",
+            "link": "https://pokemongolive.com/pt_br/post/pgo-championship-series-announce/"
+        },
+        {
             "date": "24 de setembro de 2021",
             "title": "Em outubro: Pokémon GO Halloween 2021 e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/oct-2021-events/"
@@ -98,11 +103,6 @@
             "date": "21 de julho de 2021",
             "title": "Preparem-se para os Ultradesbloqueios Parte 1: tempo e Parte 2: espaço!",
             "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-ultraunlock-time-space/"
-        },
-        {
-            "date": "19 de julho de 2021",
-            "title": "Obrigado por um incrível Pokémon GO Fest 2021!",
-            "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-recap/"
         }
     ]
 }
