@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月5日",
+            "title": "「ポケモンワールドチャンピオンシップス2022」について",
+            "link": "https://pokemongolive.com/ja/post/pgo-championship-series-announce/"
+        },
+        {
             "date": "2021年9月24日",
             "title": "10月のスケジュール：「Pokémon GO ハロウィン2021」などのイベントが開催！\n",
             "link": "https://pokemongolive.com/ja/post/oct-2021-events/"
@@ -98,11 +103,6 @@
             "date": "2021年7月18日",
             "title": "『Pokémon GO』日本リリース5周年を記念したプレゼントキャンペーンを実施します！\n",
             "link": "https://pokemongolive.com/ja/post/pgo5th-campaign/"
-        },
-        {
-            "date": "2021年7月16日",
-            "title": "「Pokémon GO Fest 2021」キックオフ動画をご覧ください！他にも盛りだくさん！\n",
-            "link": "https://pokemongolive.com/ja/post/pokemongofest2021-content/"
         }
     ]
 }
