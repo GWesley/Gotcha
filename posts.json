@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "October 7, 2021",
+            "title": "Tune in to Twitch Rivals ft. Pokémon GO, presented by Samsung!",
+            "link": "https://pokemongolive.com/en/post/twitch-rivals-2021/"
+        },
+        {
             "date": "October 5, 2021",
             "title": "Announcing the Pokémon GO Championship Series",
             "link": "https://pokemongolive.com/en/post/pgo-championship-series-announce/"
@@ -98,11 +103,6 @@
             "date": "July 21, 2021",
             "title": "Prepare for Ultra Unlock Part 1: Time and Ultra Unlock Part 2: Space!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2021-ultraunlock-time-space/"
-        },
-        {
-            "date": "July 19, 2021",
-            "title": "Thank you for an amazing Pokémon GO Fest 2021!",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-recap/"
         }
     ]
 }
