@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月11日",
+            "title": "「Pokémon GO ハロウィン」では、不気味な仲間が現れ、\n様々な2倍ボーナスが獲得できます！",
+            "link": "https://pokemongolive.com/ja/post/halloween-2021/"
+        },
+        {
             "date": "2021年10月5日",
             "title": "「ポケモンワールドチャンピオンシップス2022」について",
             "link": "https://pokemongolive.com/ja/post/pgo-championship-series-announce/"
@@ -98,11 +103,6 @@
             "date": "2021年7月19日",
             "title": "「Pokémon GO Fest 2021」にご参加いただきありがとうございました！",
             "link": "https://pokemongolive.com/ja/post/pokemongofest2021-recap/"
-        },
-        {
-            "date": "2021年7月18日",
-            "title": "『Pokémon GO』日本リリース5周年を記念したプレゼントキャンペーンを実施します！\n",
-            "link": "https://pokemongolive.com/ja/post/pgo5th-campaign/"
         }
     ]
 }
