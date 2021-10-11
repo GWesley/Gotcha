@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月11日",
+            "title": "「Pokémon GO萬聖節惡作劇」將帶來嚇人的同伴、恐怖的夥伴，還有雙倍的不給糖就搗蛋！",
+            "link": "https://pokemongolive.com/zh_hant/post/halloween-2021/"
+        },
+        {
             "date": "2021年10月5日",
             "title": "「2022 Pokémon World Championships」",
             "link": "https://pokemongolive.com/zh_hant/post/pgo-championship-series-announce/"
@@ -98,11 +103,6 @@
             "date": "2021年7月21日",
             "title": "究極獎勵「第一部分：時間」和「第二部分：空間」即將登場！",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-ultraunlock-time-space/"
-        },
-        {
-            "date": "2021年7月16日",
-            "title": "鎖定Pokémon GO Fest 2021開幕影片，還有更多內容！\n",
-            "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-content/"
         }
     ]
 }
