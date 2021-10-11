@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 10월 11일",
+            "title": "Pokémon GO 핼러윈”에서는 으스스한 동료가 나타나며 다양한 보너스가 2배로 받을 수 있습니다!",
+            "link": "https://pokemongolive.com/ko/post/halloween-2021/"
+        },
+        {
             "date": "2021년 10월 5일",
             "title": "“포켓몬 월드 챔피언십2022”",
             "link": "https://pokemongolive.com/ko/post/pgo-championship-series-announce/"
@@ -98,11 +103,6 @@
             "date": "2021년 7월 19일",
             "title": "“Pokémon GO Fest 2021”에 참가해 주셔서 감사합니다!\n",
             "link": "https://pokemongolive.com/ko/post/pokemongofest2021-recap/"
-        },
-        {
-            "date": "2021년 7월 16일",
-            "title": "\"Pokémon GO Fest 2021\" 킥오프 동영상과 다양한 소식을 확인하세요! ",
-            "link": "https://pokemongolive.com/ko/post/pokemongofest2021-content/"
         }
     ]
 }
