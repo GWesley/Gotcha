@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "11 de octubre de 2021",
+            "title": "¡Pokémon GO Halloween nos trae Compañeros espeluznantes,\nCompañeros macabros y el doble de sustos y golosinas!",
+            "link": "https://pokemongolive.com/es/post/halloween-2021/"
+        },
+        {
             "date": "5 de octubre de 2021",
             "title": "Anuncio de la Serie de Campeonatos de Pokémon GO",
             "link": "https://pokemongolive.com/es/post/pgo-championship-series-announce/"
@@ -98,11 +103,6 @@
             "date": "21 de julio de 2021",
             "title": "¡Preparaos para el Ultrabonus Parte 1: Tiempo y el Ultrabonus Parte 2: Espacio!",
             "link": "https://pokemongolive.com/es/post/pokemongofest2021-ultraunlock-time-space/"
-        },
-        {
-            "date": "19 de julio de 2021",
-            "title": "¡Gracias por este maravilloso Festival de Pokémon GO 2021!",
-            "link": "https://pokemongolive.com/es/post/pokemongofest2021-recap/"
         }
     ]
 }
