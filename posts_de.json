@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "11. Oktober 2021",
+            "title": "Halloween in Pokémon GO bedeutet Gruselige Gesellschaft,\nSchaurige Gesellen – und doppelt so viel Süßes oder Saures!",
+            "link": "https://pokemongolive.com/de/post/halloween-2021/"
+        },
+        {
             "date": "5. Oktober 2021",
             "title": "Ankündigung der Pokémon GO Championship Series",
             "link": "https://pokemongolive.com/de/post/pgo-championship-series-announce/"
@@ -98,11 +103,6 @@
             "date": "21. Juli 2021",
             "title": "Teil 1: Zeit und Teil 2: Raum des Hyperbonus-Events stehen bevor!",
             "link": "https://pokemongolive.com/de/post/pokemongofest2021-ultraunlock-time-space/"
-        },
-        {
-            "date": "19. Juli 2021",
-            "title": "Danke für ein unvergessliches Pokémon GO Fest 2021!",
-            "link": "https://pokemongolive.com/de/post/pokemongofest2021-recap/"
         }
     ]
 }
