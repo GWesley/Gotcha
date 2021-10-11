@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "11 de outubro de 2021",
+            "title": "O Halloween do Pokémon GO terá Parceiros assustadores,\nCamaradas macabros e o dobro de doces e travessuras!",
+            "link": "https://pokemongolive.com/pt_br/post/halloween-2021/"
+        },
+        {
             "date": "5 de outubro de 2021",
             "title": "Anunciamos o Pokémon GO Championship Series",
             "link": "https://pokemongolive.com/pt_br/post/pgo-championship-series-announce/"
@@ -98,11 +103,6 @@
             "date": "22 de julho de 2021",
             "title": "O Dia Comunitário de Eeve está de volta! Vocês verão vários ataques especiais para cada uma das evoluções dele!",
             "link": "https://pokemongolive.com/pt_br/post/communityday-aug21/"
-        },
-        {
-            "date": "21 de julho de 2021",
-            "title": "Preparem-se para os Ultradesbloqueios Parte 1: tempo e Parte 2: espaço!",
-            "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-ultraunlock-time-space/"
         }
     ]
 }
