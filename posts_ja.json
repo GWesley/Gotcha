@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月13日",
+            "title": "『Pokémon GO』の体験を向上するためのテストをまもなく実施",
+            "link": "https://pokemongolive.com/ja/post/ux-testing-2021/"
+        },
+        {
             "date": "2021年10月12日",
             "title": "『Pokémon GO』 スペシャル・ウィークエンド のご案内！",
             "link": "https://pokemongolive.com/ja/post/202112specialweekend-jp/"
@@ -98,11 +103,6 @@
             "date": "2021年7月22日",
             "title": "「イーブイ」が「コミュニティ・デイ」に再登場！進化すると特別なわざを覚えます！",
             "link": "https://pokemongolive.com/ja/post/communityday-aug21/"
-        },
-        {
-            "date": "2021年7月21日",
-            "title": "ウルトラアンロック「パート1：時間」「パート2：空間」がやってきます！",
-            "link": "https://pokemongolive.com/ja/post/pokemongofest2021-ultraunlock-time-space/"
         }
     ]
 }
