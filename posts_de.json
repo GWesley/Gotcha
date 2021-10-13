@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "13. Oktober 2021",
+            "title": "Anstehende Tests für Verbesserungen an Pokémon GO",
+            "link": "https://pokemongolive.com/de/post/ux-testing-2021/"
+        },
+        {
             "date": "11. Oktober 2021",
             "title": "Halloween in Pokémon GO bedeutet Gruselige Gesellschaft,\nSchaurige Gesellen – und doppelt so viel Süßes oder Saures!",
             "link": "https://pokemongolive.com/de/post/halloween-2021/"
@@ -98,11 +103,6 @@
             "date": "22. Juli 2021",
             "title": "Der Community Day mit Evoli ist zurück – mit besonderen Attacken für seine Weiterentwicklungen!",
             "link": "https://pokemongolive.com/de/post/communityday-aug21/"
-        },
-        {
-            "date": "21. Juli 2021",
-            "title": "Teil 1: Zeit und Teil 2: Raum des Hyperbonus-Events stehen bevor!",
-            "link": "https://pokemongolive.com/de/post/pokemongofest2021-ultraunlock-time-space/"
         }
     ]
 }
