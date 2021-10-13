@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月13日",
+            "title": "改善Pokémon GO遊戲體驗的測試即將登場\n",
+            "link": "https://pokemongolive.com/zh_hant/post/ux-testing-2021/"
+        },
+        {
             "date": "2021年10月11日",
             "title": "「Pokémon GO萬聖節惡作劇」將帶來嚇人的同伴、恐怖的夥伴，還有雙倍的不給糖就搗蛋！",
             "link": "https://pokemongolive.com/zh_hant/post/halloween-2021/"
@@ -98,11 +103,6 @@
             "date": "2021年7月22日",
             "title": "伊布社群日回來囉！牠能學會的專用招式將依進化形態而異！",
             "link": "https://pokemongolive.com/zh_hant/post/communityday-aug21/"
-        },
-        {
-            "date": "2021年7月21日",
-            "title": "究極獎勵「第一部分：時間」和「第二部分：空間」即將登場！",
-            "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-ultraunlock-time-space/"
         }
     ]
 }
