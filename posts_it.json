@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "13 ottobre 2021",
+            "title": "In arrivo: test per migliorare l'esperienza di Pokémon GO",
+            "link": "https://pokemongolive.com/it/post/ux-testing-2021/"
+        },
+        {
             "date": "11 ottobre 2021",
             "title": "L’evento Halloween di Pokémon GO include Compagni inquietanti, Compagni macabri e il doppio dei dolcetti e scherzetti!",
             "link": "https://pokemongolive.com/it/post/halloween-2021/"
@@ -98,11 +103,6 @@
             "date": "22 luglio 2021",
             "title": "Il Community Day di Eevee è tornato con attacchi speciali per ciascuna delle evoluzioni di Eevee!",
             "link": "https://pokemongolive.com/it/post/communityday-aug21/"
-        },
-        {
-            "date": "21 luglio 2021",
-            "title": "Preparatevi per lo sblocco dell'ultrabonus Prima parte: tempo e Seconda parte: spazio!",
-            "link": "https://pokemongolive.com/it/post/pokemongofest2021-ultraunlock-time-space/"
         }
     ]
 }
