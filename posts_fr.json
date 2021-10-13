@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "13 octobre 2021",
+            "title": "À venir : des tests visant à améliorer l’expérience Pokémon GO",
+            "link": "https://pokemongolive.com/fr/post/ux-testing-2021/"
+        },
+        {
             "date": "11 octobre 2021",
             "title": "Pokémon GO Halloween débarque avec des Compagnons Cauchemar\net des Copains Effrayants ! Un bonbon ou un sort ? Pourquoi pas les deux ?",
             "link": "https://pokemongolive.com/fr/post/halloween-2021/"
@@ -98,11 +103,6 @@
             "date": "22 juillet 2021",
             "title": "La Journée Communauté Évoli est de retour, avec des attaques spéciales pour chacune des évolutions d'Évoli !",
             "link": "https://pokemongolive.com/fr/post/communityday-aug21/"
-        },
-        {
-            "date": "21 juillet 2021",
-            "title": "Préparez-vous pour le Ultra Unlock 1re partie : Temps et Ultra Unlock 2e partie : Espace !",
-            "link": "https://pokemongolive.com/fr/post/pokemongofest2021-ultraunlock-time-space/"
         }
     ]
 }
