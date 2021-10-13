@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "October 13, 2021",
+            "title": "Coming Soon: Testing improvements to the Pokémon GO experience",
+            "link": "https://pokemongolive.com/en/post/ux-testing-2021/"
+        },
+        {
             "date": "October 11, 2021",
             "title": "Pokémon GO Halloween brings Creepy Companions,\nGhoulish Pals, and double the tricks and treats!",
             "link": "https://pokemongolive.com/en/post/halloween-2021/"
@@ -98,11 +103,6 @@
             "date": "July 26, 2021",
             "title": "Coming in August: Ultra Unlock and more!",
             "link": "https://pokemongolive.com/en/post/aug-2021-events/"
-        },
-        {
-            "date": "July 22, 2021",
-            "title": "Eevee Community Day is back—with special attacks for each of Eevee’s Evolutions!",
-            "link": "https://pokemongolive.com/en/post/communityday-aug21/"
         }
     ]
 }
