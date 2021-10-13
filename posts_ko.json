@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 10월 13일",
+            "title": "“Pokémon GO” 플레이 향상을 위한 테스트를 실시",
+            "link": "https://pokemongolive.com/ko/post/ux-testing-2021/"
+        },
+        {
             "date": "2021년 10월 11일",
             "title": "Pokémon GO 핼러윈”에서는 으스스한 동료가 나타나며 다양한 보너스가 2배로 받을 수 있습니다!",
             "link": "https://pokemongolive.com/ko/post/halloween-2021/"
@@ -98,11 +103,6 @@
             "date": "2021년 7월 21일",
             "title": "울트라 언록 「파트1: 시간」, 「파트2: 공간」이 다가옵니다!",
             "link": "https://pokemongolive.com/ko/post/pokemongofest2021-ultraunlock-time-space/"
-        },
-        {
-            "date": "2021년 7월 19일",
-            "title": "“Pokémon GO Fest 2021”에 참가해 주셔서 감사합니다!\n",
-            "link": "https://pokemongolive.com/ko/post/pokemongofest2021-recap/"
         }
     ]
 }
