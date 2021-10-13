@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "13 ตุลาคม 2564",
+            "title": "เร็ว ๆ นี้: การทดสอบการปรับปรุงประสบการณ์ใน Pokémon GO",
+            "link": "https://pokemongolive.com/th/post/ux-testing-2021/"
+        },
+        {
             "date": "11 ตุลาคม 2564",
             "title": "Pokémon GO ฮาโลวีนนี้ เตรียมพบกับสหายสุดสยอง และพรรณพืชชวนฉงน\nรวมถึงเรื่องสุดป่วนและของขวัญถึงสองเท่า!",
             "link": "https://pokemongolive.com/th/post/halloween-2021/"
@@ -98,11 +103,6 @@
             "date": "21 กรกฎาคม 2564",
             "title": "ปลดล็อก “ปลดล็อกอัลตร้าส่วนที่ 1: เวลา” และ “ปลดล็อกอัลตร้าส่วนที่ 2: ปริภูมิ” แล้ว!",
             "link": "https://pokemongolive.com/th/post/pokemongofest2021-ultraunlock-time-space/"
-        },
-        {
-            "date": "19 กรกฎาคม 2564",
-            "title": "ขอบคุณทุกท่านที่มาร่วมสนุกกันใน Pokémon GO Fest 2021!",
-            "link": "https://pokemongolive.com/th/post/pokemongofest2021-recap/"
         }
     ]
 }
