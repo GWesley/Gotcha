@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20 ottobre 2021",
+            "title": "La vostra strada verso i Campionati mondiali Pokémon 2022",
+            "link": "https://pokemongolive.com/it/post/pgo-championship-announce-details/"
+        },
+        {
             "date": "13 ottobre 2021",
             "title": "In arrivo: test per migliorare l'esperienza di Pokémon GO",
             "link": "https://pokemongolive.com/it/post/ux-testing-2021/"
@@ -98,11 +103,6 @@
             "date": "26 luglio 2021",
             "title": "In arrivo ad agosto: sblocco dell'ultrabonus e molto altro!",
             "link": "https://pokemongolive.com/it/post/aug-2021-events/"
-        },
-        {
-            "date": "22 luglio 2021",
-            "title": "Il Community Day di Eevee è tornato con attacchi speciali per ciascuna delle evoluzioni di Eevee!",
-            "link": "https://pokemongolive.com/it/post/communityday-aug21/"
         }
     ]
 }
