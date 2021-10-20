@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20 de outubro de 2021",
+            "title": "Caminho para o Campeonato Mundial Pokémon de 2022",
+            "link": "https://pokemongolive.com/pt_br/post/pgo-championship-announce-details/"
+        },
+        {
             "date": "13 de outubro de 2021",
             "title": "Em breve: testando melhorias na experiência do Pokémon GO",
             "link": "https://pokemongolive.com/pt_br/post/ux-testing-2021/"
@@ -98,11 +103,6 @@
             "date": "3 de agosto de 2021",
             "title": "O Ultradesbloqueio Parte 3 terá tudo a ver com a região de Galar! ",
             "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-ultraunlock-sword-shield/"
-        },
-        {
-            "date": "26 de julho de 2021",
-            "title": "Em agosto: Ultradesbloqueio e muito mais!",
-            "link": "https://pokemongolive.com/pt_br/post/aug-2021-events/"
         }
     ]
 }
