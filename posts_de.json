@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20. Oktober 2021",
+            "title": "Euer Weg zu den Pokémon World Championships 2022",
+            "link": "https://pokemongolive.com/de/post/pgo-championship-announce-details/"
+        },
+        {
             "date": "13. Oktober 2021",
             "title": "Anstehende Tests für Verbesserungen an Pokémon GO",
             "link": "https://pokemongolive.com/de/post/ux-testing-2021/"
@@ -98,11 +103,6 @@
             "date": "26. Juli 2021",
             "title": "Events im August: Hyperbonus und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/aug-2021-events/"
-        },
-        {
-            "date": "22. Juli 2021",
-            "title": "Der Community Day mit Evoli ist zurück – mit besonderen Attacken für seine Weiterentwicklungen!",
-            "link": "https://pokemongolive.com/de/post/communityday-aug21/"
         }
     ]
 }
