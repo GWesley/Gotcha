@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "October 20, 2021",
+            "title": "Your path to the 2022 Pokémon World Championships",
+            "link": "https://pokemongolive.com/en/post/pgo-championship-announce-details/"
+        },
+        {
             "date": "October 19, 2021",
             "title": "Thanks for exploring Pokémon GO Safari Zone Liverpool!",
             "link": "https://pokemongolive.com/en/post/liverpool-safari-zone-2021/"
@@ -98,11 +103,6 @@
             "date": "August 4, 2021",
             "title": "Trainers can now add friends directly from their device’s contacts list!",
             "link": "https://pokemongolive.com/en/post/import-contacts-live/"
-        },
-        {
-            "date": "August 3, 2021",
-            "title": "Ultra Unlock Part 3 will be all about the Galar region! ",
-            "link": "https://pokemongolive.com/en/post/pokemongofest2021-ultraunlock-sword-shield/"
         }
     ]
 }
