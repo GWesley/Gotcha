@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "21 de octubre de 2021",
+            "title": "Diarios de desarrollador: Día de la Comunidad",
+            "link": "https://pokemongolive.com/es/post/devdiary-10192021/"
+        },
+        {
             "date": "20 de octubre de 2021",
             "title": "El camino hacia los Campeonatos Mundiales de Pokémon de 2022",
             "link": "https://pokemongolive.com/es/post/pgo-championship-announce-details/"
@@ -98,11 +103,6 @@
             "date": "3 de agosto de 2021",
             "title": "¡El Ultrabonus Parte 3 se centrará en la región de Galar! ",
             "link": "https://pokemongolive.com/es/post/pokemongofest2021-ultraunlock-sword-shield/"
-        },
-        {
-            "date": "26 de julio de 2021",
-            "title": "En agosto: ¡Ultrabonus y mucho más!",
-            "link": "https://pokemongolive.com/es/post/aug-2021-events/"
         }
     ]
 }
