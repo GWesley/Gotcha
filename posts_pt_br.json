@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "21 de outubro de 2021",
+            "title": "Diário do desenvolvedor: Dia Comunitário",
+            "link": "https://pokemongolive.com/pt_br/post/devdiary-10192021/"
+        },
+        {
             "date": "20 de outubro de 2021",
             "title": "Caminho para o Campeonato Mundial Pokémon de 2022",
             "link": "https://pokemongolive.com/pt_br/post/pgo-championship-announce-details/"
@@ -98,11 +103,6 @@
             "date": "4 de agosto de 2021",
             "title": "Agora, os treinadores podem adicionar amigos diretamente da lista de contatos dos dispositivos deles!",
             "link": "https://pokemongolive.com/pt_br/post/import-contacts-live/"
-        },
-        {
-            "date": "3 de agosto de 2021",
-            "title": "O Ultradesbloqueio Parte 3 terá tudo a ver com a região de Galar! ",
-            "link": "https://pokemongolive.com/pt_br/post/pokemongofest2021-ultraunlock-sword-shield/"
         }
     ]
 }
