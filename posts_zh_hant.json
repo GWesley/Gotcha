@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月21日",
+            "title": "開發團隊日記：社群日",
+            "link": "https://pokemongolive.com/zh_hant/post/devdiary-10192021/"
+        },
+        {
             "date": "2021年10月13日",
             "title": "改善Pokémon GO遊戲體驗的測試即將登場\n",
             "link": "https://pokemongolive.com/zh_hant/post/ux-testing-2021/"
@@ -98,11 +103,6 @@
             "date": "2021年7月26日",
             "title": "8月即將登場：究極解鎖與更多活動！",
             "link": "https://pokemongolive.com/zh_hant/post/aug-2021-events/"
-        },
-        {
-            "date": "2021年7月22日",
-            "title": "伊布社群日回來囉！牠能學會的專用招式將依進化形態而異！",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-aug21/"
         }
     ]
 }
