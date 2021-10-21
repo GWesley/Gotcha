@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "21 ตุลาคม 2564",
+            "title": "ไดอารี่ของผู้พัฒนา: คอมมิวนิตี้เดย์",
+            "link": "https://pokemongolive.com/th/post/devdiary-10192021/"
+        },
+        {
             "date": "13 ตุลาคม 2564",
             "title": "เร็ว ๆ นี้: การทดสอบการปรับปรุงประสบการณ์ใน Pokémon GO",
             "link": "https://pokemongolive.com/th/post/ux-testing-2021/"
@@ -98,11 +103,6 @@
             "date": "22 กรกฎาคม 2564",
             "title": "คอมมิวนิตี้เดย์อีวุยกลับมาอีกครั้ง—พร้อมกับท่าพิเศษเฉพาะร่างรวม 8 ท่า!",
             "link": "https://pokemongolive.com/th/post/communityday-aug21/"
-        },
-        {
-            "date": "21 กรกฎาคม 2564",
-            "title": "ปลดล็อก “ปลดล็อกอัลตร้าส่วนที่ 1: เวลา” และ “ปลดล็อกอัลตร้าส่วนที่ 2: ปริภูมิ” แล้ว!",
-            "link": "https://pokemongolive.com/th/post/pokemongofest2021-ultraunlock-time-space/"
         }
     ]
 }
