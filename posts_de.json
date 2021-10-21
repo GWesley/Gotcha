@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "21. Oktober 2021",
+            "title": "Entwicklertagebuch: Community Day",
+            "link": "https://pokemongolive.com/de/post/devdiary-10192021/"
+        },
+        {
             "date": "20. Oktober 2021",
             "title": "Euer Weg zu den Pokémon World Championships 2022",
             "link": "https://pokemongolive.com/de/post/pgo-championship-announce-details/"
@@ -98,11 +103,6 @@
             "date": "3. August 2021",
             "title": "Bei Teil 3 des Hyperbonus-Events dreht sich alles um die Galar-Region! ",
             "link": "https://pokemongolive.com/de/post/pokemongofest2021-ultraunlock-sword-shield/"
-        },
-        {
-            "date": "26. Juli 2021",
-            "title": "Events im August: Hyperbonus und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/aug-2021-events/"
         }
     ]
 }
