@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 ตุลาคม 2564",
+            "title": "คอมมิวนิตี้เดย์เดือนพฤศจิกายนนี้พบกับโปเกมอนแสงวาบโคลิงก์!",
+            "link": "https://pokemongolive.com/th/post/communityday-nov21/"
+        },
+        {
             "date": "21 ตุลาคม 2564",
             "title": "ไดอารี่ของผู้พัฒนา: คอมมิวนิตี้เดย์",
             "link": "https://pokemongolive.com/th/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "26 กรกฎาคม 2564",
             "title": "สิงหาคมมาแน่: ปลดล็อกอัลตร้าและอีเวนต์อื่น ๆ อีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/aug-2021-events/"
-        },
-        {
-            "date": "22 กรกฎาคม 2564",
-            "title": "คอมมิวนิตี้เดย์อีวุยกลับมาอีกครั้ง—พร้อมกับท่าพิเศษเฉพาะร่างรวม 8 ท่า!",
-            "link": "https://pokemongolive.com/th/post/communityday-aug21/"
         }
     ]
 }
