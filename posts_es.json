@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "22 de octubre de 2021",
+            "title": "A partir de noviembre: Festival de las luces ¡y mucho más!",
+            "link": "https://pokemongolive.com/es/post/nov-2021-events/"
+        },
+        {
+            "date": "22 de octubre de 2021",
             "title": "Día de la Comunidad de noviembre: ¡Shinx, el Pokémon Flash, será el destacado!",
             "link": "https://pokemongolive.com/es/post/communityday-nov21/"
         },
@@ -98,11 +103,6 @@
             "date": "16 de agosto de 2021",
             "title": "Vive épicas aventuras bajo las estrellas con la versión cantada del tema nocturno de Pokémon GO.",
             "link": "https://pokemongolive.com/es/post/night-theme-lyrical-music-video/"
-        },
-        {
-            "date": "4 de agosto de 2021",
-            "title": "¡Ahora los Entrenadores pueden añadir amigos directamente de la lista de contactos de su dispositivo!",
-            "link": "https://pokemongolive.com/es/post/import-contacts-live/"
         }
     ]
 }
