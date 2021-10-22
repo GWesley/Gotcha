@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 de outubro de 2021",
+            "title": "Dia Comunitário de novembro: Shinx, o Pokémon Lampejante, estará em destaque!",
+            "link": "https://pokemongolive.com/pt_br/post/communityday-nov21/"
+        },
+        {
             "date": "21 de outubro de 2021",
             "title": "Diário do desenvolvedor: Dia Comunitário",
             "link": "https://pokemongolive.com/pt_br/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "16 de agosto de 2021",
             "title": "Celebre aventuras à luz das estrelas com a versão com letra do Tema da Noite do Pokémon GO!",
             "link": "https://pokemongolive.com/pt_br/post/night-theme-lyrical-music-video/"
-        },
-        {
-            "date": "4 de agosto de 2021",
-            "title": "Agora, os treinadores podem adicionar amigos diretamente da lista de contatos dos dispositivos deles!",
-            "link": "https://pokemongolive.com/pt_br/post/import-contacts-live/"
         }
     ]
 }
