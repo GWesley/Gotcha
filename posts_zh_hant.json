@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月22日",
+            "title": "11月社群日：閃光寶可夢小貓怪將作為主角寶可夢登場！",
+            "link": "https://pokemongolive.com/zh_hant/post/communityday-nov21/"
+        },
+        {
             "date": "2021年10月21日",
             "title": "開發團隊日記：社群日",
             "link": "https://pokemongolive.com/zh_hant/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "2021年8月3日",
             "title": "「究極解鎖Part 3」的主題是伽勒爾地區！",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-ultraunlock-sword-shield/"
-        },
-        {
-            "date": "2021年7月26日",
-            "title": "8月即將登場：究極解鎖與更多活動！",
-            "link": "https://pokemongolive.com/zh_hant/post/aug-2021-events/"
         }
     ]
 }
