@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "22 octobre 2021",
+            "title": "À venir en novembre : Fête des lumières et plus encore !",
+            "link": "https://pokemongolive.com/fr/post/nov-2021-events/"
+        },
+        {
+            "date": "22 octobre 2021",
             "title": "Journée Communauté de novembre : Lixy, le Pokémon Flash, sera à l’honneur !",
             "link": "https://pokemongolive.com/fr/post/communityday-nov21/"
         },
@@ -98,11 +103,6 @@
             "date": "16 août 2021",
             "title": "Célébrez vos aventures nocturnes sous la lumière des étoiles avec la version chantée du thème nocturne de Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/night-theme-lyrical-music-video/"
-        },
-        {
-            "date": "4 août 2021",
-            "title": "Les Dresseurs et Dresseuses peuvent désormais ajouter des amis directement depuis la liste de contacts de leur appareil !",
-            "link": "https://pokemongolive.com/fr/post/import-contacts-live/"
         }
     ]
 }
