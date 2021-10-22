@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 de octubre de 2021",
+            "title": "Día de la Comunidad de noviembre: ¡Shinx, el Pokémon Flash, será el destacado!",
+            "link": "https://pokemongolive.com/es/post/communityday-nov21/"
+        },
+        {
             "date": "21 de octubre de 2021",
             "title": "Diarios de desarrollador: Día de la Comunidad",
             "link": "https://pokemongolive.com/es/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "4 de agosto de 2021",
             "title": "¡Ahora los Entrenadores pueden añadir amigos directamente de la lista de contactos de su dispositivo!",
             "link": "https://pokemongolive.com/es/post/import-contacts-live/"
-        },
-        {
-            "date": "3 de agosto de 2021",
-            "title": "¡El Ultrabonus Parte 3 se centrará en la región de Galar! ",
-            "link": "https://pokemongolive.com/es/post/pokemongofest2021-ultraunlock-sword-shield/"
         }
     ]
 }
