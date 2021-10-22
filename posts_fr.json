@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 octobre 2021",
+            "title": "Journée Communauté de novembre : Lixy, le Pokémon Flash, sera à l’honneur !",
+            "link": "https://pokemongolive.com/fr/post/communityday-nov21/"
+        },
+        {
             "date": "21 octobre 2021",
             "title": "Journal des développeurs : Journée communautaire",
             "link": "https://pokemongolive.com/fr/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "4 août 2021",
             "title": "Les Dresseurs et Dresseuses peuvent désormais ajouter des amis directement depuis la liste de contacts de leur appareil !",
             "link": "https://pokemongolive.com/fr/post/import-contacts-live/"
-        },
-        {
-            "date": "3 août 2021",
-            "title": "La 3e partie de l'événement Ultra Bonus mettra la région de Galar à l'honneur ! ",
-            "link": "https://pokemongolive.com/fr/post/pokemongofest2021-ultraunlock-sword-shield/"
         }
     ]
 }
