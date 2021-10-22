@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "22 ottobre 2021",
+            "title": "In arrivo a novembre: Festa delle luci e molto altro!",
+            "link": "https://pokemongolive.com/it/post/nov-2021-events/"
+        },
+        {
+            "date": "22 ottobre 2021",
             "title": "Community Day di novembre: il protagonista sarà Shinx, il Pokémon Baleno!",
             "link": "https://pokemongolive.com/it/post/communityday-nov21/"
         },
@@ -98,11 +103,6 @@
             "date": "16 agosto 2021",
             "title": "Celebrate l'avventura sotto le stelle con la versione cantata della colonna sonora notturna di Pokémon GO!",
             "link": "https://pokemongolive.com/it/post/night-theme-lyrical-music-video/"
-        },
-        {
-            "date": "4 agosto 2021",
-            "title": "Adesso gli Allenatori possono aggiungere amici direttamente dalla rubrica del proprio dispositivo.",
-            "link": "https://pokemongolive.com/it/post/import-contacts-live/"
         }
     ]
 }
