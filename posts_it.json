@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 ottobre 2021",
+            "title": "Community Day di novembre: il protagonista sarà Shinx, il Pokémon Baleno!",
+            "link": "https://pokemongolive.com/it/post/communityday-nov21/"
+        },
+        {
             "date": "21 ottobre 2021",
             "title": "Diario degli sviluppatori: Community Day",
             "link": "https://pokemongolive.com/it/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "4 agosto 2021",
             "title": "Adesso gli Allenatori possono aggiungere amici direttamente dalla rubrica del proprio dispositivo.",
             "link": "https://pokemongolive.com/it/post/import-contacts-live/"
-        },
-        {
-            "date": "3 agosto 2021",
-            "title": "Lo sblocco dell'ultrabonus - 3ª parte riguarderà la regione di Galar! ",
-            "link": "https://pokemongolive.com/it/post/pokemongofest2021-ultraunlock-sword-shield/"
         }
     ]
 }
