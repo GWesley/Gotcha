@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "22 ตุลาคม 2564",
+            "title": "ในเดือนพฤศจิกายนนี้: เทศกาลแห่งแสงและอีกมากมาย!",
+            "link": "https://pokemongolive.com/th/post/nov-2021-events/"
+        },
+        {
+            "date": "22 ตุลาคม 2564",
             "title": "คอมมิวนิตี้เดย์เดือนพฤศจิกายนนี้พบกับโปเกมอนแสงวาบโคลิงก์!",
             "link": "https://pokemongolive.com/th/post/communityday-nov21/"
         },
@@ -98,11 +103,6 @@
             "date": "3 สิงหาคม 2564",
             "title": "พบกับโปเกมอนจากภูมิภาคกาลาร์ในปลดล็อกอัลตร้าส่วนที่ 3!",
             "link": "https://pokemongolive.com/th/post/pokemongofest2021-ultraunlock-sword-shield/"
-        },
-        {
-            "date": "26 กรกฎาคม 2564",
-            "title": "สิงหาคมมาแน่: ปลดล็อกอัลตร้าและอีเวนต์อื่น ๆ อีกมากมาย!",
-            "link": "https://pokemongolive.com/th/post/aug-2021-events/"
         }
     ]
 }
