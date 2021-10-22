@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "22. Oktober 2021",
+            "title": "Im November: Lichtfestival und vieles mehr!",
+            "link": "https://pokemongolive.com/de/post/nov-2021-events/"
+        },
+        {
+            "date": "22. Oktober 2021",
             "title": "Community Day im Novermber: Sheinux, das Flacker-Pokémon",
             "link": "https://pokemongolive.com/de/post/communityday-nov21/"
         },
@@ -98,11 +103,6 @@
             "date": "16. August 2021",
             "title": "Die gesungene Version des Nachtthemas schafft Atmosphäre bei nächtlichen Pokémon GO-Abenteuern",
             "link": "https://pokemongolive.com/de/post/night-theme-lyrical-music-video/"
-        },
-        {
-            "date": "4. August 2021",
-            "title": "Freunde können jetzt direkt über die Kontaktliste hinzugefügt werden!",
-            "link": "https://pokemongolive.com/de/post/import-contacts-live/"
         }
     ]
 }
