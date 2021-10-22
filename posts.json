@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "October 22, 2021",
+            "title": "November Community Day: Shinx, the Flash Pokémon, will be featured!",
+            "link": "https://pokemongolive.com/en/post/communityday-nov21/"
+        },
+        {
             "date": "October 21, 2021",
             "title": "Dev Diaries: Community Day",
             "link": "https://pokemongolive.com/en/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "August 20, 2021",
             "title": "September Community Day: Osha-watch out—the Sea Otter Pokémon, Oshawott, will be featured!",
             "link": "https://pokemongolive.com/en/post/communityday-sept21/"
-        },
-        {
-            "date": "August 16, 2021",
-            "title": "Celebrate adventuring by starlight with the lyrical version of Pokémon GO’s Night Theme!",
-            "link": "https://pokemongolive.com/en/post/night-theme-lyrical-music-video/"
         }
     ]
 }
