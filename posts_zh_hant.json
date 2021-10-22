@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "2021年10月22日",
+            "title": "11月即將登場：光之祭典以及更多內容！",
+            "link": "https://pokemongolive.com/zh_hant/post/nov-2021-events/"
+        },
+        {
+            "date": "2021年10月22日",
             "title": "11月社群日：閃光寶可夢小貓怪將作為主角寶可夢登場！",
             "link": "https://pokemongolive.com/zh_hant/post/communityday-nov21/"
         },
@@ -98,11 +103,6 @@
             "date": "2021年8月4日",
             "title": "訓練家現在能透過通訊錄新增Pokémon GO朋友了！",
             "link": "https://pokemongolive.com/zh_hant/post/import-contacts-live/"
-        },
-        {
-            "date": "2021年8月3日",
-            "title": "「究極解鎖Part 3」的主題是伽勒爾地區！",
-            "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2021-ultraunlock-sword-shield/"
         }
     ]
 }
