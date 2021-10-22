@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22. Oktober 2021",
+            "title": "Community Day im Novermber: Sheinux, das Flacker-Pokémon",
+            "link": "https://pokemongolive.com/de/post/communityday-nov21/"
+        },
+        {
             "date": "21. Oktober 2021",
             "title": "Entwicklertagebuch: Community Day",
             "link": "https://pokemongolive.com/de/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "4. August 2021",
             "title": "Freunde können jetzt direkt über die Kontaktliste hinzugefügt werden!",
             "link": "https://pokemongolive.com/de/post/import-contacts-live/"
-        },
-        {
-            "date": "3. August 2021",
-            "title": "Bei Teil 3 des Hyperbonus-Events dreht sich alles um die Galar-Region! ",
-            "link": "https://pokemongolive.com/de/post/pokemongofest2021-ultraunlock-sword-shield/"
         }
     ]
 }
