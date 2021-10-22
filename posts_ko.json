@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 10월 22일",
+            "title": "11월 커뮤니티 데이: 섬광포켓몬 \"꼬링크\"가 대량발생합니다!",
+            "link": "https://pokemongolive.com/ko/post/communityday-nov21/"
+        },
+        {
             "date": "2021년 10월 21일",
             "title": "데펠로퍼 다이어리: 커뮤니티 데이",
             "link": "https://pokemongolive.com/ko/post/devdiary-10192021/"
@@ -98,11 +103,6 @@
             "date": "2021년 7월 26일",
             "title": "8월 스케줄: 「울트라 언록」과 다양한 이벤트!",
             "link": "https://pokemongolive.com/ko/post/aug-2021-events/"
-        },
-        {
-            "date": "2021년 7월 22일",
-            "title": "\"이브이\"가 커뮤니티 데이에 다시 등장합니다! 진화에 따라 특별한 기술을 배웁니다!",
-            "link": "https://pokemongolive.com/ko/post/communityday-aug21/"
         }
     ]
 }
