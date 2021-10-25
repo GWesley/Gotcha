@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25 ตุลาคม 2564",
+            "title": "ฉลองวัน Día de Muertos ใน Pokémon GO!",
+            "link": "https://pokemongolive.com/th/post/diademuertos2021/"
+        },
+        {
             "date": "22 ตุลาคม 2564",
             "title": "ในเดือนพฤศจิกายนนี้: เทศกาลแห่งแสงและอีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/nov-2021-events/"
@@ -98,11 +103,6 @@
             "date": "4 สิงหาคม 2564",
             "title": "เทรนเนอร์สามารถเพิ่มเพื่อนจากรายชื่อผู้ติดต่อใน Pokémon GO ได้แล้ว!",
             "link": "https://pokemongolive.com/th/post/import-contacts-live/"
-        },
-        {
-            "date": "3 สิงหาคม 2564",
-            "title": "พบกับโปเกมอนจากภูมิภาคกาลาร์ในปลดล็อกอัลตร้าส่วนที่ 3!",
-            "link": "https://pokemongolive.com/th/post/pokemongofest2021-ultraunlock-sword-shield/"
         }
     ]
 }
