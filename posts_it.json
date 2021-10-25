@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25 ottobre 2021",
+            "title": "Célébrez le Día de Muertos dans Pokémon GO !",
+            "link": "https://pokemongolive.com/it/post/diademuertos2021/"
+        },
+        {
             "date": "22 ottobre 2021",
             "title": "In arrivo a novembre: Festa delle luci e molto altro!",
             "link": "https://pokemongolive.com/it/post/nov-2021-events/"
@@ -98,11 +103,6 @@
             "date": "20 agosto 2021",
             "title": "Community Day di settembre: fate attenzione a Oshawott, il Pokémon Lontra, perché sarà il protagonista dell'evento!",
             "link": "https://pokemongolive.com/it/post/communityday-sept21/"
-        },
-        {
-            "date": "16 agosto 2021",
-            "title": "Celebrate l'avventura sotto le stelle con la versione cantata della colonna sonora notturna di Pokémon GO!",
-            "link": "https://pokemongolive.com/it/post/night-theme-lyrical-music-video/"
         }
     ]
 }
