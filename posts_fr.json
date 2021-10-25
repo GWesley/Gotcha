@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25 octobre 2021",
+            "title": "Célébrez le Día de Muertos dans Pokémon GO !",
+            "link": "https://pokemongolive.com/fr/post/diademuertos2021/"
+        },
+        {
             "date": "22 octobre 2021",
             "title": "À venir en novembre : Fête des lumières et plus encore !",
             "link": "https://pokemongolive.com/fr/post/nov-2021-events/"
@@ -98,11 +103,6 @@
             "date": "20 août 2021",
             "title": "Journée Communauté de septembre : Attention, moussaillons ! Moustillon, le Pokémon Loutre, sera en vedette !",
             "link": "https://pokemongolive.com/fr/post/communityday-sept21/"
-        },
-        {
-            "date": "16 août 2021",
-            "title": "Célébrez vos aventures nocturnes sous la lumière des étoiles avec la version chantée du thème nocturne de Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/night-theme-lyrical-music-video/"
         }
     ]
 }
