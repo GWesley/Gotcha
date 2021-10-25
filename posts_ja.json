@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年10月25日",
+            "title": "『Pokémon GO』で「Día de Muertos」を祝おう！",
+            "link": "https://pokemongolive.com/ja/post/diademuertos2021/"
+        },
+        {
             "date": "2021年10月22日",
             "title": "11月のスケジュール：「光のフェスティバル」などのイベントが開催！",
             "link": "https://pokemongolive.com/ja/post/nov-2021-events/"
@@ -98,11 +103,6 @@
             "date": "2021年8月16日",
             "title": "『Pokémon GO』の夜の楽曲（歌詞付きバージョン）と一緒に、星明かりで冒険をお祝いしよう！\n",
             "link": "https://pokemongolive.com/ja/post/night-theme-lyrical-music-video/"
-        },
-        {
-            "date": "2021年8月4日",
-            "title": "アドレス帳から『Pokémon GO』に友達を追加できるようになりました！",
-            "link": "https://pokemongolive.com/ja/post/import-contacts-live/"
         }
     ]
 }
