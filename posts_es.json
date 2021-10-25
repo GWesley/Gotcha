@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25 de octubre de 2021",
+            "title": "¡Celebrad el Día de Muertos en Pokémon GO!",
+            "link": "https://pokemongolive.com/es/post/diademuertos2021/"
+        },
+        {
             "date": "22 de octubre de 2021",
             "title": "A partir de noviembre: Festival de las luces ¡y mucho más!",
             "link": "https://pokemongolive.com/es/post/nov-2021-events/"
@@ -98,11 +103,6 @@
             "date": "20 de agosto de 2021",
             "title": "Día de la Comunidad de septiembre: ¡el Pokémon Nutria, Oshawott (Osha-watch out), será el destacado!",
             "link": "https://pokemongolive.com/es/post/communityday-sept21/"
-        },
-        {
-            "date": "16 de agosto de 2021",
-            "title": "Vive épicas aventuras bajo las estrellas con la versión cantada del tema nocturno de Pokémon GO.",
-            "link": "https://pokemongolive.com/es/post/night-theme-lyrical-music-video/"
         }
     ]
 }
