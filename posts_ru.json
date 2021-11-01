@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "1 ноября 2021 г.",
+            "title": "На Фестивале огней состоится ослепительный дебют Деденне, но со светом приходит и тень...",
+            "link": "https://pokemongolive.com/ru/post/festival-of-lights-2021/"
+        },
+        {
             "date": "25 октября 2021 г.",
             "title": "Отпразднуйте День мертвых в Pokémon GO!",
             "link": "https://pokemongolive.com/ru/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "26 августа 2021 г.",
             "title": "Обновление 9-го сезона Боевой Лиги GO",
             "link": "https://pokemongolive.com/ru/post/gobattleleague-season9/"
-        },
-        {
-            "date": "20 августа 2021 г.",
-            "title": "Сентябрьский День сообщества: Оша-вот и он – Покемон-Морская Выдра, Ошавотт, появится во время этого события!",
-            "link": "https://pokemongolive.com/ru/post/communityday-sept21/"
         }
     ]
 }
