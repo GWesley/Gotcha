@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "November 1, 2021",
+            "title": "Dedenne makes an illuminating debut during the Festival of Lights, but with light comes shadow...",
+            "link": "https://pokemongolive.com/en/post/festival-of-lights-2021/"
+        },
+        {
             "date": "October 25, 2021",
             "title": "Celebrate Día de Muertos in Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "August 27, 2021",
             "title": "Coming in September: Get ready for the Season of Mischief and more!",
             "link": "https://pokemongolive.com/en/post/sept-2021-events/"
-        },
-        {
-            "date": "August 27, 2021",
-            "title": "Welcome to the Season of Mischief!",
-            "link": "https://pokemongolive.com/en/post/season-of-mischief-2021/"
         }
     ]
 }
