@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "1 novembre 2021",
+            "title": "Dedenne fait une entrée éblouissante lors de la Fête des Lumières, mais avec la lumière viennent les ténèbres...",
+            "link": "https://pokemongolive.com/fr/post/festival-of-lights-2021/"
+        },
+        {
             "date": "25 octobre 2021",
             "title": "Célébrez le Día de Muertos dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "26 août 2021",
             "title": "Mise à jour de la saison 9 de la Ligue de Combat GO",
             "link": "https://pokemongolive.com/fr/post/gobattleleague-season9/"
-        },
-        {
-            "date": "20 août 2021",
-            "title": "Journée Communauté de septembre : Attention, moussaillons ! Moustillon, le Pokémon Loutre, sera en vedette !",
-            "link": "https://pokemongolive.com/fr/post/communityday-sept21/"
         }
     ]
 }
