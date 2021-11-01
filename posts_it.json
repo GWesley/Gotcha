@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "1 novembre 2021",
+            "title": "Dedenne farà un luminoso esordio durante la Festa delle luci, ma non c'è luce senza oscurità…",
+            "link": "https://pokemongolive.com/it/post/festival-of-lights-2021/"
+        },
+        {
             "date": "25 ottobre 2021",
             "title": "Célébrez le Día de Muertos dans Pokémon GO !",
             "link": "https://pokemongolive.com/it/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "26 agosto 2021",
             "title": "Lega Lotte GO: aggiornamento sulla nona stagione",
             "link": "https://pokemongolive.com/it/post/gobattleleague-season9/"
-        },
-        {
-            "date": "20 agosto 2021",
-            "title": "Community Day di settembre: fate attenzione a Oshawott, il Pokémon Lontra, perché sarà il protagonista dell'evento!",
-            "link": "https://pokemongolive.com/it/post/communityday-sept21/"
         }
     ]
 }
