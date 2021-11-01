@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "1 พฤศจิกายน 2564",
+            "title": "เดเด็นเนะเปิดตัวอย่างสว่างไสวในช่วงเทศกาลแห่งแสง ทว่าที่ใดมีแสง ที่นั่นย่อมมีเงา...",
+            "link": "https://pokemongolive.com/th/post/festival-of-lights-2021/"
+        },
+        {
             "date": "25 ตุลาคม 2564",
             "title": "ฉลองวัน Día de Muertos ใน Pokémon GO!",
             "link": "https://pokemongolive.com/th/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "16 สิงหาคม 2564",
             "title": "ฉลองการผจญภัยใต้แสงดาวกับธีมกลางคืนของ Pokémon GO เวอร์ชันเนื้อร้อง!\n",
             "link": "https://pokemongolive.com/th/post/night-theme-lyrical-music-video/"
-        },
-        {
-            "date": "4 สิงหาคม 2564",
-            "title": "เทรนเนอร์สามารถเพิ่มเพื่อนจากรายชื่อผู้ติดต่อใน Pokémon GO ได้แล้ว!",
-            "link": "https://pokemongolive.com/th/post/import-contacts-live/"
         }
     ]
 }
