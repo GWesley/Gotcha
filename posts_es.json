@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "1 de noviembre de 2021",
+            "title": "Dedenne hará una aparición luminosa en el Festival de las luces, pero con la luz llega la sombra...",
+            "link": "https://pokemongolive.com/es/post/festival-of-lights-2021/"
+        },
+        {
             "date": "25 de octubre de 2021",
             "title": "¡Celebrad el Día de Muertos en Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "26 de agosto de 2021",
             "title": "Novedades sobre la Liga Combates GO: Temporada 9",
             "link": "https://pokemongolive.com/es/post/gobattleleague-season9/"
-        },
-        {
-            "date": "20 de agosto de 2021",
-            "title": "Día de la Comunidad de septiembre: ¡el Pokémon Nutria, Oshawott (Osha-watch out), será el destacado!",
-            "link": "https://pokemongolive.com/es/post/communityday-sept21/"
         }
     ]
 }
