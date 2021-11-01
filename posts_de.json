@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "1. November 2021",
+            "title": "Dedenne legt beim Lichtfestival ein strahlendes Debüt hin, doch mit dem Licht kommt auch der Schatten...",
+            "link": "https://pokemongolive.com/de/post/festival-of-lights-2021/"
+        },
+        {
             "date": "25. Oktober 2021",
             "title": "Feiert den Día de Muertos in Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "26. August 2021",
             "title": "9. Saison der GO-Kampfliga",
             "link": "https://pokemongolive.com/de/post/gobattleleague-season9/"
-        },
-        {
-            "date": "20. August 2021",
-            "title": "Beim Community Day im September sorgt das Otter-Pokémon Ottaro für Abkühlung!",
-            "link": "https://pokemongolive.com/de/post/communityday-sept21/"
         }
     ]
 }
