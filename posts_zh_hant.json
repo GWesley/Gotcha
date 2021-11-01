@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年11月1日",
+            "title": "咚咚鼠在光之祭典閃亮登場，但暗影總是如影隨形……",
+            "link": "https://pokemongolive.com/zh_hant/post/festival-of-lights-2021/"
+        },
+        {
             "date": "2021年10月25日",
             "title": "在Pokémon GO中歡慶亡靈節吧！",
             "link": "https://pokemongolive.com/zh_hant/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "2021年8月20日",
             "title": "以海獺寶可夢「水水獺」為主角的9月社群日來囉！",
             "link": "https://pokemongolive.com/zh_hant/post/communityday-sept21/"
-        },
-        {
-            "date": "2021年8月16日",
-            "title": "用Pokémon GO夜晚主題曲 （附歌詞版）來歡慶星光下的冒險吧！",
-            "link": "https://pokemongolive.com/zh_hant/post/night-theme-lyrical-music-video/"
         }
     ]
 }
