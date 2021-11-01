@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年11月1日",
+            "title": "「光のフェスティバル」で「デデンネ」がまばゆいデビューを果たしますが、光あるところには影もあります…",
+            "link": "https://pokemongolive.com/ja/post/festival-of-lights-2021/"
+        },
+        {
             "date": "2021年10月31日",
             "title": "「ファミリーマート」が『Pokémon GO』公式パートナーとなります！\n",
             "link": "https://pokemongolive.com/ja/post/familymart/"
@@ -98,11 +103,6 @@
             "date": "2021年8月27日",
             "title": "「いたずらなシーズン」へようこそ！",
             "link": "https://pokemongolive.com/ja/post/season-of-mischief-2021/"
-        },
-        {
-            "date": "2021年8月26日",
-            "title": "GOバトルリーグ：シーズン9アップデート",
-            "link": "https://pokemongolive.com/ja/post/gobattleleague-season9/"
         }
     ]
 }
