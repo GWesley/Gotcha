@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 11월 1일",
+            "title": "\"빛의 페스티벌\"에 \"데덴네\"가 처음으로 눈부시게 등장합니다. 하지만 빛이 있으면 그림자도 있죠...",
+            "link": "https://pokemongolive.com/ko/post/festival-of-lights-2021/"
+        },
+        {
             "date": "2021년 10월 25일",
             "title": "\"Pokémon GO\"에서 Día de Muertos를 기념하세요!",
             "link": "https://pokemongolive.com/ko/post/diademuertos2021/"
@@ -98,11 +103,6 @@
             "date": "2021년 8월 16일",
             "title": "\"Pokémon GO\"의 밤의 음악과 함께 별빛 아래에서의 모험을 기념합시다!",
             "link": "https://pokemongolive.com/ko/post/night-theme-lyrical-music-video/"
-        },
-        {
-            "date": "2021년 8월 4일",
-            "title": "연락처에서 「Pokémon GO」에 친구를 추가할 수 있습니다!",
-            "link": "https://pokemongolive.com/ko/post/import-contacts-live/"
         }
     ]
 }
