@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2 novembre 2021",
+            "title": "Merci d’avoir participé à la Zone Safari Pokémon GO de Philadelphie !",
+            "link": "https://pokemongolive.com/fr/post/philadelphia-safari-zone-2021/"
+        },
+        {
             "date": "1 novembre 2021",
             "title": "Dedenne fait une entrée éblouissante lors de la Fête des Lumières, mais avec la lumière viennent les ténèbres...",
             "link": "https://pokemongolive.com/fr/post/festival-of-lights-2021/"
@@ -98,11 +103,6 @@
             "date": "27 août 2021",
             "title": "Bienvenue à la Saison Chenapan !",
             "link": "https://pokemongolive.com/fr/post/season-of-mischief-2021/"
-        },
-        {
-            "date": "26 août 2021",
-            "title": "Mise à jour de la saison 9 de la Ligue de Combat GO",
-            "link": "https://pokemongolive.com/fr/post/gobattleleague-season9/"
         }
     ]
 }
