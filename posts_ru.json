@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2 ноября 2021 г.",
+            "title": "Спасибо, что принимаете участие в Зоне Сафари — Филадельфия!",
+            "link": "https://pokemongolive.com/ru/post/philadelphia-safari-zone-2021/"
+        },
+        {
             "date": "1 ноября 2021 г.",
             "title": "На Фестивале огней состоится ослепительный дебют Деденне, но со светом приходит и тень...",
             "link": "https://pokemongolive.com/ru/post/festival-of-lights-2021/"
@@ -98,11 +103,6 @@
             "date": "27 августа 2021 г.",
             "title": "Добро пожаловать на Сезон озорства!",
             "link": "https://pokemongolive.com/ru/post/season-of-mischief-2021/"
-        },
-        {
-            "date": "26 августа 2021 г.",
-            "title": "Обновление 9-го сезона Боевой Лиги GO",
-            "link": "https://pokemongolive.com/ru/post/gobattleleague-season9/"
         }
     ]
 }
