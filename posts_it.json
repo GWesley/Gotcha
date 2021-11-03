@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2 novembre 2021",
+            "title": "Grazie per aver preso parte alla Zona Safari di Pokémon GO di Philadelphia!",
+            "link": "https://pokemongolive.com/it/post/philadelphia-safari-zone-2021/"
+        },
+        {
             "date": "1 novembre 2021",
             "title": "Dedenne farà un luminoso esordio durante la Festa delle luci, ma non c'è luce senza oscurità…",
             "link": "https://pokemongolive.com/it/post/festival-of-lights-2021/"
@@ -98,11 +103,6 @@
             "date": "27 agosto 2021",
             "title": "Benvenuti nella stagione del Pokémon Birba!",
             "link": "https://pokemongolive.com/it/post/season-of-mischief-2021/"
-        },
-        {
-            "date": "26 agosto 2021",
-            "title": "Lega Lotte GO: aggiornamento sulla nona stagione",
-            "link": "https://pokemongolive.com/it/post/gobattleleague-season9/"
         }
     ]
 }
