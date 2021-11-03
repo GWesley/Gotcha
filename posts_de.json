@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2. November 2021",
+            "title": "Danke für eure Teilnahme an der Pokémon GO-Safari-Zone in Philadelphia!",
+            "link": "https://pokemongolive.com/de/post/philadelphia-safari-zone-2021/"
+        },
+        {
             "date": "1. November 2021",
             "title": "Dedenne legt beim Lichtfestival ein strahlendes Debüt hin, doch mit dem Licht kommt auch der Schatten...",
             "link": "https://pokemongolive.com/de/post/festival-of-lights-2021/"
@@ -98,11 +103,6 @@
             "date": "27. August 2021",
             "title": "Willkommen in der Jahreszeit des Schabernacks!",
             "link": "https://pokemongolive.com/de/post/season-of-mischief-2021/"
-        },
-        {
-            "date": "26. August 2021",
-            "title": "9. Saison der GO-Kampfliga",
-            "link": "https://pokemongolive.com/de/post/gobattleleague-season9/"
         }
     ]
 }
