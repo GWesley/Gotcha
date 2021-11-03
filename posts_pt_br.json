@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2 de novembro de 2021",
+            "title": "Agradecemos sua participação na Zona de Safári do Pokémon GO na Filadélfia!",
+            "link": "https://pokemongolive.com/pt_br/post/philadelphia-safari-zone-2021/"
+        },
+        {
             "date": "1 de novembro de 2021",
             "title": "Dedenne fará uma estreia iluminada durante o Festival das Luzes, mas com as luzes vem a sombra...",
             "link": "https://pokemongolive.com/pt_br/post/festival-of-lights-2021/"
@@ -98,11 +103,6 @@
             "date": "27 de agosto de 2021",
             "title": "Preparem-se para a Temporada de Travessura e muito mais em Setembro!",
             "link": "https://pokemongolive.com/pt_br/post/sept-2021-events/"
-        },
-        {
-            "date": "27 de agosto de 2021",
-            "title": "Bem-vindos à Temporada de Travessura!",
-            "link": "https://pokemongolive.com/pt_br/post/season-of-mischief-2021/"
         }
     ]
 }
