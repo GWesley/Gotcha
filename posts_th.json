@@ -5,7 +5,12 @@
     ],
     "posts": [
         {
-            "date": "1 พฤศจิกายน 2564",
+            "date": "8 พฤศจิกายน 2564",
+            "title": "พบกับอีเวนต์ Pokémon GO ฉลองการเปิดตัวของ Pokémon Brilliant Diamond และ Pokémon Shining Pearl!",
+            "link": "https://pokemongolive.com/th/post/brilliant-diamond-shining-pearl-event/"
+        },
+        {
+            "date": "8 พฤศจิกายน 2564",
             "title": "เดเด็นเนะเปิดตัวอย่างสว่างไสวในช่วงเทศกาลแห่งแสง ทว่าที่ใดมีแสง ที่นั่นย่อมมีเงา...",
             "link": "https://pokemongolive.com/th/post/festival-of-lights-2021/"
         },
@@ -98,11 +103,6 @@
             "date": "20 สิงหาคม 2564",
             "title": "คอมมิวนิตี้เดย์เดือนกันยายน: เตรียมตัวกันให้ดี—โปเกมอนนากทะเลมิจูมารุมาแล้ว!",
             "link": "https://pokemongolive.com/th/post/communityday-sept21/"
-        },
-        {
-            "date": "16 สิงหาคม 2564",
-            "title": "ฉลองการผจญภัยใต้แสงดาวกับธีมกลางคืนของ Pokémon GO เวอร์ชันเนื้อร้อง!\n",
-            "link": "https://pokemongolive.com/th/post/night-theme-lyrical-music-video/"
         }
     ]
 }
