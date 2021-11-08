@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "8. November 2021",
+            "title": "Wir feiern den Release von Pokémon Strahlender Diamant und Pokémon Leuchtende Perle in Pokémon GO!",
+            "link": "https://pokemongolive.com/de/post/brilliant-diamond-shining-pearl-event/"
+        },
+        {
+            "date": "8. November 2021",
             "title": "Dedenne legt beim Lichtfestival ein strahlendes Debüt hin, doch mit dem Licht kommt auch der Schatten...",
             "link": "https://pokemongolive.com/de/post/festival-of-lights-2021/"
         },
@@ -98,11 +103,6 @@
             "date": "27. August 2021",
             "title": "Der September bringt die Jahreszeit des Schabernacks und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/sept-2021-events/"
-        },
-        {
-            "date": "27. August 2021",
-            "title": "Willkommen in der Jahreszeit des Schabernacks!",
-            "link": "https://pokemongolive.com/de/post/season-of-mischief-2021/"
         }
     ]
 }
