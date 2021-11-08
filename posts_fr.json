@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "8 novembre 2021",
+            "title": "Célébrons la sortie de Pokémon Diamant Étincelant et Pokémon Perle Scintillante avec un événement Pokémon GO !",
+            "link": "https://pokemongolive.com/fr/post/brilliant-diamond-shining-pearl-event/"
+        },
+        {
+            "date": "8 novembre 2021",
             "title": "Dedenne fait une entrée éblouissante lors de la Fête des Lumières, mais avec la lumière viennent les ténèbres...",
             "link": "https://pokemongolive.com/fr/post/festival-of-lights-2021/"
         },
@@ -98,11 +103,6 @@
             "date": "27 août 2021",
             "title": "En septembre débarque la Saison Chenapan et plus encore ! Préparez-vous !",
             "link": "https://pokemongolive.com/fr/post/sept-2021-events/"
-        },
-        {
-            "date": "27 août 2021",
-            "title": "Bienvenue à la Saison Chenapan !",
-            "link": "https://pokemongolive.com/fr/post/season-of-mischief-2021/"
         }
     ]
 }
