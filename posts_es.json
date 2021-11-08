@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "8 de noviembre de 2021",
+            "title": "¡Vamos a celebrar el lanzamiento de Pokémon Diamante Brillante y Pokémon Perla Reluciente con un evento de Pokémon GO!",
+            "link": "https://pokemongolive.com/es/post/brilliant-diamond-shining-pearl-event/"
+        },
+        {
+            "date": "8 de noviembre de 2021",
             "title": "Dedenne hará una aparición luminosa en el Festival de las luces, pero con la luz llega la sombra...",
             "link": "https://pokemongolive.com/es/post/festival-of-lights-2021/"
         },
@@ -98,11 +103,6 @@
             "date": "27 de agosto de 2021",
             "title": "¡Preparaos! ¡En septiembre comienza la Temporada de Travesuras y muchas cosas más!",
             "link": "https://pokemongolive.com/es/post/sept-2021-events/"
-        },
-        {
-            "date": "27 de agosto de 2021",
-            "title": "¡Os damos la bienvenida a la Temporada de Travesuras!",
-            "link": "https://pokemongolive.com/es/post/season-of-mischief-2021/"
         }
     ]
 }
