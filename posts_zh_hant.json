@@ -5,7 +5,12 @@
     ],
     "posts": [
         {
-            "date": "2021年11月1日",
+            "date": "2021年11月8日",
+            "title": "在Pokémon GO中慶祝《寶可夢晶燦鑽石》《寶可夢明亮珍珠》正式上市！",
+            "link": "https://pokemongolive.com/zh_hant/post/brilliant-diamond-shining-pearl-event/"
+        },
+        {
+            "date": "2021年11月8日",
             "title": "咚咚鼠在光之祭典閃亮登場，但暗影總是如影隨形……",
             "link": "https://pokemongolive.com/zh_hant/post/festival-of-lights-2021/"
         },
@@ -98,11 +103,6 @@
             "date": "2021年8月26日",
             "title": "GO對戰聯盟：第9賽季最新消息",
             "link": "https://pokemongolive.com/zh_hant/post/gobattleleague-season9/"
-        },
-        {
-            "date": "2021年8月20日",
-            "title": "以海獺寶可夢「水水獺」為主角的9月社群日來囉！",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-sept21/"
         }
     ]
 }
