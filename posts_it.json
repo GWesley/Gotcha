@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "8 novembre 2021",
+            "title": "Festeggiamo l'uscita di Pokémon Diamante Lucente e Pokémon Perla Splendente con un evento Pokémon GO!",
+            "link": "https://pokemongolive.com/it/post/brilliant-diamond-shining-pearl-event/"
+        },
+        {
+            "date": "8 novembre 2021",
             "title": "Dedenne farà un luminoso esordio durante la Festa delle luci, ma non c'è luce senza oscurità…",
             "link": "https://pokemongolive.com/it/post/festival-of-lights-2021/"
         },
@@ -98,11 +103,6 @@
             "date": "27 agosto 2021",
             "title": "In arrivo a settembre: preparatevi per la stagione del Pokémon Birba e molto altro!",
             "link": "https://pokemongolive.com/it/post/sept-2021-events/"
-        },
-        {
-            "date": "27 agosto 2021",
-            "title": "Benvenuti nella stagione del Pokémon Birba!",
-            "link": "https://pokemongolive.com/it/post/season-of-mischief-2021/"
         }
     ]
 }
