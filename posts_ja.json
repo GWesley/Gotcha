@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "2021年11月8日",
+            "title": "『ポケットモンスター ブリリアントダイヤモンド』と『ポケットモンスター シャイニングパール』の発売を『Pokémon GO』でお祝いしましょう！",
+            "link": "https://pokemongolive.com/ja/post/brilliant-diamond-shining-pearl-event/"
+        },
+        {
+            "date": "2021年11月8日",
             "title": "「光のフェスティバル」で「デデンネ」がまばゆいデビューを果たしますが、光あるところには影もあります…",
             "link": "https://pokemongolive.com/ja/post/festival-of-lights-2021/"
         },
@@ -98,11 +103,6 @@
             "date": "2021年8月27日",
             "title": "9月のスケジュール：「いたずらなシーズン」など、注目イベントが続々開催！\n",
             "link": "https://pokemongolive.com/ja/post/sept-2021-events/"
-        },
-        {
-            "date": "2021年8月27日",
-            "title": "「いたずらなシーズン」へようこそ！",
-            "link": "https://pokemongolive.com/ja/post/season-of-mischief-2021/"
         }
     ]
 }
