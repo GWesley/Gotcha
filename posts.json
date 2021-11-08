@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "November 8, 2021",
+            "title": "Celebrate the release of Pokémon Brilliant Diamond and Pokémon Shining Pearl with a Pokémon GO event!",
+            "link": "https://pokemongolive.com/en/post/brilliant-diamond-shining-pearl-event/"
+        },
+        {
+            "date": "November 8, 2021",
             "title": "Dedenne makes an illuminating debut during the Festival of Lights, but with light comes shadow...",
             "link": "https://pokemongolive.com/en/post/festival-of-lights-2021/"
         },
@@ -98,11 +103,6 @@
             "date": "September 1, 2021",
             "title": "Inkay and Malamar make their Pokémon GO debuts during the Psychic Spectacular!",
             "link": "https://pokemongolive.com/en/post/psychic-spectacular-2021/"
-        },
-        {
-            "date": "September 1, 2021",
-            "title": "What we heard -- an update from our task force",
-            "link": "https://pokemongolive.com/en/post/sep-taskforce-update/"
         }
     ]
 }
