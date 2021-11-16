@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "November 16, 2021",
+            "title": "Our final rescheduled Pokémon GO Safari Zone event has wrapped! Thank you, St. Louis!",
+            "link": "https://pokemongolive.com/en/post/stlouis-safari-zone-2021/"
+        },
+        {
             "date": "November 8, 2021",
             "title": "Celebrate the release of Pokémon Brilliant Diamond and Pokémon Shining Pearl with a Pokémon GO event!",
             "link": "https://pokemongolive.com/en/post/brilliant-diamond-shining-pearl-event/"
@@ -98,11 +103,6 @@
             "date": "September 2, 2021",
             "title": "New dates and details now available for rescheduled Pokémon GO Safari Zone events",
             "link": "https://pokemongolive.com/en/post/safarizone-2021/"
-        },
-        {
-            "date": "September 1, 2021",
-            "title": "Inkay and Malamar make their Pokémon GO debuts during the Psychic Spectacular!",
-            "link": "https://pokemongolive.com/en/post/psychic-spectacular-2021/"
         }
     ]
 }
