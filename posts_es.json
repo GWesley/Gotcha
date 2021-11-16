@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 de noviembre de 2021",
+            "title": "Ya ha terminado nuestro evento final reprogramado de la Zona Safari de Pokémon GO. ¡Muchas gracias, San Luis!",
+            "link": "https://pokemongolive.com/es/post/stlouis-safari-zone-2021/"
+        },
+        {
             "date": "8 de noviembre de 2021",
             "title": "¡Vamos a celebrar el lanzamiento de Pokémon Diamante Brillante y Pokémon Perla Reluciente con un evento de Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/brilliant-diamond-shining-pearl-event/"
@@ -98,11 +103,6 @@
             "date": "1 de septiembre de 2021",
             "title": "Lo que nos habéis transmitido: novedades de nuestro equipo",
             "link": "https://pokemongolive.com/es/post/sep-taskforce-update/"
-        },
-        {
-            "date": "27 de agosto de 2021",
-            "title": "¡Preparaos! ¡En septiembre comienza la Temporada de Travesuras y muchas cosas más!",
-            "link": "https://pokemongolive.com/es/post/sept-2021-events/"
         }
     ]
 }
