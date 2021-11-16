@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 novembre 2021",
+            "title": "Notre dernier événement Zone Safari Pokémon GO qui a été reporté est terminé ! Merci, Saint-Louis !",
+            "link": "https://pokemongolive.com/fr/post/stlouis-safari-zone-2021/"
+        },
+        {
             "date": "8 novembre 2021",
             "title": "Célébrons la sortie de Pokémon Diamant Étincelant et Pokémon Perle Scintillante avec un événement Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/brilliant-diamond-shining-pearl-event/"
@@ -98,11 +103,6 @@
             "date": "1 septembre 2021",
             "title": "Mise au point de notre groupe de travail",
             "link": "https://pokemongolive.com/fr/post/sep-taskforce-update/"
-        },
-        {
-            "date": "27 août 2021",
-            "title": "En septembre débarque la Saison Chenapan et plus encore ! Préparez-vous !",
-            "link": "https://pokemongolive.com/fr/post/sept-2021-events/"
         }
     ]
 }
