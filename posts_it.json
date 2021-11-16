@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 novembre 2021",
+            "title": "Anche l'ultimo evento rinviato della Zona Safari di Pokémon GO è terminato. Grazie, St. Louis!",
+            "link": "https://pokemongolive.com/it/post/stlouis-safari-zone-2021/"
+        },
+        {
             "date": "8 novembre 2021",
             "title": "Festeggiamo l'uscita di Pokémon Diamante Lucente e Pokémon Perla Splendente con un evento Pokémon GO!",
             "link": "https://pokemongolive.com/it/post/brilliant-diamond-shining-pearl-event/"
@@ -98,11 +103,6 @@
             "date": "1 settembre 2021",
             "title": "Le notizie che abbiamo raccolto: un aggiornamento dalla nostra task force",
             "link": "https://pokemongolive.com/it/post/sep-taskforce-update/"
-        },
-        {
-            "date": "27 agosto 2021",
-            "title": "In arrivo a settembre: preparatevi per la stagione del Pokémon Birba e molto altro!",
-            "link": "https://pokemongolive.com/it/post/sept-2021-events/"
         }
     ]
 }
