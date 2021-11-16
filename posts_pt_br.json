@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 de novembro de 2021",
+            "title": "Nosso evento Zona de Safári do Pokémon GO reprogramado final foi encerrado! Obrigado, St. Louis!",
+            "link": "https://pokemongolive.com/pt_br/post/stlouis-safari-zone-2021/"
+        },
+        {
             "date": "8 de novembro de 2021",
             "title": "Comemorem o lançamento de Pokémon Brilliant Diamond e Pokémon Shining Pearl com um evento do Pokémon GO!",
             "link": "https://pokemongolive.com/pt_br/post/brilliant-diamond-shining-pearl-event/"
@@ -98,11 +103,6 @@
             "date": "1 de setembro de 2021",
             "title": "Inkay e Malamar estrearão no Pokémon GO durante o Espetáculo Psíquico!",
             "link": "https://pokemongolive.com/pt_br/post/psychic-spectacular-2021/"
-        },
-        {
-            "date": "1 de setembro de 2021",
-            "title": "O que ficamos sabendo – Uma atualização da nossa força-tarefa",
-            "link": "https://pokemongolive.com/pt_br/post/sep-taskforce-update/"
         }
     ]
 }
