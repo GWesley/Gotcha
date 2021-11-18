@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 de noviembre de 2021",
+            "title": "¡Nuevo evento de colaboración con Ed Sheeran!",
+            "link": "https://pokemongolive.com/es/post/ed-sheeran-collab/"
+        },
+        {
             "date": "16 de noviembre de 2021",
             "title": "Ya ha terminado nuestro evento final reprogramado de la Zona Safari de Pokémon GO. ¡Muchas gracias, San Luis!",
             "link": "https://pokemongolive.com/es/post/stlouis-safari-zone-2021/"
@@ -98,11 +103,6 @@
             "date": "1 de septiembre de 2021",
             "title": "¡Inkay y Malamar hacen su debut en Pokémon GO durante el Psicoespectáculo!",
             "link": "https://pokemongolive.com/es/post/psychic-spectacular-2021/"
-        },
-        {
-            "date": "1 de septiembre de 2021",
-            "title": "Lo que nos habéis transmitido: novedades de nuestro equipo",
-            "link": "https://pokemongolive.com/es/post/sep-taskforce-update/"
         }
     ]
 }
