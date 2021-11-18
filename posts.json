@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "November 17, 2021",
+            "title": "A brand-new collaboration event with Ed Sheeran!",
+            "link": "https://pokemongolive.com/en/post/ed-sheeran-collab/"
+        },
+        {
             "date": "November 16, 2021",
             "title": "Our final rescheduled Pokémon GO Safari Zone event has wrapped! Thank you, St. Louis!",
             "link": "https://pokemongolive.com/en/post/stlouis-safari-zone-2021/"
@@ -98,11 +103,6 @@
             "date": "September 9, 2021",
             "title": "October Community Day: Duskull, the Requiem Pokémon, will be featured!",
             "link": "https://pokemongolive.com/en/post/communityday-oct21/"
-        },
-        {
-            "date": "September 2, 2021",
-            "title": "New dates and details now available for rescheduled Pokémon GO Safari Zone events",
-            "link": "https://pokemongolive.com/en/post/safarizone-2021/"
         }
     ]
 }
