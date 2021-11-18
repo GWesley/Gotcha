@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 11월 18일",
+            "title": "12월 커뮤니티 데이에는 2020년과 2021년에 대량발생한 포켓몬들이 돌아옵니다!",
+            "link": "https://pokemongolive.com/ko/post/community-day-dec21/"
+        },
+        {
             "date": "2021년 11월 17일",
             "title": "Ed Sheeran과의 새로운 컬래버레이션 이벤트 개최!",
             "link": "https://pokemongolive.com/ko/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "2021년 8월 27일",
             "title": "「장난 시즌」에 오신 것을 환영합니다!",
             "link": "https://pokemongolive.com/ko/post/season-of-mischief-2021/"
-        },
-        {
-            "date": "2021년 8월 26일",
-            "title": "GO배틀리그: 시즌 9 업데이트",
-            "link": "https://pokemongolive.com/ko/post/gobattleleague-season9/"
         }
     ]
 }
