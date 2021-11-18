@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年11月18日",
+            "title": "12月社群日的主角會是來自2020和2021年的熟面孔！",
+            "link": "https://pokemongolive.com/zh_hant/post/community-day-dec21/"
+        },
+        {
             "date": "2021年11月17日",
             "title": "與Ed Sheeran一起推出的全新合作活動！",
             "link": "https://pokemongolive.com/zh_hant/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "2021年8月27日",
             "title": "9月即將登場：準備迎接光怪陸離的季節和其他更多活動！\n",
             "link": "https://pokemongolive.com/zh_hant/post/sept-2021-events/"
-        },
-        {
-            "date": "2021年8月27日",
-            "title": "歡迎來到「光怪陸離的季節」！",
-            "link": "https://pokemongolive.com/zh_hant/post/season-of-mischief-2021/"
         }
     ]
 }
