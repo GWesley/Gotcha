@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "18 ноября 2021 г.",
+            "title": "Во время декабрьского Дня сообщества появятся лица, знакомые нам с 2020 и 2021 годов!",
+            "link": "https://pokemongolive.com/ru/post/community-day-dec21/"
+        },
+        {
             "date": "17 ноября 2021 г.",
             "title": "Новое событие в рамках сотрудничества с Эдом Шираном!",
             "link": "https://pokemongolive.com/ru/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "2 сентября 2021 г.",
             "title": "Доступны подробности о перенесенных событиях в Зоне Сафари Pokémon GO, а также новые даты",
             "link": "https://pokemongolive.com/ru/post/safarizone-2021/"
-        },
-        {
-            "date": "1 сентября 2021 г.",
-            "title": "Инкей и Маламар дебютируют в Pokémon GO во время «Психофеерии»!",
-            "link": "https://pokemongolive.com/ru/post/psychic-spectacular-2021/"
         }
     ]
 }
