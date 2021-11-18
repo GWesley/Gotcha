@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 novembre 2021",
+            "title": "Un tout nouvel événement en collaboration avec Ed Sheeran arrive !",
+            "link": "https://pokemongolive.com/fr/post/ed-sheeran-collab/"
+        },
+        {
             "date": "16 novembre 2021",
             "title": "Notre dernier événement Zone Safari Pokémon GO qui a été reporté est terminé ! Merci, Saint-Louis !",
             "link": "https://pokemongolive.com/fr/post/stlouis-safari-zone-2021/"
@@ -98,11 +103,6 @@
             "date": "1 septembre 2021",
             "title": "Sepiatop et Sepiatroce font leur entrée dans Pokémon GO pendant l'événement Fantasmagorie Psy !",
             "link": "https://pokemongolive.com/fr/post/psychic-spectacular-2021/"
-        },
-        {
-            "date": "1 septembre 2021",
-            "title": "Mise au point de notre groupe de travail",
-            "link": "https://pokemongolive.com/fr/post/sep-taskforce-update/"
         }
     ]
 }
