@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17. November 2021",
+            "title": "Eine neue Kollaboration mit Ed Sheeran!",
+            "link": "https://pokemongolive.com/de/post/ed-sheeran-collab/"
+        },
+        {
             "date": "16. November 2021",
             "title": "Die letzte nachgeholte Safari-Zone in Pokémon GO ist zu Ende! Wir danken allen Teilnehmern in St. Louis!",
             "link": "https://pokemongolive.com/de/post/stlouis-safari-zone-2021/"
@@ -98,11 +103,6 @@
             "date": "1. September 2021",
             "title": "Iscalar und Calamanero erscheinen beim Psycho-Spektakel zum ersten Mal in Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/psychic-spectacular-2021/"
-        },
-        {
-            "date": "1. September 2021",
-            "title": "Ein Update unserer Task Force zu eurem Feedback",
-            "link": "https://pokemongolive.com/de/post/sep-taskforce-update/"
         }
     ]
 }
