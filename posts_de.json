@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "18. November 2021",
+            "title": "Community Day im Dezember: Pokémon aus 2020 und 2021 kehren zurück!",
+            "link": "https://pokemongolive.com/de/post/community-day-dec21/"
+        },
+        {
             "date": "17. November 2021",
             "title": "Eine neue Kollaboration mit Ed Sheeran!",
             "link": "https://pokemongolive.com/de/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "2. September 2021",
             "title": "Termine und Details für die verschobenen Safari-Zone-Events in Pokémon GO",
             "link": "https://pokemongolive.com/de/post/safarizone-2021/"
-        },
-        {
-            "date": "1. September 2021",
-            "title": "Iscalar und Calamanero erscheinen beim Psycho-Spektakel zum ersten Mal in Pokémon GO!",
-            "link": "https://pokemongolive.com/de/post/psychic-spectacular-2021/"
         }
     ]
 }
