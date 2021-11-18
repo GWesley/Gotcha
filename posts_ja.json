@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年11月18日",
+            "title": "12月の「コミュニティ・デイ」は2020年と2021年に大量発生したポケモンたちが帰ってきます！",
+            "link": "https://pokemongolive.com/ja/post/community-day-dec21/"
+        },
+        {
             "date": "2021年11月17日",
             "title": "Ed Sheeranとのコラボイベント開催！",
             "link": "https://pokemongolive.com/ja/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "2021年9月1日",
             "title": "「マーイーカ」と「カラマネロ」が『Pokémon GO』の「エスパーウィーク」で初登場！",
             "link": "https://pokemongolive.com/ja/post/psychic-spectacular-2021/"
-        },
-        {
-            "date": "2021年9月1日",
-            "title": "ゲーム内ボーナスの変更についてのお知らせ",
-            "link": "https://pokemongolive.com/ja/post/sep-taskforce-update/"
         }
     ]
 }
