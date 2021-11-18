@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "18 novembre 2021",
+            "title": "La Journée Communauté de décembre réunit des visages familiers de 2020 et 2021 !",
+            "link": "https://pokemongolive.com/fr/post/community-day-dec21/"
+        },
+        {
             "date": "17 novembre 2021",
             "title": "Un tout nouvel événement en collaboration avec Ed Sheeran arrive !",
             "link": "https://pokemongolive.com/fr/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "2 septembre 2021",
             "title": "De nouvelles dates et de nouveaux détails sont désormais disponibles pour l'évènement Zone Safari qui avait été reporté dans Pokémon GO",
             "link": "https://pokemongolive.com/fr/post/safarizone-2021/"
-        },
-        {
-            "date": "1 septembre 2021",
-            "title": "Sepiatop et Sepiatroce font leur entrée dans Pokémon GO pendant l'événement Fantasmagorie Psy !",
-            "link": "https://pokemongolive.com/fr/post/psychic-spectacular-2021/"
         }
     ]
 }
