@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "November 18, 2021",
+            "title": "December Community Day features some familiar faces from 2020 and 2021!",
+            "link": "https://pokemongolive.com/en/post/community-day-dec21/"
+        },
+        {
             "date": "November 17, 2021",
             "title": "A brand-new collaboration event with Ed Sheeran!",
             "link": "https://pokemongolive.com/en/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "September 13, 2021",
             "title": "Furfrou and costumed Pokémon frolic into Pokémon GO for Fashion Week!",
             "link": "https://pokemongolive.com/en/post/fashion-week-2021/"
-        },
-        {
-            "date": "September 9, 2021",
-            "title": "October Community Day: Duskull, the Requiem Pokémon, will be featured!",
-            "link": "https://pokemongolive.com/en/post/communityday-oct21/"
         }
     ]
 }
