@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "18 de novembro de 2021",
+            "title": "O Dia Comunitário de dezembro apresenta rostos conhecidos de 2020 e 2021!",
+            "link": "https://pokemongolive.com/pt_br/post/community-day-dec21/"
+        },
+        {
             "date": "17 de novembro de 2021",
             "title": "Um novo evento de colaboração com Ed Sheeran!",
             "link": "https://pokemongolive.com/pt_br/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "9 de setembro de 2021",
             "title": "Dia Comunitário de Outubro: Duskull, o Pokémon Réquiem, estará em destaque!",
             "link": "https://pokemongolive.com/pt_br/post/communityday-oct21/"
-        },
-        {
-            "date": "2 de setembro de 2021",
-            "title": "Já estão disponíveis novas datas e detalhes para os eventos Zona de Safári remarcados do Pokémon GO",
-            "link": "https://pokemongolive.com/pt_br/post/safarizone-2021/"
         }
     ]
 }
