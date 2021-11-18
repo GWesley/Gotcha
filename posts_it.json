@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "18 novembre 2021",
+            "title": "Community Day di dicembre all'insegna di volti noti del 2020 e del 2021!",
+            "link": "https://pokemongolive.com/it/post/community-day-dec21/"
+        },
+        {
             "date": "17 novembre 2021",
             "title": "Un nuovissimo evento in collaborazione con Ed Sheeran!",
             "link": "https://pokemongolive.com/it/post/ed-sheeran-collab/"
@@ -98,11 +103,6 @@
             "date": "2 settembre 2021",
             "title": "Nuove date e dettagli ora disponibili per gli eventi riprogrammati della Zona Safari di Pokémon GO",
             "link": "https://pokemongolive.com/it/post/safarizone-2021/"
-        },
-        {
-            "date": "1 settembre 2021",
-            "title": "Inkay e Malamar debutteranno in Pokémon GO durante Psicomania!",
-            "link": "https://pokemongolive.com/it/post/psychic-spectacular-2021/"
         }
     ]
 }
