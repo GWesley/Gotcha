@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22. November 2021",
+            "title": "Die Jahreszeit endet mit dem Event \"Entfesselter Schabernack\"!",
+            "link": "https://pokemongolive.com/de/post/mischief-unbound-2021/"
+        },
+        {
             "date": "18. November 2021",
             "title": "Community Day im Dezember: Pokémon aus 2020 und 2021 kehren zurück!",
             "link": "https://pokemongolive.com/de/post/community-day-dec21/"
@@ -98,11 +103,6 @@
             "date": "9. September 2021",
             "title": "Der Community Day im Oktober: Das Requiem-Pokémon Zwirrlicht geistert sich in den Mittelpunkt!",
             "link": "https://pokemongolive.com/de/post/communityday-oct21/"
-        },
-        {
-            "date": "2. September 2021",
-            "title": "Termine und Details für die verschobenen Safari-Zone-Events in Pokémon GO",
-            "link": "https://pokemongolive.com/de/post/safarizone-2021/"
         }
     ]
 }
