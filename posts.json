@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "November 22, 2021",
+            "title": "The Season comes to an end with the Mischief Unbound event!",
+            "link": "https://pokemongolive.com/en/post/mischief-unbound-2021/"
+        },
+        {
             "date": "November 18, 2021",
             "title": "December Community Day features some familiar faces from 2020 and 2021!",
             "link": "https://pokemongolive.com/en/post/community-day-dec21/"
@@ -98,11 +103,6 @@
             "date": "September 16, 2021",
             "title": "The Pokémon GO 5th anniversary video is here!",
             "link": "https://pokemongolive.com/en/post/birthday2021-video/"
-        },
-        {
-            "date": "September 13, 2021",
-            "title": "Furfrou and costumed Pokémon frolic into Pokémon GO for Fashion Week!",
-            "link": "https://pokemongolive.com/en/post/fashion-week-2021/"
         }
     ]
 }
