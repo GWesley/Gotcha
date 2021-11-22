@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 de noviembre de 2021",
+            "title": "¡La temporada llega a su fin con el evento Travesuras desatadas!",
+            "link": "https://pokemongolive.com/es/post/mischief-unbound-2021/"
+        },
+        {
             "date": "18 de noviembre de 2021",
             "title": "¡El Día de la Comunidad de diciembre nos trae algunas caras que nos resultarán familiares de 2020 y 2021!",
             "link": "https://pokemongolive.com/es/post/community-day-dec21/"
@@ -98,11 +103,6 @@
             "date": "9 de septiembre de 2021",
             "title": "Día de la Comunidad de octubre: ¡Duskull, el Pokémon Réquiem, será el destacado!",
             "link": "https://pokemongolive.com/es/post/communityday-oct21/"
-        },
-        {
-            "date": "2 de septiembre de 2021",
-            "title": "Nuevas fechas y detalles sobre los eventos de Zona Safari reprogramados de Pokémon GO",
-            "link": "https://pokemongolive.com/es/post/safarizone-2021/"
         }
     ]
 }
