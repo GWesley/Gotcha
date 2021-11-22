@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 novembre 2021",
+            "title": "La stagione si conclude con l'evento del Pokémon Birba Libero!",
+            "link": "https://pokemongolive.com/it/post/mischief-unbound-2021/"
+        },
+        {
             "date": "18 novembre 2021",
             "title": "Community Day di dicembre all'insegna di volti noti del 2020 e del 2021!",
             "link": "https://pokemongolive.com/it/post/community-day-dec21/"
@@ -98,11 +103,6 @@
             "date": "9 settembre 2021",
             "title": "Community Day di ottobre: il protagonista sarà Duskull, il Pokémon Requiem!",
             "link": "https://pokemongolive.com/it/post/communityday-oct21/"
-        },
-        {
-            "date": "2 settembre 2021",
-            "title": "Nuove date e dettagli ora disponibili per gli eventi riprogrammati della Zona Safari di Pokémon GO",
-            "link": "https://pokemongolive.com/it/post/safarizone-2021/"
         }
     ]
 }
