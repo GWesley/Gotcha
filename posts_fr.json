@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 novembre 2021",
+            "title": "La saison s'achève avec l'événement Chenapan déchaîné !",
+            "link": "https://pokemongolive.com/fr/post/mischief-unbound-2021/"
+        },
+        {
             "date": "18 novembre 2021",
             "title": "La Journée Communauté de décembre réunit des visages familiers de 2020 et 2021 !",
             "link": "https://pokemongolive.com/fr/post/community-day-dec21/"
@@ -98,11 +103,6 @@
             "date": "9 septembre 2021",
             "title": "Journée Communauté d'octobre : Skelénox, le Pokémon Requiem, sera à l'honneur !",
             "link": "https://pokemongolive.com/fr/post/communityday-oct21/"
-        },
-        {
-            "date": "2 septembre 2021",
-            "title": "De nouvelles dates et de nouveaux détails sont désormais disponibles pour l'évènement Zone Safari qui avait été reporté dans Pokémon GO",
-            "link": "https://pokemongolive.com/fr/post/safarizone-2021/"
         }
     ]
 }
