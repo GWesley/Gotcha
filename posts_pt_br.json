@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 de novembro de 2021",
+            "title": "A temporada chega ao fim com o evento Travessura libertada!",
+            "link": "https://pokemongolive.com/pt_br/post/mischief-unbound-2021/"
+        },
+        {
             "date": "18 de novembro de 2021",
             "title": "O Dia Comunitário de dezembro apresenta rostos conhecidos de 2020 e 2021!",
             "link": "https://pokemongolive.com/pt_br/post/community-day-dec21/"
@@ -98,11 +103,6 @@
             "date": "13 de setembro de 2021",
             "title": "Furfrou e Pokémon fantasiados vão desfilar nas passarelas do Pokémon GO na Fashion Week!",
             "link": "https://pokemongolive.com/pt_br/post/fashion-week-2021/"
-        },
-        {
-            "date": "9 de setembro de 2021",
-            "title": "Dia Comunitário de Outubro: Duskull, o Pokémon Réquiem, estará em destaque!",
-            "link": "https://pokemongolive.com/pt_br/post/communityday-oct21/"
         }
     ]
 }
