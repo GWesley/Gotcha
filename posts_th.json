@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 พฤศจิกายน 2564",
+            "title": "ส่งท้ายฤดูกาลด้วยอีเวนต์ปลดปล่อยความป่วน!",
+            "link": "https://pokemongolive.com/th/post/mischief-unbound-2021/"
+        },
+        {
             "date": "18 พฤศจิกายน 2564",
             "title": "เหล่าโปเกมอนที่คุ้นเคยกันดีจากปี 2020 และ 2021 กลับมาอีกครั้งในคอมมิวนิตี้เดย์เดือนธันวาคมนี้!",
             "link": "https://pokemongolive.com/th/post/community-day-dec21/"
@@ -98,11 +103,6 @@
             "date": "27 สิงหาคม 2564",
             "title": " กันยายนนี้: เตรียมพร้อมสำหรับฤดูกาลแห่งความปั่นป่วนและอื่น ๆ อีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/sept-2021-events/"
-        },
-        {
-            "date": "27 สิงหาคม 2564",
-            "title": "ยินดีต้อนรับสู่ฤดูกาลแห่งความปั่นป่วน!",
-            "link": "https://pokemongolive.com/th/post/season-of-mischief-2021/"
         }
     ]
 }
