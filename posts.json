@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "November 24, 2021",
+            "title": "GO Battle League: Season 10 Update",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season10/"
+        },
+        {
             "date": "November 22, 2021",
             "title": "The Season comes to an end with the Mischief Unbound event!",
             "link": "https://pokemongolive.com/en/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "September 21, 2021",
             "title": "The Mythical Pokémon Zarude debuts in Pokémon GO to celebrate the global release of Pokémon the Movie: Secrets of the Jungle",
             "link": "https://pokemongolive.com/en/post/movie-2021/"
-        },
-        {
-            "date": "September 16, 2021",
-            "title": "The Pokémon GO 5th anniversary video is here!",
-            "link": "https://pokemongolive.com/en/post/birthday2021-video/"
         }
     ]
 }
