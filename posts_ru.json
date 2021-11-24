@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 ноября 2021 г.",
+            "title": "Обновление 10-го сезона Боевой Лиги GO",
+            "link": "https://pokemongolive.com/ru/post/gobattleleague-season10/"
+        },
+        {
             "date": "22 ноября 2021 г.",
             "title": "Сезон озорства заканчивается событием «Свободный озорник»!",
             "link": "https://pokemongolive.com/ru/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "13 сентября 2021 г.",
             "title": "Фурфру и покемоны в костюмах веселятся в Pokémon GO на Неделе моды!",
             "link": "https://pokemongolive.com/ru/post/fashion-week-2021/"
-        },
-        {
-            "date": "9 сентября 2021 г.",
-            "title": "Октябрьский День сообщества: покемон-реквием Даскалл появится во время этого события!",
-            "link": "https://pokemongolive.com/ru/post/communityday-oct21/"
         }
     ]
 }
