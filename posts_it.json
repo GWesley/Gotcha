@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 novembre 2021",
+            "title": "Lega Lotte GO: aggiornamento sulla decima stagione",
+            "link": "https://pokemongolive.com/it/post/gobattleleague-season10/"
+        },
+        {
             "date": "22 novembre 2021",
             "title": "La stagione si conclude con l'evento del Pokémon Birba Libero!",
             "link": "https://pokemongolive.com/it/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "13 settembre 2021",
             "title": "Furfrou e i Pokémon in costume si divertono in Pokémon GO per la settimana della moda!",
             "link": "https://pokemongolive.com/it/post/fashion-week-2021/"
-        },
-        {
-            "date": "9 settembre 2021",
-            "title": "Community Day di ottobre: il protagonista sarà Duskull, il Pokémon Requiem!",
-            "link": "https://pokemongolive.com/it/post/communityday-oct21/"
         }
     ]
 }
