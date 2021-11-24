@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 de novembro de 2021",
+            "title": "Atualização da Liga de Batalha GO: 10ª temporada",
+            "link": "https://pokemongolive.com/pt_br/post/gobattleleague-season10/"
+        },
+        {
             "date": "22 de novembro de 2021",
             "title": "A temporada chega ao fim com o evento Travessura libertada!",
             "link": "https://pokemongolive.com/pt_br/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "14 de setembro de 2021",
             "title": "Participem do Wayfarer Challenge Brasil, ajudem a aprovar novas Poképaradas e ganhem recompensas exclusivas!",
             "link": "https://pokemongolive.com/pt_br/post/wayfarer-challenge-brazil/"
-        },
-        {
-            "date": "13 de setembro de 2021",
-            "title": "Furfrou e Pokémon fantasiados vão desfilar nas passarelas do Pokémon GO na Fashion Week!",
-            "link": "https://pokemongolive.com/pt_br/post/fashion-week-2021/"
         }
     ]
 }
