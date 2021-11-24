@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 de noviembre de 2021",
+            "title": "Novedades sobre la Liga Combates GO: Temporada 10",
+            "link": "https://pokemongolive.com/es/post/gobattleleague-season10/"
+        },
+        {
             "date": "22 de noviembre de 2021",
             "title": "¡La temporada llega a su fin con el evento Travesuras desatadas!",
             "link": "https://pokemongolive.com/es/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "13 de septiembre de 2021",
             "title": "¡Furfrou y otros Pokémon vestidos llegan a Pokémon GO por la Semana de la Moda!",
             "link": "https://pokemongolive.com/es/post/fashion-week-2021/"
-        },
-        {
-            "date": "9 de septiembre de 2021",
-            "title": "Día de la Comunidad de octubre: ¡Duskull, el Pokémon Réquiem, será el destacado!",
-            "link": "https://pokemongolive.com/es/post/communityday-oct21/"
         }
     ]
 }
