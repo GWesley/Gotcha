@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年11月24日",
+            "title": "GOバトルリーグ：シーズン10アップデート",
+            "link": "https://pokemongolive.com/ja/post/gobattleleague-season10/"
+        },
+        {
             "date": "2021年11月22日",
             "title": "フーパ解放イベントでシーズンが終わりを迎えます！",
             "link": "https://pokemongolive.com/ja/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "2021年9月13日",
             "title": "「トリミアン」とおしゃれなポケモンたちが「ファッションウィーク」にやって来ます！",
             "link": "https://pokemongolive.com/ja/post/fashion-week-2021/"
-        },
-        {
-            "date": "2021年9月9日",
-            "title": "10月の「コミュニティ・デイ」で、おむかえポケモンの「ヨマワル」が大量発生！\n",
-            "link": "https://pokemongolive.com/ja/post/communityday-oct21/"
         }
     ]
 }
