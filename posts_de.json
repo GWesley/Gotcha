@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24. November 2021",
+            "title": "10. Saison der GO-Kampfliga",
+            "link": "https://pokemongolive.com/de/post/gobattleleague-season10/"
+        },
+        {
             "date": "22. November 2021",
             "title": "Die Jahreszeit endet mit dem Event \"Entfesselter Schabernack\"!",
             "link": "https://pokemongolive.com/de/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "13. September 2021",
             "title": "Coiffwaff und kostümierte Pokémon stürmen Pokémon GO für die Fashion Week!",
             "link": "https://pokemongolive.com/de/post/fashion-week-2021/"
-        },
-        {
-            "date": "9. September 2021",
-            "title": "Der Community Day im Oktober: Das Requiem-Pokémon Zwirrlicht geistert sich in den Mittelpunkt!",
-            "link": "https://pokemongolive.com/de/post/communityday-oct21/"
         }
     ]
 }
