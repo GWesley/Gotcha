@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 พฤศจิกายน 2564",
+            "title": "โกแบตเทิลลีก: อัปเดตฤดูกาลที่ 10",
+            "link": "https://pokemongolive.com/th/post/gobattleleague-season10/"
+        },
+        {
             "date": "22 พฤศจิกายน 2564",
             "title": "ส่งท้ายฤดูกาลด้วยอีเวนต์ปลดปล่อยความป่วน!",
             "link": "https://pokemongolive.com/th/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "1 กันยายน 2564",
             "title": "ประกาศเกี่ยวกับการเปลี่ยนแปลงโบนัสในเกม",
             "link": "https://pokemongolive.com/th/post/sep-taskforce-update/"
-        },
-        {
-            "date": "27 สิงหาคม 2564",
-            "title": " กันยายนนี้: เตรียมพร้อมสำหรับฤดูกาลแห่งความปั่นป่วนและอื่น ๆ อีกมากมาย!",
-            "link": "https://pokemongolive.com/th/post/sept-2021-events/"
         }
     ]
 }
