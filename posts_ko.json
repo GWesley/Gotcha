@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 11월 24일",
+            "title": "GO배틀리그: 시즌 10 업데이트",
+            "link": "https://pokemongolive.com/ko/post/gobattleleague-season10/"
+        },
+        {
             "date": "2021년 11월 22일",
             "title": "\"후파 해방 이벤트\"로 시즌이 막을 내립니다!",
             "link": "https://pokemongolive.com/ko/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "2021년 9월 1일",
             "title": "게임 내 보너스 변경에 대한 안내",
             "link": "https://pokemongolive.com/ko/post/sep-taskforce-update/"
-        },
-        {
-            "date": "2021년 8월 27일",
-            "title": "9월 일정: 「장난 시즌」 등 다양한 이벤트가 찾아옵니다!",
-            "link": "https://pokemongolive.com/ko/post/sept-2021-events/"
         }
     ]
 }
