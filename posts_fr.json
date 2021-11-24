@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 novembre 2021",
+            "title": "Mise à jour de la saison 10 de la Ligue de Combat GO",
+            "link": "https://pokemongolive.com/fr/post/gobattleleague-season10/"
+        },
+        {
             "date": "22 novembre 2021",
             "title": "La saison s'achève avec l'événement Chenapan déchaîné !",
             "link": "https://pokemongolive.com/fr/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "13 septembre 2021",
             "title": "Couafarel et les Pokémon costumés sont les stars de la Fashion Week dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/fashion-week-2021/"
-        },
-        {
-            "date": "9 septembre 2021",
-            "title": "Journée Communauté d'octobre : Skelénox, le Pokémon Requiem, sera à l'honneur !",
-            "link": "https://pokemongolive.com/fr/post/communityday-oct21/"
         }
     ]
 }
