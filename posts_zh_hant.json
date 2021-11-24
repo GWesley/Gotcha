@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年11月24日",
+            "title": "GO對戰聯盟：第10賽季最新消息",
+            "link": "https://pokemongolive.com/zh_hant/post/gobattleleague-season10/"
+        },
+        {
             "date": "2021年11月22日",
             "title": "季節將隨著解放惡作劇活動結束！",
             "link": "https://pokemongolive.com/zh_hant/post/mischief-unbound-2021/"
@@ -98,11 +103,6 @@
             "date": "2021年9月1日",
             "title": "好啦魷和烏賊王將在Pokémon GO超能力週中首次登場！",
             "link": "https://pokemongolive.com/zh_hant/post/psychic-spectacular-2021/"
-        },
-        {
-            "date": "2021年9月1日",
-            "title": "關於遊戲內獎勵的變更",
-            "link": "https://pokemongolive.com/zh_hant/post/sep-taskforce-update/"
         }
     ]
 }
