@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "November 30, 2021",
+            "title": "Coming in December: Season of Heritage, Pokémon GO Holidays, and more!",
+            "link": "https://pokemongolive.com/en/post/dec-2021-events/"
+        },
+        {
             "date": "November 24, 2021",
             "title": "GO Battle League: Season 10 Update",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season10/"
@@ -98,11 +103,6 @@
             "date": "September 24, 2021",
             "title": "Coming in October: Pokémon GO Halloween 2021 and more!",
             "link": "https://pokemongolive.com/en/post/oct-2021-events/"
-        },
-        {
-            "date": "September 21, 2021",
-            "title": "The Mythical Pokémon Zarude debuts in Pokémon GO to celebrate the global release of Pokémon the Movie: Secrets of the Jungle",
-            "link": "https://pokemongolive.com/en/post/movie-2021/"
         }
     ]
 }
