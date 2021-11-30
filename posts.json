@@ -6,8 +6,18 @@
     "posts": [
         {
             "date": "November 30, 2021",
+            "title": "Incense Day event featuring Swinub and other Ground- and Ice-type Pokémon",
+            "link": "https://pokemongolive.com/en/post/incenseday-ground-ice-swinub/"
+        },
+        {
+            "date": "November 30, 2021",
             "title": "Coming in December: Season of Heritage, Pokémon GO Holidays, and more!",
             "link": "https://pokemongolive.com/en/post/dec-2021-events/"
+        },
+        {
+            "date": "November 30, 2021",
+            "title": "Welcome to the Season of Heritage!",
+            "link": "https://pokemongolive.com/en/post/season-of-heritage-2021/"
         },
         {
             "date": "November 24, 2021",
@@ -93,16 +103,6 @@
             "date": "October 7, 2021",
             "title": "Tune in to Twitch Rivals ft. Pokémon GO, presented by Samsung!",
             "link": "https://pokemongolive.com/en/post/twitch-rivals-2021/"
-        },
-        {
-            "date": "October 5, 2021",
-            "title": "Announcing the Pokémon GO Championship Series",
-            "link": "https://pokemongolive.com/en/post/pgo-championship-series-announce/"
-        },
-        {
-            "date": "September 24, 2021",
-            "title": "Coming in October: Pokémon GO Halloween 2021 and more!",
-            "link": "https://pokemongolive.com/en/post/oct-2021-events/"
         }
     ]
 }
