@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "date": "30 de novembro de 2021",
+            "title": "Em dezembro: Temporada de legado, Festas do Pokémon GO e muito mais!",
+            "link": "https://pokemongolive.com/pt_br/post/dec-2021-events/"
+        },
+        {
+            "date": "30 de novembro de 2021",
+            "title": "Evento do dia de Incenso com Swinub e outros Pokémon dos tipos Terrestre e Gelo",
+            "link": "https://pokemongolive.com/pt_br/post/incenseday-ground-ice-swinub/"
+        },
+        {
+            "date": "30 de novembro de 2021",
+            "title": "Bem-vindos à Temporada de legado!",
+            "link": "https://pokemongolive.com/pt_br/post/season-of-heritage-2021/"
+        },
+        {
             "date": "24 de novembro de 2021",
             "title": "Atualização da Liga de Batalha GO: 10ª temporada",
             "link": "https://pokemongolive.com/pt_br/post/gobattleleague-season10/"
@@ -88,21 +103,6 @@
             "date": "24 de setembro de 2021",
             "title": "Em outubro: Pokémon GO Halloween 2021 e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/oct-2021-events/"
-        },
-        {
-            "date": "21 de setembro de 2021",
-            "title": "O Pokémon Mítico Zarude faz sua estreia no Pokémon GO para celebrar o lançamento global de Pokémon, o filme: Segredos da selva",
-            "link": "https://pokemongolive.com/pt_br/post/movie-2021/"
-        },
-        {
-            "date": "16 de setembro de 2021",
-            "title": "Confiram aqui o vídeo do 5º aniversário do Pokémon GO!",
-            "link": "https://pokemongolive.com/pt_br/post/birthday2021-video/"
-        },
-        {
-            "date": "14 de setembro de 2021",
-            "title": "Participem do Wayfarer Challenge Brasil, ajudem a aprovar novas Poképaradas e ganhem recompensas exclusivas!",
-            "link": "https://pokemongolive.com/pt_br/post/wayfarer-challenge-brazil/"
         }
     ]
 }
