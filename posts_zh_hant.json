@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "date": "2021年11月30日",
+            "title": "12月活動計畫：名勝古蹟的季節、Pokémon GO Holidays以及更多活動！",
+            "link": "https://pokemongolive.com/zh_hant/post/dec-2021-events/"
+        },
+        {
+            "date": "2021年11月30日",
+            "title": "薰香日活動的主角是「小山豬」等地面、冰屬性寶可夢",
+            "link": "https://pokemongolive.com/zh_hant/post/incenseday-ground-ice-swinub/"
+        },
+        {
+            "date": "2021年11月30日",
+            "title": "歡迎來到「名勝古蹟的季節」！",
+            "link": "https://pokemongolive.com/zh_hant/post/season-of-heritage-2021/"
+        },
+        {
             "date": "2021年11月24日",
             "title": "GO對戰聯盟：第10賽季最新消息",
             "link": "https://pokemongolive.com/zh_hant/post/gobattleleague-season10/"
@@ -88,21 +103,6 @@
             "date": "2021年9月16日",
             "title": "台灣專屬活動「高雄全島糖王爭霸戰」：為你的城市挺身而戰！\n",
             "link": "https://pokemongolive.com/zh_hant/post/tw-candychallenge/"
-        },
-        {
-            "date": "2021年9月13日",
-            "title": "「時裝週」：多麗米亞和其他扮裝的寶可夢將登上《Pokémon GO》！",
-            "link": "https://pokemongolive.com/zh_hant/post/fashion-week-2021/"
-        },
-        {
-            "date": "2021年9月9日",
-            "title": "10月社群日的主角寶可夢是渡魂寶可夢夜巡靈！",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-oct21/"
-        },
-        {
-            "date": "2021年9月1日",
-            "title": "好啦魷和烏賊王將在Pokémon GO超能力週中首次登場！",
-            "link": "https://pokemongolive.com/zh_hant/post/psychic-spectacular-2021/"
         }
     ]
 }
