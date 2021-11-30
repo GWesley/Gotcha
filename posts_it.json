@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "date": "30 novembre 2021",
+            "title": "In programma a dicembre: Stagione della Tradizione, feste invernali di Pokémon GO e altro ancora!",
+            "link": "https://pokemongolive.com/it/post/dec-2021-events/"
+        },
+        {
+            "date": "30 novembre 2021",
+            "title": "Evento della giornata dell'aroma con Swinub e altri Pokémon di tipo Terra e Ghiaccio",
+            "link": "https://pokemongolive.com/it/post/incenseday-ground-ice-swinub/"
+        },
+        {
+            "date": "30 novembre 2021",
+            "title": "Benvenuti nella Stagione della Tradizione!",
+            "link": "https://pokemongolive.com/it/post/season-of-heritage-2021/"
+        },
+        {
             "date": "24 novembre 2021",
             "title": "Lega Lotte GO: aggiornamento sulla decima stagione",
             "link": "https://pokemongolive.com/it/post/gobattleleague-season10/"
@@ -88,21 +103,6 @@
             "date": "24 settembre 2021",
             "title": "In arrivo a ottobre: Pokémon GO Halloween 2021 e molto altro!",
             "link": "https://pokemongolive.com/it/post/oct-2021-events/"
-        },
-        {
-            "date": "21 settembre 2021",
-            "title": "Il Pokémon misterioso Zarude fa il suo debutto in Pokémon GO per festeggiare l’uscita mondiale del film Pokémon I segreti della giungla",
-            "link": "https://pokemongolive.com/it/post/movie-2021/"
-        },
-        {
-            "date": "16 settembre 2021",
-            "title": "Il video del quinto anniversario di Pokémon GO è pronto!",
-            "link": "https://pokemongolive.com/it/post/birthday2021-video/"
-        },
-        {
-            "date": "13 settembre 2021",
-            "title": "Furfrou e i Pokémon in costume si divertono in Pokémon GO per la settimana della moda!",
-            "link": "https://pokemongolive.com/it/post/fashion-week-2021/"
         }
     ]
 }
