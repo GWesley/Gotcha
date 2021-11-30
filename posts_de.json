@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "date": "30. November 2021",
+            "title": "Ab Dezember: Jahreszeit der Herkunft, Pokémon GO-Feiertage und vieles mehr!",
+            "link": "https://pokemongolive.com/de/post/dec-2021-events/"
+        },
+        {
+            "date": "30. November 2021",
+            "title": "Rauch-Tag mit Quiekel und anderen Eis- und Boden-Pokémon",
+            "link": "https://pokemongolive.com/de/post/incenseday-ground-ice-swinub/"
+        },
+        {
+            "date": "30. November 2021",
+            "title": "Willkommen in der Jahreszeit der Herkunft!",
+            "link": "https://pokemongolive.com/de/post/season-of-heritage-2021/"
+        },
+        {
             "date": "24. November 2021",
             "title": "10. Saison der GO-Kampfliga",
             "link": "https://pokemongolive.com/de/post/gobattleleague-season10/"
@@ -88,21 +103,6 @@
             "date": "24. September 2021",
             "title": "Im Oktober erwartet euch das Halloween-Event 2021 in Pokémon GO und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/oct-2021-events/"
-        },
-        {
-            "date": "21. September 2021",
-            "title": "Das Mysteriöse Pokémon Zarude gibt sein Debüt in Pokémon GO zur Feier der weltweiten Veröffentlichung von Pokémon – Der Film: Geheimnisse des Dschungels",
-            "link": "https://pokemongolive.com/de/post/movie-2021/"
-        },
-        {
-            "date": "16. September 2021",
-            "title": "Das Video zum 5. Jubiläum von Pokémon GO ist da!",
-            "link": "https://pokemongolive.com/de/post/birthday2021-video/"
-        },
-        {
-            "date": "13. September 2021",
-            "title": "Coiffwaff und kostümierte Pokémon stürmen Pokémon GO für die Fashion Week!",
-            "link": "https://pokemongolive.com/de/post/fashion-week-2021/"
         }
     ]
 }
