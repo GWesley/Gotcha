@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "date": "30 novembre 2021",
+            "title": "À venir en décembre : Saison du patrimoine, Fêtes d’hiver de Pokémon GO et plus encore !",
+            "link": "https://pokemongolive.com/fr/post/dec-2021-events/"
+        },
+        {
+            "date": "30 novembre 2021",
+            "title": "Journée Encens avec Marcacrin et d’autres Pokémon de types Sol et Glace",
+            "link": "https://pokemongolive.com/fr/post/incenseday-ground-ice-swinub/"
+        },
+        {
+            "date": "30 novembre 2021",
+            "title": "Bienvenue à la Saison du patrimoine !",
+            "link": "https://pokemongolive.com/fr/post/season-of-heritage-2021/"
+        },
+        {
             "date": "24 novembre 2021",
             "title": "Mise à jour de la saison 10 de la Ligue de Combat GO",
             "link": "https://pokemongolive.com/fr/post/gobattleleague-season10/"
@@ -88,21 +103,6 @@
             "date": "24 septembre 2021",
             "title": "À venir en octobre : Pokémon GO Halloween 2021 et bien plus encore !",
             "link": "https://pokemongolive.com/fr/post/oct-2021-events/"
-        },
-        {
-            "date": "21 septembre 2021",
-            "title": "Zarude, le Pokémon fabuleux, fait son entrée dans Pokémon GO pour fêter la sortie mondiale de Pokémon, le film : Les secrets de la jungle",
-            "link": "https://pokemongolive.com/fr/post/movie-2021/"
-        },
-        {
-            "date": "16 septembre 2021",
-            "title": "La vidéo du 5e anniversaire de Pokémon GO est là !",
-            "link": "https://pokemongolive.com/fr/post/birthday2021-video/"
-        },
-        {
-            "date": "13 septembre 2021",
-            "title": "Couafarel et les Pokémon costumés sont les stars de la Fashion Week dans Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/fashion-week-2021/"
         }
     ]
 }
