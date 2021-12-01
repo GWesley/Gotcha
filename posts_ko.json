@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "2021년 11월 30일",
+            "title": "꾸꾸리와 다른 땅타입 및 얼음타입 포켓몬이 등장하는 향로의 날 이벤트",
+            "link": "https://pokemongolive.com/ko/post/incenseday-ground-ice-swinub/"
+        },
+        {
+            "date": "2021년 11월 30일",
             "title": "12월 일정: 유산 시즌, Pokémon GO 홀리데이, 다양한 이벤트!",
             "link": "https://pokemongolive.com/ko/post/dec-2021-events/"
         },
@@ -98,11 +103,6 @@
             "date": "2021년 9월 13일",
             "title": "「트리미앙」 과 의상을 입은 포켓몬들이 「패션 위크」에 옵니다!",
             "link": "https://pokemongolive.com/ko/post/fashion-week-2021/"
-        },
-        {
-            "date": "2021년 9월 9일",
-            "title": "10월 커뮤니티 데이에는 마중포켓몬 \"해골몽\"이 대량발생합니다!\n",
-            "link": "https://pokemongolive.com/ko/post/communityday-oct21/"
         }
     ]
 }
