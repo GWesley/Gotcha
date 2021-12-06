@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "6 décembre 2021",
+            "title": "Descente de Dragospire : Drakkarmin fait ses débuts dans Pokémon GO !",
+            "link": "https://pokemongolive.com/fr/post/dragonspiral-descent-2021/"
+        },
+        {
             "date": "30 novembre 2021",
             "title": "Journée Encens avec Marcacrin et d’autres Pokémon de types Sol et Glace",
             "link": "https://pokemongolive.com/fr/post/incenseday-ground-ice-swinub/"
@@ -98,11 +103,6 @@
             "date": "5 octobre 2021",
             "title": "Annonce de la série de championnats Pokémon GO",
             "link": "https://pokemongolive.com/fr/post/pgo-championship-series-announce/"
-        },
-        {
-            "date": "24 septembre 2021",
-            "title": "À venir en octobre : Pokémon GO Halloween 2021 et bien plus encore !",
-            "link": "https://pokemongolive.com/fr/post/oct-2021-events/"
         }
     ]
 }
