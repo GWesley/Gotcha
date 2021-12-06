@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月6日",
+            "title": "リュウラセンの塔の謎：「クリムガン」が『Pokémon GO』に初登場！",
+            "link": "https://pokemongolive.com/ja/post/dragonspiral-descent-2021/"
+        },
+        {
             "date": "2021年11月30日",
             "title": "「ウリムー」などのじめんタイプ、こおりタイプのポケモンと出会える「おこうの日」イベント",
             "link": "https://pokemongolive.com/ja/post/incenseday-ground-ice-swinub/"
@@ -98,11 +103,6 @@
             "date": "2021年10月5日",
             "title": "「ポケモンワールドチャンピオンシップス2022」について",
             "link": "https://pokemongolive.com/ja/post/pgo-championship-series-announce/"
-        },
-        {
-            "date": "2021年9月24日",
-            "title": "10月のスケジュール：「Pokémon GO ハロウィン2021」などのイベントが開催！\n",
-            "link": "https://pokemongolive.com/ja/post/oct-2021-events/"
         }
     ]
 }
