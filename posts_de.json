@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "6. Dezember 2021",
+            "title": "Drachenstiegenabstieg: Shardrago gibt sein Debüt in Pokémon GO!",
+            "link": "https://pokemongolive.com/de/post/dragonspiral-descent-2021/"
+        },
+        {
             "date": "30. November 2021",
             "title": "Rauch-Tag mit Quiekel und anderen Eis- und Boden-Pokémon",
             "link": "https://pokemongolive.com/de/post/incenseday-ground-ice-swinub/"
@@ -98,11 +103,6 @@
             "date": "5. Oktober 2021",
             "title": "Ankündigung der Pokémon GO Championship Series",
             "link": "https://pokemongolive.com/de/post/pgo-championship-series-announce/"
-        },
-        {
-            "date": "24. September 2021",
-            "title": "Im Oktober erwartet euch das Halloween-Event 2021 in Pokémon GO und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/oct-2021-events/"
         }
     ]
 }
