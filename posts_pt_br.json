@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "6 de dezembro de 2021",
+            "title": "Descensão Dragãoespiral: Druddigon faz sua estreia no Pokémon GO!",
+            "link": "https://pokemongolive.com/pt_br/post/dragonspiral-descent-2021/"
+        },
+        {
             "date": "30 de novembro de 2021",
             "title": "Evento do dia de Incenso com Swinub e outros Pokémon dos tipos Terrestre e Gelo",
             "link": "https://pokemongolive.com/pt_br/post/incenseday-ground-ice-swinub/"
@@ -98,11 +103,6 @@
             "date": "5 de outubro de 2021",
             "title": "Anunciamos o Pokémon GO Championship Series",
             "link": "https://pokemongolive.com/pt_br/post/pgo-championship-series-announce/"
-        },
-        {
-            "date": "24 de setembro de 2021",
-            "title": "Em outubro: Pokémon GO Halloween 2021 e muito mais!",
-            "link": "https://pokemongolive.com/pt_br/post/oct-2021-events/"
         }
     ]
 }
