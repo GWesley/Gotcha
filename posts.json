@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "December 6, 2021",
+            "title": "Dragonspiral Descent: Druddigon makes its Pokémon GO debut!",
+            "link": "https://pokemongolive.com/en/post/dragonspiral-descent-2021/"
+        },
+        {
             "date": "November 30, 2021",
             "title": "Incense Day event featuring Swinub and other Ground- and Ice-type Pokémon",
             "link": "https://pokemongolive.com/en/post/incenseday-ground-ice-swinub/"
@@ -98,11 +103,6 @@
             "date": "October 11, 2021",
             "title": "Pokémon GO Halloween brings Creepy Companions,\nGhoulish Pals, and double the tricks and treats!",
             "link": "https://pokemongolive.com/en/post/halloween-2021/"
-        },
-        {
-            "date": "October 7, 2021",
-            "title": "Tune in to Twitch Rivals ft. Pokémon GO, presented by Samsung!",
-            "link": "https://pokemongolive.com/en/post/twitch-rivals-2021/"
         }
     ]
 }
