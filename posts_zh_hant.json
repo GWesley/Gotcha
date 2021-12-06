@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月6日",
+            "title": "龍螺旋之塔尋謎：「赤面龍」將在Pokémon GO初次登場！",
+            "link": "https://pokemongolive.com/zh_hant/post/dragonspiral-descent-2021/"
+        },
+        {
             "date": "2021年11月30日",
             "title": "薰香日活動的主角是「小山豬」等地面、冰屬性寶可夢",
             "link": "https://pokemongolive.com/zh_hant/post/incenseday-ground-ice-swinub/"
@@ -98,11 +103,6 @@
             "date": "2021年9月16日",
             "title": "Pokémon GO公開5週年紀念影片！",
             "link": "https://pokemongolive.com/zh_hant/post/birthday2021-video/"
-        },
-        {
-            "date": "2021年9月16日",
-            "title": "台灣專屬活動「高雄全島糖王爭霸戰」：為你的城市挺身而戰！\n",
-            "link": "https://pokemongolive.com/zh_hant/post/tw-candychallenge/"
         }
     ]
 }
