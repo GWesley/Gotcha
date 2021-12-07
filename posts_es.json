@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "7 de diciembre de 2021",
+            "title": "¡Vuelve el Tour de Pokémon GO! Próxima parada: ¡Johto!",
+            "link": "https://pokemongolive.com/es/post/pokemongotour-johto/"
+        },
+        {
             "date": "6 de diciembre de 2021",
             "title": "Descenso Duodraco: ¡Druddigon debuta en Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/dragonspiral-descent-2021/"
@@ -98,11 +103,6 @@
             "date": "11 de octubre de 2021",
             "title": "¡Pokémon GO Halloween nos trae Compañeros espeluznantes,\nCompañeros macabros y el doble de sustos y golosinas!",
             "link": "https://pokemongolive.com/es/post/halloween-2021/"
-        },
-        {
-            "date": "5 de octubre de 2021",
-            "title": "Anuncio de la Serie de Campeonatos de Pokémon GO",
-            "link": "https://pokemongolive.com/es/post/pgo-championship-series-announce/"
         }
     ]
 }
