@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "7. Dezember 2021",
+            "title": "Die Pokémon GO Tour kehrt zurück! Nächster Stopp: Johto",
+            "link": "https://pokemongolive.com/de/post/pokemongotour-johto/"
+        },
+        {
             "date": "6. Dezember 2021",
             "title": "Drachenstiegenabstieg: Shardrago gibt sein Debüt in Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/dragonspiral-descent-2021/"
@@ -98,11 +103,6 @@
             "date": "11. Oktober 2021",
             "title": "Halloween in Pokémon GO bedeutet Gruselige Gesellschaft,\nSchaurige Gesellen – und doppelt so viel Süßes oder Saures!",
             "link": "https://pokemongolive.com/de/post/halloween-2021/"
-        },
-        {
-            "date": "5. Oktober 2021",
-            "title": "Ankündigung der Pokémon GO Championship Series",
-            "link": "https://pokemongolive.com/de/post/pgo-championship-series-announce/"
         }
     ]
 }
