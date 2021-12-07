@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月7日",
+            "title": "「Pokémon GO Tour」が再び開催！今回はジョウト地方です！",
+            "link": "https://pokemongolive.com/ja/post/pokemongotour-johto/"
+        },
+        {
             "date": "2021年12月6日",
             "title": "リュウラセンの塔の謎：「クリムガン」が『Pokémon GO』に初登場！",
             "link": "https://pokemongolive.com/ja/post/dragonspiral-descent-2021/"
@@ -98,11 +103,6 @@
             "date": "2021年10月11日",
             "title": "「Pokémon GO ハロウィン」では、不気味な仲間が現れ、\n様々な2倍ボーナスが獲得できます！",
             "link": "https://pokemongolive.com/ja/post/halloween-2021/"
-        },
-        {
-            "date": "2021年10月5日",
-            "title": "「ポケモンワールドチャンピオンシップス2022」について",
-            "link": "https://pokemongolive.com/ja/post/pgo-championship-series-announce/"
         }
     ]
 }
