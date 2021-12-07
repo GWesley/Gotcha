@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "7 décembre 2021",
+            "title": "C’est le grand retour du Circuit Pokémon GO ! Prochain arrêt : Johto !",
+            "link": "https://pokemongolive.com/fr/post/pokemongotour-johto/"
+        },
+        {
             "date": "6 décembre 2021",
             "title": "Descente de Dragospire : Drakkarmin fait ses débuts dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/dragonspiral-descent-2021/"
@@ -98,11 +103,6 @@
             "date": "11 octobre 2021",
             "title": "Pokémon GO Halloween débarque avec des Compagnons Cauchemar\net des Copains Effrayants ! Un bonbon ou un sort ? Pourquoi pas les deux ?",
             "link": "https://pokemongolive.com/fr/post/halloween-2021/"
-        },
-        {
-            "date": "5 octobre 2021",
-            "title": "Annonce de la série de championnats Pokémon GO",
-            "link": "https://pokemongolive.com/fr/post/pgo-championship-series-announce/"
         }
     ]
 }
