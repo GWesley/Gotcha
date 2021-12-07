@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "December 7, 2021",
+            "title": "Pokémon GO Tour returns! Next stop: Johto!",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-johto/"
+        },
+        {
             "date": "December 6, 2021",
             "title": "Dragonspiral Descent: Druddigon makes its Pokémon GO debut!",
             "link": "https://pokemongolive.com/en/post/dragonspiral-descent-2021/"
@@ -98,11 +103,6 @@
             "date": "October 13, 2021",
             "title": "Coming Soon: Testing improvements to the Pokémon GO experience",
             "link": "https://pokemongolive.com/en/post/ux-testing-2021/"
-        },
-        {
-            "date": "October 11, 2021",
-            "title": "Pokémon GO Halloween brings Creepy Companions,\nGhoulish Pals, and double the tricks and treats!",
-            "link": "https://pokemongolive.com/en/post/halloween-2021/"
         }
     ]
 }
