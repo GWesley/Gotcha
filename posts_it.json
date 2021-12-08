@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "8 dicembre 2021",
+            "title": "Power up PokéStops to receive better rewards and create new AR experiences",
+            "link": "https://pokemongolive.com/it/post/power-up-pokestop-announcement/"
+        },
+        {
             "date": "7 dicembre 2021",
             "title": "Il Tour di Pokémon GO è tornato! Prossima fermata: Johto!",
             "link": "https://pokemongolive.com/it/post/pokemongotour-johto/"
@@ -98,11 +103,6 @@
             "date": "13 ottobre 2021",
             "title": "In arrivo: test per migliorare l'esperienza di Pokémon GO",
             "link": "https://pokemongolive.com/it/post/ux-testing-2021/"
-        },
-        {
-            "date": "11 ottobre 2021",
-            "title": "L’evento Halloween di Pokémon GO include Compagni inquietanti, Compagni macabri e il doppio dei dolcetti e scherzetti!",
-            "link": "https://pokemongolive.com/it/post/halloween-2021/"
         }
     ]
 }
