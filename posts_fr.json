@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "8 décembre 2021",
+            "title": "Boostez les PokéStops pour recevoir de meilleures récompenses et créer de nouvelles expériences de RA",
+            "link": "https://pokemongolive.com/fr/post/power-up-pokestop-announcement/"
+        },
+        {
             "date": "7 décembre 2021",
             "title": "C’est le grand retour du Circuit Pokémon GO ! Prochain arrêt : Johto !",
             "link": "https://pokemongolive.com/fr/post/pokemongotour-johto/"
@@ -98,11 +103,6 @@
             "date": "13 octobre 2021",
             "title": "À venir : des tests visant à améliorer l’expérience Pokémon GO",
             "link": "https://pokemongolive.com/fr/post/ux-testing-2021/"
-        },
-        {
-            "date": "11 octobre 2021",
-            "title": "Pokémon GO Halloween débarque avec des Compagnons Cauchemar\net des Copains Effrayants ! Un bonbon ou un sort ? Pourquoi pas les deux ?",
-            "link": "https://pokemongolive.com/fr/post/halloween-2021/"
         }
     ]
 }
