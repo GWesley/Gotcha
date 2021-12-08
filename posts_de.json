@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "8. Dezember 2021",
+            "title": "Ladet PokéStops für bessere Belohnungen und neue AR-Erlebnisse auf",
+            "link": "https://pokemongolive.com/de/post/power-up-pokestop-announcement/"
+        },
+        {
             "date": "7. Dezember 2021",
             "title": "Die Pokémon GO Tour kehrt zurück! Nächster Stopp: Johto",
             "link": "https://pokemongolive.com/de/post/pokemongotour-johto/"
@@ -98,11 +103,6 @@
             "date": "13. Oktober 2021",
             "title": "Anstehende Tests für Verbesserungen an Pokémon GO",
             "link": "https://pokemongolive.com/de/post/ux-testing-2021/"
-        },
-        {
-            "date": "11. Oktober 2021",
-            "title": "Halloween in Pokémon GO bedeutet Gruselige Gesellschaft,\nSchaurige Gesellen – und doppelt so viel Süßes oder Saures!",
-            "link": "https://pokemongolive.com/de/post/halloween-2021/"
         }
     ]
 }
