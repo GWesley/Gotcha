@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月7日",
+            "title": "Pokémon GO Tour回歸啦！下一站：城都地區！",
+            "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johto/"
+        },
+        {
             "date": "2021年12月6日",
             "title": "龍螺旋之塔尋謎：「赤面龍」將在Pokémon GO初次登場！",
             "link": "https://pokemongolive.com/zh_hant/post/dragonspiral-descent-2021/"
@@ -98,11 +103,6 @@
             "date": "2021年9月21日",
             "title": "慶祝寶可夢電影「寶可夢：皮卡丘與可可的冒險」全球上映，幻之寶可夢薩戮德將首次登場！",
             "link": "https://pokemongolive.com/zh_hant/post/movie-2021/"
-        },
-        {
-            "date": "2021年9月16日",
-            "title": "Pokémon GO公開5週年紀念影片！",
-            "link": "https://pokemongolive.com/zh_hant/post/birthday2021-video/"
         }
     ]
 }
