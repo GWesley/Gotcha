@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "8 de dezembro de 2021",
+            "title": "Fortaleça as Poképaradas para receber melhores recompensas e criar experiências de RA",
+            "link": "https://pokemongolive.com/pt_br/post/power-up-pokestop-announcement/"
+        },
+        {
             "date": "7 de dezembro de 2021",
             "title": "O Pokémon GO Tour está de volta! Próxima parada: Johto!",
             "link": "https://pokemongolive.com/pt_br/post/pokemongotour-johto/"
@@ -98,11 +103,6 @@
             "date": "13 de outubro de 2021",
             "title": "Em breve: testando melhorias na experiência do Pokémon GO",
             "link": "https://pokemongolive.com/pt_br/post/ux-testing-2021/"
-        },
-        {
-            "date": "11 de outubro de 2021",
-            "title": "O Halloween do Pokémon GO terá Parceiros assustadores,\nCamaradas macabros e o dobro de doces e travessuras!",
-            "link": "https://pokemongolive.com/pt_br/post/halloween-2021/"
         }
     ]
 }
