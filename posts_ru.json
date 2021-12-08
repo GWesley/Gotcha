@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "8 декабря 2021 г.",
+            "title": "Усиливайте Покестопы, чтобы получать более ценные награды и создать новую AR-среду",
+            "link": "https://pokemongolive.com/ru/post/power-up-pokestop-announcement/"
+        },
+        {
             "date": "7 декабря 2021 г.",
             "title": "Тур Pokémon GO продолжается! Следующая остановка — Джото!",
             "link": "https://pokemongolive.com/ru/post/pokemongotour-johto/"
@@ -98,11 +103,6 @@
             "date": "13 октября 2021 г.",
             "title": "Скоро: тестирование улучшений в Pokémon GO",
             "link": "https://pokemongolive.com/ru/post/ux-testing-2021/"
-        },
-        {
-            "date": "11 октября 2021 г.",
-            "title": "Хеллоуин в Pokémon GO! Жуткая компания, Зловещие приятели и в два раза больше розыгрышей и подарков!",
-            "link": "https://pokemongolive.com/ru/post/halloween-2021/"
         }
     ]
 }
