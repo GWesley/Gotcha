@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "date": "9 декабря 2021 г.",
+            "title": "Праздники Pokémon GO 2021: дебют Бергмайта в Pokémon GO, новые костюмы, предметы для аватара и многое другое!",
+            "link": "https://pokemongolive.com/ru/post/holiday2021/"
+        },
+        {
+            "date": "9 декабря 2021 г.",
+            "title": "Представляем вам Книгу открыток!",
+            "link": "https://pokemongolive.com/ru/post/postcardbook/"
+        },
+        {
             "date": "8 декабря 2021 г.",
             "title": "Усиливайте Покестопы, чтобы получать более ценные награды и создать новую AR-среду",
             "link": "https://pokemongolive.com/ru/post/power-up-pokestop-announcement/"
@@ -93,16 +103,6 @@
             "date": "21 октября 2021 г.",
             "title": "Дневники разработчика: День сообщества",
             "link": "https://pokemongolive.com/ru/post/devdiary-10192021/"
-        },
-        {
-            "date": "20 октября 2021 г.",
-            "title": "Ваш путь к Чемпионату мира Pokémon GO 2022 года",
-            "link": "https://pokemongolive.com/ru/post/pgo-championship-announce-details/"
-        },
-        {
-            "date": "13 октября 2021 г.",
-            "title": "Скоро: тестирование улучшений в Pokémon GO",
-            "link": "https://pokemongolive.com/ru/post/ux-testing-2021/"
         }
     ]
 }
