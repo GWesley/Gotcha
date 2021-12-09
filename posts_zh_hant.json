@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月9日",
+            "title": "Pokémon GO Holidays 2021：冰寶在Pokémon GO首次登場、全新換裝道具、還有許多精彩內容喔！",
+            "link": "https://pokemongolive.com/zh_hant/post/holiday2021/"
+        },
+        {
             "date": "2021年12月7日",
             "title": "Pokémon GO Tour回歸啦！下一站：城都地區！",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johto/"
@@ -98,11 +103,6 @@
             "date": "2021年9月24日",
             "title": "10月活動：「Pokémon GO萬聖節 2021」及更多活動即將登場！",
             "link": "https://pokemongolive.com/zh_hant/post/oct-2021-events/"
-        },
-        {
-            "date": "2021年9月21日",
-            "title": "慶祝寶可夢電影「寶可夢：皮卡丘與可可的冒險」全球上映，幻之寶可夢薩戮德將首次登場！",
-            "link": "https://pokemongolive.com/zh_hant/post/movie-2021/"
         }
     ]
 }
