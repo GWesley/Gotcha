@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "date": "9 ธันวาคม 2564",
+            "title": "ฉลองวันหยุด 2021 กับ Pokémon GO: เปิดตัวของคาจิคอลใน Pokémon GO, ไอเทมอวาตาร์ใหม่ และอีกมากมาย!",
+            "link": "https://pokemongolive.com/th/post/holiday2021/"
+        },
+        {
+            "date": "9 ธันวาคม 2564",
+            "title": "ขอแนะนำอัลบั้มโปสการ์ด!",
+            "link": "https://pokemongolive.com/th/post/postcardbook/"
+        },
+        {
             "date": "7 ธันวาคม 2564",
             "title": "Pokémon GO Tour กลับมาแล้ว! สถานีต่อไป: โจโตะ!",
             "link": "https://pokemongolive.com/th/post/pokemongotour-johto/"
@@ -93,16 +103,6 @@
             "date": "11 ตุลาคม 2564",
             "title": "Pokémon GO ฮาโลวีนนี้ เตรียมพบกับสหายสุดสยอง และพรรณพืชชวนฉงน\nรวมถึงเรื่องสุดป่วนและของขวัญถึงสองเท่า!",
             "link": "https://pokemongolive.com/th/post/halloween-2021/"
-        },
-        {
-            "date": "5 ตุลาคม 2564",
-            "title": "Pokémon World Championships 2022",
-            "link": "https://pokemongolive.com/th/post/pgo-championship-series-announce/"
-        },
-        {
-            "date": "24 กันยายน 2564",
-            "title": "ตุลาคมมาแน่:  Pokémon GO ฮาโลวีน 2021 และอีกมากมาย!",
-            "link": "https://pokemongolive.com/th/post/oct-2021-events/"
         }
     ]
 }
