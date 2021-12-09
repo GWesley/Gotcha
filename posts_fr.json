@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "date": "9 décembre 2021",
+            "title": "Fêtes d’hiver de Pokémon GO 2021 : Grelaçon débarque dans Pokémon GO, de nouveaux costumes et articles d’avatar seront disponibles, et plus encore !",
+            "link": "https://pokemongolive.com/fr/post/holiday2021/"
+        },
+        {
+            "date": "9 décembre 2021",
+            "title": "Présentation de l’Album de cartes postales !",
+            "link": "https://pokemongolive.com/fr/post/postcardbook/"
+        },
+        {
             "date": "8 décembre 2021",
             "title": "Boostez les PokéStops pour recevoir de meilleures récompenses et créer de nouvelles expériences de RA",
             "link": "https://pokemongolive.com/fr/post/power-up-pokestop-announcement/"
@@ -93,16 +103,6 @@
             "date": "21 octobre 2021",
             "title": "Journal des développeurs : Journée communautaire",
             "link": "https://pokemongolive.com/fr/post/devdiary-10192021/"
-        },
-        {
-            "date": "20 octobre 2021",
-            "title": "Votre ascension vers les Championnats du monde Pokémon 2022",
-            "link": "https://pokemongolive.com/fr/post/pgo-championship-announce-details/"
-        },
-        {
-            "date": "13 octobre 2021",
-            "title": "À venir : des tests visant à améliorer l’expérience Pokémon GO",
-            "link": "https://pokemongolive.com/fr/post/ux-testing-2021/"
         }
     ]
 }
