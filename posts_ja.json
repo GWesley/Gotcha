@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "date": "2021年12月9日",
+            "title": "ウィンターイベント：「カチコール」が『Pokémon GO』に新登場、新しい着せ替えアイテム、その他いろいろ！",
+            "link": "https://pokemongolive.com/ja/post/holiday2021/"
+        },
+        {
+            "date": "2021年12月9日",
+            "title": "「ポストカードブック」が登場！",
+            "link": "https://pokemongolive.com/ja/post/postcardbook/"
+        },
+        {
             "date": "2021年12月7日",
             "title": "「Pokémon GO Tour」が再び開催！今回はジョウト地方です！",
             "link": "https://pokemongolive.com/ja/post/pokemongotour-johto/"
@@ -93,16 +103,6 @@
             "date": "2021年10月21日",
             "title": "ディベロッパーダイアリー：「コミュニティ・デイ」",
             "link": "https://pokemongolive.com/ja/post/devdiary-10192021/"
-        },
-        {
-            "date": "2021年10月13日",
-            "title": "『Pokémon GO』の体験を向上するためのテストをまもなく実施",
-            "link": "https://pokemongolive.com/ja/post/ux-testing-2021/"
-        },
-        {
-            "date": "2021年10月11日",
-            "title": "「Pokémon GO ハロウィン」では、不気味な仲間が現れ、\n様々な2倍ボーナスが獲得できます！",
-            "link": "https://pokemongolive.com/ja/post/halloween-2021/"
         }
     ]
 }
