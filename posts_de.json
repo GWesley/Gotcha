@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "date": "9. Dezember 2021",
+            "title": "Pokémon GO-Feiertage 2021: Pokémon GO-Debüt von Arktip, neue Kostüme und Avatar-Artikel und vieles mehr!",
+            "link": "https://pokemongolive.com/de/post/holiday2021/"
+        },
+        {
+            "date": "9. Dezember 2021",
+            "title": "Wir stellen vor: das Postkartenbuch!",
+            "link": "https://pokemongolive.com/de/post/postcardbook/"
+        },
+        {
             "date": "8. Dezember 2021",
             "title": "Ladet PokéStops für bessere Belohnungen und neue AR-Erlebnisse auf",
             "link": "https://pokemongolive.com/de/post/power-up-pokestop-announcement/"
@@ -93,16 +103,6 @@
             "date": "21. Oktober 2021",
             "title": "Entwicklertagebuch: Community Day",
             "link": "https://pokemongolive.com/de/post/devdiary-10192021/"
-        },
-        {
-            "date": "20. Oktober 2021",
-            "title": "Euer Weg zu den Pokémon World Championships 2022",
-            "link": "https://pokemongolive.com/de/post/pgo-championship-announce-details/"
-        },
-        {
-            "date": "13. Oktober 2021",
-            "title": "Anstehende Tests für Verbesserungen an Pokémon GO",
-            "link": "https://pokemongolive.com/de/post/ux-testing-2021/"
         }
     ]
 }
