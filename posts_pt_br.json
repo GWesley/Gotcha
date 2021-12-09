@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "date": "9 de dezembro de 2021",
+            "title": "Festas do Pokémon GO 2021: estreia de Bergmite no Pokémon GO, novas fantasias, novos itens de avatar e muito mais!",
+            "link": "https://pokemongolive.com/pt_br/post/holiday2021/"
+        },
+        {
+            "date": "9 de dezembro de 2021",
+            "title": "Apresentando o Livro de Cartões Postais!",
+            "link": "https://pokemongolive.com/pt_br/post/postcardbook/"
+        },
+        {
             "date": "8 de dezembro de 2021",
             "title": "Fortaleça as Poképaradas para receber melhores recompensas e criar experiências de RA",
             "link": "https://pokemongolive.com/pt_br/post/power-up-pokestop-announcement/"
@@ -93,16 +103,6 @@
             "date": "21 de outubro de 2021",
             "title": "Diário do desenvolvedor: Dia Comunitário",
             "link": "https://pokemongolive.com/pt_br/post/devdiary-10192021/"
-        },
-        {
-            "date": "20 de outubro de 2021",
-            "title": "Caminho para o Campeonato Mundial Pokémon de 2022",
-            "link": "https://pokemongolive.com/pt_br/post/pgo-championship-announce-details/"
-        },
-        {
-            "date": "13 de outubro de 2021",
-            "title": "Em breve: testando melhorias na experiência do Pokémon GO",
-            "link": "https://pokemongolive.com/pt_br/post/ux-testing-2021/"
         }
     ]
 }
