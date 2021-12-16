@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 dicembre 2021",
+            "title": "Località degli eventi dal vivo del Tour di Pokémon GO",
+            "link": "https://pokemongolive.com/it/post/pokemongotour-johtolive/"
+        },
+        {
             "date": "9 dicembre 2021",
             "title": "Feste invernali di Pokémon GO 2021: debutto di Bergmite in Pokémon GO, nuovi costumi e oggetti avatar e molto altro!",
             "link": "https://pokemongolive.com/it/post/holiday2021/"
@@ -98,11 +103,6 @@
             "date": "22 ottobre 2021",
             "title": "Community Day di novembre: il protagonista sarà Shinx, il Pokémon Baleno!",
             "link": "https://pokemongolive.com/it/post/communityday-nov21/"
-        },
-        {
-            "date": "21 ottobre 2021",
-            "title": "Diario degli sviluppatori: Community Day",
-            "link": "https://pokemongolive.com/it/post/devdiary-10192021/"
         }
     ]
 }
