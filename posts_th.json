@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 ธันวาคม 2564",
+            "title": "Pokémon GO Tour: Live event locations",
+            "link": "https://pokemongolive.com/th/post/pokemongotour-johtolive/"
+        },
+        {
             "date": "9 ธันวาคม 2564",
             "title": "ฉลองวันหยุด 2021 กับ Pokémon GO: เปิดตัวของคาจิคอลใน Pokémon GO, ไอเทมอวาตาร์ใหม่ และอีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/holiday2021/"
@@ -98,11 +103,6 @@
             "date": "13 ตุลาคม 2564",
             "title": "เร็ว ๆ นี้: การทดสอบการปรับปรุงประสบการณ์ใน Pokémon GO",
             "link": "https://pokemongolive.com/th/post/ux-testing-2021/"
-        },
-        {
-            "date": "11 ตุลาคม 2564",
-            "title": "Pokémon GO ฮาโลวีนนี้ เตรียมพบกับสหายสุดสยอง และพรรณพืชชวนฉงน\nรวมถึงเรื่องสุดป่วนและของขวัญถึงสองเท่า!",
-            "link": "https://pokemongolive.com/th/post/halloween-2021/"
         }
     ]
 }
