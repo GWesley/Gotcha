@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021년 12월 16일",
+            "title": "Pokémon GO Tour: Live event locations",
+            "link": "https://pokemongolive.com/ko/post/pokemongotour-johtolive/"
+        },
+        {
             "date": "2021년 12월 9일",
             "title": "2021년의 Pokémon GO 홀리데이 이벤트: \"Pokémon GO\"에서 처음으로 등장하는 \"꽁어름\"과 새로운 의상 아이템 등 다양한 이벤트!",
             "link": "https://pokemongolive.com/ko/post/holiday2021/"
@@ -98,11 +103,6 @@
             "date": "2021년 10월 11일",
             "title": "Pokémon GO 핼러윈”에서는 으스스한 동료가 나타나며 다양한 보너스가 2배로 받을 수 있습니다!",
             "link": "https://pokemongolive.com/ko/post/halloween-2021/"
-        },
-        {
-            "date": "2021년 10월 5일",
-            "title": "“포켓몬 월드 챔피언십2022”",
-            "link": "https://pokemongolive.com/ko/post/pgo-championship-series-announce/"
         }
     ]
 }
