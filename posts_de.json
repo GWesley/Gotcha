@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16. Dezember 2021",
+            "title": "Pokémon GO Tour: Orte für Live-Events",
+            "link": "https://pokemongolive.com/de/post/pokemongotour-johtolive/"
+        },
+        {
             "date": "9. Dezember 2021",
             "title": "Pokémon GO-Feiertage 2021: Pokémon GO-Debüt von Arktip, neue Kostüme und Avatar-Artikel und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/holiday2021/"
@@ -98,11 +103,6 @@
             "date": "22. Oktober 2021",
             "title": "Community Day im Novermber: Sheinux, das Flacker-Pokémon",
             "link": "https://pokemongolive.com/de/post/communityday-nov21/"
-        },
-        {
-            "date": "21. Oktober 2021",
-            "title": "Entwicklertagebuch: Community Day",
-            "link": "https://pokemongolive.com/de/post/devdiary-10192021/"
         }
     ]
 }
