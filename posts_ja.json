@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月16日",
+            "title": "Pokémon GO Tour: Live event locations",
+            "link": "https://pokemongolive.com/ja/post/pokemongotour-johtolive/"
+        },
+        {
             "date": "2021年12月9日",
             "title": "ウィンターイベント：「カチコール」が『Pokémon GO』に新登場、新しい着せ替えアイテム、その他いろいろ！",
             "link": "https://pokemongolive.com/ja/post/holiday2021/"
@@ -98,11 +103,6 @@
             "date": "2021年10月22日",
             "title": "11月の「コミュニティ・デイ」で、せんこうポケモンの「コリンク」が大量発生！",
             "link": "https://pokemongolive.com/ja/post/communityday-nov21/"
-        },
-        {
-            "date": "2021年10月21日",
-            "title": "ディベロッパーダイアリー：「コミュニティ・デイ」",
-            "link": "https://pokemongolive.com/ja/post/devdiary-10192021/"
         }
     ]
 }
