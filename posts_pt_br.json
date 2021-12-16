@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "16 de dezembro de 2021",
+            "title": "Locais do Pokémon GO Tour: eventos ao vivo",
+            "link": "https://pokemongolive.com/pt_br/post/pokemongotour-johtolive/"
+        },
+        {
+            "date": "16 de dezembro de 2021",
             "title": "Aproveitem as celebrações presenciais do Dia Comunitário em São Paulo e no Rio de Janeiro!",
             "link": "https://pokemongolive.com/pt_br/post/communitydaybrazil/"
         },
@@ -98,11 +103,6 @@
             "date": "22 de outubro de 2021",
             "title": "Em novembro: Festival das Luzes e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/nov-2021-events/"
-        },
-        {
-            "date": "22 de outubro de 2021",
-            "title": "Dia Comunitário de novembro: Shinx, o Pokémon Lampejante, estará em destaque!",
-            "link": "https://pokemongolive.com/pt_br/post/communityday-nov21/"
         }
     ]
 }
