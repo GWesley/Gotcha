@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "December 16, 2021",
+            "title": "Pokémon GO Tour: Live event locations",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-johtolive/"
+        },
+        {
             "date": "December 9, 2021",
             "title": "Pokémon GO Holidays 2021: Bergmite’s Pokémon GO debut, new costumes and avatar items, and more!",
             "link": "https://pokemongolive.com/en/post/holiday2021/"
@@ -98,11 +103,6 @@
             "date": "October 22, 2021",
             "title": "November Community Day: Shinx, the Flash Pokémon, will be featured!",
             "link": "https://pokemongolive.com/en/post/communityday-nov21/"
-        },
-        {
-            "date": "October 21, 2021",
-            "title": "Dev Diaries: Community Day",
-            "link": "https://pokemongolive.com/en/post/devdiary-10192021/"
         }
     ]
 }
