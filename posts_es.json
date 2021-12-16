@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 de diciembre de 2021",
+            "title": "Tour de Pokémon GO: lugares del evento en vivo",
+            "link": "https://pokemongolive.com/es/post/pokemongotour-johtolive/"
+        },
+        {
             "date": "9 de diciembre de 2021",
             "title": "Fiestas de Pokémon GO 2021: ¡El debut de Bergmite en Pokémon GO, nuevos disfraces y elementos de avatar, y más!",
             "link": "https://pokemongolive.com/es/post/holiday2021/"
@@ -98,11 +103,6 @@
             "date": "22 de octubre de 2021",
             "title": "Día de la Comunidad de noviembre: ¡Shinx, el Pokémon Flash, será el destacado!",
             "link": "https://pokemongolive.com/es/post/communityday-nov21/"
-        },
-        {
-            "date": "21 de octubre de 2021",
-            "title": "Diarios de desarrollador: Día de la Comunidad",
-            "link": "https://pokemongolive.com/es/post/devdiary-10192021/"
         }
     ]
 }
