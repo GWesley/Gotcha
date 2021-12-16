@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 décembre 2021",
+            "title": "Circuit Pokémon GO : Lieux de l’événement en direct",
+            "link": "https://pokemongolive.com/fr/post/pokemongotour-johtolive/"
+        },
+        {
             "date": "9 décembre 2021",
             "title": "Fêtes d’hiver de Pokémon GO 2021 : Grelaçon débarque dans Pokémon GO, de nouveaux costumes et articles d’avatar seront disponibles, et plus encore !",
             "link": "https://pokemongolive.com/fr/post/holiday2021/"
@@ -98,11 +103,6 @@
             "date": "22 octobre 2021",
             "title": "Journée Communauté de novembre : Lixy, le Pokémon Flash, sera à l’honneur !",
             "link": "https://pokemongolive.com/fr/post/communityday-nov21/"
-        },
-        {
-            "date": "21 octobre 2021",
-            "title": "Journal des développeurs : Journée communautaire",
-            "link": "https://pokemongolive.com/fr/post/devdiary-10192021/"
         }
     ]
 }
