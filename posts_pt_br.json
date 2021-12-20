@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20 de dezembro de 2021",
+            "title": "Dia Comunitário de janeiro de 2022: o frio gélido de Spheal",
+            "link": "https://pokemongolive.com/pt_br/post/communityday-jan22/"
+        },
+        {
             "date": "16 de dezembro de 2021",
             "title": "Locais do Pokémon GO Tour: eventos ao vivo",
             "link": "https://pokemongolive.com/pt_br/post/pokemongotour-johtolive/"
@@ -98,11 +103,6 @@
             "date": "25 de outubro de 2021",
             "title": "Comemorem o Dia dos Mortos no Pokémon GO!",
             "link": "https://pokemongolive.com/pt_br/post/diademuertos2021/"
-        },
-        {
-            "date": "22 de outubro de 2021",
-            "title": "Em novembro: Festival das Luzes e muito mais!",
-            "link": "https://pokemongolive.com/pt_br/post/nov-2021-events/"
         }
     ]
 }
