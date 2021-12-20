@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20. Dezember 2021",
+            "title": "Community Day im Januar 2022: Applaus für Seemops!",
+            "link": "https://pokemongolive.com/de/post/communityday-jan22/"
+        },
+        {
             "date": "16. Dezember 2021",
             "title": "Pokémon GO Tour: Orte für Live-Events",
             "link": "https://pokemongolive.com/de/post/pokemongotour-johtolive/"
@@ -98,11 +103,6 @@
             "date": "22. Oktober 2021",
             "title": "Im November: Lichtfestival und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/nov-2021-events/"
-        },
-        {
-            "date": "22. Oktober 2021",
-            "title": "Community Day im Novermber: Sheinux, das Flacker-Pokémon",
-            "link": "https://pokemongolive.com/de/post/communityday-nov21/"
         }
     ]
 }
