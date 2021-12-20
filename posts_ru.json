@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20 декабря 2021 г.",
+            "title": "Январский День сообщества 2022: весомый визит Сфила",
+            "link": "https://pokemongolive.com/ru/post/communityday-jan22/"
+        },
+        {
             "date": "16 декабря 2021 г.",
             "title": "Места проведения реальных мероприятий Тура Pokémon GO",
             "link": "https://pokemongolive.com/ru/post/pokemongotour-johtolive/"
@@ -98,11 +103,6 @@
             "date": "22 октября 2021 г.",
             "title": "Что ждет нас в ноябре: Фестиваль огней и многое другое!",
             "link": "https://pokemongolive.com/ru/post/nov-2021-events/"
-        },
-        {
-            "date": "22 октября 2021 г.",
-            "title": "Ноябрьский День сообщества: Покемон-Яркий Свет Шинкс появится во время этого события!",
-            "link": "https://pokemongolive.com/ru/post/communityday-nov21/"
         }
     ]
 }
