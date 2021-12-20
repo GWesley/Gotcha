@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20 de diciembre de 2021",
+            "title": "Día de la Comunidad de enero de 2022: el frío océano de Spheal",
+            "link": "https://pokemongolive.com/es/post/communityday-jan22/"
+        },
+        {
             "date": "16 de diciembre de 2021",
             "title": "Tour de Pokémon GO: lugares del evento en vivo",
             "link": "https://pokemongolive.com/es/post/pokemongotour-johtolive/"
@@ -98,11 +103,6 @@
             "date": "22 de octubre de 2021",
             "title": "A partir de noviembre: Festival de las luces ¡y mucho más!",
             "link": "https://pokemongolive.com/es/post/nov-2021-events/"
-        },
-        {
-            "date": "22 de octubre de 2021",
-            "title": "Día de la Comunidad de noviembre: ¡Shinx, el Pokémon Flash, será el destacado!",
-            "link": "https://pokemongolive.com/es/post/communityday-nov21/"
         }
     ]
 }
