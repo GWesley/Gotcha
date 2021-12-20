@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20 dicembre 2021",
+            "title": "Community Day di gennaio 2022: il gelido regno di Spheal",
+            "link": "https://pokemongolive.com/it/post/communityday-jan22/"
+        },
+        {
             "date": "16 dicembre 2021",
             "title": "Località degli eventi dal vivo del Tour di Pokémon GO",
             "link": "https://pokemongolive.com/it/post/pokemongotour-johtolive/"
@@ -98,11 +103,6 @@
             "date": "22 ottobre 2021",
             "title": "In arrivo a novembre: Festa delle luci e molto altro!",
             "link": "https://pokemongolive.com/it/post/nov-2021-events/"
-        },
-        {
-            "date": "22 ottobre 2021",
-            "title": "Community Day di novembre: il protagonista sarà Shinx, il Pokémon Baleno!",
-            "link": "https://pokemongolive.com/it/post/communityday-nov21/"
         }
     ]
 }
