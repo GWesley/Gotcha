@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "20 décembre 2021",
+            "title": "Journée Communauté de janvier 2022 : le fantastique séjour d'Obalie",
+            "link": "https://pokemongolive.com/fr/post/communityday-jan22/"
+        },
+        {
             "date": "16 décembre 2021",
             "title": "Circuit Pokémon GO : Lieux de l’événement en direct",
             "link": "https://pokemongolive.com/fr/post/pokemongotour-johtolive/"
@@ -98,11 +103,6 @@
             "date": "22 octobre 2021",
             "title": "À venir en novembre : Fête des lumières et plus encore !",
             "link": "https://pokemongolive.com/fr/post/nov-2021-events/"
-        },
-        {
-            "date": "22 octobre 2021",
-            "title": "Journée Communauté de novembre : Lixy, le Pokémon Flash, sera à l’honneur !",
-            "link": "https://pokemongolive.com/fr/post/communityday-nov21/"
         }
     ]
 }
