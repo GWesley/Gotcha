@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 de dezembro de 2021",
+            "title": "Em janeiro: Ano Novo, Montanhas do Poder e muito mais!",
+            "link": "https://pokemongolive.com/pt_br/post/jan-2022-events/"
+        },
+        {
             "date": "20 de dezembro de 2021",
             "title": "Dia Comunitário de janeiro de 2022: o frio gélido de Spheal",
             "link": "https://pokemongolive.com/pt_br/post/communityday-jan22/"
@@ -98,11 +103,6 @@
             "date": "2 de novembro de 2021",
             "title": "Agradecemos sua participação na Zona de Safári do Pokémon GO na Filadélfia!",
             "link": "https://pokemongolive.com/pt_br/post/philadelphia-safari-zone-2021/"
-        },
-        {
-            "date": "25 de outubro de 2021",
-            "title": "Comemorem o Dia dos Mortos no Pokémon GO!",
-            "link": "https://pokemongolive.com/pt_br/post/diademuertos2021/"
         }
     ]
 }
