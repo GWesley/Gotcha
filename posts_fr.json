@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22 décembre 2021",
+            "title": "À venir en janvier : Nouvel an, Montagnes de puissance et plus encore !",
+            "link": "https://pokemongolive.com/fr/post/jan-2022-events/"
+        },
+        {
             "date": "20 décembre 2021",
             "title": "Journée Communauté de janvier 2022 : le fantastique séjour d'Obalie",
             "link": "https://pokemongolive.com/fr/post/communityday-jan22/"
@@ -98,11 +103,6 @@
             "date": "25 octobre 2021",
             "title": "Célébrez le Día de Muertos dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/diademuertos2021/"
-        },
-        {
-            "date": "22 octobre 2021",
-            "title": "À venir en novembre : Fête des lumières et plus encore !",
-            "link": "https://pokemongolive.com/fr/post/nov-2021-events/"
         }
     ]
 }
