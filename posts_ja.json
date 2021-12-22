@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月22日",
+            "title": "1月は「お正月」や「高まるエネルギー」などが登場！",
+            "link": "https://pokemongolive.com/ja/post/jan-2022-events/"
+        },
+        {
             "date": "2021年12月20日",
             "title": "2022年1月のコミュニティ・デイ：タマザラシが大量発生！",
             "link": "https://pokemongolive.com/ja/post/communityday-jan22/"
@@ -98,11 +103,6 @@
             "date": "2021年10月25日",
             "title": "『Pokémon GO』で「Día de Muertos」を祝おう！",
             "link": "https://pokemongolive.com/ja/post/diademuertos2021/"
-        },
-        {
-            "date": "2021年10月22日",
-            "title": "11月のスケジュール：「光のフェスティバル」などのイベントが開催！",
-            "link": "https://pokemongolive.com/ja/post/nov-2021-events/"
         }
     ]
 }
