@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "22. Dezember 2021",
+            "title": "Im Januar: Neujahrs-Event, Berge von Macht und vieles mehr!",
+            "link": "https://pokemongolive.com/de/post/jan-2022-events/"
+        },
+        {
             "date": "20. Dezember 2021",
             "title": "Community Day im Januar 2022: Applaus für Seemops!",
             "link": "https://pokemongolive.com/de/post/communityday-jan22/"
@@ -98,11 +103,6 @@
             "date": "25. Oktober 2021",
             "title": "Feiert den Día de Muertos in Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/diademuertos2021/"
-        },
-        {
-            "date": "22. Oktober 2021",
-            "title": "Im November: Lichtfestival und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/nov-2021-events/"
         }
     ]
 }
