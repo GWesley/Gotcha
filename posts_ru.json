@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "23 декабря 2021 г.",
+            "title": "Встречайте 2022 год с новогодним событием!",
+            "link": "https://pokemongolive.com/ru/post/new-year-2022/"
+        },
+        {
             "date": "22 декабря 2021 г.",
             "title": "Что ждет нас в январе: Новый год, Сила гор и многое другое!",
             "link": "https://pokemongolive.com/ru/post/jan-2022-events/"
@@ -98,11 +103,6 @@
             "date": "2 ноября 2021 г.",
             "title": "Спасибо, что принимаете участие в Зоне Сафари — Филадельфия!",
             "link": "https://pokemongolive.com/ru/post/philadelphia-safari-zone-2021/"
-        },
-        {
-            "date": "25 октября 2021 г.",
-            "title": "Отпразднуйте День мертвых в Pokémon GO!",
-            "link": "https://pokemongolive.com/ru/post/diademuertos2021/"
         }
     ]
 }
