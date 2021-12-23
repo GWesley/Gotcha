@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "23 décembre 2021",
+            "title": "Accueillez en fanfare 2022 avec un événement du Nouvel An !",
+            "link": "https://pokemongolive.com/fr/post/new-year-2022/"
+        },
+        {
             "date": "22 décembre 2021",
             "title": "À venir en janvier : Nouvel an, Montagnes de puissance et plus encore !",
             "link": "https://pokemongolive.com/fr/post/jan-2022-events/"
@@ -98,11 +103,6 @@
             "date": "2 novembre 2021",
             "title": "Merci d’avoir participé à la Zone Safari Pokémon GO de Philadelphie !",
             "link": "https://pokemongolive.com/fr/post/philadelphia-safari-zone-2021/"
-        },
-        {
-            "date": "25 octobre 2021",
-            "title": "Célébrez le Día de Muertos dans Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/diademuertos2021/"
         }
     ]
 }
