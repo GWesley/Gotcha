@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月23日",
+            "title": "お正月イベントで2022年を迎えましょう！",
+            "link": "https://pokemongolive.com/ja/post/new-year-2022/"
+        },
+        {
             "date": "2021年12月22日",
             "title": "1月は「お正月」や「高まるエネルギー」などが登場！",
             "link": "https://pokemongolive.com/ja/post/jan-2022-events/"
@@ -98,11 +103,6 @@
             "date": "2021年10月26日",
             "title": "「ドン・キホーテ」が『Pokémon GO』公式パートナーとなります！\n",
             "link": "https://pokemongolive.com/ja/post/ppihgroup/"
-        },
-        {
-            "date": "2021年10月25日",
-            "title": "『Pokémon GO』で「Día de Muertos」を祝おう！",
-            "link": "https://pokemongolive.com/ja/post/diademuertos2021/"
         }
     ]
 }
