@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月23日",
+            "title": "與Pokémon GO 新年活動一起迎接2022年吧！",
+            "link": "https://pokemongolive.com/zh_hant/post/new-year-2022/"
+        },
+        {
             "date": "2021年12月22日",
             "title": "1月即將登場：新年活動、力霸群山，還有更多內容！",
             "link": "https://pokemongolive.com/zh_hant/post/jan-2022-events/"
@@ -98,11 +103,6 @@
             "date": "2021年10月21日",
             "title": "開發團隊日記：社群日",
             "link": "https://pokemongolive.com/zh_hant/post/devdiary-10192021/"
-        },
-        {
-            "date": "2021年10月13日",
-            "title": "改善Pokémon GO遊戲體驗的測試即將登場\n",
-            "link": "https://pokemongolive.com/zh_hant/post/ux-testing-2021/"
         }
     ]
 }
