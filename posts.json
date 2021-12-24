@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "December 24, 2021",
+            "title": "Dev Diaries: The Season of Heritage",
+            "link": "https://pokemongolive.com/en/post/devdiary-dec2021-seasonofheritage/"
+        },
+        {
             "date": "December 23, 2021",
             "title": "Ring in 2022 with a New Year’s event!",
             "link": "https://pokemongolive.com/en/post/new-year-2022/"
@@ -98,11 +103,6 @@
             "date": "November 8, 2021",
             "title": "Dedenne makes an illuminating debut during the Festival of Lights, but with light comes shadow...",
             "link": "https://pokemongolive.com/en/post/festival-of-lights-2021/"
-        },
-        {
-            "date": "November 2, 2021",
-            "title": "Thanks for taking part in Pokémon GO Safari Zone Philadelphia!",
-            "link": "https://pokemongolive.com/en/post/philadelphia-safari-zone-2021/"
         }
     ]
 }
