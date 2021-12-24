@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2021年12月24日",
+            "title": "ディベロッパーダイアリー：「ヘリテージシーズン」",
+            "link": "https://pokemongolive.com/ja/post/devdiary-dec2021-seasonofheritage/"
+        },
+        {
             "date": "2021年12月23日",
             "title": "お正月イベントで2022年を迎えましょう！",
             "link": "https://pokemongolive.com/ja/post/new-year-2022/"
@@ -98,11 +103,6 @@
             "date": "2021年10月31日",
             "title": "「ファミリーマート」が『Pokémon GO』公式パートナーとなります！\n",
             "link": "https://pokemongolive.com/ja/post/familymart/"
-        },
-        {
-            "date": "2021年10月26日",
-            "title": "「ドン・キホーテ」が『Pokémon GO』公式パートナーとなります！\n",
-            "link": "https://pokemongolive.com/ja/post/ppihgroup/"
         }
     ]
 }
