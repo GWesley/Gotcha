@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 декабря 2021 г.",
+            "title": "Дневники разработчика: Сезон наследия",
+            "link": "https://pokemongolive.com/ru/post/devdiary-dec2021-seasonofheritage/"
+        },
+        {
             "date": "23 декабря 2021 г.",
             "title": "Встречайте 2022 год с новогодним событием!",
             "link": "https://pokemongolive.com/ru/post/new-year-2022/"
@@ -98,11 +103,6 @@
             "date": "8 ноября 2021 г.",
             "title": "На Фестивале огней состоится ослепительный дебют Деденне, но со светом приходит и тень...",
             "link": "https://pokemongolive.com/ru/post/festival-of-lights-2021/"
-        },
-        {
-            "date": "2 ноября 2021 г.",
-            "title": "Спасибо, что принимаете участие в Зоне Сафари — Филадельфия!",
-            "link": "https://pokemongolive.com/ru/post/philadelphia-safari-zone-2021/"
         }
     ]
 }
