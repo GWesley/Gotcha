@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 ธันวาคม 2564",
+            "title": "ไดอารี่ของผู้พัฒนา: ฤดูกาลแห่งมรดก",
+            "link": "https://pokemongolive.com/th/post/devdiary-dec2021-seasonofheritage/"
+        },
+        {
             "date": "23 ธันวาคม 2564",
             "title": "ต้อนรับปี 2022 กับอีเวนต์ปีใหม่!",
             "link": "https://pokemongolive.com/th/post/new-year-2022/"
@@ -98,11 +103,6 @@
             "date": "25 ตุลาคม 2564",
             "title": "ฉลองวัน Día de Muertos ใน Pokémon GO!",
             "link": "https://pokemongolive.com/th/post/diademuertos2021/"
-        },
-        {
-            "date": "22 ตุลาคม 2564",
-            "title": "ในเดือนพฤศจิกายนนี้: เทศกาลแห่งแสงและอีกมากมาย!",
-            "link": "https://pokemongolive.com/th/post/nov-2021-events/"
         }
     ]
 }
