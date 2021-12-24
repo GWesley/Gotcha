@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "24 dicembre 2021",
+            "title": "Diario degli sviluppatori: la Stagione della Tradizione",
+            "link": "https://pokemongolive.com/it/post/devdiary-dec2021-seasonofheritage/"
+        },
+        {
             "date": "23 dicembre 2021",
             "title": "Diamo il benvenuto al 2022 con l'evento di Capodanno!",
             "link": "https://pokemongolive.com/it/post/new-year-2022/"
@@ -98,11 +103,6 @@
             "date": "8 novembre 2021",
             "title": "Dedenne farà un luminoso esordio durante la Festa delle luci, ma non c'è luce senza oscurità…",
             "link": "https://pokemongolive.com/it/post/festival-of-lights-2021/"
-        },
-        {
-            "date": "2 novembre 2021",
-            "title": "Grazie per aver preso parte alla Zona Safari di Pokémon GO di Philadelphia!",
-            "link": "https://pokemongolive.com/it/post/philadelphia-safari-zone-2021/"
         }
     ]
 }
