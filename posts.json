@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "December 26, 2021",
+            "title": "More Gyms and PokéStops coming to India! ",
+            "link": "https://pokemongolive.com/en/post/india-pokestops-gyms-2021/"
+        },
+        {
             "date": "December 24, 2021",
             "title": "Dev Diaries: The Season of Heritage",
             "link": "https://pokemongolive.com/en/post/devdiary-dec2021-seasonofheritage/"
@@ -98,11 +103,6 @@
             "date": "November 8, 2021",
             "title": "Celebrate the release of Pokémon Brilliant Diamond and Pokémon Shining Pearl with a Pokémon GO event!",
             "link": "https://pokemongolive.com/en/post/brilliant-diamond-shining-pearl-event/"
-        },
-        {
-            "date": "November 8, 2021",
-            "title": "Dedenne makes an illuminating debut during the Festival of Lights, but with light comes shadow...",
-            "link": "https://pokemongolive.com/en/post/festival-of-lights-2021/"
         }
     ]
 }
