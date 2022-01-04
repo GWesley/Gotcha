@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "4. Januar 2022",
+            "title": "Community Day Classic: Zurück zu Bisasam",
+            "link": "https://pokemongolive.com/de/post/community-day-classic-bulbasaur-jan22/"
+        },
+        {
             "date": "24. Dezember 2021",
             "title": "Entwicklertagebuch: Die Jahreszeit der Herkunft",
             "link": "https://pokemongolive.com/de/post/devdiary-dec2021-seasonofheritage/"
@@ -98,11 +103,6 @@
             "date": "8. November 2021",
             "title": "Wir feiern den Release von Pokémon Strahlender Diamant und Pokémon Leuchtende Perle in Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/brilliant-diamond-shining-pearl-event/"
-        },
-        {
-            "date": "8. November 2021",
-            "title": "Dedenne legt beim Lichtfestival ein strahlendes Debüt hin, doch mit dem Licht kommt auch der Schatten...",
-            "link": "https://pokemongolive.com/de/post/festival-of-lights-2021/"
         }
     ]
 }
