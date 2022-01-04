@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "4 января 2022 г.",
+            "title": "Классический День сообщества: возвращение к Бульбазавру",
+            "link": "https://pokemongolive.com/ru/post/community-day-classic-bulbasaur-jan22/"
+        },
+        {
             "date": "24 декабря 2021 г.",
             "title": "Дневники разработчика: Сезон наследия",
             "link": "https://pokemongolive.com/ru/post/devdiary-dec2021-seasonofheritage/"
@@ -98,11 +103,6 @@
             "date": "8 ноября 2021 г.",
             "title": "Отпразднуйте выход Pokémon Brilliant Diamond и Pokémon Shining Pearl, приняв участие в событии Pokémon GO!",
             "link": "https://pokemongolive.com/ru/post/brilliant-diamond-shining-pearl-event/"
-        },
-        {
-            "date": "8 ноября 2021 г.",
-            "title": "На Фестивале огней состоится ослепительный дебют Деденне, но со светом приходит и тень...",
-            "link": "https://pokemongolive.com/ru/post/festival-of-lights-2021/"
         }
     ]
 }
