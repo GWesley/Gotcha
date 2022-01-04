@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "4 janvier 2022",
+            "title": "Journée Communauté classique : Retrouvons Bulbizarre",
+            "link": "https://pokemongolive.com/fr/post/community-day-classic-bulbasaur-jan22/"
+        },
+        {
             "date": "24 décembre 2021",
             "title": "Journaux de développeurs : La Saison du patrimoine",
             "link": "https://pokemongolive.com/fr/post/devdiary-dec2021-seasonofheritage/"
@@ -98,11 +103,6 @@
             "date": "8 novembre 2021",
             "title": "Célébrons la sortie de Pokémon Diamant Étincelant et Pokémon Perle Scintillante avec un événement Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/brilliant-diamond-shining-pearl-event/"
-        },
-        {
-            "date": "8 novembre 2021",
-            "title": "Dedenne fait une entrée éblouissante lors de la Fête des Lumières, mais avec la lumière viennent les ténèbres...",
-            "link": "https://pokemongolive.com/fr/post/festival-of-lights-2021/"
         }
     ]
 }
