@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年1月4日",
+            "title": "妙蛙種子經典社群日：妙蛙種子回歸",
+            "link": "https://pokemongolive.com/zh_hant/post/community-day-classic-bulbasaur-jan22/"
+        },
+        {
             "date": "2021年12月24日",
             "title": "開發團隊日記：「名勝古蹟的季節」",
             "link": "https://pokemongolive.com/zh_hant/post/devdiary-dec2021-seasonofheritage/"
@@ -98,11 +103,6 @@
             "date": "2021年10月22日",
             "title": "11月即將登場：光之祭典以及更多內容！",
             "link": "https://pokemongolive.com/zh_hant/post/nov-2021-events/"
-        },
-        {
-            "date": "2021年10月22日",
-            "title": "11月社群日：閃光寶可夢小貓怪將作為主角寶可夢登場！",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-nov21/"
         }
     ]
 }
