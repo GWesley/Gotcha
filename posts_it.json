@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "4 gennaio 2022",
+            "title": "Community Day Classico: il ritorno di Bulbasaur",
+            "link": "https://pokemongolive.com/it/post/community-day-classic-bulbasaur-jan22/"
+        },
+        {
             "date": "24 dicembre 2021",
             "title": "Diario degli sviluppatori: la Stagione della Tradizione",
             "link": "https://pokemongolive.com/it/post/devdiary-dec2021-seasonofheritage/"
@@ -98,11 +103,6 @@
             "date": "8 novembre 2021",
             "title": "Festeggiamo l'uscita di Pokémon Diamante Lucente e Pokémon Perla Splendente con un evento Pokémon GO!",
             "link": "https://pokemongolive.com/it/post/brilliant-diamond-shining-pearl-event/"
-        },
-        {
-            "date": "8 novembre 2021",
-            "title": "Dedenne farà un luminoso esordio durante la Festa delle luci, ma non c'è luce senza oscurità…",
-            "link": "https://pokemongolive.com/it/post/festival-of-lights-2021/"
         }
     ]
 }
