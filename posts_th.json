@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "4 มกราคม 2565",
+            "title": "คอมมิวนิตี้เดย์ (รีเทิร์น): ฟุชิกิดาเนะกลับมาอีกครั้ง",
+            "link": "https://pokemongolive.com/th/post/community-day-classic-bulbasaur-jan22/"
+        },
+        {
             "date": "24 ธันวาคม 2564",
             "title": "ไดอารี่ของผู้พัฒนา: ฤดูกาลแห่งมรดก",
             "link": "https://pokemongolive.com/th/post/devdiary-dec2021-seasonofheritage/"
@@ -98,11 +103,6 @@
             "date": "8 พฤศจิกายน 2564",
             "title": "เดเด็นเนะเปิดตัวอย่างสว่างไสวในช่วงเทศกาลแห่งแสง ทว่าที่ใดมีแสง ที่นั่นย่อมมีเงา...",
             "link": "https://pokemongolive.com/th/post/festival-of-lights-2021/"
-        },
-        {
-            "date": "25 ตุลาคม 2564",
-            "title": "ฉลองวัน Día de Muertos ใน Pokémon GO!",
-            "link": "https://pokemongolive.com/th/post/diademuertos2021/"
         }
     ]
 }
