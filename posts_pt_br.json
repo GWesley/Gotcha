@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5 de janeiro de 2022",
+            "title": "Prepare-se pois não há pedra no caminho que atrapalhe o evento Montanhas do poder da Temporada de legado",
+            "link": "https://pokemongolive.com/pt_br/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "4 de janeiro de 2022",
             "title": "Clássico do Dia Comunitário: de volta a Bulbasaur",
             "link": "https://pokemongolive.com/pt_br/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "17 de novembro de 2021",
             "title": "Um novo evento de colaboração com Ed Sheeran!",
             "link": "https://pokemongolive.com/pt_br/post/ed-sheeran-collab/"
-        },
-        {
-            "date": "16 de novembro de 2021",
-            "title": "Nosso evento Zona de Safári do Pokémon GO reprogramado final foi encerrado! Obrigado, St. Louis!",
-            "link": "https://pokemongolive.com/pt_br/post/stlouis-safari-zone-2021/"
         }
     ]
 }
