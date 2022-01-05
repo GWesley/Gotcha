@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "January 5, 2022",
+            "title": "Get ready to rock and roll during the Season of Heritage’s Mountains of Power event",
+            "link": "https://pokemongolive.com/en/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "January 4, 2022",
             "title": "Community Day Classic: Back to Bulbasaur",
             "link": "https://pokemongolive.com/en/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "November 17, 2021",
             "title": "A brand-new collaboration event with Ed Sheeran!",
             "link": "https://pokemongolive.com/en/post/ed-sheeran-collab/"
-        },
-        {
-            "date": "November 16, 2021",
-            "title": "Our final rescheduled Pokémon GO Safari Zone event has wrapped! Thank you, St. Louis!",
-            "link": "https://pokemongolive.com/en/post/stlouis-safari-zone-2021/"
         }
     ]
 }
