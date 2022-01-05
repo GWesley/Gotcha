@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5 janvier 2022",
+            "title": "Préparez-vous aux secousses pendant l'événement Montagnes de puissance de la Saison de l'héritage",
+            "link": "https://pokemongolive.com/fr/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "4 janvier 2022",
             "title": "Journée Communauté classique : Retrouvons Bulbizarre",
             "link": "https://pokemongolive.com/fr/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "16 novembre 2021",
             "title": "Notre dernier événement Zone Safari Pokémon GO qui a été reporté est terminé ! Merci, Saint-Louis !",
             "link": "https://pokemongolive.com/fr/post/stlouis-safari-zone-2021/"
-        },
-        {
-            "date": "8 novembre 2021",
-            "title": "Célébrons la sortie de Pokémon Diamant Étincelant et Pokémon Perle Scintillante avec un événement Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/brilliant-diamond-shining-pearl-event/"
         }
     ]
 }
