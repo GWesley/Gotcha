@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5. Januar 2022",
+            "title": "Beim Berge von Macht-Event bringen wir den Stein ins Rollen!",
+            "link": "https://pokemongolive.com/de/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "4. Januar 2022",
             "title": "Community Day Classic: Zurück zu Bisasam",
             "link": "https://pokemongolive.com/de/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "16. November 2021",
             "title": "Die letzte nachgeholte Safari-Zone in Pokémon GO ist zu Ende! Wir danken allen Teilnehmern in St. Louis!",
             "link": "https://pokemongolive.com/de/post/stlouis-safari-zone-2021/"
-        },
-        {
-            "date": "8. November 2021",
-            "title": "Wir feiern den Release von Pokémon Strahlender Diamant und Pokémon Leuchtende Perle in Pokémon GO!",
-            "link": "https://pokemongolive.com/de/post/brilliant-diamond-shining-pearl-event/"
         }
     ]
 }
