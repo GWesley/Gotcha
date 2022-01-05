@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5 gennaio 2022",
+            "title": "Preparatevi al rock and roll durante l'evento Montagne di potere della Stagione della Tradizione",
+            "link": "https://pokemongolive.com/it/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "4 gennaio 2022",
             "title": "Community Day Classico: il ritorno di Bulbasaur",
             "link": "https://pokemongolive.com/it/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "16 novembre 2021",
             "title": "Anche l'ultimo evento rinviato della Zona Safari di Pokémon GO è terminato. Grazie, St. Louis!",
             "link": "https://pokemongolive.com/it/post/stlouis-safari-zone-2021/"
-        },
-        {
-            "date": "8 novembre 2021",
-            "title": "Festeggiamo l'uscita di Pokémon Diamante Lucente e Pokémon Perla Splendente con un evento Pokémon GO!",
-            "link": "https://pokemongolive.com/it/post/brilliant-diamond-shining-pearl-event/"
         }
     ]
 }
