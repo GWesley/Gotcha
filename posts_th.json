@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5 มกราคม 2565",
+            "title": "เตรียมสนุกสุดเหวี่ยงในระหว่างอีเวนต์ภูเขาแห่งขุมพลังในช่วงฤดูกาลแห่งมรดก",
+            "link": "https://pokemongolive.com/th/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "4 มกราคม 2565",
             "title": "คอมมิวนิตี้เดย์ (รีเทิร์น): ฟุชิกิดาเนะกลับมาอีกครั้ง",
             "link": "https://pokemongolive.com/th/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "8 พฤศจิกายน 2564",
             "title": "พบกับอีเวนต์ Pokémon GO ฉลองการเปิดตัวของ Pokémon Brilliant Diamond และ Pokémon Shining Pearl!",
             "link": "https://pokemongolive.com/th/post/brilliant-diamond-shining-pearl-event/"
-        },
-        {
-            "date": "8 พฤศจิกายน 2564",
-            "title": "เดเด็นเนะเปิดตัวอย่างสว่างไสวในช่วงเทศกาลแห่งแสง ทว่าที่ใดมีแสง ที่นั่นย่อมมีเงา...",
-            "link": "https://pokemongolive.com/th/post/festival-of-lights-2021/"
         }
     ]
 }
