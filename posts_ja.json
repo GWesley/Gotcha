@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年1月5日",
+            "title": "「ヘリテージシーズン」の「高まるエネルギー」イベントに向けて準備しましょう",
+            "link": "https://pokemongolive.com/ja/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "2022年1月4日",
             "title": "コミュニティ・デイ（復刻）：「フシギダネ」が再び登場",
             "link": "https://pokemongolive.com/ja/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "2021年11月11日",
             "title": "『Pokémon GO』 スペシャル・ウィークエンド のご案内！",
             "link": "https://pokemongolive.com/ja/post/202112specialweekend-jp/"
-        },
-        {
-            "date": "2021年11月8日",
-            "title": "『ポケットモンスター ブリリアントダイヤモンド』と『ポケットモンスター シャイニングパール』の発売を『Pokémon GO』でお祝いしましょう！",
-            "link": "https://pokemongolive.com/ja/post/brilliant-diamond-shining-pearl-event/"
         }
     ]
 }
