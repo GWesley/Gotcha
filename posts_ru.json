@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "5 января 2022 г.",
+            "title": "Готовьтесь сворачивать горы, участвуя в событии «Сила гор» в рамках Сезона наследия",
+            "link": "https://pokemongolive.com/ru/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "4 января 2022 г.",
             "title": "Классический День сообщества: возвращение к Бульбазавру",
             "link": "https://pokemongolive.com/ru/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "16 ноября 2021 г.",
             "title": "Завершилось последнее Событие в Зоне Сафари Pokémon GO, которое было ранее перенесено! Спасибо, Сент-Луис!",
             "link": "https://pokemongolive.com/ru/post/stlouis-safari-zone-2021/"
-        },
-        {
-            "date": "8 ноября 2021 г.",
-            "title": "Отпразднуйте выход Pokémon Brilliant Diamond и Pokémon Shining Pearl, приняв участие в событии Pokémon GO!",
-            "link": "https://pokemongolive.com/ru/post/brilliant-diamond-shining-pearl-event/"
         }
     ]
 }
