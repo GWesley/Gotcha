@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年1月5日",
+            "title": "準備好在「名勝古蹟的季節」的「力霸群山」活動中來場石破天驚的歷險吧",
+            "link": "https://pokemongolive.com/zh_hant/post/season-of-heritage-mountains-of-power-event/"
+        },
+        {
             "date": "2022年1月4日",
             "title": "妙蛙種子經典社群日：妙蛙種子回歸",
             "link": "https://pokemongolive.com/zh_hant/post/community-day-classic-bulbasaur-jan22/"
@@ -98,11 +103,6 @@
             "date": "2021年10月25日",
             "title": "在Pokémon GO中歡慶亡靈節吧！",
             "link": "https://pokemongolive.com/zh_hant/post/diademuertos2021/"
-        },
-        {
-            "date": "2021年10月22日",
-            "title": "11月即將登場：光之祭典以及更多內容！",
-            "link": "https://pokemongolive.com/zh_hant/post/nov-2021-events/"
         }
     ]
 }
