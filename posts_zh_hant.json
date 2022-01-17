@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年1月17日",
+            "title": "傘電蜥首次登場！在發電所活動中解鎖最後一個機關！",
+            "link": "https://pokemongolive.com/zh_hant/post/season-of-heritage-power-plant-event/"
+        },
+        {
             "date": "2022年1月5日",
             "title": "準備好在「名勝古蹟的季節」的「力霸群山」活動中來場石破天驚的歷險吧",
             "link": "https://pokemongolive.com/zh_hant/post/season-of-heritage-mountains-of-power-event/"
@@ -98,11 +103,6 @@
             "date": "2021年11月8日",
             "title": "咚咚鼠在光之祭典閃亮登場，但暗影總是如影隨形……",
             "link": "https://pokemongolive.com/zh_hant/post/festival-of-lights-2021/"
-        },
-        {
-            "date": "2021年10月25日",
-            "title": "在Pokémon GO中歡慶亡靈節吧！",
-            "link": "https://pokemongolive.com/zh_hant/post/diademuertos2021/"
         }
     ]
 }
