@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022년 1월 17일",
+            "title": "\"목도리키텔\"이 첫 등! 발전소 이벤트에서 문의 마지막 잠금 장치를 해제하세요.",
+            "link": "https://pokemongolive.com/ko/post/season-of-heritage-power-plant-event/"
+        },
+        {
             "date": "2022년 1월 5일",
             "title": "\"유산 시즌\"의 힘의 산 이벤트를 준비하세요.",
             "link": "https://pokemongolive.com/ko/post/season-of-heritage-mountains-of-power-event/"
@@ -98,11 +103,6 @@
             "date": "2021년 11월 8일",
             "title": "「포켓몬스터 브릴리언트 다이아몬드・샤이닝 펄」의 발매를 기념하는 \"Pokémon GO\" 이벤트가 개최됩니다!",
             "link": "https://pokemongolive.com/ko/post/brilliant-diamond-shining-pearl-event/"
-        },
-        {
-            "date": "2021년 11월 8일",
-            "title": "\"빛의 페스티벌\"에 \"데덴네\"가 처음으로 눈부시게 등장합니다. 하지만 빛이 있으면 그림자도 있죠...",
-            "link": "https://pokemongolive.com/ko/post/festival-of-lights-2021/"
         }
     ]
 }
