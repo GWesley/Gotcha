@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 января 2022 г.",
+            "title": "Откройте последний замок двери во время зажигательного события на электростанции, где дебютирует Хелиоптайл",
+            "link": "https://pokemongolive.com/ru/post/season-of-heritage-power-plant-event/"
+        },
+        {
             "date": "5 января 2022 г.",
             "title": "Готовьтесь сворачивать горы, участвуя в событии «Сила гор» в рамках Сезона наследия",
             "link": "https://pokemongolive.com/ru/post/season-of-heritage-mountains-of-power-event/"
@@ -98,11 +103,6 @@
             "date": "17 ноября 2021 г.",
             "title": "Новое событие в рамках сотрудничества с Эдом Шираном!",
             "link": "https://pokemongolive.com/ru/post/ed-sheeran-collab/"
-        },
-        {
-            "date": "16 ноября 2021 г.",
-            "title": "Завершилось последнее Событие в Зоне Сафари Pokémon GO, которое было ранее перенесено! Спасибо, Сент-Луис!",
-            "link": "https://pokemongolive.com/ru/post/stlouis-safari-zone-2021/"
         }
     ]
 }
