@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17. Januar 2022",
+            "title": "Kraftwerk-Event: Eguanas elektrisierender erster Auftritt und Entriegelung der Tür",
+            "link": "https://pokemongolive.com/de/post/season-of-heritage-power-plant-event/"
+        },
+        {
             "date": "5. Januar 2022",
             "title": "Beim Berge von Macht-Event bringen wir den Stein ins Rollen!",
             "link": "https://pokemongolive.com/de/post/season-of-heritage-mountains-of-power-event/"
@@ -98,11 +103,6 @@
             "date": "17. November 2021",
             "title": "Eine neue Kollaboration mit Ed Sheeran!",
             "link": "https://pokemongolive.com/de/post/ed-sheeran-collab/"
-        },
-        {
-            "date": "16. November 2021",
-            "title": "Die letzte nachgeholte Safari-Zone in Pokémon GO ist zu Ende! Wir danken allen Teilnehmern in St. Louis!",
-            "link": "https://pokemongolive.com/de/post/stlouis-safari-zone-2021/"
         }
     ]
 }
