@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 janvier 2022",
+            "title": "Débloquez la dernière partie de la porte avec l'arrivée de Galvaran dans l'événement électrisant de la Centrale",
+            "link": "https://pokemongolive.com/fr/post/season-of-heritage-power-plant-event/"
+        },
+        {
             "date": "5 janvier 2022",
             "title": "Préparez-vous aux secousses pendant l'événement Montagnes de puissance de la Saison de l'héritage",
             "link": "https://pokemongolive.com/fr/post/season-of-heritage-mountains-of-power-event/"
@@ -98,11 +103,6 @@
             "date": "17 novembre 2021",
             "title": "Un tout nouvel événement en collaboration avec Ed Sheeran arrive !",
             "link": "https://pokemongolive.com/fr/post/ed-sheeran-collab/"
-        },
-        {
-            "date": "16 novembre 2021",
-            "title": "Notre dernier événement Zone Safari Pokémon GO qui a été reporté est terminé ! Merci, Saint-Louis !",
-            "link": "https://pokemongolive.com/fr/post/stlouis-safari-zone-2021/"
         }
     ]
 }
