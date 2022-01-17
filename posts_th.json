@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 มกราคม 2565",
+            "title": "เอลิคิเทลปรากฏตัวเป็นครั้งแรก! ปลดล็อกกลไกสุดท้ายของประตูในอีเวนต์โรงไฟฟ้ากันเลย!",
+            "link": "https://pokemongolive.com/th/post/season-of-heritage-power-plant-event/"
+        },
+        {
             "date": "5 มกราคม 2565",
             "title": "เตรียมสนุกสุดเหวี่ยงในระหว่างอีเวนต์ภูเขาแห่งขุมพลังในช่วงฤดูกาลแห่งมรดก",
             "link": "https://pokemongolive.com/th/post/season-of-heritage-mountains-of-power-event/"
@@ -98,11 +103,6 @@
             "date": "17 พฤศจิกายน 2564",
             "title": "อีเวนต์โคลาโบกับ Ed Sheeran!",
             "link": "https://pokemongolive.com/th/post/ed-sheeran-collab/"
-        },
-        {
-            "date": "8 พฤศจิกายน 2564",
-            "title": "พบกับอีเวนต์ Pokémon GO ฉลองการเปิดตัวของ Pokémon Brilliant Diamond และ Pokémon Shining Pearl!",
-            "link": "https://pokemongolive.com/th/post/brilliant-diamond-shining-pearl-event/"
         }
     ]
 }
