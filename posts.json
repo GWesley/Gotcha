@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "January 19, 2022",
+            "title": "Pokémon GO Tour: Johto — Special Research and More To Come!",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-johto-research/"
+        },
+        {
             "date": "January 17, 2022",
             "title": "Unlock the last part of the door as Helioptile makes its debut in the electrifying Power Plant event",
             "link": "https://pokemongolive.com/en/post/season-of-heritage-power-plant-event/"
@@ -98,11 +103,6 @@
             "date": "November 22, 2021",
             "title": "The Season comes to an end with the Mischief Unbound event!",
             "link": "https://pokemongolive.com/en/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "November 18, 2021",
-            "title": "December Community Day features some familiar faces from 2020 and 2021!",
-            "link": "https://pokemongolive.com/en/post/community-day-dec21/"
         }
     ]
 }
