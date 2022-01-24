@@ -5,7 +5,12 @@
     ],
     "posts": [
         {
-            "date": "17 de janeiro de 2022",
+            "date": "24 de janeiro de 2022",
+            "title": "Dia Comunitário de fevereiro de 2022: encontros saltitantes com Hoppip",
+            "link": "https://pokemongolive.com/pt_br/post/communityday-feb22-hoppip/"
+        },
+        {
+            "date": "23 de janeiro de 2022",
             "title": "Desbloqueie a última parte da porta enquanto Helioptile faz sua estreia no eletrizante evento Usina Elétrica",
             "link": "https://pokemongolive.com/pt_br/post/season-of-heritage-power-plant-event/"
         },
@@ -98,11 +103,6 @@
             "date": "22 de novembro de 2021",
             "title": "A temporada chega ao fim com o evento Travessura libertada!",
             "link": "https://pokemongolive.com/pt_br/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "18 de novembro de 2021",
-            "title": "O Dia Comunitário de dezembro apresenta rostos conhecidos de 2020 e 2021!",
-            "link": "https://pokemongolive.com/pt_br/post/community-day-dec21/"
         }
     ]
 }
