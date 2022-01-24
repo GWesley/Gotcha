@@ -5,7 +5,12 @@
     ],
     "posts": [
         {
-            "date": "17 de enero de 2022",
+            "date": "24 de enero de 2022",
+            "title": "Día de la Comunidad de febrero de 2022: un paseo con Hoppip",
+            "link": "https://pokemongolive.com/es/post/communityday-feb22-hoppip/"
+        },
+        {
+            "date": "23 de enero de 2022",
             "title": "Desbloquead la última parte de la puerta mientras Helioptile debuta en el evento Central de Energía",
             "link": "https://pokemongolive.com/es/post/season-of-heritage-power-plant-event/"
         },
@@ -98,11 +103,6 @@
             "date": "18 de noviembre de 2021",
             "title": "¡El Día de la Comunidad de diciembre nos trae algunas caras que nos resultarán familiares de 2020 y 2021!",
             "link": "https://pokemongolive.com/es/post/community-day-dec21/"
-        },
-        {
-            "date": "17 de noviembre de 2021",
-            "title": "¡Nuevo evento de colaboración con Ed Sheeran!",
-            "link": "https://pokemongolive.com/es/post/ed-sheeran-collab/"
         }
     ]
 }
