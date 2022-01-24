@@ -5,7 +5,12 @@
     ],
     "posts": [
         {
-            "date": "2022年1月17日",
+            "date": "2022年1月24日",
+            "title": "2022年2月の「コミュニティ・デイ」：「ハネッコ」と飛び跳ねよう",
+            "link": "https://pokemongolive.com/ja/post/communityday-feb22-hoppip/"
+        },
+        {
+            "date": "2022年1月23日",
             "title": "「エリキテル」初登場！「はつでんしょ」イベントで、扉の最後の解除装置を起動しよう",
             "link": "https://pokemongolive.com/ja/post/season-of-heritage-power-plant-event/"
         },
@@ -98,11 +103,6 @@
             "date": "2021年11月18日",
             "title": "12月の「コミュニティ・デイ」は2020年と2021年に大量発生したポケモンたちが帰ってきます！",
             "link": "https://pokemongolive.com/ja/post/community-day-dec21/"
-        },
-        {
-            "date": "2021年11月17日",
-            "title": "Ed Sheeranとのコラボイベント開催！",
-            "link": "https://pokemongolive.com/ja/post/ed-sheeran-collab/"
         }
     ]
 }
