@@ -5,7 +5,12 @@
     ],
     "posts": [
         {
-            "date": "17 มกราคม 2565",
+            "date": "24 มกราคม 2565",
+            "title": "คอมมิวนิตี้เดย์เดือนกุมภาพันธ์ 2022: ล่องลอยไปด้วยกันกับฮาเน็กโกะ",
+            "link": "https://pokemongolive.com/th/post/communityday-feb22-hoppip/"
+        },
+        {
+            "date": "23 มกราคม 2565",
             "title": "เอลิคิเทลปรากฏตัวเป็นครั้งแรก! ปลดล็อกกลไกสุดท้ายของประตูในอีเวนต์โรงไฟฟ้ากันเลย!",
             "link": "https://pokemongolive.com/th/post/season-of-heritage-power-plant-event/"
         },
@@ -98,11 +103,6 @@
             "date": "18 พฤศจิกายน 2564",
             "title": "เหล่าโปเกมอนที่คุ้นเคยกันดีจากปี 2020 และ 2021 กลับมาอีกครั้งในคอมมิวนิตี้เดย์เดือนธันวาคมนี้!",
             "link": "https://pokemongolive.com/th/post/community-day-dec21/"
-        },
-        {
-            "date": "17 พฤศจิกายน 2564",
-            "title": "อีเวนต์โคลาโบกับ Ed Sheeran!",
-            "link": "https://pokemongolive.com/th/post/ed-sheeran-collab/"
         }
     ]
 }
