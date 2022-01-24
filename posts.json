@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "January 24, 2022",
+            "title": "February 2022 Community Day: Hoppip’s Hop-Along Hangout",
+            "link": "https://pokemongolive.com/en/post/communityday-feb22-hoppip/"
+        },
+        {
             "date": "January 23, 2022",
             "title": "Unlock the last part of the door as Helioptile makes its debut in the electrifying Power Plant event",
             "link": "https://pokemongolive.com/en/post/season-of-heritage-power-plant-event/"
@@ -98,11 +103,6 @@
             "date": "November 24, 2021",
             "title": "GO Battle League: Season 10 Update",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season10/"
-        },
-        {
-            "date": "November 22, 2021",
-            "title": "The Season comes to an end with the Mischief Unbound event!",
-            "link": "https://pokemongolive.com/en/post/mischief-unbound-2021/"
         }
     ]
 }
