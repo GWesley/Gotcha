@@ -5,7 +5,12 @@
     ],
     "posts": [
         {
-            "date": "17. Januar 2022",
+            "date": "24. Januar 2022",
+            "title": "Community Day im Februar 2022: Mit Hoppspross vom Winde verweht",
+            "link": "https://pokemongolive.com/de/post/communityday-feb22-hoppip/"
+        },
+        {
+            "date": "23. Januar 2022",
             "title": "Kraftwerk-Event: Eguanas elektrisierender erster Auftritt und Entriegelung der Tür",
             "link": "https://pokemongolive.com/de/post/season-of-heritage-power-plant-event/"
         },
@@ -98,11 +103,6 @@
             "date": "18. November 2021",
             "title": "Community Day im Dezember: Pokémon aus 2020 und 2021 kehren zurück!",
             "link": "https://pokemongolive.com/de/post/community-day-dec21/"
-        },
-        {
-            "date": "17. November 2021",
-            "title": "Eine neue Kollaboration mit Ed Sheeran!",
-            "link": "https://pokemongolive.com/de/post/ed-sheeran-collab/"
         }
     ]
 }
