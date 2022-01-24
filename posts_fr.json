@@ -5,7 +5,12 @@
     ],
     "posts": [
         {
-            "date": "17 janvier 2022",
+            "date": "24 janvier 2022",
+            "title": "Journée Communauté de février 2022 : Granivol au gré du vent",
+            "link": "https://pokemongolive.com/fr/post/communityday-feb22-hoppip/"
+        },
+        {
+            "date": "23 janvier 2022",
             "title": "Débloquez la dernière partie de la porte avec l'arrivée de Galvaran dans l'événement électrisant de la Centrale",
             "link": "https://pokemongolive.com/fr/post/season-of-heritage-power-plant-event/"
         },
@@ -98,11 +103,6 @@
             "date": "18 novembre 2021",
             "title": "La Journée Communauté de décembre réunit des visages familiers de 2020 et 2021 !",
             "link": "https://pokemongolive.com/fr/post/community-day-dec21/"
-        },
-        {
-            "date": "17 novembre 2021",
-            "title": "Un tout nouvel événement en collaboration avec Ed Sheeran arrive !",
-            "link": "https://pokemongolive.com/fr/post/ed-sheeran-collab/"
         }
     ]
 }
