@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "25. Januar 2022",
+            "title": "Content-Update für Februar: Pokémon GO Tour: Johto, Community Day mit Hoppspross, Valentinstags-Event 2022, zusätzliche Raid-Pässe und vieles mehr!",
+            "link": "https://pokemongolive.com/de/post/february-2022-content-update/"
+        },
+        {
+            "date": "25. Januar 2022",
             "title": "Werde durch den GO-Arenatrainer-Wettbewerb Teil der Pokémon GO Tour: Johto",
             "link": "https://pokemongolive.com/de/post/pokemongotour-johto-go-gym-trainer-contest/"
         },
@@ -98,11 +103,6 @@
             "date": "24. November 2021",
             "title": "10. Saison der GO-Kampfliga",
             "link": "https://pokemongolive.com/de/post/gobattleleague-season10/"
-        },
-        {
-            "date": "22. November 2021",
-            "title": "Die Jahreszeit endet mit dem Event \"Entfesselter Schabernack\"!",
-            "link": "https://pokemongolive.com/de/post/mischief-unbound-2021/"
         }
     ]
 }
