@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "25 janvier 2022",
+            "title": "À venir en février : Circuit Pokémon GO : Johto, une Journée Communauté Gra-cieuse, l'événement Saint-Valentin 2022, des Passes de Raid supplémentaires et plus encore !",
+            "link": "https://pokemongolive.com/fr/post/february-2022-content-update/"
+        },
+        {
+            "date": "25 janvier 2022",
             "title": "Prenez part au Circuit Pokémon GO : Johto avec le Concours Dresseur d'Arène GO",
             "link": "https://pokemongolive.com/fr/post/pokemongotour-johto-go-gym-trainer-contest/"
         },
@@ -98,11 +103,6 @@
             "date": "24 novembre 2021",
             "title": "Mise à jour de la saison 10 de la Ligue de Combat GO",
             "link": "https://pokemongolive.com/fr/post/gobattleleague-season10/"
-        },
-        {
-            "date": "22 novembre 2021",
-            "title": "La saison s'achève avec l'événement Chenapan déchaîné !",
-            "link": "https://pokemongolive.com/fr/post/mischief-unbound-2021/"
         }
     ]
 }
