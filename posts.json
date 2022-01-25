@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "January 25, 2022",
+            "title": "February Content Update: Pokémon GO Tour: Johto, a Hop-ful Community Day, the Valentine’s Day 2022 event, Extra Raid Passes, and more!",
+            "link": "https://pokemongolive.com/en/post/february-2022-content-update/"
+        },
+        {
+            "date": "January 25, 2022",
             "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
             "link": "https://pokemongolive.com/en/post/pokemongotour-johto-go-gym-trainer-contest/"
         },
@@ -98,11 +103,6 @@
             "date": "November 30, 2021",
             "title": "Coming in December: Season of Heritage, Pokémon GO Holidays, and more!",
             "link": "https://pokemongolive.com/en/post/dec-2021-events/"
-        },
-        {
-            "date": "November 30, 2021",
-            "title": "Welcome to the Season of Heritage!",
-            "link": "https://pokemongolive.com/en/post/season-of-heritage-2021/"
         }
     ]
 }
