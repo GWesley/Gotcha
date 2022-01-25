@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年1月25日",
+            "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
+            "link": "https://pokemongolive.com/ja/post/pokemongotour-johto-go-gym-trainer-contest/"
+        },
+        {
             "date": "2022年1月24日",
             "title": "2022年2月の「コミュニティ・デイ」：「ハネッコ」と飛び跳ねよう",
             "link": "https://pokemongolive.com/ja/post/communityday-feb22-hoppip/"
@@ -98,11 +103,6 @@
             "date": "2021年11月22日",
             "title": "フーパ解放イベントでシーズンが終わりを迎えます！",
             "link": "https://pokemongolive.com/ja/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "2021年11月18日",
-            "title": "12月の「コミュニティ・デイ」は2020年と2021年に大量発生したポケモンたちが帰ってきます！",
-            "link": "https://pokemongolive.com/ja/post/community-day-dec21/"
         }
     ]
 }
