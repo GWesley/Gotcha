@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25 janvier 2022",
+            "title": "Prenez part au Circuit Pokémon GO : Johto avec le Concours Dresseur d'Arène GO",
+            "link": "https://pokemongolive.com/fr/post/pokemongotour-johto-go-gym-trainer-contest/"
+        },
+        {
             "date": "24 janvier 2022",
             "title": "Journée Communauté de février 2022 : Granivol au gré du vent",
             "link": "https://pokemongolive.com/fr/post/communityday-feb22-hoppip/"
@@ -98,11 +103,6 @@
             "date": "22 novembre 2021",
             "title": "La saison s'achève avec l'événement Chenapan déchaîné !",
             "link": "https://pokemongolive.com/fr/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "18 novembre 2021",
-            "title": "La Journée Communauté de décembre réunit des visages familiers de 2020 et 2021 !",
-            "link": "https://pokemongolive.com/fr/post/community-day-dec21/"
         }
     ]
 }
