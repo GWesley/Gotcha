@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25. Januar 2022",
+            "title": "Werde durch den GO-Arenatrainer-Wettbewerb Teil der Pokémon GO Tour: Johto",
+            "link": "https://pokemongolive.com/de/post/pokemongotour-johto-go-gym-trainer-contest/"
+        },
+        {
             "date": "24. Januar 2022",
             "title": "Community Day im Februar 2022: Mit Hoppspross vom Winde verweht",
             "link": "https://pokemongolive.com/de/post/communityday-feb22-hoppip/"
@@ -98,11 +103,6 @@
             "date": "22. November 2021",
             "title": "Die Jahreszeit endet mit dem Event \"Entfesselter Schabernack\"!",
             "link": "https://pokemongolive.com/de/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "18. November 2021",
-            "title": "Community Day im Dezember: Pokémon aus 2020 und 2021 kehren zurück!",
-            "link": "https://pokemongolive.com/de/post/community-day-dec21/"
         }
     ]
 }
