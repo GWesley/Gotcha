@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25 января 2022 г.",
+            "title": "Станьте частью тура «Pokémon GO: Джото», приняв участие в конкурсе тренеров «Гим GO»",
+            "link": "https://pokemongolive.com/ru/post/pokemongotour-johto-go-gym-trainer-contest/"
+        },
+        {
             "date": "24 января 2022 г.",
             "title": "Февральский День сообщества 2022: прыгучая тусовка Хоппипа",
             "link": "https://pokemongolive.com/ru/post/communityday-feb22-hoppip/"
@@ -98,11 +103,6 @@
             "date": "22 ноября 2021 г.",
             "title": "Сезон озорства заканчивается событием «Свободный озорник»!",
             "link": "https://pokemongolive.com/ru/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "18 ноября 2021 г.",
-            "title": "Во время декабрьского Дня сообщества появятся лица, знакомые нам с 2020 и 2021 годов!",
-            "link": "https://pokemongolive.com/ru/post/community-day-dec21/"
         }
     ]
 }
