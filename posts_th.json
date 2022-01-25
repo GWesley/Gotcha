@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "25 มกราคม 2565",
+            "title": "อัปเดตเนื้อหาเดือนกุมภาพันธ์: Pokémon GO Tour: โจโตะ, คอมมิวนิตี้เดย์ฮาเน็กโกะ, อีเวนต์วันวาเลนไทน์ปี 2022, บัตรตีบอสเพิ่มเติม และอื่น ๆ อีกมากมาย!",
+            "link": "https://pokemongolive.com/th/post/february-2022-content-update/"
+        },
+        {
+            "date": "25 มกราคม 2565",
             "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
             "link": "https://pokemongolive.com/th/post/pokemongotour-johto-go-gym-trainer-contest/"
         },
@@ -98,11 +103,6 @@
             "date": "24 พฤศจิกายน 2564",
             "title": "โกแบตเทิลลีก: อัปเดตฤดูกาลที่ 10",
             "link": "https://pokemongolive.com/th/post/gobattleleague-season10/"
-        },
-        {
-            "date": "22 พฤศจิกายน 2564",
-            "title": "ส่งท้ายฤดูกาลด้วยอีเวนต์ปลดปล่อยความป่วน!",
-            "link": "https://pokemongolive.com/th/post/mischief-unbound-2021/"
         }
     ]
 }
