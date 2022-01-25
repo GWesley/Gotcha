@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年1月25日",
+            "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
+            "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johto-go-gym-trainer-contest/"
+        },
+        {
             "date": "2022年1月24日",
             "title": "2022年2月社群日：與毽子草一起輕飄飄",
             "link": "https://pokemongolive.com/zh_hant/post/communityday-feb22-hoppip/"
@@ -98,11 +103,6 @@
             "date": "2021年11月17日",
             "title": "與Ed Sheeran一起推出的全新合作活動！",
             "link": "https://pokemongolive.com/zh_hant/post/ed-sheeran-collab/"
-        },
-        {
-            "date": "2021年11月8日",
-            "title": "在Pokémon GO中慶祝《寶可夢晶燦鑽石》《寶可夢明亮珍珠》正式上市！",
-            "link": "https://pokemongolive.com/zh_hant/post/brilliant-diamond-shining-pearl-event/"
         }
     ]
 }
