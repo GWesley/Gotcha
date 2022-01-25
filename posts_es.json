@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25 de enero de 2022",
+            "title": "Formad parte del Tour de Pokémon GO: Johto a través del concurso para Entrenadores de Gimnasios GO",
+            "link": "https://pokemongolive.com/es/post/pokemongotour-johto-go-gym-trainer-contest/"
+        },
+        {
             "date": "24 de enero de 2022",
             "title": "Día de la Comunidad de febrero de 2022: un paseo con Hoppip",
             "link": "https://pokemongolive.com/es/post/communityday-feb22-hoppip/"
@@ -98,11 +103,6 @@
             "date": "22 de noviembre de 2021",
             "title": "¡La temporada llega a su fin con el evento Travesuras desatadas!",
             "link": "https://pokemongolive.com/es/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "18 de noviembre de 2021",
-            "title": "¡El Día de la Comunidad de diciembre nos trae algunas caras que nos resultarán familiares de 2020 y 2021!",
-            "link": "https://pokemongolive.com/es/post/community-day-dec21/"
         }
     ]
 }
