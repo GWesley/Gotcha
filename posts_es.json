@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "25 de enero de 2022",
+            "title": "Actualización de contenido de febrero: Tour de Pokémon GO: Johto, un Día de la Comunidad con Hoppit, evento del Día de San Valentín de 2022, más pases de incursión ¡y mucho más!",
+            "link": "https://pokemongolive.com/es/post/february-2022-content-update/"
+        },
+        {
+            "date": "25 de enero de 2022",
             "title": "Formad parte del Tour de Pokémon GO: Johto a través del concurso para Entrenadores de Gimnasios GO",
             "link": "https://pokemongolive.com/es/post/pokemongotour-johto-go-gym-trainer-contest/"
         },
@@ -98,11 +103,6 @@
             "date": "24 de noviembre de 2021",
             "title": "Novedades sobre la Liga Combates GO: Temporada 10",
             "link": "https://pokemongolive.com/es/post/gobattleleague-season10/"
-        },
-        {
-            "date": "22 de noviembre de 2021",
-            "title": "¡La temporada llega a su fin con el evento Travesuras desatadas!",
-            "link": "https://pokemongolive.com/es/post/mischief-unbound-2021/"
         }
     ]
 }
