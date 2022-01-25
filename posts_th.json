@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "25 มกราคม 2565",
+            "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
+            "link": "https://pokemongolive.com/th/post/pokemongotour-johto-go-gym-trainer-contest/"
+        },
+        {
             "date": "24 มกราคม 2565",
             "title": "คอมมิวนิตี้เดย์เดือนกุมภาพันธ์ 2022: ล่องลอยไปด้วยกันกับฮาเน็กโกะ",
             "link": "https://pokemongolive.com/th/post/communityday-feb22-hoppip/"
@@ -98,11 +103,6 @@
             "date": "22 พฤศจิกายน 2564",
             "title": "ส่งท้ายฤดูกาลด้วยอีเวนต์ปลดปล่อยความป่วน!",
             "link": "https://pokemongolive.com/th/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "18 พฤศจิกายน 2564",
-            "title": "เหล่าโปเกมอนที่คุ้นเคยกันดีจากปี 2020 และ 2021 กลับมาอีกครั้งในคอมมิวนิตี้เดย์เดือนธันวาคมนี้!",
-            "link": "https://pokemongolive.com/th/post/community-day-dec21/"
         }
     ]
 }
