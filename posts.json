@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "January 25, 2022",
+            "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-johto-go-gym-trainer-contest/"
+        },
+        {
             "date": "January 24, 2022",
             "title": "February 2022 Community Day: Hoppip’s Hop-Along Hangout",
             "link": "https://pokemongolive.com/en/post/communityday-feb22-hoppip/"
@@ -98,11 +103,6 @@
             "date": "November 30, 2021",
             "title": "Welcome to the Season of Heritage!",
             "link": "https://pokemongolive.com/en/post/season-of-heritage-2021/"
-        },
-        {
-            "date": "November 24, 2021",
-            "title": "GO Battle League: Season 10 Update",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season10/"
         }
     ]
 }
