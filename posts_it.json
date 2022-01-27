@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "27 gennaio 2022",
+            "title": "In arrivo nuovi oggetti avatar ispirati a <i>Leggende Pokémon: Arceus</i>!",
+            "link": "https://pokemongolive.com/it/post/legends-arceus-outfit/"
+        },
+        {
             "date": "25 gennaio 2022",
             "title": "Aggiornamento dei contenuti di febbraio: Tour di Pokémon GO di Johto, un Community Day fluttuante, l'evento di San Valentino 2022, biglietti raid extra e molto altro!",
             "link": "https://pokemongolive.com/it/post/february-2022-content-update/"
@@ -98,11 +103,6 @@
             "date": "24 novembre 2021",
             "title": "Lega Lotte GO: aggiornamento sulla decima stagione",
             "link": "https://pokemongolive.com/it/post/gobattleleague-season10/"
-        },
-        {
-            "date": "22 novembre 2021",
-            "title": "La stagione si conclude con l'evento del Pokémon Birba Libero!",
-            "link": "https://pokemongolive.com/it/post/mischief-unbound-2021/"
         }
     ]
 }
