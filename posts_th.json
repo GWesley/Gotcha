@@ -5,13 +5,18 @@
     ],
     "posts": [
         {
+            "date": "27 มกราคม 2565",
+            "title": "\nพบกับไอเทมอวาตาร์ใหม่ที่ได้รับแรงบันดาลใจจาก <i>Pokémon Legends: Arceus</i> ได้ในเร็ว ๆ นี้!",
+            "link": "https://pokemongolive.com/th/post/legends-arceus-outfit/"
+        },
+        {
             "date": "25 มกราคม 2565",
             "title": "อัปเดตเนื้อหาเดือนกุมภาพันธ์: Pokémon GO Tour: โจโตะ, คอมมิวนิตี้เดย์ฮาเน็กโกะ, อีเวนต์วันวาเลนไทน์ปี 2022, บัตรตีบอสเพิ่มเติม และอื่น ๆ อีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/february-2022-content-update/"
         },
         {
             "date": "25 มกราคม 2565",
-            "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
+            "title": "เป็นส่วนหนึ่งของ Pokémon GO Tour: โจโตะ กับการประกวด GO ยิมเทรนเนอร์",
             "link": "https://pokemongolive.com/th/post/pokemongotour-johto-go-gym-trainer-contest/"
         },
         {
@@ -98,11 +103,6 @@
             "date": "26 พฤศจิกายน 2564",
             "title": "​​อีเวนต์ “คำท้าทายถึงดินแดนแห่งรอยยิ้ม” สำหรับประเทศไทยมาถึงแล้ว!\n",
             "link": "https://pokemongolive.com/th/post/land-of-smiles-challenge/"
-        },
-        {
-            "date": "24 พฤศจิกายน 2564",
-            "title": "โกแบตเทิลลีก: อัปเดตฤดูกาลที่ 10",
-            "link": "https://pokemongolive.com/th/post/gobattleleague-season10/"
         }
     ]
 }
