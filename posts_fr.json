@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "27 janvier 2022",
+            "title": "De nouveaux articles pour vos avatars inspirés de <i>Légendes Pokémon : Arceus</i> seront bientôt disponibles !",
+            "link": "https://pokemongolive.com/fr/post/legends-arceus-outfit/"
+        },
+        {
             "date": "25 janvier 2022",
             "title": "À venir en février : Circuit Pokémon GO : Johto, une Journée Communauté Gra-cieuse, l'événement Saint-Valentin 2022, des Passes de Raid supplémentaires et plus encore !",
             "link": "https://pokemongolive.com/fr/post/february-2022-content-update/"
@@ -98,11 +103,6 @@
             "date": "30 novembre 2021",
             "title": "Bienvenue à la Saison du patrimoine !",
             "link": "https://pokemongolive.com/fr/post/season-of-heritage-2021/"
-        },
-        {
-            "date": "24 novembre 2021",
-            "title": "Mise à jour de la saison 10 de la Ligue de Combat GO",
-            "link": "https://pokemongolive.com/fr/post/gobattleleague-season10/"
         }
     ]
 }
