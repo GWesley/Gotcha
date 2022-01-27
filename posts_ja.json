@@ -5,13 +5,18 @@
     ],
     "posts": [
         {
+            "date": "2022年1月27日",
+            "title": "<i>『Pokémon LEGENDS アルセウス』</i>の主人公の服装をモチーフにした新たな着せ替えアイテムがまもなく登場！",
+            "link": "https://pokemongolive.com/ja/post/legends-arceus-outfit/"
+        },
+        {
             "date": "2022年1月25日",
             "title": "2月の最新情報：「Pokémon GO Tour：ジョウト地方」や「ハネッコ」の「コミュニティ・デイ」、バレンタインデーイベント、追加のレイドパスなどが登場！",
             "link": "https://pokemongolive.com/ja/post/february-2022-content-update/"
         },
         {
             "date": "2022年1月25日",
-            "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
+            "title": "GOジムトレーナーコンテストに参加して、「Pokémon GO Tour：ジョウト地方」でゲーム内に登場しよう",
             "link": "https://pokemongolive.com/ja/post/pokemongotour-johto-go-gym-trainer-contest/"
         },
         {
@@ -98,11 +103,6 @@
             "date": "2021年11月30日",
             "title": "「ヘリテージシーズン」へようこそ！",
             "link": "https://pokemongolive.com/ja/post/season-of-heritage-2021/"
-        },
-        {
-            "date": "2021年11月24日",
-            "title": "GOバトルリーグ：シーズン10アップデート",
-            "link": "https://pokemongolive.com/ja/post/gobattleleague-season10/"
         }
     ]
 }
