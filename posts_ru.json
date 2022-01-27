@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "27 января 2022 г.",
+            "title": "Новые предметы для аватара, вдохновленные <i>Pokémon Legends: Arceus</i>, появятся совсем скоро!",
+            "link": "https://pokemongolive.com/ru/post/legends-arceus-outfit/"
+        },
+        {
             "date": "25 января 2022 г.",
             "title": "Что ждет нас в феврале: тур «Pokémon GO: Джото», прыгучий День сообщества, событие в честь Дня святого Валентина, дополнительные рейдовые пропуски и многое другое!",
             "link": "https://pokemongolive.com/ru/post/february-2022-content-update/"
@@ -98,11 +103,6 @@
             "date": "24 ноября 2021 г.",
             "title": "Обновление 10-го сезона Боевой Лиги GO",
             "link": "https://pokemongolive.com/ru/post/gobattleleague-season10/"
-        },
-        {
-            "date": "22 ноября 2021 г.",
-            "title": "Сезон озорства заканчивается событием «Свободный озорник»!",
-            "link": "https://pokemongolive.com/ru/post/mischief-unbound-2021/"
         }
     ]
 }
