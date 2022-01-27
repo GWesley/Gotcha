@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "27. Januar 2022",
+            "title": "Bald sind von <i>Pokémon-Legenden: Arceus</i> inspirierte Avatar-Artikel erhältlich!",
+            "link": "https://pokemongolive.com/de/post/legends-arceus-outfit/"
+        },
+        {
             "date": "25. Januar 2022",
             "title": "Content-Update für Februar: Pokémon GO Tour: Johto, Community Day mit Hoppspross, Valentinstags-Event 2022, zusätzliche Raid-Pässe und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/february-2022-content-update/"
@@ -98,11 +103,6 @@
             "date": "30. November 2021",
             "title": "Willkommen in der Jahreszeit der Herkunft!",
             "link": "https://pokemongolive.com/de/post/season-of-heritage-2021/"
-        },
-        {
-            "date": "24. November 2021",
-            "title": "10. Saison der GO-Kampfliga",
-            "link": "https://pokemongolive.com/de/post/gobattleleague-season10/"
         }
     ]
 }
