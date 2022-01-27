@@ -5,13 +5,18 @@
     ],
     "posts": [
         {
+            "date": "2022年1月27日",
+            "title": "\n全新<i>《寶可夢傳說 阿爾宙斯》</i>主題換裝道具即將上架！",
+            "link": "https://pokemongolive.com/zh_hant/post/legends-arceus-outfit/"
+        },
+        {
             "date": "2022年1月25日",
             "title": "2月更新內容：Pokémon GO Tour：城都、社群日、2022年情人節、更多的團體戰入場券，以及更多活動等著你來參與！",
             "link": "https://pokemongolive.com/zh_hant/post/february-2022-content-update/"
         },
         {
             "date": "2022年1月25日",
-            "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
+            "title": "參加「Pokémon GO Tour：城都地區」GO道館訓練家大賽",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johto-go-gym-trainer-contest/"
         },
         {
@@ -98,11 +103,6 @@
             "date": "2021年11月22日",
             "title": "季節將隨著解放惡作劇活動結束！",
             "link": "https://pokemongolive.com/zh_hant/post/mischief-unbound-2021/"
-        },
-        {
-            "date": "2021年11月18日",
-            "title": "12月社群日的主角會是來自2020和2021年的熟面孔！",
-            "link": "https://pokemongolive.com/zh_hant/post/community-day-dec21/"
         }
     ]
 }
