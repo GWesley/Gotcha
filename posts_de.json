@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "28. Januar 2022",
+            "title": "Pokémon GO Tour: Live Abu Dhabi Update",
+            "link": "https://pokemongolive.com/de/post/go-tour-abu-dhabi-2022-update/"
+        },
+        {
             "date": "27. Januar 2022",
             "title": "Bald sind von Pokémon-Legenden: Arceus inspirierte Avatar-Artikel erhältlich!",
             "link": "https://pokemongolive.com/de/post/legends-arceus-outfit/"
@@ -98,11 +103,6 @@
             "date": "30. November 2021",
             "title": "Ab Dezember: Jahreszeit der Herkunft, Pokémon GO-Feiertage und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/dec-2021-events/"
-        },
-        {
-            "date": "30. November 2021",
-            "title": "Willkommen in der Jahreszeit der Herkunft!",
-            "link": "https://pokemongolive.com/de/post/season-of-heritage-2021/"
         }
     ]
 }
