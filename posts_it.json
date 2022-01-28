@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "28 gennaio 2022",
+            "title": "Pokémon GO Tour: Live Abu Dhabi Update",
+            "link": "https://pokemongolive.com/it/post/go-tour-abu-dhabi-2022-update/"
+        },
+        {
             "date": "27 gennaio 2022",
             "title": "In arrivo nuovi oggetti avatar ispirati a Leggende Pokémon: Arceus!",
             "link": "https://pokemongolive.com/it/post/legends-arceus-outfit/"
@@ -98,11 +103,6 @@
             "date": "30 novembre 2021",
             "title": "Benvenuti nella Stagione della Tradizione!",
             "link": "https://pokemongolive.com/it/post/season-of-heritage-2021/"
-        },
-        {
-            "date": "24 novembre 2021",
-            "title": "Lega Lotte GO: aggiornamento sulla decima stagione",
-            "link": "https://pokemongolive.com/it/post/gobattleleague-season10/"
         }
     ]
 }
