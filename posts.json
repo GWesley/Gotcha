@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "January 29, 2022",
+            "title": "Pokémon GO Tour: Live – Celebrate the Kanto region in-person at the Monterrey and Kaohsiung live events",
+            "link": "https://pokemongolive.com/en/post/pokemongotour-live-details/"
+        },
+        {
             "date": "January 28, 2022",
             "title": "Pokémon GO Tour: Live Abu Dhabi Update",
             "link": "https://pokemongolive.com/en/post/go-tour-abu-dhabi-2022-update/"
@@ -98,11 +103,6 @@
             "date": "December 7, 2021",
             "title": "Pokémon GO Tour returns! Next stop: Johto!",
             "link": "https://pokemongolive.com/en/post/pokemongotour-johto/"
-        },
-        {
-            "date": "December 6, 2021",
-            "title": "Dragonspiral Descent: Druddigon makes its Pokémon GO debut!",
-            "link": "https://pokemongolive.com/en/post/dragonspiral-descent-2021/"
         }
     ]
 }
