@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年1月29日",
+            "title": "「Pokémon GO Tour：Live」 – 在蒙特雷和高雄親身參與關都的盛會吧",
+            "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-live-details/"
+        },
+        {
             "date": "2022年1月27日",
             "title": "\n全新《寶可夢傳說 阿爾宙斯》主題換裝道具即將上架！",
             "link": "https://pokemongolive.com/zh_hant/post/legends-arceus-outfit/"
@@ -98,11 +103,6 @@
             "date": "2021年11月24日",
             "title": "GO對戰聯盟：第10賽季最新消息",
             "link": "https://pokemongolive.com/zh_hant/post/gobattleleague-season10/"
-        },
-        {
-            "date": "2021年11月22日",
-            "title": "季節將隨著解放惡作劇活動結束！",
-            "link": "https://pokemongolive.com/zh_hant/post/mischief-unbound-2021/"
         }
     ]
 }
