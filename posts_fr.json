@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "30 janvier 2022",
+            "title": "Le Voltorbe découvert dans la région de Hisui du jeu [Légendes Pokémon : Arceus] débarque !",
+            "link": "https://pokemongolive.com/fr/post/hisuiregion/"
+        },
+        {
             "date": "28 janvier 2022",
             "title": "Pokémon GO Tour : Annonce concernant l’étape d’Abu Dhabi",
             "link": "https://pokemongolive.com/fr/post/go-tour-abu-dhabi-2022-update/"
@@ -98,11 +103,6 @@
             "date": "30 novembre 2021",
             "title": "Journée Encens avec Marcacrin et d’autres Pokémon de types Sol et Glace",
             "link": "https://pokemongolive.com/fr/post/incenseday-ground-ice-swinub/"
-        },
-        {
-            "date": "30 novembre 2021",
-            "title": "À venir en décembre : Saison du patrimoine, Fêtes d’hiver de Pokémon GO et plus encore !",
-            "link": "https://pokemongolive.com/fr/post/dec-2021-events/"
         }
     ]
 }
