@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022년 1월 30일",
+            "title": "「Pokémon LEGENDS 아르세우스」의 무대 히스이지방에서 \"찌리리공(히스이의 모습)\"이 니타났습니다!",
+            "link": "https://pokemongolive.com/ko/post/hisuiregion/"
+        },
+        {
             "date": "2022년 1월 27일",
             "title": "「Pokémon LEGENDS 아르세우스」를 모티브로 한 새로운 의상 아이템이 등장합니다!",
             "link": "https://pokemongolive.com/ko/post/legends-arceus-outfit/"
@@ -98,11 +103,6 @@
             "date": "2021년 11월 30일",
             "title": "\"유산 시즌\"에 오신 것을 환영합니다!",
             "link": "https://pokemongolive.com/ko/post/season-of-heritage-2021/"
-        },
-        {
-            "date": "2021년 11월 24일",
-            "title": "GO배틀리그: 시즌 10 업데이트",
-            "link": "https://pokemongolive.com/ko/post/gobattleleague-season10/"
         }
     ]
 }
