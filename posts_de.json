@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "30. Januar 2022",
+            "title": "Voltobal aus der Hisui-Region des Spiels \"Pokémon-Legenden: Arceus\" gesichtet!",
+            "link": "https://pokemongolive.com/de/post/hisuiregion/"
+        },
+        {
             "date": "28. Januar 2022",
             "title": "Pokémon GO Tour: Live Abu Dhabi Update",
             "link": "https://pokemongolive.com/de/post/go-tour-abu-dhabi-2022-update/"
@@ -98,11 +103,6 @@
             "date": "30. November 2021",
             "title": "Rauch-Tag mit Quiekel und anderen Eis- und Boden-Pokémon",
             "link": "https://pokemongolive.com/de/post/incenseday-ground-ice-swinub/"
-        },
-        {
-            "date": "30. November 2021",
-            "title": "Ab Dezember: Jahreszeit der Herkunft, Pokémon GO-Feiertage und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/dec-2021-events/"
         }
     ]
 }
