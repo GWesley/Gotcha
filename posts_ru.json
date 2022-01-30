@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "30 января 2022 г.",
+            "title": "Волторб из игры Pokémon Legends: Arceus, обнаруженный в регионе Гисуи, уже появился!",
+            "link": "https://pokemongolive.com/ru/post/hisuiregion/"
+        },
+        {
             "date": "27 января 2022 г.",
             "title": "Новые предметы для аватара, вдохновленные Pokémon Legends: Arceus, появятся совсем скоро!",
             "link": "https://pokemongolive.com/ru/post/legends-arceus-outfit/"
@@ -98,11 +103,6 @@
             "date": "30 ноября 2021 г.",
             "title": "Добро пожаловать в Сезон наследия!",
             "link": "https://pokemongolive.com/ru/post/season-of-heritage-2021/"
-        },
-        {
-            "date": "24 ноября 2021 г.",
-            "title": "Обновление 10-го сезона Боевой Лиги GO",
-            "link": "https://pokemongolive.com/ru/post/gobattleleague-season10/"
         }
     ]
 }
