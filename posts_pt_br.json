@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "30 de janeiro de 2022",
+            "title": "Os Voltorb encontrados na região de Hisui do jogo Pokémon Legends: Arceus apareceram!",
+            "link": "https://pokemongolive.com/pt_br/post/hisuiregion/"
+        },
+        {
             "date": "27 de janeiro de 2022",
             "title": "Novos itens de avatar inspirados no Pokémon Lendário: Arceus em breve!",
             "link": "https://pokemongolive.com/pt_br/post/legends-arceus-outfit/"
@@ -98,11 +103,6 @@
             "date": "30 de novembro de 2021",
             "title": "Em dezembro: Temporada de legado, Festas do Pokémon GO e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/dec-2021-events/"
-        },
-        {
-            "date": "30 de novembro de 2021",
-            "title": "Bem-vindos à Temporada de legado!",
-            "link": "https://pokemongolive.com/pt_br/post/season-of-heritage-2021/"
         }
     ]
 }
