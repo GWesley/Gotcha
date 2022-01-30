@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "January 30, 2022",
+            "title": "Voltorb found in the Hisui region of the Pokémon Legends: Arceus game have appeared!",
+            "link": "https://pokemongolive.com/en/post/hisuiregion/"
+        },
+        {
             "date": "January 29, 2022",
             "title": "Pokémon GO Tour: Live – Celebrate the Kanto region in-person at the Monterrey and Kaohsiung live events",
             "link": "https://pokemongolive.com/en/post/pokemongotour-live-details/"
@@ -98,11 +103,6 @@
             "date": "December 8, 2021",
             "title": "Power up PokéStops to receive better rewards and create new AR experiences",
             "link": "https://pokemongolive.com/en/post/power-up-pokestop-announcement/"
-        },
-        {
-            "date": "December 7, 2021",
-            "title": "Pokémon GO Tour returns! Next stop: Johto!",
-            "link": "https://pokemongolive.com/en/post/pokemongotour-johto/"
         }
     ]
 }
