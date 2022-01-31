@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "31 de janeiro de 2022",
+            "title": "Celebre o evento do Ano Novo Lunar 2022 do Pokémon GO",
+            "link": "https://pokemongolive.com/pt_br/post/lunar-new-year-event-2022/"
+        },
+        {
             "date": "30 de janeiro de 2022",
             "title": "Os Voltorb encontrados na região de Hisui do jogo Pokémon Legends: Arceus apareceram!",
             "link": "https://pokemongolive.com/pt_br/post/hisuiregion/"
@@ -98,11 +103,6 @@
             "date": "30 de novembro de 2021",
             "title": "Evento do dia de Incenso com Swinub e outros Pokémon dos tipos Terrestre e Gelo",
             "link": "https://pokemongolive.com/pt_br/post/incenseday-ground-ice-swinub/"
-        },
-        {
-            "date": "30 de novembro de 2021",
-            "title": "Em dezembro: Temporada de legado, Festas do Pokémon GO e muito mais!",
-            "link": "https://pokemongolive.com/pt_br/post/dec-2021-events/"
         }
     ]
 }
