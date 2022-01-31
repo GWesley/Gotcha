@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "date": "31 มกราคม 2565",
+            "title": "ฉลองวันตรุษจีนด้วยอีเวนต์วันตรุษจีนปี 2022 ของ Pokémon GO",
+            "link": "https://pokemongolive.com/th/post/lunar-new-year-event-2022/"
+        },
+        {
             "date": "30 มกราคม 2565",
             "title": " บิริริดามา (ร่างฮิซุย) จากภูมิภาคฮิซุยใน Pokémon Legends: Arceus ปรากฏตัวแล้ว!\n",
             "link": "https://pokemongolive.com/th/post/hisuiregion/"
+        },
+        {
+            "date": "29 มกราคม 2565",
+            "title": "Pokémon GO Tour: สด – ฉลองเขตคันโตด้วยตนเองที่อีเวนต์สดมอนเตร์เรย์และเกาสง",
+            "link": "https://pokemongolive.com/th/post/pokemongotour-live-details/"
         },
         {
             "date": "27 มกราคม 2565",
@@ -93,16 +103,6 @@
             "date": "30 พฤศจิกายน 2564",
             "title": "พบกับอุริมู โปเกมอนประเภทดินและประเภทน้ำแข็งอื่น ๆ ในอีเวนต์วันเครื่องหอม",
             "link": "https://pokemongolive.com/th/post/incenseday-ground-ice-swinub/"
-        },
-        {
-            "date": "30 พฤศจิกายน 2564",
-            "title": "ธันวาคมมาแน่: ฤดูกาลแห่งมรดก, ฉลองวันหยุดกับ Pokémon GO และอีกมากมาย!",
-            "link": "https://pokemongolive.com/th/post/dec-2021-events/"
-        },
-        {
-            "date": "30 พฤศจิกายน 2564",
-            "title": "ยินดีต้อนรับสู่ฤดูกาลแห่งมรดก!",
-            "link": "https://pokemongolive.com/th/post/season-of-heritage-2021/"
         }
     ]
 }
