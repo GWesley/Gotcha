@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "January 31, 2022",
+            "title": "Celebrate Lunar New Year with Pokémon GO’s 2022 Lunar New Year event\n",
+            "link": "https://pokemongolive.com/en/post/lunar-new-year-event-2022/"
+        },
+        {
             "date": "January 30, 2022",
             "title": "Voltorb found in the Hisui region of the Pokémon Legends: Arceus game have appeared!",
             "link": "https://pokemongolive.com/en/post/hisuiregion/"
@@ -98,11 +103,6 @@
             "date": "December 9, 2021",
             "title": "Introducing the Postcard Book!",
             "link": "https://pokemongolive.com/en/post/postcardbook/"
-        },
-        {
-            "date": "December 8, 2021",
-            "title": "Power up PokéStops to receive better rewards and create new AR experiences",
-            "link": "https://pokemongolive.com/en/post/power-up-pokestop-announcement/"
         }
     ]
 }
