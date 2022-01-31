@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "31 de enero de 2022",
+            "title": "Celebrad el Año Nuevo Lunar con el evento del Año Nuevo Lunar 2022 de Pokémon GO\n",
+            "link": "https://pokemongolive.com/es/post/lunar-new-year-event-2022/"
+        },
+        {
             "date": "30 de enero de 2022",
             "title": "¡Los Voltorb descubiertos en la región de Hisui de Leyendas Pokémon: Arceus están apareciendo!",
             "link": "https://pokemongolive.com/es/post/hisuiregion/"
@@ -98,11 +103,6 @@
             "date": "6 de diciembre de 2021",
             "title": "Descenso Duodraco: ¡Druddigon debuta en Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/dragonspiral-descent-2021/"
-        },
-        {
-            "date": "30 de noviembre de 2021",
-            "title": "Evento del Día del Incienso con Swinub como destacado y otros Pokémon de tipos Tierra y Hielo",
-            "link": "https://pokemongolive.com/es/post/incenseday-ground-ice-swinub/"
         }
     ]
 }
