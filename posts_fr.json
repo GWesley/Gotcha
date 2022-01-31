@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "31 janvier 2022",
+            "title": "Célébrez le Nouvel An lunaire avec l’événement Pokémon GO 2022 : « Nouvel An lunaire »",
+            "link": "https://pokemongolive.com/fr/post/lunar-new-year-event-2022/"
+        },
+        {
             "date": "30 janvier 2022",
             "title": "Le Voltorbe découvert dans la région de Hisui du jeu [Légendes Pokémon : Arceus] débarque !",
             "link": "https://pokemongolive.com/fr/post/hisuiregion/"
@@ -98,11 +103,6 @@
             "date": "6 décembre 2021",
             "title": "Descente de Dragospire : Drakkarmin fait ses débuts dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/dragonspiral-descent-2021/"
-        },
-        {
-            "date": "30 novembre 2021",
-            "title": "Journée Encens avec Marcacrin et d’autres Pokémon de types Sol et Glace",
-            "link": "https://pokemongolive.com/fr/post/incenseday-ground-ice-swinub/"
         }
     ]
 }
