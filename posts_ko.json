@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "date": "2022년 1월 31일",
+            "title": "\"Pokémon GO\" 2022 설날 이벤트로 음력 새해를 기념하세요",
+            "link": "https://pokemongolive.com/ko/post/lunar-new-year-event-2022/"
+        },
+        {
             "date": "2022년 1월 30일",
             "title": "「Pokémon LEGENDS 아르세우스」의 무대 히스이지방에서 \"찌리리공(히스이의 모습)\"이 니타났습니다!",
             "link": "https://pokemongolive.com/ko/post/hisuiregion/"
+        },
+        {
+            "date": "2022년 1월 29일",
+            "title": "Pokémon GO Tour: 라이브 - 몬테레이와 가오슝의 라이브 이벤트에서 관동지방을 직접 기념하세요",
+            "link": "https://pokemongolive.com/ko/post/pokemongotour-live-details/"
         },
         {
             "date": "2022년 1월 27일",
@@ -93,16 +103,6 @@
             "date": "2021년 11월 30일",
             "title": "꾸꾸리와 다른 땅타입 및 얼음타입 포켓몬이 등장하는 향로의 날 이벤트",
             "link": "https://pokemongolive.com/ko/post/incenseday-ground-ice-swinub/"
-        },
-        {
-            "date": "2021년 11월 30일",
-            "title": "12월 일정: 유산 시즌, Pokémon GO 홀리데이, 다양한 이벤트!",
-            "link": "https://pokemongolive.com/ko/post/dec-2021-events/"
-        },
-        {
-            "date": "2021년 11월 30일",
-            "title": "\"유산 시즌\"에 오신 것을 환영합니다!",
-            "link": "https://pokemongolive.com/ko/post/season-of-heritage-2021/"
         }
     ]
 }
