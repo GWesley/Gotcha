@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "3. Februar 2022",
+            "title": "Ankündigung der Erweiterung Pokémon GO des Pokémon-Sammelkartenspiels!",
+            "link": "https://pokemongolive.com/de/post/pgo-tcg/"
+        },
+        {
             "date": "31. Januar 2022",
             "title": "Feiert das Mondneujahr 2022 mit dem Mondneujahrs-Event in Pokémon GO\n",
             "link": "https://pokemongolive.com/de/post/lunar-new-year-event-2022/"
@@ -98,11 +103,6 @@
             "date": "8. Dezember 2021",
             "title": "Ladet PokéStops für bessere Belohnungen und neue AR-Erlebnisse auf",
             "link": "https://pokemongolive.com/de/post/power-up-pokestop-announcement/"
-        },
-        {
-            "date": "7. Dezember 2021",
-            "title": "Die Pokémon GO Tour kehrt zurück! Nächster Stopp: Johto",
-            "link": "https://pokemongolive.com/de/post/pokemongotour-johto/"
         }
     ]
 }
