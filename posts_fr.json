@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "3 février 2022",
+            "title": "Découvrez l’extension Pokémon GO du JCC Pokémon !",
+            "link": "https://pokemongolive.com/fr/post/pgo-tcg/"
+        },
+        {
             "date": "31 janvier 2022",
             "title": "Célébrez le Nouvel An lunaire avec l’événement Pokémon GO 2022 : « Nouvel An lunaire »",
             "link": "https://pokemongolive.com/fr/post/lunar-new-year-event-2022/"
@@ -98,11 +103,6 @@
             "date": "7 décembre 2021",
             "title": "C’est le grand retour du Circuit Pokémon GO ! Prochain arrêt : Johto !",
             "link": "https://pokemongolive.com/fr/post/pokemongotour-johto/"
-        },
-        {
-            "date": "6 décembre 2021",
-            "title": "Descente de Dragospire : Drakkarmin fait ses débuts dans Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/dragonspiral-descent-2021/"
         }
     ]
 }
