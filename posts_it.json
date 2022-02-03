@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "3 febbraio 2022",
+            "title": "È in arrivo l’espansione Pokémon GO del GCC Pokémon!",
+            "link": "https://pokemongolive.com/it/post/pgo-tcg/"
+        },
+        {
             "date": "31 gennaio 2022",
             "title": "Festeggiate il Capodanno lunare con l'evento del 2022 di Pokémon GO\n",
             "link": "https://pokemongolive.com/it/post/lunar-new-year-event-2022/"
@@ -98,11 +103,6 @@
             "date": "6 dicembre 2021",
             "title": "Discesa Dragospira: Druddigon fa il suo debutto in Pokémon GO!",
             "link": "https://pokemongolive.com/it/post/dragonspiral-descent-2021/"
-        },
-        {
-            "date": "30 novembre 2021",
-            "title": "Evento della giornata dell'aroma con Swinub e altri Pokémon di tipo Terra e Ghiaccio",
-            "link": "https://pokemongolive.com/it/post/incenseday-ground-ice-swinub/"
         }
     ]
 }
