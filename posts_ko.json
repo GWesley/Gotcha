@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022년 2월 3일",
+            "title": "포켓몬 카드 게임에서 강화 확장팩 「Pokémon GO」의 발매가 결정!",
+            "link": "https://pokemongolive.com/ko/post/pgo-tcg/"
+        },
+        {
             "date": "2022년 1월 31일",
             "title": "\"Pokémon GO\" 2022 설날 이벤트로 음력 새해를 기념하세요",
             "link": "https://pokemongolive.com/ko/post/lunar-new-year-event-2022/"
@@ -98,11 +103,6 @@
             "date": "2021년 12월 6일",
             "title": "용나선탑의 수수께끼: \"크리만\"이 Pokémon GO에 처음으로 등장합니다!",
             "link": "https://pokemongolive.com/ko/post/dragonspiral-descent-2021/"
-        },
-        {
-            "date": "2021년 11월 30일",
-            "title": "꾸꾸리와 다른 땅타입 및 얼음타입 포켓몬이 등장하는 향로의 날 이벤트",
-            "link": "https://pokemongolive.com/ko/post/incenseday-ground-ice-swinub/"
         }
     ]
 }
