@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "3 de febrero de 2022",
+            "title": "¡Anuncio de la expansión Pokémon GO de JCC Pokémon!",
+            "link": "https://pokemongolive.com/es/post/pgo-tcg/"
+        },
+        {
             "date": "31 de enero de 2022",
             "title": "Celebrad el Año Nuevo Lunar con el evento del Año Nuevo Lunar 2022 de Pokémon GO\n",
             "link": "https://pokemongolive.com/es/post/lunar-new-year-event-2022/"
@@ -98,11 +103,6 @@
             "date": "7 de diciembre de 2021",
             "title": "¡Vuelve el Tour de Pokémon GO! Próxima parada: ¡Johto!",
             "link": "https://pokemongolive.com/es/post/pokemongotour-johto/"
-        },
-        {
-            "date": "6 de diciembre de 2021",
-            "title": "Descenso Duodraco: ¡Druddigon debuta en Pokémon GO!",
-            "link": "https://pokemongolive.com/es/post/dragonspiral-descent-2021/"
         }
     ]
 }
