@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年2月3日",
+            "title": "「ポケモンカードゲーム」で、強化拡張パック「Pokémon GO」が発売決定！",
+            "link": "https://pokemongolive.com/ja/post/pgo-tcg/"
+        },
+        {
             "date": "2022年1月31日",
             "title": "『Pokémon GO』の旧正月イベントで、2022年の旧正月をお祝いしよう！",
             "link": "https://pokemongolive.com/ja/post/lunar-new-year-event-2022/"
@@ -98,11 +103,6 @@
             "date": "2021年12月7日",
             "title": "「Pokémon GO Tour」が再び開催！今回はジョウト地方です！",
             "link": "https://pokemongolive.com/ja/post/pokemongotour-johto/"
-        },
-        {
-            "date": "2021年12月6日",
-            "title": "リュウラセンの塔の謎：「クリムガン」が『Pokémon GO』に初登場！",
-            "link": "https://pokemongolive.com/ja/post/dragonspiral-descent-2021/"
         }
     ]
 }
