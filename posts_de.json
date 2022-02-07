@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "7. Februar 2022",
+            "title": "Pokémon GO-Event zum Valentinstag 2022:  Flabébé gibt sein Debüt, Event-Sammler-Herausforderungen und mehr!",
+            "link": "https://pokemongolive.com/de/post/valentines-day-event-2022/"
+        },
+        {
             "date": "3. Februar 2022",
             "title": "Ankündigung der Erweiterung Pokémon GO des Pokémon-Sammelkartenspiels!",
             "link": "https://pokemongolive.com/de/post/pgo-tcg/"
@@ -23,6 +28,11 @@
             "date": "30. Januar 2022",
             "title": "Voltobal aus der Hisui-Region des Spiels \"Pokémon-Legenden: Arceus\" gesichtet!",
             "link": "https://pokemongolive.com/de/post/hisuiregion/"
+        },
+        {
+            "date": "29. Januar 2022",
+            "title": "Pokémon GO Tour: Live: Entdeckt die Kanto-Region live in Monterrey und Kaohsiung",
+            "link": "https://pokemongolive.com/de/post/pokemongotour-live-details/"
         },
         {
             "date": "28. Januar 2022",
@@ -53,6 +63,11 @@
             "date": "23. Januar 2022",
             "title": "Kraftwerk-Event: Eguanas elektrisierender erster Auftritt und Entriegelung der Tür",
             "link": "https://pokemongolive.com/de/post/season-of-heritage-power-plant-event/"
+        },
+        {
+            "date": "21. Januar 2022",
+            "title": "Neuigkeiten zur Pokémon GO Tour: Johto – Spezialforschung und vieles mehr!",
+            "link": "https://pokemongolive.com/de/post/pokemongotour-johto-research/"
         },
         {
             "date": "5. Januar 2022",
@@ -88,21 +103,6 @@
             "date": "16. Dezember 2021",
             "title": "Pokémon GO Tour: Orte für Live-Events",
             "link": "https://pokemongolive.com/de/post/pokemongotour-johtolive/"
-        },
-        {
-            "date": "9. Dezember 2021",
-            "title": "Pokémon GO-Feiertage 2021: Pokémon GO-Debüt von Arktip, neue Kostüme und Avatar-Artikel und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/holiday2021/"
-        },
-        {
-            "date": "9. Dezember 2021",
-            "title": "Wir stellen vor: das Postkartenbuch!",
-            "link": "https://pokemongolive.com/de/post/postcardbook/"
-        },
-        {
-            "date": "8. Dezember 2021",
-            "title": "Ladet PokéStops für bessere Belohnungen und neue AR-Erlebnisse auf",
-            "link": "https://pokemongolive.com/de/post/power-up-pokestop-announcement/"
         }
     ]
 }
