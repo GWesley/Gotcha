@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022년 2월 7일",
+            "title": "2022년 \"Pokémon GO\" 밸런타인데이 이벤트: \"플라베베\" 첫 등장!",
+            "link": "https://pokemongolive.com/ko/post/valentines-day-event-2022/"
+        },
+        {
             "date": "2022년 2월 3일",
             "title": "포켓몬 카드 게임에서 강화 확장팩 「Pokémon GO」의 발매가 결정!",
             "link": "https://pokemongolive.com/ko/post/pgo-tcg/"
@@ -50,6 +55,11 @@
             "link": "https://pokemongolive.com/ko/post/season-of-heritage-power-plant-event/"
         },
         {
+            "date": "2022년 1월 21일",
+            "title": "\"Pokémon GO Tour: 성도지방\" - 스페셜리서치, 장기 리서치 등 다양한 이벤트\n",
+            "link": "https://pokemongolive.com/ko/post/pokemongotour-johto-research/"
+        },
+        {
             "date": "2022년 1월 5일",
             "title": "\"유산 시즌\"의 힘의 산 이벤트를 준비하세요.",
             "link": "https://pokemongolive.com/ko/post/season-of-heritage-mountains-of-power-event/"
@@ -93,16 +103,6 @@
             "date": "2021년 12월 9일",
             "title": "\"엽서 앨범\"을 소개합니다!",
             "link": "https://pokemongolive.com/ko/post/postcardbook/"
-        },
-        {
-            "date": "2021년 12월 7일",
-            "title": "\"Pokémon GO Tour\"가 돌아옵니다! 이번에는 성도지방입니다!",
-            "link": "https://pokemongolive.com/ko/post/pokemongotour-johto/"
-        },
-        {
-            "date": "2021년 12월 6일",
-            "title": "용나선탑의 수수께끼: \"크리만\"이 Pokémon GO에 처음으로 등장합니다!",
-            "link": "https://pokemongolive.com/ko/post/dragonspiral-descent-2021/"
         }
     ]
 }
