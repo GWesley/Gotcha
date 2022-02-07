@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "7 de fevereiro de 2022",
+            "title": "Evento do Valentine’s Day de 2022 no Pokémon GO: aparecimento de Flabébé, Desafios de Coleção com base nesse tema e muito mais!",
+            "link": "https://pokemongolive.com/pt_br/post/valentines-day-event-2022/"
+        },
+        {
             "date": "3 de fevereiro de 2022",
             "title": "Anunciando a expansão Pokémon GO do Pokémon Estampas Ilustradas!",
             "link": "https://pokemongolive.com/pt_br/post/pgo-tcg/"
@@ -18,6 +23,11 @@
             "date": "30 de janeiro de 2022",
             "title": "Os Voltorb encontrados na região de Hisui do jogo Pokémon Legends: Arceus apareceram!",
             "link": "https://pokemongolive.com/pt_br/post/hisuiregion/"
+        },
+        {
+            "date": "29 de janeiro de 2022",
+            "title": "Pokémon GO Tour: Live – Celebre a região de Kanto presencialmente nos eventos ao vivo de Monterrey e Kaohsiung",
+            "link": "https://pokemongolive.com/pt_br/post/pokemongotour-live-details/"
         },
         {
             "date": "27 de janeiro de 2022",
@@ -38,6 +48,11 @@
             "date": "23 de janeiro de 2022",
             "title": "Desbloqueie a última parte da porta enquanto Helioptile faz sua estreia no eletrizante evento Usina Elétrica",
             "link": "https://pokemongolive.com/pt_br/post/season-of-heritage-power-plant-event/"
+        },
+        {
+            "date": "21 de janeiro de 2022",
+            "title": "Pokémon GO Tour: Johto — Pesquisa especial e muito mais em breve!",
+            "link": "https://pokemongolive.com/pt_br/post/pokemongotour-johto-research/"
         },
         {
             "date": "5 de janeiro de 2022",
@@ -88,21 +103,6 @@
             "date": "9 de dezembro de 2021",
             "title": "Apresentando o Livro de Cartões Postais!",
             "link": "https://pokemongolive.com/pt_br/post/postcardbook/"
-        },
-        {
-            "date": "8 de dezembro de 2021",
-            "title": "Fortaleça as Poképaradas para receber melhores recompensas e criar experiências de RA",
-            "link": "https://pokemongolive.com/pt_br/post/power-up-pokestop-announcement/"
-        },
-        {
-            "date": "7 de dezembro de 2021",
-            "title": "O Pokémon GO Tour está de volta! Próxima parada: Johto!",
-            "link": "https://pokemongolive.com/pt_br/post/pokemongotour-johto/"
-        },
-        {
-            "date": "6 de dezembro de 2021",
-            "title": "Descensão Dragãoespiral: Druddigon faz sua estreia no Pokémon GO!",
-            "link": "https://pokemongolive.com/pt_br/post/dragonspiral-descent-2021/"
         }
     ]
 }
