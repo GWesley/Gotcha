@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "7 février 2022",
+            "title": "Événement Pokémon GO Saint-Valentin 2022 : apparition de Flabébé, Défis de collection sur le thème de la Saint-Valentin et bien plus encore !",
+            "link": "https://pokemongolive.com/fr/post/valentines-day-event-2022/"
+        },
+        {
             "date": "3 février 2022",
             "title": "Découvrez l’extension Pokémon GO du JCC Pokémon !",
             "link": "https://pokemongolive.com/fr/post/pgo-tcg/"
@@ -18,6 +23,11 @@
             "date": "30 janvier 2022",
             "title": "Le Voltorbe découvert dans la région de Hisui du jeu [Légendes Pokémon : Arceus] débarque !",
             "link": "https://pokemongolive.com/fr/post/hisuiregion/"
+        },
+        {
+            "date": "29 janvier 2022",
+            "title": "Circuit Pokémon GO : En direct : célébrez la région de Kanto en personne lors des événements en direct de Monterrey et Kaohsiung",
+            "link": "https://pokemongolive.com/fr/post/pokemongotour-live-details/"
         },
         {
             "date": "28 janvier 2022",
@@ -48,6 +58,11 @@
             "date": "23 janvier 2022",
             "title": "Débloquez la dernière partie de la porte avec l'arrivée de Galvaran dans l'événement électrisant de la Centrale",
             "link": "https://pokemongolive.com/fr/post/season-of-heritage-power-plant-event/"
+        },
+        {
+            "date": "21 janvier 2022",
+            "title": "Circuit Pokémon GO : Johto — Étude spéciale et plus à venir !",
+            "link": "https://pokemongolive.com/fr/post/pokemongotour-johto-research/"
         },
         {
             "date": "5 janvier 2022",
@@ -88,21 +103,6 @@
             "date": "9 décembre 2021",
             "title": "Fêtes d’hiver de Pokémon GO 2021 : Grelaçon débarque dans Pokémon GO, de nouveaux costumes et articles d’avatar seront disponibles, et plus encore !",
             "link": "https://pokemongolive.com/fr/post/holiday2021/"
-        },
-        {
-            "date": "9 décembre 2021",
-            "title": "Présentation de l’Album de cartes postales !",
-            "link": "https://pokemongolive.com/fr/post/postcardbook/"
-        },
-        {
-            "date": "8 décembre 2021",
-            "title": "Boostez les PokéStops pour recevoir de meilleures récompenses et créer de nouvelles expériences de RA",
-            "link": "https://pokemongolive.com/fr/post/power-up-pokestop-announcement/"
-        },
-        {
-            "date": "7 décembre 2021",
-            "title": "C’est le grand retour du Circuit Pokémon GO ! Prochain arrêt : Johto !",
-            "link": "https://pokemongolive.com/fr/post/pokemongotour-johto/"
         }
     ]
 }
