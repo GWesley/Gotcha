@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "7 февраля 2022 г.",
+            "title": "День святого Валентина 2022 в Pokémon GO: появление Флабебе, тематические праздничные коллекционные испытания и многое другое!",
+            "link": "https://pokemongolive.com/ru/post/valentines-day-event-2022/"
+        },
+        {
             "date": "31 января 2022 г.",
             "title": "Отпразднуйте Китайский Новый год 2022, приняв участие в праздничном событии Pokémon GO\n",
             "link": "https://pokemongolive.com/ru/post/lunar-new-year-event-2022/"
@@ -13,6 +18,11 @@
             "date": "30 января 2022 г.",
             "title": "Волторб из игры Pokémon Legends: Arceus, обнаруженный в регионе Гисуи, уже появился!",
             "link": "https://pokemongolive.com/ru/post/hisuiregion/"
+        },
+        {
+            "date": "29 января 2022 г.",
+            "title": "Живые мероприятия Тура Pokémon GO: насладитесь регионом Канто вживую на мероприятиях в Монтеррее и Гаосюне",
+            "link": "https://pokemongolive.com/ru/post/pokemongotour-live-details/"
         },
         {
             "date": "27 января 2022 г.",
@@ -33,6 +43,11 @@
             "date": "23 января 2022 г.",
             "title": "Откройте последний замок двери во время зажигательного события на электростанции, где дебютирует Хелиоптайл",
             "link": "https://pokemongolive.com/ru/post/season-of-heritage-power-plant-event/"
+        },
+        {
+            "date": "21 января 2022 г.",
+            "title": "Тур Pokémon GO: Джото — специальный квест и многое другое!",
+            "link": "https://pokemongolive.com/ru/post/pokemongotour-johto-research/"
         },
         {
             "date": "5 января 2022 г.",
@@ -88,21 +103,6 @@
             "date": "7 декабря 2021 г.",
             "title": "Тур Pokémon GO продолжается! Следующая остановка — Джото!",
             "link": "https://pokemongolive.com/ru/post/pokemongotour-johto/"
-        },
-        {
-            "date": "6 декабря 2021 г.",
-            "title": "Сошествие драконов: в Pokémon GO дебютирует Драддигон!",
-            "link": "https://pokemongolive.com/ru/post/dragonspiral-descent-2021/"
-        },
-        {
-            "date": "30 ноября 2021 г.",
-            "title": "День ладана со Свинубом и другими земными и ледяными покемонами",
-            "link": "https://pokemongolive.com/ru/post/incenseday-ground-ice-swinub/"
-        },
-        {
-            "date": "30 ноября 2021 г.",
-            "title": "Что ждет нас в декабре: Сезон наследия, праздники Pokémon GO и многое другое!",
-            "link": "https://pokemongolive.com/ru/post/dec-2021-events/"
         }
     ]
 }
