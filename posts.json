@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "February 7, 2022",
+            "title": "Pokémon GO Valentine’s Day 2022 Event:  Flabébé appearing, Valentine’s Day–themed Collection Challenges, and more!",
+            "link": "https://pokemongolive.com/en/post/valentines-day-event-2022/"
+        },
+        {
             "date": "February 3, 2022",
             "title": "Announcing the Pokémon TCG: Pokémon GO expansion!",
             "link": "https://pokemongolive.com/en/post/pgo-tcg/"
@@ -98,11 +103,6 @@
             "date": "December 16, 2021",
             "title": "Pokémon GO Tour: Live event locations",
             "link": "https://pokemongolive.com/en/post/pokemongotour-johtolive/"
-        },
-        {
-            "date": "December 9, 2021",
-            "title": "Pokémon GO Holidays 2021: Bergmite’s Pokémon GO debut, new costumes and avatar items, and more!",
-            "link": "https://pokemongolive.com/en/post/holiday2021/"
         }
     ]
 }
