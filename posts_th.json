@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "7 กุมภาพันธ์ 2565",
+            "title": "อีเวนต์วันวาเลนไทน์ 2022 Pokémon GO: ฟลาเบเบจะปรากฏตัว, คำท้านักสะสมธีมวันวาเลนไทน์ และอีกมากมาย!",
+            "link": "https://pokemongolive.com/th/post/valentines-day-event-2022/"
+        },
+        {
             "date": "3 กุมภาพันธ์ 2565",
             "title": "โปเกมอนเทรดดิ้งการ์ดเกมประกาศวางจำหน่ายการ์ดชุดเสริมเพิ่มความแข็งแกร่ง \"Pokémon GO\"",
             "link": "https://pokemongolive.com/th/post/pgo-tcg/"
@@ -50,6 +55,11 @@
             "link": "https://pokemongolive.com/th/post/season-of-heritage-power-plant-event/"
         },
         {
+            "date": "21 มกราคม 2565",
+            "title": "Pokémon GO Tour: โจโตะ —พบกับงานวิจัยพิเศษ, งานวิจัยระยะยาว และอื่น ๆ อีกมากมาย",
+            "link": "https://pokemongolive.com/th/post/pokemongotour-johto-research/"
+        },
+        {
             "date": "5 มกราคม 2565",
             "title": "เตรียมสนุกสุดเหวี่ยงในระหว่างอีเวนต์ภูเขาแห่งขุมพลังในช่วงฤดูกาลแห่งมรดก",
             "link": "https://pokemongolive.com/th/post/season-of-heritage-mountains-of-power-event/"
@@ -93,16 +103,6 @@
             "date": "9 ธันวาคม 2564",
             "title": "ขอแนะนำอัลบั้มโปสการ์ด!",
             "link": "https://pokemongolive.com/th/post/postcardbook/"
-        },
-        {
-            "date": "7 ธันวาคม 2564",
-            "title": "Pokémon GO Tour กลับมาแล้ว! สถานีต่อไป: โจโตะ!",
-            "link": "https://pokemongolive.com/th/post/pokemongotour-johto/"
-        },
-        {
-            "date": "6 ธันวาคม 2564",
-            "title": "ปริศนาหอคอยเกลียวมังกร: คริมแกนเปิดตัวใน Pokémon GO แล้ว!",
-            "link": "https://pokemongolive.com/th/post/dragonspiral-descent-2021/"
         }
     ]
 }
