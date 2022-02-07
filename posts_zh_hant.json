@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年2月7日",
+            "title": "2022年Pokémon GO情人節：花蓓蓓首次亮相！",
+            "link": "https://pokemongolive.com/zh_hant/post/valentines-day-event-2022/"
+        },
+        {
             "date": "2022年2月3日",
             "title": "寶可夢集換式卡牌遊戲強化擴充包「Pokémon GO」登場！",
             "link": "https://pokemongolive.com/zh_hant/post/pgo-tcg/"
@@ -50,6 +55,11 @@
             "link": "https://pokemongolive.com/zh_hant/post/season-of-heritage-power-plant-event/"
         },
         {
+            "date": "2022年1月21日",
+            "title": "「Pokémon GO Tour：城都地區」—特殊調查、長期調查還有更多內容\n",
+            "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johto-research/"
+        },
+        {
             "date": "2022年1月5日",
             "title": "準備好在「名勝古蹟的季節」的「力霸群山」活動中來場石破天驚的歷險吧",
             "link": "https://pokemongolive.com/zh_hant/post/season-of-heritage-mountains-of-power-event/"
@@ -93,16 +103,6 @@
             "date": "2021年12月7日",
             "title": "Pokémon GO Tour回歸啦！下一站：城都地區！",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johto/"
-        },
-        {
-            "date": "2021年12月6日",
-            "title": "龍螺旋之塔尋謎：「赤面龍」將在Pokémon GO初次登場！",
-            "link": "https://pokemongolive.com/zh_hant/post/dragonspiral-descent-2021/"
-        },
-        {
-            "date": "2021年11月30日",
-            "title": "薰香日活動的主角是「小山豬」等地面、冰屬性寶可夢",
-            "link": "https://pokemongolive.com/zh_hant/post/incenseday-ground-ice-swinub/"
         }
     ]
 }
