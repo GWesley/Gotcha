@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年2月14日",
+            "title": "新シーズンの「コミュニティ・デイ」の日程が決定！",
+            "link": "https://pokemongolive.com/ja/post/cd-savethedate-mar-may/"
+        },
+        {
             "date": "2022年2月7日",
             "title": "2022年「Pokémon GO バレンタイン」イベント：「フラベベ」初登場！",
             "link": "https://pokemongolive.com/ja/post/valentines-day-event-2022/"
@@ -98,11 +103,6 @@
             "date": "2021年12月9日",
             "title": "ウィンターイベント：「カチコール」が『Pokémon GO』に新登場、新しい着せ替えアイテム、その他いろいろ！",
             "link": "https://pokemongolive.com/ja/post/holiday2021/"
-        },
-        {
-            "date": "2021年12月9日",
-            "title": "「ポストカードブック」が登場！",
-            "link": "https://pokemongolive.com/ja/post/postcardbook/"
         }
     ]
 }
