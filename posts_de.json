@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "14. Februar 2022",
+            "title": "Save the Dates: Die Termine für die Community Days der nächsten Jahreszeit stehen fest! ",
+            "link": "https://pokemongolive.com/de/post/cd-savethedate-mar-may/"
+        },
+        {
             "date": "7. Februar 2022",
             "title": "Pokémon GO-Event zum Valentinstag 2022:  Flabébé gibt sein Debüt, Event-Sammler-Herausforderungen und mehr!",
             "link": "https://pokemongolive.com/de/post/valentines-day-event-2022/"
@@ -98,11 +103,6 @@
             "date": "20. Dezember 2021",
             "title": "Community Day im Januar 2022: Applaus für Seemops!",
             "link": "https://pokemongolive.com/de/post/communityday-jan22/"
-        },
-        {
-            "date": "16. Dezember 2021",
-            "title": "Pokémon GO Tour: Orte für Live-Events",
-            "link": "https://pokemongolive.com/de/post/pokemongotour-johtolive/"
         }
     ]
 }
