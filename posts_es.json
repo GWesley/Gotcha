@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "14 de febrero de 2022",
+            "title": "Apuntad las fechas: ¡eventos del Día de la Comunidad de la próxima Temporada! ",
+            "link": "https://pokemongolive.com/es/post/cd-savethedate-mar-may/"
+        },
+        {
             "date": "7 de febrero de 2022",
             "title": "Evento del Día de San Valentín 2022 de Pokémon GO: ¡aparecerá Flabébé, desafíos de colección con la temática del Día de San Valentín y mucho más!",
             "link": "https://pokemongolive.com/es/post/valentines-day-event-2022/"
@@ -98,11 +103,6 @@
             "date": "16 de diciembre de 2021",
             "title": "Tour de Pokémon GO: lugares del evento en vivo",
             "link": "https://pokemongolive.com/es/post/pokemongotour-johtolive/"
-        },
-        {
-            "date": "9 de diciembre de 2021",
-            "title": "Fiestas de Pokémon GO 2021: ¡El debut de Bergmite en Pokémon GO, nuevos disfraces y elementos de avatar, y más!",
-            "link": "https://pokemongolive.com/es/post/holiday2021/"
         }
     ]
 }
