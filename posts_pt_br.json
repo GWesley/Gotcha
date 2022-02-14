@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "14 de fevereiro de 2022",
+            "title": "Guardem as datas: eventos do Dia Comunitário da próxima temporada! ",
+            "link": "https://pokemongolive.com/pt_br/post/cd-savethedate-mar-may/"
+        },
+        {
             "date": "7 de fevereiro de 2022",
             "title": "Evento do Valentine’s Day de 2022 no Pokémon GO: aparecimento de Flabébé, Desafios de Coleção com base nesse tema e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/valentines-day-event-2022/"
@@ -98,11 +103,6 @@
             "date": "9 de dezembro de 2021",
             "title": "Festas do Pokémon GO 2021: estreia de Bergmite no Pokémon GO, novas fantasias, novos itens de avatar e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/holiday2021/"
-        },
-        {
-            "date": "9 de dezembro de 2021",
-            "title": "Apresentando o Livro de Cartões Postais!",
-            "link": "https://pokemongolive.com/pt_br/post/postcardbook/"
         }
     ]
 }
