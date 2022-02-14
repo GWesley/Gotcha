@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "February 14, 2022",
+            "title": "Save the dates: Next Season’s Community Day events! ",
+            "link": "https://pokemongolive.com/en/post/cd-savethedate-mar-may/"
+        },
+        {
             "date": "February 7, 2022",
             "title": "Pokémon GO Valentine’s Day 2022 Event:  Flabébé appearing, Valentine’s Day–themed Collection Challenges, and more!",
             "link": "https://pokemongolive.com/en/post/valentines-day-event-2022/"
@@ -98,11 +103,6 @@
             "date": "December 20, 2021",
             "title": "January 2022 Community Day: Spheal’s spear-tastic sojourn",
             "link": "https://pokemongolive.com/en/post/communityday-jan22/"
-        },
-        {
-            "date": "December 16, 2021",
-            "title": "Pokémon GO Tour: Live event locations",
-            "link": "https://pokemongolive.com/en/post/pokemongotour-johtolive/"
         }
     ]
 }
