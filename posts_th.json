@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "14 กุมภาพันธ์ 2565",
+            "title": "จดวันไว้เลย: อีเวนต์คอมมิวนิตี้เดย์ในช่วงฤดูกาลหน้า!",
+            "link": "https://pokemongolive.com/th/post/cd-savethedate-mar-may/"
+        },
+        {
             "date": "7 กุมภาพันธ์ 2565",
             "title": "อีเวนต์วันวาเลนไทน์ 2022 Pokémon GO: ฟลาเบเบจะปรากฏตัว, คำท้านักสะสมธีมวันวาเลนไทน์ และอีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/valentines-day-event-2022/"
@@ -98,11 +103,6 @@
             "date": "9 ธันวาคม 2564",
             "title": "ฉลองวันหยุด 2021 กับ Pokémon GO: เปิดตัวของคาจิคอลใน Pokémon GO, ไอเทมอวาตาร์ใหม่ และอีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/holiday2021/"
-        },
-        {
-            "date": "9 ธันวาคม 2564",
-            "title": "ขอแนะนำอัลบั้มโปสการ์ด!",
-            "link": "https://pokemongolive.com/th/post/postcardbook/"
         }
     ]
 }
