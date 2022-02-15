@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "15 de febrero de 2022",
+            "title": "¡Revelados Lugia oscuro ápex y Ho-Oh oscuro ápex!",
+            "link": "https://pokemongolive.com/es/post/apex-reveal/"
+        },
+        {
             "date": "14 de febrero de 2022",
             "title": "Apuntad las fechas: ¡eventos del Día de la Comunidad de la próxima Temporada! ",
             "link": "https://pokemongolive.com/es/post/cd-savethedate-mar-may/"
@@ -98,11 +103,6 @@
             "date": "20 de diciembre de 2021",
             "title": "Día de la Comunidad de enero de 2022: el frío océano de Spheal",
             "link": "https://pokemongolive.com/es/post/communityday-jan22/"
-        },
-        {
-            "date": "16 de diciembre de 2021",
-            "title": "Tour de Pokémon GO: lugares del evento en vivo",
-            "link": "https://pokemongolive.com/es/post/pokemongotour-johtolive/"
         }
     ]
 }
