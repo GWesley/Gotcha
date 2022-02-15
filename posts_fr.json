@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "15 février 2022",
+            "title": "Lugia Obscur Apex et Ho-Oh Obscur Apex révélés !",
+            "link": "https://pokemongolive.com/fr/post/apex-reveal/"
+        },
+        {
             "date": "14 février 2022",
             "title": "Notez bien les dates des événements « Journée Communauté » de la prochaine saison !",
             "link": "https://pokemongolive.com/fr/post/cd-savethedate-mar-may/"
@@ -98,11 +103,6 @@
             "date": "20 décembre 2021",
             "title": "Journée Communauté de janvier 2022 : le fantastique séjour d'Obalie",
             "link": "https://pokemongolive.com/fr/post/communityday-jan22/"
-        },
-        {
-            "date": "16 décembre 2021",
-            "title": "Circuit Pokémon GO : Lieux de l’événement en direct",
-            "link": "https://pokemongolive.com/fr/post/pokemongotour-johtolive/"
         }
     ]
 }
