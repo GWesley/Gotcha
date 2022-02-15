@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年2月15日",
+            "title": "至尊暗影洛奇亞和至尊暗影鳳王揭密亮相！",
+            "link": "https://pokemongolive.com/zh_hant/post/apex-reveal/"
+        },
+        {
             "date": "2022年2月14日",
             "title": "下一個季節的社群日時間表出爐！",
             "link": "https://pokemongolive.com/zh_hant/post/cd-savethedate-mar-may/"
@@ -98,11 +103,6 @@
             "date": "2021年12月16日",
             "title": "「Pokémon GO Tour：Live」活動地點",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johtolive/"
-        },
-        {
-            "date": "2021年12月9日",
-            "title": "Pokémon GO Holidays 2021：冰寶在Pokémon GO首次登場、全新換裝道具、還有許多精彩內容喔！",
-            "link": "https://pokemongolive.com/zh_hant/post/holiday2021/"
         }
     ]
 }
