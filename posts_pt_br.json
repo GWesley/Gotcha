@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "15 de fevereiro de 2022",
+            "title": "Apresentando Lugia Sombroso Apex e Ho-oh Sombroso Apex!",
+            "link": "https://pokemongolive.com/pt_br/post/apex-reveal/"
+        },
+        {
             "date": "14 de fevereiro de 2022",
             "title": "Marquem no calendário: datas dos Dias Comunitários da próxima temporada!",
             "link": "https://pokemongolive.com/pt_br/post/cd-savethedate-mar-may/"
@@ -98,11 +103,6 @@
             "date": "16 de dezembro de 2021",
             "title": "Aproveitem as celebrações presenciais do Dia Comunitário em São Paulo e no Rio de Janeiro!",
             "link": "https://pokemongolive.com/pt_br/post/communitydaybrazil/"
-        },
-        {
-            "date": "9 de dezembro de 2021",
-            "title": "Festas do Pokémon GO 2021: estreia de Bergmite no Pokémon GO, novas fantasias, novos itens de avatar e muito mais!",
-            "link": "https://pokemongolive.com/pt_br/post/holiday2021/"
         }
     ]
 }
