@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "15. Februar 2022",
+            "title": "Apex-Crypto-Lugia und Apex-Crypto-Ho-Oh erscheinen!",
+            "link": "https://pokemongolive.com/de/post/apex-reveal/"
+        },
+        {
             "date": "14. Februar 2022",
             "title": "Save the Dates: Die Termine für die Community Days der nächsten Jahreszeit stehen fest! ",
             "link": "https://pokemongolive.com/de/post/cd-savethedate-mar-may/"
@@ -98,11 +103,6 @@
             "date": "22. Dezember 2021",
             "title": "Im Januar: Neujahrs-Event, Berge von Macht und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/jan-2022-events/"
-        },
-        {
-            "date": "20. Dezember 2021",
-            "title": "Community Day im Januar 2022: Applaus für Seemops!",
-            "link": "https://pokemongolive.com/de/post/communityday-jan22/"
         }
     ]
 }
