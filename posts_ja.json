@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年2月15日",
+            "title": "「シャドウルギア・APEX」と「シャドウホウオウ・APEX」が登場！",
+            "link": "https://pokemongolive.com/ja/post/apex-reveal/"
+        },
+        {
             "date": "2022年2月14日",
             "title": "新シーズンの「コミュニティ・デイ」の日程が決定！",
             "link": "https://pokemongolive.com/ja/post/cd-savethedate-mar-may/"
@@ -98,11 +103,6 @@
             "date": "2021年12月16日",
             "title": "「Pokémon GO Tour：ジョウト地方」リアルイベントの開催地について",
             "link": "https://pokemongolive.com/ja/post/pokemongotour-johtolive/"
-        },
-        {
-            "date": "2021年12月9日",
-            "title": "ウィンターイベント：「カチコール」が『Pokémon GO』に新登場、新しい着せ替えアイテム、その他いろいろ！",
-            "link": "https://pokemongolive.com/ja/post/holiday2021/"
         }
     ]
 }
