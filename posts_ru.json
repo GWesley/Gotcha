@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "15 февраля 2022 г.",
+            "title": "Раскрыты высший теневой Лугиа и высший теневой Хо-Ох!",
+            "link": "https://pokemongolive.com/ru/post/apex-reveal/"
+        },
+        {
             "date": "14 февраля 2022 г.",
             "title": "Запишите даты: Дни сообщества следующего сезона! ",
             "link": "https://pokemongolive.com/ru/post/cd-savethedate-mar-may/"
@@ -98,11 +103,6 @@
             "date": "9 декабря 2021 г.",
             "title": "Представляем вам Книгу открыток!",
             "link": "https://pokemongolive.com/ru/post/postcardbook/"
-        },
-        {
-            "date": "8 декабря 2021 г.",
-            "title": "Усиливайте Покестопы, чтобы получать более ценные награды и создать новую AR-среду",
-            "link": "https://pokemongolive.com/ru/post/power-up-pokestop-announcement/"
         }
     ]
 }
