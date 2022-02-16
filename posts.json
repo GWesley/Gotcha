@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "February 15, 2022",
+            "title": "Load up on items during the GO Tour Poké Ball Prep Rally event",
+            "link": "https://pokemongolive.com/en/post/pokeball-prep-go-tour-prep-event/"
+        },
+        {
+            "date": "February 15, 2022",
             "title": "Apex Shadow Lugia and Apex Shadow Ho-Oh Revealed!",
             "link": "https://pokemongolive.com/en/post/apex-reveal/"
         },
@@ -98,11 +103,6 @@
             "date": "December 23, 2021",
             "title": "Ring in 2022 with a New Year’s event!",
             "link": "https://pokemongolive.com/en/post/new-year-2022/"
-        },
-        {
-            "date": "December 22, 2021",
-            "title": "Coming in January: New Year’s, Mountains of Power, and more!",
-            "link": "https://pokemongolive.com/en/post/jan-2022-events/"
         }
     ]
 }
