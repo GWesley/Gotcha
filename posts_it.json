@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "15 febbraio 2022",
+            "title": "Fate il pieno di oggetti durante l'evento Poké Ball a volontà del Tour GO",
+            "link": "https://pokemongolive.com/it/post/pokeball-prep-go-tour-prep-event/"
+        },
+        {
+            "date": "15 febbraio 2022",
             "title": "Ecco a voi Lugia Ombra Apex e Ho-Oh Ombra Apex!",
             "link": "https://pokemongolive.com/it/post/apex-reveal/"
         },
@@ -98,11 +103,6 @@
             "date": "20 dicembre 2021",
             "title": "Community Day di gennaio 2022: il gelido regno di Spheal",
             "link": "https://pokemongolive.com/it/post/communityday-jan22/"
-        },
-        {
-            "date": "16 dicembre 2021",
-            "title": "Località degli eventi dal vivo del Tour di Pokémon GO",
-            "link": "https://pokemongolive.com/it/post/pokemongotour-johtolive/"
         }
     ]
 }
