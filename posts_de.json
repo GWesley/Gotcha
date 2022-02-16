@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "15. Februar 2022",
+            "title": "Items in Hülle und Fülle beim Event \"GO Tour: Bleibt am Pokéball\"",
+            "link": "https://pokemongolive.com/de/post/pokeball-prep-go-tour-prep-event/"
+        },
+        {
+            "date": "15. Februar 2022",
             "title": "Apex-Crypto-Lugia und Apex-Crypto-Ho-Oh erscheinen!",
             "link": "https://pokemongolive.com/de/post/apex-reveal/"
         },
@@ -98,11 +103,6 @@
             "date": "23. Dezember 2021",
             "title": "Läutet das Jahr 2022 mit unserem Neujahrs-Event ein!",
             "link": "https://pokemongolive.com/de/post/new-year-2022/"
-        },
-        {
-            "date": "22. Dezember 2021",
-            "title": "Im Januar: Neujahrs-Event, Berge von Macht und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/jan-2022-events/"
         }
     ]
 }
