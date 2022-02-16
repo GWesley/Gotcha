@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 febbraio 2022",
+            "title": "Il Tour di Pokémon GO: Johto sta arrivando in alcune città selezionate in Europa!",
+            "link": "https://pokemongolive.com/it/post/go-tour-cityactivations-europe-2022/"
+        },
+        {
             "date": "15 febbraio 2022",
             "title": "Fate il pieno di oggetti durante l'evento Poké Ball a volontà del Tour GO",
             "link": "https://pokemongolive.com/it/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "22 dicembre 2021",
             "title": "In arrivo a gennaio: Capodanno, Montagne di potere e molto altro!",
             "link": "https://pokemongolive.com/it/post/jan-2022-events/"
-        },
-        {
-            "date": "20 dicembre 2021",
-            "title": "Community Day di gennaio 2022: il gelido regno di Spheal",
-            "link": "https://pokemongolive.com/it/post/communityday-jan22/"
         }
     ]
 }
