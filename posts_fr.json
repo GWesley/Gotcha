@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "15 février 2022",
+            "title": "Faites le plein d’objets lors de l’événement « Préparation GO Tour – Assemblée de Poké Balls »",
+            "link": "https://pokemongolive.com/fr/post/pokeball-prep-go-tour-prep-event/"
+        },
+        {
+            "date": "15 février 2022",
             "title": "Lugia Obscur Apex et Ho-Oh Obscur Apex révélés !",
             "link": "https://pokemongolive.com/fr/post/apex-reveal/"
         },
@@ -98,11 +103,6 @@
             "date": "22 décembre 2021",
             "title": "À venir en janvier : Nouvel an, Montagnes de puissance et plus encore !",
             "link": "https://pokemongolive.com/fr/post/jan-2022-events/"
-        },
-        {
-            "date": "20 décembre 2021",
-            "title": "Journée Communauté de janvier 2022 : le fantastique séjour d'Obalie",
-            "link": "https://pokemongolive.com/fr/post/communityday-jan22/"
         }
     ]
 }
