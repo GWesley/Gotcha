@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "16 février 2022",
+            "title": "Pokémon GO Tour: Johto is coming to select cities in Europe!",
+            "link": "https://pokemongolive.com/fr/post/go-tour-cityactivations-europe-2022/"
+        },
+        {
             "date": "15 février 2022",
             "title": "Faites le plein d’objets lors de l’événement « Préparation GO Tour – Assemblée de Poké Balls »",
             "link": "https://pokemongolive.com/fr/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "23 décembre 2021",
             "title": "Accueillez en fanfare 2022 avec un événement du Nouvel An !",
             "link": "https://pokemongolive.com/fr/post/new-year-2022/"
-        },
-        {
-            "date": "22 décembre 2021",
-            "title": "À venir en janvier : Nouvel an, Montagnes de puissance et plus encore !",
-            "link": "https://pokemongolive.com/fr/post/jan-2022-events/"
         }
     ]
 }
