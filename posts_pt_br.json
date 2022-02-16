@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "15 de fevereiro de 2022",
+            "title": "Aproveitem para se abastecer de itens durante o evento GO Tour Poké Ball Prep Rally",
+            "link": "https://pokemongolive.com/pt_br/post/pokeball-prep-go-tour-prep-event/"
+        },
+        {
+            "date": "15 de fevereiro de 2022",
             "title": "Apresentando Lugia Sombroso Apex e Ho-oh Sombroso Apex!",
             "link": "https://pokemongolive.com/pt_br/post/apex-reveal/"
         },
@@ -98,11 +103,6 @@
             "date": "16 de dezembro de 2021",
             "title": "Locais do Pokémon GO Tour: eventos ao vivo",
             "link": "https://pokemongolive.com/pt_br/post/pokemongotour-johtolive/"
-        },
-        {
-            "date": "16 de dezembro de 2021",
-            "title": "Aproveitem as celebrações presenciais do Dia Comunitário em São Paulo e no Rio de Janeiro!",
-            "link": "https://pokemongolive.com/pt_br/post/communitydaybrazil/"
         }
     ]
 }
