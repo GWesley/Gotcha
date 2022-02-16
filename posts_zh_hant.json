@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "2022年2月15日",
+            "title": "在「GO Tour熱身活動：滿滿精靈球！」中多多蒐集道具吧！",
+            "link": "https://pokemongolive.com/zh_hant/post/pokeball-prep-go-tour-prep-event/"
+        },
+        {
+            "date": "2022年2月15日",
             "title": "至尊暗影洛奇亞和至尊暗影鳳王揭密亮相！",
             "link": "https://pokemongolive.com/zh_hant/post/apex-reveal/"
         },
@@ -98,11 +103,6 @@
             "date": "2021年12月20日",
             "title": "2022年1月社群日主角寶可夢：海豹球",
             "link": "https://pokemongolive.com/zh_hant/post/communityday-jan22/"
-        },
-        {
-            "date": "2021年12月16日",
-            "title": "「Pokémon GO Tour：Live」活動地點",
-            "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johtolive/"
         }
     ]
 }
