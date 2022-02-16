@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "February 16, 2022",
+            "title": "Pokémon GO Tour: Johto is coming to select cities in Europe!",
+            "link": "https://pokemongolive.com/en/post/go-tour-cityactivations-europe-2022/"
+        },
+        {
             "date": "February 15, 2022",
             "title": "Load up on items during the GO Tour Poké Ball Prep Rally event",
             "link": "https://pokemongolive.com/en/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "December 24, 2021",
             "title": "Dev Diaries: The Season of Heritage",
             "link": "https://pokemongolive.com/en/post/devdiary-dec2021-seasonofheritage/"
-        },
-        {
-            "date": "December 23, 2021",
-            "title": "Ring in 2022 with a New Year’s event!",
-            "link": "https://pokemongolive.com/en/post/new-year-2022/"
         }
     ]
 }
