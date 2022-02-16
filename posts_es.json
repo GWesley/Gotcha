@@ -6,6 +6,11 @@
     "posts": [
         {
             "date": "15 de febrero de 2022",
+            "title": "Haz acopio de objetos durante el evento Preparatorio al Tour de GO: Poké Balls",
+            "link": "https://pokemongolive.com/es/post/pokeball-prep-go-tour-prep-event/"
+        },
+        {
+            "date": "15 de febrero de 2022",
             "title": "¡Revelados Lugia oscuro ápex y Ho-Oh oscuro ápex!",
             "link": "https://pokemongolive.com/es/post/apex-reveal/"
         },
@@ -98,11 +103,6 @@
             "date": "22 de diciembre de 2021",
             "title": "Próximamente en enero: ¡Año Nuevo, Montañas de Poder y mucho más!",
             "link": "https://pokemongolive.com/es/post/jan-2022-events/"
-        },
-        {
-            "date": "20 de diciembre de 2021",
-            "title": "Día de la Comunidad de enero de 2022: el frío océano de Spheal",
-            "link": "https://pokemongolive.com/es/post/communityday-jan22/"
         }
     ]
 }
