@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022년 2월 17일",
+            "title": "GO배틀리그: 다음 시즌 안내",
+            "link": "https://pokemongolive.com/ko/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "2022년 2월 15일",
             "title": "\"GO Tour 준비! 볼 투성이 이벤트”에서 도구를 잔뜩 모으세요!",
             "link": "https://pokemongolive.com/ko/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "2021년 12월 22일",
             "title": "1월 일정: \"새해 이벤트\", \"힘의 산\" 등 다양한 이벤트!",
             "link": "https://pokemongolive.com/ko/post/jan-2022-events/"
-        },
-        {
-            "date": "2021년 12월 20일",
-            "title": "2022년 1월 커뮤니티 데이: 대굴레오 대량발생!",
-            "link": "https://pokemongolive.com/ko/post/communityday-jan22/"
         }
     ]
 }
