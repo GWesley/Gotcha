@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 février 2022",
+            "title": "Ligue Combat GO : Concernant la prochaine Saison",
+            "link": "https://pokemongolive.com/fr/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "16 février 2022",
             "title": "Pokémon GO Tour: Johto arrive dans certaines villes d'Europe!",
             "link": "https://pokemongolive.com/fr/post/go-tour-cityactivations-europe-2022/"
@@ -98,11 +103,6 @@
             "date": "24 décembre 2021",
             "title": "Journaux de développeurs : La Saison du patrimoine",
             "link": "https://pokemongolive.com/fr/post/devdiary-dec2021-seasonofheritage/"
-        },
-        {
-            "date": "23 décembre 2021",
-            "title": "Accueillez en fanfare 2022 avec un événement du Nouvel An !",
-            "link": "https://pokemongolive.com/fr/post/new-year-2022/"
         }
     ]
 }
