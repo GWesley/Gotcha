@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年2月17日",
+            "title": "「GOバトルリーグ」：次期シーズンのお知らせ",
+            "link": "https://pokemongolive.com/ja/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "2022年2月15日",
             "title": "「GO Tour準備！ボールだらけイベント」で道具を集めよう！\n",
             "link": "https://pokemongolive.com/ja/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "2021年12月22日",
             "title": "1月は「お正月」や「高まるエネルギー」などが登場！",
             "link": "https://pokemongolive.com/ja/post/jan-2022-events/"
-        },
-        {
-            "date": "2021年12月20日",
-            "title": "2022年1月のコミュニティ・デイ：タマザラシが大量発生！",
-            "link": "https://pokemongolive.com/ja/post/communityday-jan22/"
         }
     ]
 }
