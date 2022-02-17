@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17. Februar 2022",
+            "title": "Informationen zur nächsten Saison der GO-Kampfliga",
+            "link": "https://pokemongolive.com/de/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "16. Februar 2022",
             "title": "Pokémon GO Tour: Johto kommt in ausgewählte Städte Europas!",
             "link": "https://pokemongolive.com/de/post/go-tour-cityactivations-europe-2022/"
@@ -98,11 +103,6 @@
             "date": "4. Januar 2022",
             "title": "Community Day Classic: Zurück zu Bisasam",
             "link": "https://pokemongolive.com/de/post/community-day-classic-bulbasaur-jan22/"
-        },
-        {
-            "date": "24. Dezember 2021",
-            "title": "Entwicklertagebuch: Die Jahreszeit der Herkunft",
-            "link": "https://pokemongolive.com/de/post/devdiary-dec2021-seasonofheritage/"
         }
     ]
 }
