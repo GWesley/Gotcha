@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "2022年2月17日",
+            "title": "GO對戰聯盟：下一個賽季即將開打",
+            "link": "https://pokemongolive.com/zh_hant/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "2022年2月15日",
             "title": "在「GO Tour熱身活動：滿滿精靈球！」中多多蒐集道具吧！",
             "link": "https://pokemongolive.com/zh_hant/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "2021年12月22日",
             "title": "1月即將登場：新年活動、力霸群山，還有更多內容！",
             "link": "https://pokemongolive.com/zh_hant/post/jan-2022-events/"
-        },
-        {
-            "date": "2021年12月20日",
-            "title": "2022年1月社群日主角寶可夢：海豹球",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-jan22/"
         }
     ]
 }
