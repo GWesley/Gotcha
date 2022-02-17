@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 февраля 2022 г.",
+            "title": "Боевая Лига GO: о следующем сезоне",
+            "link": "https://pokemongolive.com/ru/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "15 февраля 2022 г.",
             "title": "Запасайтесь предметами во время Подготовки к Туру GO: Покеболлы",
             "link": "https://pokemongolive.com/ru/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "16 декабря 2021 г.",
             "title": "Места проведения реальных мероприятий Тура Pokémon GO",
             "link": "https://pokemongolive.com/ru/post/pokemongotour-johtolive/"
-        },
-        {
-            "date": "9 декабря 2021 г.",
-            "title": "Праздники Pokémon GO 2021: дебют Бергмайта в Pokémon GO, новые костюмы, предметы для аватара и многое другое!",
-            "link": "https://pokemongolive.com/ru/post/holiday2021/"
         }
     ]
 }
