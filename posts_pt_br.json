@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 de fevereiro de 2022",
+            "title": "Liga de Batalha GO: sobre a próxima temporada",
+            "link": "https://pokemongolive.com/pt_br/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "15 de fevereiro de 2022",
             "title": "Aproveitem para se abastecer de itens durante o evento GO Tour Poké Ball Prep Rally",
             "link": "https://pokemongolive.com/pt_br/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "20 de dezembro de 2021",
             "title": "Dia Comunitário de janeiro de 2022: o frio gélido de Spheal",
             "link": "https://pokemongolive.com/pt_br/post/communityday-jan22/"
-        },
-        {
-            "date": "16 de dezembro de 2021",
-            "title": "Locais do Pokémon GO Tour: eventos ao vivo",
-            "link": "https://pokemongolive.com/pt_br/post/pokemongotour-johtolive/"
         }
     ]
 }
