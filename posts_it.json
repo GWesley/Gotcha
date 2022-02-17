@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 febbraio 2022",
+            "title": "Lega Lotte GO: informazioni sulla prossima stagione",
+            "link": "https://pokemongolive.com/it/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "16 febbraio 2022",
             "title": "Il Tour di Pokémon GO: Johto sta arrivando in alcune città selezionate in Europa!",
             "link": "https://pokemongolive.com/it/post/go-tour-cityactivations-europe-2022/"
@@ -98,11 +103,6 @@
             "date": "23 dicembre 2021",
             "title": "Diamo il benvenuto al 2022 con l'evento di Capodanno!",
             "link": "https://pokemongolive.com/it/post/new-year-2022/"
-        },
-        {
-            "date": "22 dicembre 2021",
-            "title": "In arrivo a gennaio: Capodanno, Montagne di potere e molto altro!",
-            "link": "https://pokemongolive.com/it/post/jan-2022-events/"
         }
     ]
 }
