@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "17 กุมภาพันธ์ 2565",
+            "title": "โกแบตเทิลลีก: ฤดูกาลถัดไปกำลังจะมาแล้ว",
+            "link": "https://pokemongolive.com/th/post/go-battle-league-next-season-update/"
+        },
+        {
             "date": "15 กุมภาพันธ์ 2565",
             "title": "ตุนไอเทมในช่วง GO Tour วอร์มอัป! อีเวนต์ปาร์ตี้ลูกบอล!",
             "link": "https://pokemongolive.com/th/post/pokeball-prep-go-tour-prep-event/"
@@ -98,11 +103,6 @@
             "date": "22 ธันวาคม 2564",
             "title": "มกราคมมาแน่: ปีใหม่ ภูเขาแห่งขุมพลัง และอีเวนต์อีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/jan-2022-events/"
-        },
-        {
-            "date": "20 ธันวาคม 2564",
-            "title": "คอมมิวนิตี้เดย์เดือนมกราคม 2022: ทามาซาราชิ",
-            "link": "https://pokemongolive.com/th/post/communityday-jan22/"
         }
     ]
 }
