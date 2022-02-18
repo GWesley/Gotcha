@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "18. Februar 2022",
+            "title": "Die Pokémon GO-Safari-Zone kommt nach Sevilla in Spanien!",
+            "link": "https://pokemongolive.com/de/post/safari-zone-seville-2022/"
+        },
+        {
             "date": "17. Februar 2022",
             "title": "Informationen zur nächsten Saison der GO-Kampfliga",
             "link": "https://pokemongolive.com/de/post/go-battle-league-next-season-update/"
@@ -98,11 +103,6 @@
             "date": "5. Januar 2022",
             "title": "Beim Berge von Macht-Event bringen wir den Stein ins Rollen!",
             "link": "https://pokemongolive.com/de/post/season-of-heritage-mountains-of-power-event/"
-        },
-        {
-            "date": "4. Januar 2022",
-            "title": "Community Day Classic: Zurück zu Bisasam",
-            "link": "https://pokemongolive.com/de/post/community-day-classic-bulbasaur-jan22/"
         }
     ]
 }
