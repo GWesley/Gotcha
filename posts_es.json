@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "18 de febrero de 2022",
+            "title": "Pokémon GO Safari Zone is coming to Seville, Spain!",
+            "link": "https://pokemongolive.com/es/post/safari-zone-seville-2022/"
+        },
+        {
             "date": "17 de febrero de 2022",
             "title": "Liga Combates GO: acerca de la próxima temporada",
             "link": "https://pokemongolive.com/es/post/go-battle-league-next-season-update/"
@@ -98,11 +103,6 @@
             "date": "4 de enero de 2022",
             "title": "Día de la Comunidad clásico: el regreso de Bulbasaur",
             "link": "https://pokemongolive.com/es/post/community-day-classic-bulbasaur-jan22/"
-        },
-        {
-            "date": "24 de diciembre de 2021",
-            "title": "Diarios de desarrollador: la Temporada de Legado",
-            "link": "https://pokemongolive.com/es/post/devdiary-dec2021-seasonofheritage/"
         }
     ]
 }
