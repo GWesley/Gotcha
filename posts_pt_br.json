@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "date": "18 de fevereiro de 2022",
+            "title": "A Zona de Safári do Pokémon Go está chegando a Sevilha, Espanha!",
+            "link": "https://pokemongolive.com/pt_br/post/safari-zone-seville-2022/"
+        },
+        {
             "date": "17 de fevereiro de 2022",
             "title": "Liga de Batalha GO: sobre a próxima temporada",
             "link": "https://pokemongolive.com/pt_br/post/go-battle-league-next-season-update/"
@@ -98,11 +103,6 @@
             "date": "22 de dezembro de 2021",
             "title": "Em janeiro: Ano Novo, Montanhas do Poder e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/jan-2022-events/"
-        },
-        {
-            "date": "20 de dezembro de 2021",
-            "title": "Dia Comunitário de janeiro de 2022: o frio gélido de Spheal",
-            "link": "https://pokemongolive.com/pt_br/post/communityday-jan22/"
         }
     ]
 }
