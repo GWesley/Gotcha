@@ -5,104 +5,154 @@
     ],
     "posts": [
         {
-            "date": "18 febbraio 2022",
+            "title": "Benvenuti nella stagione di Alola",
+            "link": "/it/post/season-of-alola-2022/",
+            "date": "28 febbraio 2022"
+        },
+        {
+            "title": "Diamo il benvenuto ad ancora più Pokémon di Alola con la stagione di Alola!\n",
+            "link": "/it/post/welcome-the-season-of-alola/",
+            "date": "28 febbraio 2022"
+        },
+        {
+            "title": "Community Day di marzo 2022: Sandshrew e Sandshrew di Alola",
+            "link": "/it/post/communityday-mar22-sandshrew/",
+            "date": "28 febbraio 2022"
+        },
+        {
+            "title": "Lega Lotte GO: Stagione di Intermezzo",
+            "link": "/it/post/go-battle-league-interlude-season/",
+            "date": "28 febbraio 2022"
+        },
+        {
+            "title": "In arrivo a marzo: la stagione di Alola, il Community Day di marzo, nuovi boss del raid e altro ancora!",
+            "link": "/it/post/march-2022-content-update/",
+            "date": "28 febbraio 2022"
+        },
+        {
+            "title": "Aggiornamenti sulle esplorazioni in arrivo su Pokémon GO",
+            "link": "/it/post/exploration-updates/",
+            "date": "28 febbraio 2022"
+        },
+        {
+            "title": "Sono in arrivo su Pokémon GO nuovi Pokémon scoperti per la prima volta nella regione di Alola!\n",
+            "link": "/it/post/gen-7-launch/",
+            "date": "27 febbraio 2022"
+        },
+        {
+            "title": "Tutto quello che c'è da sapere prima del Tour di Pokémon GO di Johto!",
+            "link": "/it/post/pokemongotour-knowbeforeyougo/",
+            "date": "23 febbraio 2022"
+        },
+        {
+            "title": "Evento mondiale di collaborazione Pokémon - Avventure aeree in arrivo a maggio\n",
+            "link": "/it/post/flying-pikachu-2022/",
+            "date": "20 febbraio 2022"
+        },
+        {
             "title": "La Zona Safari Pokémon GO si svolgerà a Siviglia, in Spagna!",
-            "link": "https://pokemongolive.com/it/post/safari-zone-seville-2022/"
+            "link": "/it/post/safari-zone-seville-2022/",
+            "date": "18 febbraio 2022"
         },
         {
-            "date": "17 febbraio 2022",
             "title": "Lega Lotte GO: informazioni sulla prossima stagione",
-            "link": "https://pokemongolive.com/it/post/go-battle-league-next-season-update/"
+            "link": "/it/post/go-battle-league-next-season-update/",
+            "date": "17 febbraio 2022"
         },
         {
-            "date": "16 febbraio 2022",
             "title": "Il Tour di Pokémon GO: Johto sta arrivando in alcune città selezionate in Europa!",
-            "link": "https://pokemongolive.com/it/post/go-tour-cityactivations-europe-2022/"
+            "link": "/it/post/go-tour-cityactivations-europe-2022/",
+            "date": "16 febbraio 2022"
         },
         {
-            "date": "15 febbraio 2022",
             "title": "Fate il pieno di oggetti durante l'evento Poké Ball a volontà del Tour GO",
-            "link": "https://pokemongolive.com/it/post/pokeball-prep-go-tour-prep-event/"
+            "link": "/it/post/pokeball-prep-go-tour-prep-event/",
+            "date": "15 febbraio 2022"
         },
         {
-            "date": "15 febbraio 2022",
             "title": "Ecco a voi Lugia Ombra Apex e Ho-Oh Ombra Apex!",
-            "link": "https://pokemongolive.com/it/post/apex-reveal/"
+            "link": "/it/post/apex-reveal/",
+            "date": "15 febbraio 2022"
         },
         {
-            "date": "14 febbraio 2022",
             "title": "Segnatevi le date degli eventi del Community Day della prossima stagione! ",
-            "link": "https://pokemongolive.com/it/post/cd-savethedate-mar-may/"
+            "link": "/it/post/cd-savethedate-mar-may/",
+            "date": "14 febbraio 2022"
         },
         {
-            "date": "7 febbraio 2022",
             "title": "Evento di San Valentino 2022 di Pokémon GO con Flabébé, sfide di collezione a tema San Valentino e molto altro!",
-            "link": "https://pokemongolive.com/it/post/valentines-day-event-2022/"
+            "link": "/it/post/valentines-day-event-2022/",
+            "date": "7 febbraio 2022"
         },
         {
-            "date": "3 febbraio 2022",
             "title": "È in arrivo l’espansione Pokémon GO del GCC Pokémon!",
-            "link": "https://pokemongolive.com/it/post/pgo-tcg/"
+            "link": "/it/post/pgo-tcg/",
+            "date": "3 febbraio 2022"
         },
         {
-            "date": "31 gennaio 2022",
             "title": "Festeggiate il Capodanno lunare con l'evento del 2022 di Pokémon GO\n",
-            "link": "https://pokemongolive.com/it/post/lunar-new-year-event-2022/"
+            "link": "/it/post/lunar-new-year-event-2022/",
+            "date": "31 gennaio 2022"
         },
         {
-            "date": "30 gennaio 2022",
             "title": "Sono apparsi i Voltorb scoperti nella regione di Hisui del gioco Leggende Pokémon: Arceus!",
-            "link": "https://pokemongolive.com/it/post/hisuiregion/"
+            "link": "/it/post/hisuiregion/",
+            "date": "30 gennaio 2022"
         },
         {
-            "date": "29 gennaio 2022",
             "title": "Evento dal vivo del Tour di Pokémon GO: festeggiamo di persona la regione di Kanto durante gli eventi dal vivo di Monterrey e Kaohsiung",
-            "link": "https://pokemongolive.com/it/post/pokemongotour-live-details/"
+            "link": "/it/post/pokemongotour-live-details/",
+            "date": "29 gennaio 2022"
         },
         {
-            "date": "28 gennaio 2022",
             "title": "Pokémon GO Tour: Live Abu Dhabi Update",
-            "link": "https://pokemongolive.com/it/post/go-tour-abu-dhabi-2022-update/"
+            "link": "/it/post/go-tour-abu-dhabi-2022-update/",
+            "date": "28 gennaio 2022"
         },
         {
-            "date": "27 gennaio 2022",
             "title": "In arrivo nuovi oggetti avatar ispirati a Leggende Pokémon: Arceus!",
-            "link": "https://pokemongolive.com/it/post/legends-arceus-outfit/"
+            "link": "/it/post/legends-arceus-outfit/",
+            "date": "27 gennaio 2022"
         },
         {
-            "date": "25 gennaio 2022",
             "title": "Aggiornamento dei contenuti di febbraio: Tour di Pokémon GO di Johto, un Community Day fluttuante, l'evento di San Valentino 2022, biglietti raid extra e molto altro!",
-            "link": "https://pokemongolive.com/it/post/february-2022-content-update/"
+            "link": "/it/post/february-2022-content-update/",
+            "date": "25 gennaio 2022"
         },
         {
-            "date": "24 gennaio 2022",
             "title": "Community Day di febbraio 2022: il raduno fluttuante di Hoppip",
-            "link": "https://pokemongolive.com/it/post/communityday-feb22-hoppip/"
+            "link": "/it/post/communityday-feb22-hoppip/",
+            "date": "24 gennaio 2022"
         },
         {
-            "date": "23 gennaio 2022",
             "title": "Sbloccate l'ultima parte della porta mentre Helioptile debutta nell'elettrizzante evento ispirato alla centrale elettrica",
-            "link": "https://pokemongolive.com/it/post/season-of-heritage-power-plant-event/"
+            "link": "/it/post/season-of-heritage-power-plant-event/",
+            "date": "23 gennaio 2022"
         },
         {
-            "date": "21 gennaio 2022",
             "title": "Tour di Pokémon GO di Johto: una ricerca speciale e molto altro in arrivo!",
-            "link": "https://pokemongolive.com/it/post/pokemongotour-johto-research/"
+            "link": "/it/post/pokemongotour-johto-research/",
+            "date": "21 gennaio 2022"
         },
         {
-            "date": "5 gennaio 2022",
             "title": "Preparatevi al rock and roll durante l'evento Montagne di potere della Stagione della Tradizione",
-            "link": "https://pokemongolive.com/it/post/season-of-heritage-mountains-of-power-event/"
+            "link": "/it/post/season-of-heritage-mountains-of-power-event/",
+            "date": "5 gennaio 2022"
         },
         {
-            "date": "4 gennaio 2022",
             "title": "Community Day Classico: il ritorno di Bulbasaur",
-            "link": "https://pokemongolive.com/it/post/community-day-classic-bulbasaur-jan22/"
+            "link": "/it/post/community-day-classic-bulbasaur-jan22/",
+            "date": "4 gennaio 2022"
         },
         {
-            "date": "24 dicembre 2021",
             "title": "Diario degli sviluppatori: la Stagione della Tradizione",
-            "link": "https://pokemongolive.com/it/post/devdiary-dec2021-seasonofheritage/"
+            "link": "/it/post/devdiary-dec2021-seasonofheritage/",
+            "date": "24 dicembre 2021"
+        },
+        {
+            "title": "Diamo il benvenuto al 2022 con l'evento di Capodanno!",
+            "link": "/it/post/new-year-2022/",
+            "date": "23 dicembre 2021"
         }
     ]
 }
