@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "非常感謝各位熱情參與「Pokémon GO Tour：城都地區」及「Pokémon GO Tour：Live」！",
+            "link": "/zh_hant/post/gotour2022-recap/",
+            "date": "2022年3月2日"
+        },
+        {
             "title": "歡迎來到「阿羅拉的季節」！",
             "link": "/zh_hant/post/season-of-alola-2022/",
             "date": "2022年2月28日"
@@ -148,11 +153,6 @@
             "title": "與Pokémon GO 新年活動一起迎接2022年吧！",
             "link": "/zh_hant/post/new-year-2022/",
             "date": "2021年12月23日"
-        },
-        {
-            "title": "1月即將登場：新年活動、力霸群山，還有更多內容！",
-            "link": "/zh_hant/post/jan-2022-events/",
-            "date": "2021年12月22日"
         }
     ]
 }
