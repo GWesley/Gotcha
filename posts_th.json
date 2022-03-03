@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ขอบคุณเทรนเนอร์ทุกท่านที่เข้าร่วม Pokémon GO Tour: โจโตะ!",
+            "link": "/th/post/gotour2022-recap/",
+            "date": "2 มีนาคม 2565"
+        },
+        {
             "title": "ยินดีต้อนรับสู่ฤดูกาลแห่งอโลลา",
             "link": "/th/post/season-of-alola-2022/",
             "date": "28 กุมภาพันธ์ 2565"
@@ -148,11 +153,6 @@
             "title": "สถานที่จัดอีเวนต์ Pokémon GO Tour: Live",
             "link": "/th/post/pokemongotour-johtolive/",
             "date": "16 ธันวาคม 2564"
-        },
-        {
-            "title": "ฉลองวันหยุด 2021 กับ Pokémon GO: เปิดตัวของคาจิคอลใน Pokémon GO, ไอเทมอวาตาร์ใหม่ และอีกมากมาย!",
-            "link": "/th/post/holiday2021/",
-            "date": "9 ธันวาคม 2564"
         }
     ]
 }
