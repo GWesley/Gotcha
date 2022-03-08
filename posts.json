@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Safari Zone: Seville tickets are available now!\n",
+            "link": "/en/post/safari-zone-seville-2022-tickets/",
+            "date": "March 8, 2022"
+        },
+        {
             "title": "Thanks for taking part in Pokémon GO Tour: Johto and Pokémon GO Tour: Live!",
             "link": "/en/post/gotour2022-recap/",
             "date": "March 2, 2022"
@@ -148,11 +153,6 @@
             "title": "Unlock the last part of the door as Helioptile makes its debut in the electrifying Power Plant event",
             "link": "/en/post/season-of-heritage-power-plant-event/",
             "date": "January 23, 2022"
-        },
-        {
-            "title": "Pokémon GO Tour: Johto — Special Research and More To Come!",
-            "link": "/en/post/pokemongotour-johto-research/",
-            "date": "January 21, 2022"
         }
     ]
 }
