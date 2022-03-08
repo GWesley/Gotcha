@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "I biglietti per la Zona Safari di Pokémon GO di Siviglia sono ora disponibili!",
+            "link": "/it/post/safari-zone-seville-2022-tickets/",
+            "date": "8 marzo 2022"
+        },
+        {
             "title": "Benvenuti nella stagione di Alola",
             "link": "/it/post/season-of-alola-2022/",
             "date": "28 febbraio 2022"
@@ -148,11 +153,6 @@
             "title": "Diario degli sviluppatori: la Stagione della Tradizione",
             "link": "/it/post/devdiary-dec2021-seasonofheritage/",
             "date": "24 dicembre 2021"
-        },
-        {
-            "title": "Diamo il benvenuto al 2022 con l'evento di Capodanno!",
-            "link": "/it/post/new-year-2022/",
-            "date": "23 dicembre 2021"
         }
     ]
 }
