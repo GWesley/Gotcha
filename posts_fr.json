@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Safari Zone : les billets pour Séville sont disponibles dès maintenant !",
+            "link": "/fr/post/safari-zone-seville-2022-tickets/",
+            "date": "8 mars 2022"
+        },
+        {
             "title": "Bienvenue à la Saison d'Alola",
             "link": "/fr/post/season-of-alola-2022/",
             "date": "28 février 2022"
@@ -148,11 +153,6 @@
             "title": "Préparez-vous aux secousses pendant l'événement Montagnes de puissance de la Saison de l'héritage",
             "link": "/fr/post/season-of-heritage-mountains-of-power-event/",
             "date": "5 janvier 2022"
-        },
-        {
-            "title": "Journée Communauté classique : Retrouvons Bulbizarre",
-            "link": "/fr/post/community-day-classic-bulbasaur-jan22/",
-            "date": "4 janvier 2022"
         }
     ]
 }
