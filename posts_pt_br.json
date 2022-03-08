@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Os ingressos para a Zona de Safári do Pokémon GO: Sevilha já estão disponíveis!",
+            "link": "/pt_br/post/safari-zone-seville-2022-tickets/",
+            "date": "8 de março de 2022"
+        },
+        {
             "title": "Bem-vindo à Temporada de Alola",
             "link": "/pt_br/post/season-of-alola-2022/",
             "date": "28 de fevereiro de 2022"
@@ -148,11 +153,6 @@
             "title": "Comecem 2022 com um evento de Ano Novo!",
             "link": "/pt_br/post/new-year-2022/",
             "date": "23 de dezembro de 2021"
-        },
-        {
-            "title": "Em janeiro: Ano Novo, Montanhas do Poder e muito mais!",
-            "link": "/pt_br/post/jan-2022-events/",
-            "date": "22 de dezembro de 2021"
         }
     ]
 }
