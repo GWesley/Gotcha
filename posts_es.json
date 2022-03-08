@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Zona Safari de Pokémon GO: ¡ya están disponibles las entradas para el evento de Sevilla!",
+            "link": "/es/post/safari-zone-seville-2022-tickets/",
+            "date": "8 de marzo de 2022"
+        },
+        {
             "title": "¡Os damos la bienvenida a la Temporada de Alola!",
             "link": "/es/post/season-of-alola-2022/",
             "date": "28 de febrero de 2022"
@@ -148,11 +153,6 @@
             "title": "Tour de Pokémon GO: Johto. ¡Una investigación especial y mucho más!",
             "link": "/es/post/pokemongotour-johto-research/",
             "date": "21 de enero de 2022"
-        },
-        {
-            "title": "Durante el evento Montañas de Poder de la Temporada de Legado tendremos que ser duros como rocas",
-            "link": "/es/post/season-of-heritage-mountains-of-power-event/",
-            "date": "5 de enero de 2022"
         }
     ]
 }
