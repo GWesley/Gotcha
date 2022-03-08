@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Der Ticketverkauf für die Pokémon GO-Safari-Zone in Sevilla hat begonnen!",
+            "link": "/de/post/safari-zone-seville-2022-tickets/",
+            "date": "8. März 2022"
+        },
+        {
             "title": "Willkommen in der Alola-Jahreszeit",
             "link": "/de/post/season-of-alola-2022/",
             "date": "28. Februar 2022"
@@ -148,11 +153,6 @@
             "title": "Neuigkeiten zur Pokémon GO Tour: Johto – Spezialforschung und vieles mehr!",
             "link": "/de/post/pokemongotour-johto-research/",
             "date": "21. Januar 2022"
-        },
-        {
-            "title": "Beim Berge von Macht-Event bringen wir den Stein ins Rollen!",
-            "link": "/de/post/season-of-heritage-mountains-of-power-event/",
-            "date": "5. Januar 2022"
         }
     ]
 }
