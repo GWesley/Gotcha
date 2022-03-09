@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les rencontres de la Journée Communauté de Pokémon GO arrivent dans certaines villes du monde",
+            "link": "/fr/post/irl-community-day-march-2022/",
+            "date": "9 mars 2022"
+        },
+        {
             "title": "Pokémon GO Safari Zone : les billets pour Séville sont disponibles dès maintenant !",
             "link": "/fr/post/safari-zone-seville-2022-tickets/",
             "date": "8 mars 2022"
@@ -148,11 +153,6 @@
             "title": "Circuit Pokémon GO : Johto — Étude spéciale et plus à venir !",
             "link": "/fr/post/pokemongotour-johto-research/",
             "date": "21 janvier 2022"
-        },
-        {
-            "title": "Préparez-vous aux secousses pendant l'événement Montagnes de puissance de la Saison de l'héritage",
-            "link": "/fr/post/season-of-heritage-mountains-of-power-event/",
-            "date": "5 janvier 2022"
         }
     ]
 }
