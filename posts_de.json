@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Community Day-Meetups in ausgewählten Städten auf der ganzen Welt",
+            "link": "/de/post/irl-community-day-march-2022/",
+            "date": "9. März 2022"
+        },
+        {
             "title": "Der Ticketverkauf für die Pokémon GO-Safari-Zone in Sevilla hat begonnen!",
             "link": "/de/post/safari-zone-seville-2022-tickets/",
             "date": "8. März 2022"
@@ -148,11 +153,6 @@
             "title": "Kraftwerk-Event: Eguanas elektrisierender erster Auftritt und Entriegelung der Tür",
             "link": "/de/post/season-of-heritage-power-plant-event/",
             "date": "23. Januar 2022"
-        },
-        {
-            "title": "Neuigkeiten zur Pokémon GO Tour: Johto – Spezialforschung und vieles mehr!",
-            "link": "/de/post/pokemongotour-johto-research/",
-            "date": "21. Januar 2022"
         }
     ]
 }
