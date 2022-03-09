@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Os encontros do Dia Comunitário do Pokémon GO estão chegando a cidades selecionadas em todo o mundo",
+            "link": "/pt_br/post/irl-community-day-march-2022/",
+            "date": "9 de março de 2022"
+        },
+        {
             "title": "Os ingressos para a Zona de Safári do Pokémon GO: Sevilha já estão disponíveis!",
             "link": "/pt_br/post/safari-zone-seville-2022-tickets/",
             "date": "8 de março de 2022"
@@ -148,11 +153,6 @@
             "title": "Diários do Desenvolvedor: a Temporada do legado",
             "link": "/pt_br/post/devdiary-dec2021-seasonofheritage/",
             "date": "24 de dezembro de 2021"
-        },
-        {
-            "title": "Comecem 2022 com um evento de Ano Novo!",
-            "link": "/pt_br/post/new-year-2022/",
-            "date": "23 de dezembro de 2021"
         }
     ]
 }
