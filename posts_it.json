@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Gli incontri in occasione del Community Day di Pokémon GO stanno per iniziare in alcune città del mondo",
+            "link": "/it/post/irl-community-day-march-2022/",
+            "date": "9 marzo 2022"
+        },
+        {
             "title": "I biglietti per la Zona Safari di Pokémon GO di Siviglia sono ora disponibili!",
             "link": "/it/post/safari-zone-seville-2022-tickets/",
             "date": "8 marzo 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day Classico: il ritorno di Bulbasaur",
             "link": "/it/post/community-day-classic-bulbasaur-jan22/",
             "date": "4 gennaio 2022"
-        },
-        {
-            "title": "Diario degli sviluppatori: la Stagione della Tradizione",
-            "link": "/it/post/devdiary-dec2021-seasonofheritage/",
-            "date": "24 dicembre 2021"
         }
     ]
 }
