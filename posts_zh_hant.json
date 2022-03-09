@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO社群日見面會即將在台北登場！",
+            "link": "/zh_hant/post/irl-community-day-march-2022/",
+            "date": "2022年3月9日"
+        },
+        {
             "title": "非常感謝各位熱情參與「Pokémon GO Tour：城都地區」及「Pokémon GO Tour：Live」！",
             "link": "/zh_hant/post/gotour2022-recap/",
             "date": "2022年3月2日"
@@ -148,11 +153,6 @@
             "title": "開發團隊日記：「名勝古蹟的季節」",
             "link": "/zh_hant/post/devdiary-dec2021-seasonofheritage/",
             "date": "2021年12月24日"
-        },
-        {
-            "title": "與Pokémon GO 新年活動一起迎接2022年吧！",
-            "link": "/zh_hant/post/new-year-2022/",
-            "date": "2021年12月23日"
         }
     ]
 }
