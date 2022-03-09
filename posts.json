@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Community Day meetups are coming to select cities worldwide",
+            "link": "/en/post/irl-community-day-march-2022/",
+            "date": "March 9, 2022"
+        },
+        {
             "title": "Pokémon GO Safari Zone: Seville tickets are available now!\n",
             "link": "/en/post/safari-zone-seville-2022-tickets/",
             "date": "March 8, 2022"
@@ -148,11 +153,6 @@
             "title": "February 2022 Community Day: Hoppip’s Hop-Along Hangout",
             "link": "/en/post/communityday-feb22-hoppip/",
             "date": "January 24, 2022"
-        },
-        {
-            "title": "Unlock the last part of the door as Helioptile makes its debut in the electrifying Power Plant event",
-            "link": "/en/post/season-of-heritage-power-plant-event/",
-            "date": "January 23, 2022"
         }
     ]
 }
