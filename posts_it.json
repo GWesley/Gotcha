@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Durante l'evento del Festival dei colori, Oricorio farà il suo debutto sfavillante in Pokémon GO!",
+            "link": "/it/post/festivalofcolors-2022/",
+            "date": "10 marzo 2022"
+        },
+        {
             "title": "Gli incontri in occasione del Community Day di Pokémon GO stanno per iniziare in alcune città del mondo",
             "link": "/it/post/irl-community-day-march-2022/",
             "date": "9 marzo 2022"
@@ -148,11 +153,6 @@
             "title": "Preparatevi al rock and roll durante l'evento Montagne di potere della Stagione della Tradizione",
             "link": "/it/post/season-of-heritage-mountains-of-power-event/",
             "date": "5 gennaio 2022"
-        },
-        {
-            "title": "Community Day Classico: il ritorno di Bulbasaur",
-            "link": "/it/post/community-day-classic-bulbasaur-jan22/",
-            "date": "4 gennaio 2022"
         }
     ]
 }
