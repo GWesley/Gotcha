@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Turkish language support for Pokémon GO!",
+            "link": "/en/post/turkish-language-support/",
+            "date": "March 9, 2022"
+        },
+        {
             "title": "Pokémon GO Community Day meetups are coming to select cities worldwide",
             "link": "/en/post/irl-community-day-march-2022/",
             "date": "March 9, 2022"
@@ -148,11 +153,6 @@
             "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
             "link": "/en/post/pokemongotour-johto-go-gym-trainer-contest/",
             "date": "January 25, 2022"
-        },
-        {
-            "title": "February 2022 Community Day: Hoppip’s Hop-Along Hangout",
-            "link": "/en/post/communityday-feb22-hoppip/",
-            "date": "January 24, 2022"
         }
     ]
 }
