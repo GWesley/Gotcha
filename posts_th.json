@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "โอโดริโดริสุดแพรวพราวเปิดตัวใน Pokémon GO แล้วระหว่างอีเวนต์เทศกาลแห่งสี!",
+            "link": "/th/post/festivalofcolors-2022/",
+            "date": "10 มีนาคม 2565"
+        },
+        {
             "title": "ขอบคุณเทรนเนอร์ทุกท่านที่เข้าร่วม Pokémon GO Tour: โจโตะ!",
             "link": "/th/post/gotour2022-recap/",
             "date": "2 มีนาคม 2565"
@@ -148,11 +153,6 @@
             "title": "คอมมิวนิตี้เดย์เดือนมกราคม 2022: ทามาซาราชิ",
             "link": "/th/post/communityday-jan22/",
             "date": "20 ธันวาคม 2564"
-        },
-        {
-            "title": "สถานที่จัดอีเวนต์ Pokémon GO Tour: Live",
-            "link": "/th/post/pokemongotour-johtolive/",
-            "date": "16 ธันวาคม 2564"
         }
     ]
 }
