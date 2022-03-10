@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Plumeline fait des débuts éblouissants sur la scène de Pokémon GO pour la Fête des couleurs !",
+            "link": "/fr/post/festivalofcolors-2022/",
+            "date": "10 mars 2022"
+        },
+        {
             "title": "Les rencontres de la Journée Communauté de Pokémon GO arrivent dans certaines villes du monde",
             "link": "/fr/post/irl-community-day-march-2022/",
             "date": "9 mars 2022"
@@ -148,11 +153,6 @@
             "title": "Débloquez la dernière partie de la porte avec l'arrivée de Galvaran dans l'événement électrisant de la Centrale",
             "link": "/fr/post/season-of-heritage-power-plant-event/",
             "date": "23 janvier 2022"
-        },
-        {
-            "title": "Circuit Pokémon GO : Johto — Étude spéciale et plus à venir !",
-            "link": "/fr/post/pokemongotour-johto-research/",
-            "date": "21 janvier 2022"
         }
     ]
 }
