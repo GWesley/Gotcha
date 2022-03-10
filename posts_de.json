@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Choreogel gibt beim Farbfestival ein spektakuläres Debüt in Pokémon GO!",
+            "link": "/de/post/festivalofcolors-2022/",
+            "date": "10. März 2022"
+        },
+        {
             "title": "Pokémon GO Community Day-Meetups in ausgewählten Städten auf der ganzen Welt",
             "link": "/de/post/irl-community-day-march-2022/",
             "date": "9. März 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day im Februar 2022: Mit Hoppspross vom Winde verweht",
             "link": "/de/post/communityday-feb22-hoppip/",
             "date": "24. Januar 2022"
-        },
-        {
-            "title": "Kraftwerk-Event: Eguanas elektrisierender erster Auftritt und Entriegelung der Tür",
-            "link": "/de/post/season-of-heritage-power-plant-event/",
-            "date": "23. Januar 2022"
         }
     ]
 }
