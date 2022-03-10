@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Oricorio makes its dazzling Pokémon GO debut during the Festival of Colors event!",
+            "link": "/en/post/festivalofcolors-2022/",
+            "date": "March 10, 2022"
+        },
+        {
             "title": "Turkish language support for Pokémon GO!",
             "link": "/en/post/turkish-language-support/",
             "date": "March 9, 2022"
@@ -147,11 +152,6 @@
         {
             "title": "February Content Update: Pokémon GO Tour: Johto, a Hop-ful Community Day, the Valentine’s Day 2022 event, Extra Raid Passes, and more!",
             "link": "/en/post/february-2022-content-update/",
-            "date": "January 25, 2022"
-        },
-        {
-            "title": "Become part of Pokémon GO Tour: Johto with the GO Gym Trainer Contest",
-            "link": "/en/post/pokemongotour-johto-go-gym-trainer-contest/",
             "date": "January 25, 2022"
         }
     ]
