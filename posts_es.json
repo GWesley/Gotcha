@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Oricorio hará un impresionante debut en Pokémon GO durante el evento del Festival de los Colores!",
+            "link": "/es/post/festivalofcolors-2022/",
+            "date": "10 de marzo de 2022"
+        },
+        {
             "title": "Las quedadas del Día de la Comunidad de Pokémon GO se celebrarán por todo el mundo en las ciudades elegidas",
             "link": "/es/post/irl-community-day-march-2022/",
             "date": "9 de marzo de 2022"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad de febrero de 2022: un paseo con Hoppip",
             "link": "/es/post/communityday-feb22-hoppip/",
             "date": "24 de enero de 2022"
-        },
-        {
-            "title": "Desbloquead la última parte de la puerta mientras Helioptile debuta en el evento Central de Energía",
-            "link": "/es/post/season-of-heritage-power-plant-event/",
-            "date": "23 de enero de 2022"
         }
     ]
 }
