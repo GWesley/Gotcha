@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「カラーフェスティバル」イベントで「オドリドリ」が『Pokémon GO』に初登場！",
+            "link": "/ja/post/festivalofcolors-2022/",
+            "date": "2022年3月10日"
+        },
+        {
             "title": "「Pokémon GO Tour：ジョウト地方」へのご参加、ありがとうございました！",
             "link": "/ja/post/gotour2022-recap/",
             "date": "2022年3月2日"
@@ -148,11 +153,6 @@
             "title": "ディベロッパーダイアリー：「ヘリテージシーズン」",
             "link": "/ja/post/devdiary-dec2021-seasonofheritage/",
             "date": "2021年12月24日"
-        },
-        {
-            "title": "お正月イベントで2022年を迎えましょう！",
-            "link": "/ja/post/new-year-2022/",
-            "date": "2021年12月23日"
         }
     ]
 }
