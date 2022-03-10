@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「花舞鳥」將在色彩節活動首次登上Pokémon GO！",
+            "link": "/zh_hant/post/festivalofcolors-2022/",
+            "date": "2022年3月10日"
+        },
+        {
             "title": "Pokémon GO社群日見面會即將在台北登場！",
             "link": "/zh_hant/post/irl-community-day-march-2022/",
             "date": "2022年3月9日"
@@ -148,11 +153,6 @@
             "title": "妙蛙種子經典社群日：妙蛙種子回歸",
             "link": "/zh_hant/post/community-day-classic-bulbasaur-jan22/",
             "date": "2022年1月4日"
-        },
-        {
-            "title": "開發團隊日記：「名勝古蹟的季節」",
-            "link": "/zh_hant/post/devdiary-dec2021-seasonofheritage/",
-            "date": "2021年12月24日"
         }
     ]
 }
