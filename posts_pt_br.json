@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Oricorio faz sua deslumbrante estreia no Pokémon GO durante o Festival das Cores!",
+            "link": "/pt_br/post/festivalofcolors-2022/",
+            "date": "10 de março de 2022"
+        },
+        {
             "title": "Os encontros do Dia Comunitário do Pokémon GO estão chegando a cidades selecionadas em todo o mundo",
             "link": "/pt_br/post/irl-community-day-march-2022/",
             "date": "9 de março de 2022"
@@ -148,11 +153,6 @@
             "title": "Clássico do Dia Comunitário: de volta a Bulbasaur",
             "link": "/pt_br/post/community-day-classic-bulbasaur-jan22/",
             "date": "4 de janeiro de 2022"
-        },
-        {
-            "title": "Diários do Desenvolvedor: a Temporada do legado",
-            "link": "/pt_br/post/devdiary-dec2021-seasonofheritage/",
-            "date": "24 de dezembro de 2021"
         }
     ]
 }
