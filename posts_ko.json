@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"컬러 페스티벌\" 이벤트에서 \"춤추새\"가 \"Pokémon GO\"에 처음 등장합니다!",
+            "link": "/ko/post/festivalofcolors-2022/",
+            "date": "2022년 3월 10일"
+        },
+        {
             "title": "\"Pokémon GO Tour: 성도지방\"에 참여해 주셔서 감사합니다!",
             "link": "/ko/post/gotour2022-recap/",
             "date": "2022년 3월 2일"
@@ -148,11 +153,6 @@
             "title": "1월 일정: \"새해 이벤트\", \"힘의 산\" 등 다양한 이벤트!",
             "link": "/ko/post/jan-2022-events/",
             "date": "2021년 12월 22일"
-        },
-        {
-            "title": "2022년 1월 커뮤니티 데이: 대굴레오 대량발생!",
-            "link": "/ko/post/communityday-jan22/",
-            "date": "2021년 12월 20일"
         }
     ]
 }
