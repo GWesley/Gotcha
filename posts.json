@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "A new PokéStop for your community!",
+            "link": "/en/post/for-your-community-pokestop/",
+            "date": "March 11, 2022"
+        },
+        {
             "title": "Oricorio makes its dazzling Pokémon GO debut during the Festival of Colors event!",
             "link": "/en/post/festivalofcolors-2022/",
             "date": "March 10, 2022"
@@ -148,11 +153,6 @@
             "title": "New Avatar Items Inspired by Pokémon Legends: Arceus coming soon!",
             "link": "/en/post/legends-arceus-outfit/",
             "date": "January 27, 2022"
-        },
-        {
-            "title": "February Content Update: Pokémon GO Tour: Johto, a Hop-ful Community Day, the Valentine’s Day 2022 event, Extra Raid Passes, and more!",
-            "link": "/en/post/february-2022-content-update/",
-            "date": "January 25, 2022"
         }
     ]
 }
