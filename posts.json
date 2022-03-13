@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "The Best Places Globally to Play Community Day This Weekend ",
+            "link": "/en/post/best-places-to-play-cd/",
+            "date": "March 12, 2022"
+        },
+        {
             "title": "A new PokéStop for your community!",
             "link": "/en/post/for-your-community-pokestop/",
             "date": "March 11, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Tour: Live Abu Dhabi Update",
             "link": "/en/post/go-tour-abu-dhabi-2022-update/",
             "date": "January 28, 2022"
-        },
-        {
-            "title": "New Avatar Items Inspired by Pokémon Legends: Arceus coming soon!",
-            "link": "/en/post/legends-arceus-outfit/",
-            "date": "January 27, 2022"
         }
     ]
 }
