@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\"의 셰이드정글 이벤트에 \"소미안\", \"짜랑랑\", \"카푸나비나\"가 등장!",
+            "link": "/ko/post/lush-jungle-event/",
+            "date": "2022년 3월 17일"
+        },
+        {
             "title": "\"컬러 페스티벌\" 이벤트에서 \"춤추새\"가 \"Pokémon GO\"에 처음 등장합니다!",
             "link": "/ko/post/festivalofcolors-2022/",
             "date": "2022년 3월 10일"
@@ -148,11 +153,6 @@
             "title": "새해 이벤트로 2022년을 맞이하세요!",
             "link": "/ko/post/new-year-2022/",
             "date": "2021년 12월 23일"
-        },
-        {
-            "title": "1월 일정: \"새해 이벤트\", \"힘의 산\" 등 다양한 이벤트!",
-            "link": "/ko/post/jan-2022-events/",
-            "date": "2021년 12월 22일"
         }
     ]
 }
