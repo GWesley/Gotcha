@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO「樹蔭叢林」活動要來了！木棉球、偽螳草、卡璞・蝶蝶、週末公園聚焦時刻、以及更多內容都在這裡等著你喔！",
+            "link": "/zh_hant/post/lush-jungle-event/",
+            "date": "2022年3月17日"
+        },
+        {
             "title": "「花舞鳥」將在色彩節活動首次登上Pokémon GO！",
             "link": "/zh_hant/post/festivalofcolors-2022/",
             "date": "2022年3月10日"
@@ -148,11 +153,6 @@
             "title": "準備好在「名勝古蹟的季節」的「力霸群山」活動中來場石破天驚的歷險吧",
             "link": "/zh_hant/post/season-of-heritage-mountains-of-power-event/",
             "date": "2022年1月5日"
-        },
-        {
-            "title": "妙蛙種子經典社群日：妙蛙種子回歸",
-            "link": "/zh_hant/post/community-day-classic-bulbasaur-jan22/",
-            "date": "2022年1月4日"
         }
     ]
 }
