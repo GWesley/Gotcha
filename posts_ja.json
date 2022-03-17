@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』の「シェードジャングル」イベントでは「モンメン」「カリキリ」「カプ・テテフ」が登場！",
+            "link": "/ja/post/lush-jungle-event/",
+            "date": "2022年3月17日"
+        },
+        {
             "title": "東日本大震災から11年: 復興の今を見て、歩いて、感じたこと",
             "link": "/ja/post/tohoku2022/",
             "date": "2022年3月10日"
@@ -148,11 +153,6 @@
             "title": "コミュニティ・デイ（復刻）：「フシギダネ」が再び登場",
             "link": "/ja/post/community-day-classic-bulbasaur-jan22/",
             "date": "2022年1月4日"
-        },
-        {
-            "title": "『Pokémon GO』5周年を記念した、5枚のイラストを公開しました！\n",
-            "link": "/ja/post/pgo5th-illustration/",
-            "date": "2021年12月26日"
         }
     ]
 }
