@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Schattendschungel-Event in Pokémon GO mit Waumboll, Imantis, Kapu-Fala, einem Rampenlichtwochenende und mehr!",
+            "link": "/de/post/lush-jungle-event/",
+            "date": "17. März 2022"
+        },
+        {
             "title": "Choreogel gibt beim Farbfestival ein spektakuläres Debüt in Pokémon GO!",
             "link": "/de/post/festivalofcolors-2022/",
             "date": "10. März 2022"
@@ -18,6 +23,11 @@
             "title": "Der Ticketverkauf für die Pokémon GO-Safari-Zone in Sevilla hat begonnen!",
             "link": "/de/post/safari-zone-seville-2022-tickets/",
             "date": "8. März 2022"
+        },
+        {
+            "title": "Wir danken allen, die bei der Pokémon GO Tour: Johto und der Pokémon GO Tour: Live dabei waren!",
+            "link": "/de/post/gotour2022-recap/",
+            "date": "2. März 2022"
         },
         {
             "title": "Willkommen in der Alola-Jahreszeit",
@@ -143,16 +153,6 @@
             "title": "Content-Update für Februar: Pokémon GO Tour: Johto, Community Day mit Hoppspross, Valentinstags-Event 2022, zusätzliche Raid-Pässe und vieles mehr!",
             "link": "/de/post/february-2022-content-update/",
             "date": "25. Januar 2022"
-        },
-        {
-            "title": "Werde durch den GO-Arenatrainer-Wettbewerb Teil der Pokémon GO Tour: Johto",
-            "link": "/de/post/pokemongotour-johto-go-gym-trainer-contest/",
-            "date": "25. Januar 2022"
-        },
-        {
-            "title": "Community Day im Februar 2022: Mit Hoppspross vom Winde verweht",
-            "link": "/de/post/communityday-feb22-hoppip/",
-            "date": "24. Januar 2022"
         }
     ]
 }
