@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L'evento Giungla Ombrosa di Pokémon GO avrà come protagonisti Cottonee, Fomantis e Tapu Lele, oltre a un weekend di incontri nei parchi e molto altro!",
+            "link": "/it/post/lush-jungle-event/",
+            "date": "17 marzo 2022"
+        },
+        {
             "title": "Durante l'evento del Festival dei colori, Oricorio farà il suo debutto sfavillante in Pokémon GO!",
             "link": "/it/post/festivalofcolors-2022/",
             "date": "10 marzo 2022"
@@ -18,6 +23,11 @@
             "title": "I biglietti per la Zona Safari di Pokémon GO di Siviglia sono ora disponibili!",
             "link": "/it/post/safari-zone-seville-2022-tickets/",
             "date": "8 marzo 2022"
+        },
+        {
+            "title": "Grazie per aver preso parte al Tour di Pokémon GO di Johto e all'evento dal vivo del Tour di Pokémon GO!",
+            "link": "/it/post/gotour2022-recap/",
+            "date": "2 marzo 2022"
         },
         {
             "title": "Benvenuti nella stagione di Alola",
@@ -143,16 +153,6 @@
             "title": "Sbloccate l'ultima parte della porta mentre Helioptile debutta nell'elettrizzante evento ispirato alla centrale elettrica",
             "link": "/it/post/season-of-heritage-power-plant-event/",
             "date": "23 gennaio 2022"
-        },
-        {
-            "title": "Tour di Pokémon GO di Johto: una ricerca speciale e molto altro in arrivo!",
-            "link": "/it/post/pokemongotour-johto-research/",
-            "date": "21 gennaio 2022"
-        },
-        {
-            "title": "Preparatevi al rock and roll durante l'evento Montagne di potere della Stagione della Tradizione",
-            "link": "/it/post/season-of-heritage-mountains-of-power-event/",
-            "date": "5 gennaio 2022"
         }
     ]
 }
