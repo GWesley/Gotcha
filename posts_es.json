@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡El evento Jungla Umbría de Pokémon GO nos trae a Cottonee, Fomantis y Tapu Lele, un evento destacado en parques durante el fin de semana y mucho más!",
+            "link": "/es/post/lush-jungle-event/",
+            "date": "17 de marzo de 2022"
+        },
+        {
             "title": "¡Oricorio hará un impresionante debut en Pokémon GO durante el evento del Festival de los Colores!",
             "link": "/es/post/festivalofcolors-2022/",
             "date": "10 de marzo de 2022"
@@ -18,6 +23,11 @@
             "title": "Zona Safari de Pokémon GO: ¡ya están disponibles las entradas para el evento de Sevilla!",
             "link": "/es/post/safari-zone-seville-2022-tickets/",
             "date": "8 de marzo de 2022"
+        },
+        {
+            "title": "¡Gracias por formar parte del Tour de Pokémon GO: Johto y del Tour de Pokémon GO: En vivo!",
+            "link": "/es/post/gotour2022-recap/",
+            "date": "2 de marzo de 2022"
         },
         {
             "title": "¡Os damos la bienvenida a la Temporada de Alola!",
@@ -143,16 +153,6 @@
             "title": "Actualización de contenido de febrero: Tour de Pokémon GO: Johto, un Día de la Comunidad con Hoppit, evento del Día de San Valentín de 2022, más pases de incursión ¡y mucho más!",
             "link": "/es/post/february-2022-content-update/",
             "date": "25 de enero de 2022"
-        },
-        {
-            "title": "Formad parte del Tour de Pokémon GO: Johto a través del concurso para Entrenadores de Gimnasios GO",
-            "link": "/es/post/pokemongotour-johto-go-gym-trainer-contest/",
-            "date": "25 de enero de 2022"
-        },
-        {
-            "title": "Día de la Comunidad de febrero de 2022: un paseo con Hoppip",
-            "link": "/es/post/communityday-feb22-hoppip/",
-            "date": "24 de enero de 2022"
         }
     ]
 }
