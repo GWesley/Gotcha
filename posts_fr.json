@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L'événement Jungle Sombrefeuille de Pokémon GO mettra à l'honneur Doudouvet, Mimantis, Tokopiyon, les rencontres dans les parcs durant un week-end et bien plus encore !",
+            "link": "/fr/post/lush-jungle-event/",
+            "date": "17 mars 2022"
+        },
+        {
             "title": "Plumeline fait des débuts éblouissants sur la scène de Pokémon GO pour la Fête des couleurs !",
             "link": "/fr/post/festivalofcolors-2022/",
             "date": "10 mars 2022"
@@ -18,6 +23,11 @@
             "title": "Pokémon GO Safari Zone : les billets pour Séville sont disponibles dès maintenant !",
             "link": "/fr/post/safari-zone-seville-2022-tickets/",
             "date": "8 mars 2022"
+        },
+        {
+            "title": "Merci d'avoir participé au Circuit Pokémon GO : Johto ainsi qu'au Circuit Pokémon GO : En direct !",
+            "link": "/fr/post/gotour2022-recap/",
+            "date": "2 mars 2022"
         },
         {
             "title": "Bienvenue à la Saison d'Alola",
@@ -143,16 +153,6 @@
             "title": "Prenez part au Circuit Pokémon GO : Johto avec le Concours Dresseur d'Arène GO",
             "link": "/fr/post/pokemongotour-johto-go-gym-trainer-contest/",
             "date": "25 janvier 2022"
-        },
-        {
-            "title": "Journée Communauté de février 2022 : Granivol au gré du vent",
-            "link": "/fr/post/communityday-feb22-hoppip/",
-            "date": "24 janvier 2022"
-        },
-        {
-            "title": "Débloquez la dernière partie de la porte avec l'arrivée de Galvaran dans l'événement électrisant de la Centrale",
-            "link": "/fr/post/season-of-heritage-power-plant-event/",
-            "date": "23 janvier 2022"
         }
     ]
 }
