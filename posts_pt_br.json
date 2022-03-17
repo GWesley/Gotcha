@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO'daki Gür Orman etkinliği Cottonee, Fomantis, Tapu Lele, hafta sonu park etkinliği ve çok daha fazlasına ev sahipliği yapacak.",
+            "link": "/pt_br/post/lush-jungle-event/",
+            "date": "17 de março de 2022"
+        },
+        {
             "title": "Oricorio faz sua deslumbrante estreia no Pokémon GO durante o Festival das Cores!",
             "link": "/pt_br/post/festivalofcolors-2022/",
             "date": "10 de março de 2022"
@@ -18,6 +23,11 @@
             "title": "Os ingressos para a Zona de Safári do Pokémon GO: Sevilha já estão disponíveis!",
             "link": "/pt_br/post/safari-zone-seville-2022-tickets/",
             "date": "8 de março de 2022"
+        },
+        {
+            "title": "Agradecemos a todos pela participação no Pokémon GO Tour: Johto e Pokémon GO Tour: ao vivo!",
+            "link": "/pt_br/post/gotour2022-recap/",
+            "date": "2 de março de 2022"
         },
         {
             "title": "Bem-vindo à Temporada de Alola",
@@ -143,16 +153,6 @@
             "title": "Pokémon GO Tour: Johto — Pesquisa especial e muito mais em breve!",
             "link": "/pt_br/post/pokemongotour-johto-research/",
             "date": "21 de janeiro de 2022"
-        },
-        {
-            "title": "Prepare-se pois não há pedra no caminho que atrapalhe o evento Montanhas do poder da Temporada de legado",
-            "link": "/pt_br/post/season-of-heritage-mountains-of-power-event/",
-            "date": "5 de janeiro de 2022"
-        },
-        {
-            "title": "Clássico do Dia Comunitário: de volta a Bulbasaur",
-            "link": "/pt_br/post/community-day-classic-bulbasaur-jan22/",
-            "date": "4 de janeiro de 2022"
         }
     ]
 }
