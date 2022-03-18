@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Grazie per questo fantastico Community Day dal vivo!\n",
+            "link": "/it/post/irl-community-day-march-2022-recap/",
+            "date": "18 marzo 2022"
+        },
+        {
             "title": "L'evento Giungla Ombrosa di Pokémon GO avrà come protagonisti Cottonee, Fomantis e Tapu Lele, oltre a un weekend di incontri nei parchi e molto altro!",
             "link": "/it/post/lush-jungle-event/",
             "date": "17 marzo 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day di febbraio 2022: il raduno fluttuante di Hoppip",
             "link": "/it/post/communityday-feb22-hoppip/",
             "date": "24 gennaio 2022"
-        },
-        {
-            "title": "Sbloccate l'ultima parte della porta mentre Helioptile debutta nell'elettrizzante evento ispirato alla centrale elettrica",
-            "link": "/it/post/season-of-heritage-power-plant-event/",
-            "date": "23 gennaio 2022"
         }
     ]
 }
