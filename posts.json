@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Thank you for an amazing in-person Community Day!",
+            "link": "/en/post/irl-community-day-march-2022-recap/",
+            "date": "March 18, 2022"
+        },
+        {
             "title": "Pokémon GO’s Lush Jungle event features Cottonee, Fomantis, Tapu Lele, a weekend park spotlight, and more!",
             "link": "/en/post/lush-jungle-event/",
             "date": "March 17, 2022"
@@ -148,11 +153,6 @@
             "title": "Celebrate Lunar New Year with Pokémon GO’s 2022 Lunar New Year event\n",
             "link": "/en/post/lunar-new-year-event-2022/",
             "date": "January 31, 2022"
-        },
-        {
-            "title": "Voltorb found in the Hisui region of the Pokémon Legends: Arceus game have appeared!",
-            "link": "/en/post/hisuiregion/",
-            "date": "January 30, 2022"
         }
     ]
 }
