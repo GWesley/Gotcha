@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wir danken euch für die aufregenden Community Day-Meetups!\n",
+            "link": "/de/post/irl-community-day-march-2022-recap/",
+            "date": "18. März 2022"
+        },
+        {
             "title": "Schattendschungel-Event in Pokémon GO mit Waumboll, Imantis, Kapu-Fala, einem Rampenlichtwochenende und mehr!",
             "link": "/de/post/lush-jungle-event/",
             "date": "17. März 2022"
@@ -148,11 +153,6 @@
             "title": "Bald sind von Pokémon-Legenden: Arceus inspirierte Avatar-Artikel erhältlich!",
             "link": "/de/post/legends-arceus-outfit/",
             "date": "27. Januar 2022"
-        },
-        {
-            "title": "Content-Update für Februar: Pokémon GO Tour: Johto, Community Day mit Hoppspross, Valentinstags-Event 2022, zusätzliche Raid-Pässe und vieles mehr!",
-            "link": "/de/post/february-2022-content-update/",
-            "date": "25. Januar 2022"
         }
     ]
 }
