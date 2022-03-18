@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Merci pour cette incroyable Journée Communauté en votre compagnie !\n",
+            "link": "/fr/post/irl-community-day-march-2022-recap/",
+            "date": "18 mars 2022"
+        },
+        {
             "title": "L'événement Jungle Sombrefeuille de Pokémon GO mettra à l'honneur Doudouvet, Mimantis, Tokopiyon, les rencontres dans les parcs durant un week-end et bien plus encore !",
             "link": "/fr/post/lush-jungle-event/",
             "date": "17 mars 2022"
@@ -147,11 +152,6 @@
         {
             "title": "À venir en février : Circuit Pokémon GO : Johto, une Journée Communauté Gra-cieuse, l'événement Saint-Valentin 2022, des Passes de Raid supplémentaires et plus encore !",
             "link": "/fr/post/february-2022-content-update/",
-            "date": "25 janvier 2022"
-        },
-        {
-            "title": "Prenez part au Circuit Pokémon GO : Johto avec le Concours Dresseur d'Arène GO",
-            "link": "/fr/post/pokemongotour-johto-go-gym-trainer-contest/",
             "date": "25 janvier 2022"
         }
     ]
