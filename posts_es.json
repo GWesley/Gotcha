@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Gracias por este maravilloso Día de la Comunidad presencial!\n",
+            "link": "/es/post/irl-community-day-march-2022-recap/",
+            "date": "18 de marzo de 2022"
+        },
+        {
             "title": "¡El evento Jungla Umbría de Pokémon GO nos trae a Cottonee, Fomantis y Tapu Lele, un evento destacado en parques durante el fin de semana y mucho más!",
             "link": "/es/post/lush-jungle-event/",
             "date": "17 de marzo de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Nuevos artículos para el avatar inspirados en Leyendas Pokémon: Arceus disponibles próximamente!",
             "link": "/es/post/legends-arceus-outfit/",
             "date": "27 de enero de 2022"
-        },
-        {
-            "title": "Actualización de contenido de febrero: Tour de Pokémon GO: Johto, un Día de la Comunidad con Hoppit, evento del Día de San Valentín de 2022, más pases de incursión ¡y mucho más!",
-            "link": "/es/post/february-2022-content-update/",
-            "date": "25 de enero de 2022"
         }
     ]
 }
