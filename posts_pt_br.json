@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Agradecemos por um incrível Dia Comunitário presencial!\n",
+            "link": "/pt_br/post/irl-community-day-march-2022-recap/",
+            "date": "18 de março de 2022"
+        },
+        {
             "title": "O evento Selva exuberante do Pokémon GO contará com Cottonee, Fomantis, Tapu Lele, um Holofote no parque no fim de semana e muito mais!",
             "link": "/pt_br/post/lush-jungle-event/",
             "date": "17 de março de 2022"
@@ -148,11 +153,6 @@
             "title": "Desbloqueie a última parte da porta enquanto Helioptile faz sua estreia no eletrizante evento Usina Elétrica",
             "link": "/pt_br/post/season-of-heritage-power-plant-event/",
             "date": "23 de janeiro de 2022"
-        },
-        {
-            "title": "Pokémon GO Tour: Johto — Pesquisa especial e muito mais em breve!",
-            "link": "/pt_br/post/pokemongotour-johto-research/",
-            "date": "21 de janeiro de 2022"
         }
     ]
 }
