@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Community Day Classic: Memories of Mudkip",
+            "link": "https://pokemongolive.com/en/post/community-day-classic-mudkip-april-2022/",
+            "date": "March 28, 2022"
+        },
+        {
+            "title": "April Content Update: April Community Day, Tapu Bulu in raids, Sustainability Week, and more!",
+            "link": "https://pokemongolive.com/en/post/april-2022-content-update/",
+            "date": "March 25, 2022"
+        },
+        {
             "title": "April  2022 Community Day: Stufful",
             "link": "https://pokemongolive.com/en/post/communityday-april22-stufful/",
             "date": "March 23, 2022"
@@ -143,16 +153,6 @@
             "title": "Save the dates: Next Season’s Community Day events!",
             "link": "https://pokemongolive.com/en/post/cd-savethedate-mar-may/",
             "date": "February 14, 2022"
-        },
-        {
-            "title": "Pokémon GO Valentine’s Day 2022 Event:  Flabébé appearing, Valentine’s Day–themed Collection Challenges, and more!",
-            "link": "https://pokemongolive.com/en/post/valentines-day-event-2022/",
-            "date": "February 7, 2022"
-        },
-        {
-            "title": "Announcing the Pokémon TCG: Pokémon GO expansion!",
-            "link": "https://pokemongolive.com/en/post/pgo-tcg/",
-            "date": "February 3, 2022"
         }
     ]
 }
