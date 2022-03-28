@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté classique : Souvenirs de Gobou",
+            "link": "https://pokemongolive.com/fr/post/community-day-classic-mudkip-april-2022/",
+            "date": "28 mars 2022"
+        },
+        {
+            "title": "Mise à jour du contenu d’avril : Journée Communauté d’avril, Tokotoro dans les raids, Semaine environnement, et plus encore !",
+            "link": "https://pokemongolive.com/fr/post/april-2022-content-update/",
+            "date": "25 mars 2022"
+        },
+        {
+            "title": "Journée Communauté d’avril 2022 : Nounourson",
+            "link": "https://pokemongolive.com/fr/post/communityday-april22-stufful/",
+            "date": "23 mars 2022"
+        },
+        {
             "title": "Merci pour cette incroyable Journée Communauté en votre compagnie !",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-march-2022-recap/",
             "date": "18 mars 2022"
@@ -138,21 +153,6 @@
             "title": "Circuit Pokémon GO : En direct : célébrez la région de Kanto en personne lors des événements en direct de Monterrey et Kaohsiung",
             "link": "https://pokemongolive.com/fr/post/pokemongotour-live-details/",
             "date": "29 janvier 2022"
-        },
-        {
-            "title": "Pokémon GO Tour : Annonce concernant l’étape d’Abu Dhabi",
-            "link": "https://pokemongolive.com/fr/post/go-tour-abu-dhabi-2022-update/",
-            "date": "28 janvier 2022"
-        },
-        {
-            "title": "De nouveaux articles pour vos avatars inspirés de Légendes Pokémon : Arceus seront bientôt disponibles !",
-            "link": "https://pokemongolive.com/fr/post/legends-arceus-outfit/",
-            "date": "27 janvier 2022"
-        },
-        {
-            "title": "À venir en février : Circuit Pokémon GO : Johto, une Journée Communauté Gra-cieuse, l'événement Saint-Valentin 2022, des Passes de Raid supplémentaires et plus encore !",
-            "link": "https://pokemongolive.com/fr/post/february-2022-content-update/",
-            "date": "25 janvier 2022"
         }
     ]
 }
