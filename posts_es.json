@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "title": "Día de la Comunidad clásico: recuerdos de Mudkip",
+            "link": "https://pokemongolive.com/es/post/community-day-classic-mudkip-april-2022/",
+            "date": "28 de marzo de 2022"
+        },
+        {
+            "title": "Actualización de contenido de abril: Día de la Comunidad de abril, Tapu Bulu en incursiones, Semana de la Sostenibilidad ¡y mucho más!",
+            "link": "https://pokemongolive.com/es/post/april-2022-content-update/",
+            "date": "25 de marzo de 2022"
+        },
+        {
+            "title": "Día de la Comunidad abril 2022: Stufful",
+            "link": "https://pokemongolive.com/es/post/communityday-april22-stufful/",
+            "date": "23 de marzo de 2022"
+        },
+        {
             "title": "¡Gracias por este maravilloso Día de la Comunidad presencial!",
             "link": "https://pokemongolive.com/es/post/irl-community-day-march-2022-recap/",
             "date": "18 de marzo de 2022"
@@ -138,21 +153,6 @@
             "title": "¡Los Voltorb descubiertos en la región de Hisui de Leyendas Pokémon: Arceus están apareciendo!",
             "link": "https://pokemongolive.com/es/post/hisuiregion/",
             "date": "30 de enero de 2022"
-        },
-        {
-            "title": "Tour de Pokémon GO: En vivo – Celebrad la región de Kanto en persona en los eventos en vivo de Monterrey y Kaohsiung",
-            "link": "https://pokemongolive.com/es/post/pokemongotour-live-details/",
-            "date": "29 de enero de 2022"
-        },
-        {
-            "title": "Pokémon GO Tour: Live Abu Dhabi Update",
-            "link": "https://pokemongolive.com/es/post/go-tour-abu-dhabi-2022-update/",
-            "date": "28 de enero de 2022"
-        },
-        {
-            "title": "¡Nuevos artículos para el avatar inspirados en Leyendas Pokémon: Arceus disponibles próximamente!",
-            "link": "https://pokemongolive.com/es/post/legends-arceus-outfit/",
-            "date": "27 de enero de 2022"
         }
     ]
 }
