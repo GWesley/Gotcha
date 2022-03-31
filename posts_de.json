@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Der Termin für das Pokémon GO Fest 2022 steht fest!",
+            "link": "https://pokemongolive.com/de/post/gofest2022-savethedate/",
+            "date": "31. März 2022"
+        },
+        {
             "title": "Community Day Classic: Hoch lebe Hydropi!",
             "link": "https://pokemongolive.com/de/post/community-day-classic-mudkip-april-2022/",
             "date": "28. März 2022"
@@ -148,11 +153,6 @@
             "title": "Erlebe, wie deine Lieblings-Influencer in Pokémon GO gegeneinander antreten!",
             "link": "https://pokemongolive.com/de/post/mobile-games-show/",
             "date": "31. Januar 2022"
-        },
-        {
-            "title": "Voltobal aus der Hisui-Region des Spiels \"Pokémon-Legenden: Arceus\" gesichtet!",
-            "link": "https://pokemongolive.com/de/post/hisuiregion/",
-            "date": "30. Januar 2022"
         }
     ]
 }
