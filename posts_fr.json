@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Notez la date du Pokémon GO Fest 2022 sur votre calendrier !",
+            "link": "https://pokemongolive.com/fr/post/gofest2022-savethedate/",
+            "date": "31 mars 2022"
+        },
+        {
             "title": "Journée Communauté classique : Souvenirs de Gobou",
             "link": "https://pokemongolive.com/fr/post/community-day-classic-mudkip-april-2022/",
             "date": "28 mars 2022"
@@ -148,11 +153,6 @@
             "title": "Le Voltorbe découvert dans la région de Hisui du jeu [Légendes Pokémon : Arceus] débarque !",
             "link": "https://pokemongolive.com/fr/post/hisuiregion/",
             "date": "30 janvier 2022"
-        },
-        {
-            "title": "Circuit Pokémon GO : En direct : célébrez la région de Kanto en personne lors des événements en direct de Monterrey et Kaohsiung",
-            "link": "https://pokemongolive.com/fr/post/pokemongotour-live-details/",
-            "date": "29 janvier 2022"
         }
     ]
 }
