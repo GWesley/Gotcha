@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Fest 2022來囉！",
+            "link": "https://pokemongolive.com/zh_hant/post/gofest2022-savethedate/",
+            "date": "2022年3月31日"
+        },
+        {
             "title": "經典社群日：「水躍魚」即將回歸！",
             "link": "https://pokemongolive.com/zh_hant/post/community-day-classic-mudkip-april-2022/",
             "date": "2022年3月28日"
@@ -148,11 +153,6 @@
             "title": "參加「Pokémon GO Tour：城都地區」GO道館訓練家大賽",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongotour-johto-go-gym-trainer-contest/",
             "date": "2022年1月25日"
-        },
-        {
-            "title": "2022年2月社群日：與毽子草一起輕飄飄",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-feb22-hoppip/",
-            "date": "2022年1月24日"
         }
     ]
 }
