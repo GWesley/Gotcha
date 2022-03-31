@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Segnatevi sul calendario il Pokémon GO Fest 2022!",
+            "link": "https://pokemongolive.com/it/post/gofest2022-savethedate/",
+            "date": "31 marzo 2022"
+        },
+        {
             "title": "Community Day Classico: ricordi di Mudkip",
             "link": "https://pokemongolive.com/it/post/community-day-classic-mudkip-april-2022/",
             "date": "28 marzo 2022"
@@ -148,11 +153,6 @@
             "title": "Evento dal vivo del Tour di Pokémon GO: festeggiamo di persona la regione di Kanto durante gli eventi dal vivo di Monterrey e Kaohsiung",
             "link": "https://pokemongolive.com/it/post/pokemongotour-live-details/",
             "date": "29 gennaio 2022"
-        },
-        {
-            "title": "Pokémon GO Tour: Live Abu Dhabi Update",
-            "link": "https://pokemongolive.com/it/post/go-tour-abu-dhabi-2022-update/",
-            "date": "28 gennaio 2022"
         }
     ]
 }
