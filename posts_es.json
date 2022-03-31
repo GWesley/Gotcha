@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Marcad las fechas del Pokémon GO Fest de 2022 en vuestro calendario!",
+            "link": "https://pokemongolive.com/es/post/gofest2022-savethedate/",
+            "date": "31 de marzo de 2022"
+        },
+        {
             "title": "Día de la Comunidad clásico: recuerdos de Mudkip",
             "link": "https://pokemongolive.com/es/post/community-day-classic-mudkip-april-2022/",
             "date": "28 de marzo de 2022"
@@ -148,11 +153,6 @@
             "title": "Celebrad el Año Nuevo Lunar con el evento del Año Nuevo Lunar 2022 de Pokémon GO",
             "link": "https://pokemongolive.com/es/post/lunar-new-year-event-2022/",
             "date": "31 de enero de 2022"
-        },
-        {
-            "title": "¡Los Voltorb descubiertos en la región de Hisui de Leyendas Pokémon: Arceus están apareciendo!",
-            "link": "https://pokemongolive.com/es/post/hisuiregion/",
-            "date": "30 de enero de 2022"
         }
     ]
 }
