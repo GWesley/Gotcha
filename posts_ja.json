@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "エイプリルフール2022：「メタモン」があちこちに出現",
+            "link": "https://pokemongolive.com/ja/post/april-fools-2022/",
+            "date": "2022年3月31日"
+        },
+        {
             "title": "「Pokémon GO Fest 2022」開催決定！",
             "link": "https://pokemongolive.com/ja/post/gofest2022-savethedate/",
             "date": "2022年3月31日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon LEGENDS アルセウス』の主人公の服装をモチーフにした新たな着せ替えアイテムがまもなく登場！",
             "link": "https://pokemongolive.com/ja/post/legends-arceus-outfit/",
             "date": "2022年1月27日"
-        },
-        {
-            "title": "2月の最新情報：「Pokémon GO Tour：ジョウト地方」や「ハネッコ」の「コミュニティ・デイ」、バレンタインデーイベント、追加のレイドパスなどが登場！",
-            "link": "https://pokemongolive.com/ja/post/february-2022-content-update/",
-            "date": "2022年1月25日"
         }
     ]
 }
