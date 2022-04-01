@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de las bromas de abril 2022: Venir, no viene nada normal",
+            "link": "https://pokemongolive.com/es/post/april-fools-2022/",
+            "date": "31 de marzo de 2022"
+        },
+        {
             "title": "¡Marcad las fechas del Pokémon GO Fest de 2022 en vuestro calendario!",
             "link": "https://pokemongolive.com/es/post/gofest2022-savethedate/",
             "date": "31 de marzo de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Anuncio de la expansión Pokémon GO de JCC Pokémon!",
             "link": "https://pokemongolive.com/es/post/pgo-tcg/",
             "date": "3 de febrero de 2022"
-        },
-        {
-            "title": "Celebrad el Año Nuevo Lunar con el evento del Año Nuevo Lunar 2022 de Pokémon GO",
-            "link": "https://pokemongolive.com/es/post/lunar-new-year-event-2022/",
-            "date": "31 de enero de 2022"
         }
     ]
 }
