@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Poissuspens... d’avril 2022 : Anomalie en vue",
+            "link": "https://pokemongolive.com/fr/post/april-fools-2022/",
+            "date": "31 mars 2022"
+        },
+        {
             "title": "Notez la date du Pokémon GO Fest 2022 sur votre calendrier !",
             "link": "https://pokemongolive.com/fr/post/gofest2022-savethedate/",
             "date": "31 mars 2022"
@@ -148,11 +153,6 @@
             "title": "Célébrez le Nouvel An lunaire avec l’événement Pokémon GO 2022 : « Nouvel An lunaire »",
             "link": "https://pokemongolive.com/fr/post/lunar-new-year-event-2022/",
             "date": "31 janvier 2022"
-        },
-        {
-            "title": "Le Voltorbe découvert dans la région de Hisui du jeu [Légendes Pokémon : Arceus] débarque !",
-            "link": "https://pokemongolive.com/fr/post/hisuiregion/",
-            "date": "30 janvier 2022"
         }
     ]
 }
