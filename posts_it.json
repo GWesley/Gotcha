@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pesce d'aprile 2022: qui la normalità non è contemplata",
+            "link": "https://pokemongolive.com/it/post/april-fools-2022/",
+            "date": "31 marzo 2022"
+        },
+        {
             "title": "Segnatevi sul calendario il Pokémon GO Fest 2022!",
             "link": "https://pokemongolive.com/it/post/gofest2022-savethedate/",
             "date": "31 marzo 2022"
@@ -148,11 +153,6 @@
             "title": "Sono apparsi i Voltorb scoperti nella regione di Hisui del gioco Leggende Pokémon: Arceus!",
             "link": "https://pokemongolive.com/it/post/hisuiregion/",
             "date": "30 gennaio 2022"
-        },
-        {
-            "title": "Evento dal vivo del Tour di Pokémon GO: festeggiamo di persona la regione di Kanto durante gli eventi dal vivo di Monterrey e Kaohsiung",
-            "link": "https://pokemongolive.com/it/post/pokemongotour-live-details/",
-            "date": "29 gennaio 2022"
         }
     ]
 }
