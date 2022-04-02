@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Molunk, Amfira und weitere Pokémon erscheinen beim Rocket-Teamausflug-Event",
+            "link": "https://pokemongolive.com/de/post/team-go-rocket-takeover-rocket-retreat/",
+            "date": "2. April 2022"
+        },
+        {
             "title": "April, April 2022: Ein Ditto-Desaster",
             "link": "https://pokemongolive.com/de/post/april-fools-2022/",
             "date": "31. März 2022"
@@ -148,11 +153,6 @@
             "title": "Ankündigung der Erweiterung Pokémon GO des Pokémon-Sammelkartenspiels!",
             "link": "https://pokemongolive.com/de/post/pgo-tcg/",
             "date": "3. Februar 2022"
-        },
-        {
-            "title": "Feiert das Mondneujahr 2022 mit dem Mondneujahrs-Event in Pokémon GO",
-            "link": "https://pokemongolive.com/de/post/lunar-new-year-event-2022/",
-            "date": "31. Januar 2022"
         }
     ]
 }
