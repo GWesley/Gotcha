@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Tritox, Malamandre et bien d’autres font leurs débuts lors de l’événement « Offensive Team GO Rocket : repos général »",
+            "link": "https://pokemongolive.com/fr/post/team-go-rocket-takeover-rocket-retreat/",
+            "date": "2 avril 2022"
+        },
+        {
             "title": "Poissuspens... d’avril 2022 : Anomalie en vue",
             "link": "https://pokemongolive.com/fr/post/april-fools-2022/",
             "date": "31 mars 2022"
@@ -148,11 +153,6 @@
             "title": "Découvrez l’extension Pokémon GO du JCC Pokémon !",
             "link": "https://pokemongolive.com/fr/post/pgo-tcg/",
             "date": "3 février 2022"
-        },
-        {
-            "title": "Célébrez le Nouvel An lunaire avec l’événement Pokémon GO 2022 : « Nouvel An lunaire »",
-            "link": "https://pokemongolive.com/fr/post/lunar-new-year-event-2022/",
-            "date": "31 janvier 2022"
         }
     ]
 }
