@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Gli incontri in occasione del Community Day di Pokémon GO stanno per iniziare in alcune città del mondo",
+            "link": "https://pokemongolive.com/it/post/community-day-meetup-april-2022/",
+            "date": "5 aprile 2022"
+        },
+        {
             "title": "Salandit, Salazzle e altri debutteranno durante l'evento Vacanza in stile Team Rocket",
             "link": "https://pokemongolive.com/it/post/team-go-rocket-takeover-rocket-retreat/",
             "date": "2 aprile 2022"
@@ -148,11 +153,6 @@
             "title": "È in arrivo l’espansione Pokémon GO del GCC Pokémon!",
             "link": "https://pokemongolive.com/it/post/pgo-tcg/",
             "date": "3 febbraio 2022"
-        },
-        {
-            "title": "Festeggiate il Capodanno lunare con l'evento del 2022 di Pokémon GO",
-            "link": "https://pokemongolive.com/it/post/lunar-new-year-event-2022/",
-            "date": "31 gennaio 2022"
         }
     ]
 }
