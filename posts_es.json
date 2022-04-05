@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Las quedadas por el Día de la Comunidad de Pokémon GO regresan a algunas ciudades del mundo",
+            "link": "https://pokemongolive.com/es/post/community-day-meetup-april-2022/",
+            "date": "5 de abril de 2022"
+        },
+        {
             "title": "Salandit, Salazzle y otros harán su debut durante el evento Retiro Rocket para todos",
             "link": "https://pokemongolive.com/es/post/team-go-rocket-takeover-rocket-retreat/",
             "date": "2 de abril de 2022"
@@ -148,11 +153,6 @@
             "title": "Apuntad las fechas: ¡eventos del Día de la Comunidad de la próxima Temporada!",
             "link": "https://pokemongolive.com/es/post/cd-savethedate-mar-may/",
             "date": "14 de febrero de 2022"
-        },
-        {
-            "title": "Evento del Día de San Valentín 2022 de Pokémon GO: ¡aparecerá Flabébé, desafíos de colección con la temática del Día de San Valentín y mucho más!",
-            "link": "https://pokemongolive.com/es/post/valentines-day-event-2022/",
-            "date": "7 de febrero de 2022"
         }
     ]
 }
