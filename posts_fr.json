@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les rencontres de la Journée Communauté Pokémon GO arrivent dans certaines villes du monde.",
+            "link": "https://pokemongolive.com/fr/post/community-day-meetup-april-2022/",
+            "date": "5 avril 2022"
+        },
+        {
             "title": "Tritox, Malamandre et bien d’autres font leurs débuts lors de l’événement « Offensive Team GO Rocket : repos général »",
             "link": "https://pokemongolive.com/fr/post/team-go-rocket-takeover-rocket-retreat/",
             "date": "2 avril 2022"
@@ -148,11 +153,6 @@
             "title": "Événement Pokémon GO Saint-Valentin 2022 : apparition de Flabébé, Défis de collection sur le thème de la Saint-Valentin et bien plus encore !",
             "link": "https://pokemongolive.com/fr/post/valentines-day-event-2022/",
             "date": "7 février 2022"
-        },
-        {
-            "title": "Découvrez l’extension Pokémon GO du JCC Pokémon !",
-            "link": "https://pokemongolive.com/fr/post/pgo-tcg/",
-            "date": "3 février 2022"
         }
     ]
 }
