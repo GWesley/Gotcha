@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\"와 함께 봄 속으로!",
+            "link": "https://pokemongolive.com/ko/post/egg-citing-spring-surprise-2022/",
+            "date": "2022년 4월 6일"
+        },
+        {
             "title": "\"GO로켓단 점거\" 이벤트에서 \"야도뇽\", \"염뉴트\", 다양한 포켓몬이 첫 등장",
             "link": "https://pokemongolive.com/ko/post/team-go-rocket-takeover-rocket-retreat/",
             "date": "2022년 4월 2일"
@@ -148,11 +153,6 @@
             "title": "GO 체육관 트레이너 콘테스트에 참가하고 \"Pokémon GO Tour: 성도지방\"에 함께하세요",
             "link": "https://pokemongolive.com/ko/post/pokemongotour-johto-go-gym-trainer-contest/",
             "date": "2022년 1월 25일"
-        },
-        {
-            "title": "2022년 2월 커뮤니티 데이: \"통통코\"와 함께하는 통통 튀는 시간",
-            "link": "https://pokemongolive.com/ko/post/communityday-feb22-hoppip/",
-            "date": "2022년 1월 24일"
         }
     ]
 }
