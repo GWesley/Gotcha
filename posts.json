@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Spring into Spring with Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/egg-citing-spring-surprise-2022/",
+            "date": "April 6, 2022"
+        },
+        {
             "title": "Pokémon GO Community Day meetups are coming to select cities worldwide",
             "link": "https://pokemongolive.com/en/post/community-day-meetup-april-2022/",
             "date": "April 5, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Safari Zone is coming to Seville, Spain!",
             "link": "https://pokemongolive.com/en/post/safari-zone-seville-2022/",
             "date": "February 18, 2022"
-        },
-        {
-            "title": "GO Battle League: Regarding the next Season",
-            "link": "https://pokemongolive.com/en/post/go-battle-league-next-season-update/",
-            "date": "February 17, 2022"
         }
     ]
 }
