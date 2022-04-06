@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Evento de Páscoa com o Pokémon GO!",
+            "link": "https://pokemongolive.com/pt_br/post/egg-citing-spring-surprise-2022/",
+            "date": "6 de abril de 2022"
+        },
+        {
             "title": "Os encontros do Dia Comunitário do Pokemón GO estão chegando a cidades selecionadas em todo o mundo",
             "link": "https://pokemongolive.com/pt_br/post/community-day-meetup-april-2022/",
             "date": "5 de abril de 2022"
@@ -148,11 +153,6 @@
             "title": "Evento do Valentine’s Day de 2022 no Pokémon GO: aparecimento de Flabébé, Desafios de Coleção com base nesse tema e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/valentines-day-event-2022/",
             "date": "7 de fevereiro de 2022"
-        },
-        {
-            "title": "Anunciando a expansão Pokémon GO do Pokémon Estampas Ilustradas!",
-            "link": "https://pokemongolive.com/pt_br/post/pgo-tcg/",
-            "date": "3 de fevereiro de 2022"
         }
     ]
 }
