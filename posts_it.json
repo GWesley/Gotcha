@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Profumo di primavera con Pokémon GO!",
+            "link": "https://pokemongolive.com/it/post/egg-citing-spring-surprise-2022/",
+            "date": "6 aprile 2022"
+        },
+        {
             "title": "Gli incontri in occasione del Community Day di Pokémon GO stanno per iniziare in alcune città del mondo",
             "link": "https://pokemongolive.com/it/post/community-day-meetup-april-2022/",
             "date": "5 aprile 2022"
@@ -148,11 +153,6 @@
             "title": "Evento di San Valentino 2022 di Pokémon GO con Flabébé, sfide di collezione a tema San Valentino e molto altro!",
             "link": "https://pokemongolive.com/it/post/valentines-day-event-2022/",
             "date": "7 febbraio 2022"
-        },
-        {
-            "title": "È in arrivo l’espansione Pokémon GO del GCC Pokémon!",
-            "link": "https://pokemongolive.com/it/post/pgo-tcg/",
-            "date": "3 febbraio 2022"
         }
     ]
 }
