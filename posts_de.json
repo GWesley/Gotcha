@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Hüpft in den Frühling mit Pokémon GO!",
+            "link": "https://pokemongolive.com/de/post/egg-citing-spring-surprise-2022/",
+            "date": "6. April 2022"
+        },
+        {
             "title": "Pokémon GO Community Day-Meetups kommen in weltweit ausgewählte Städte",
             "link": "https://pokemongolive.com/de/post/community-day-meetup-april-2022/",
             "date": "5. April 2022"
@@ -148,11 +153,6 @@
             "title": "Save the Dates: Die Termine für die Community Days der nächsten Jahreszeit stehen fest!",
             "link": "https://pokemongolive.com/de/post/cd-savethedate-mar-may/",
             "date": "14. Februar 2022"
-        },
-        {
-            "title": "Pokémon GO-Event zum Valentinstag 2022:  Flabébé gibt sein Debüt, Event-Sammler-Herausforderungen und mehr!",
-            "link": "https://pokemongolive.com/de/post/valentines-day-event-2022/",
-            "date": "7. Februar 2022"
         }
     ]
 }
