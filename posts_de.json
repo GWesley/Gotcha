@@ -5,12 +5,17 @@
     ],
     "posts": [
         {
+            "title": "Weitere Details zur Pokémon GO-Safari-Zone in Sevilla",
+            "link": "https://pokemongolive.com/de/post/safari-zone-seville-2022-update/",
+            "date": "7. April 2022"
+        },
+        {
             "title": "Hüpft in den Frühling mit Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/egg-citing-spring-surprise-2022/",
             "date": "6. April 2022"
         },
         {
-            "title": "Pokémon GO Community Day-Meetups kommen in weltweit ausgewählte Städte",
+            "title": "April Community Day-Meetups kommen in weltweit ausgewählte Städte",
             "link": "https://pokemongolive.com/de/post/community-day-meetup-april-2022/",
             "date": "5. April 2022"
         },
@@ -148,11 +153,6 @@
             "title": "Apex-Crypto-Lugia und Apex-Crypto-Ho-Oh erscheinen!",
             "link": "https://pokemongolive.com/de/post/apex-reveal/",
             "date": "15. Februar 2022"
-        },
-        {
-            "title": "Save the Dates: Die Termine für die Community Days der nächsten Jahreszeit stehen fest!",
-            "link": "https://pokemongolive.com/de/post/cd-savethedate-mar-may/",
-            "date": "14. Februar 2022"
         }
     ]
 }
