@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Oggetti avatar ispirati al Team Skull",
+            "link": "https://pokemongolive.com/it/post/team-skull-avatar-items/",
+            "date": "11 aprile 2022"
+        },
+        {
             "title": "Ulteriori informazioni sulla Zona Safari di Pokémon GO di Siviglia",
             "link": "https://pokemongolive.com/it/post/safari-zone-seville-2022-update/",
             "date": "7 aprile 2022"
@@ -148,11 +153,6 @@
             "title": "Ecco a voi Lugia Ombra Apex e Ho-Oh Ombra Apex!",
             "link": "https://pokemongolive.com/it/post/apex-reveal/",
             "date": "15 febbraio 2022"
-        },
-        {
-            "title": "Segnatevi le date degli eventi del Community Day della prossima stagione!",
-            "link": "https://pokemongolive.com/it/post/cd-savethedate-mar-may/",
-            "date": "14 febbraio 2022"
         }
     ]
 }
