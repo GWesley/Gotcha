@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Avatar items inspired by Team Skull",
+            "link": "https://pokemongolive.com/en/post/team-skull-avatar-items/",
+            "date": "April 11, 2022"
+        },
+        {
             "title": "Pokémon GO Safari Zone: Seville — Additional details revealed",
             "link": "https://pokemongolive.com/en/post/safari-zone-seville-2022-update/",
             "date": "April 7, 2022"
@@ -148,11 +153,6 @@
             "title": "Everything you need to know before Pokémon GO Tour: Johto!",
             "link": "https://pokemongolive.com/en/post/pokemongotour-knowbeforeyougo/",
             "date": "February 23, 2022"
-        },
-        {
-            "title": "Pokémon Air Adventures global collaboration event coming in May",
-            "link": "https://pokemongolive.com/en/post/flying-pikachu-2022/",
-            "date": "February 20, 2022"
         }
     ]
 }
