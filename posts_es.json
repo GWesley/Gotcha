@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Objetos para el avatar inspirados en el Team Skull",
+            "link": "https://pokemongolive.com/es/post/team-skull-avatar-items/",
+            "date": "11 de abril de 2022"
+        },
+        {
             "title": "Zona Safari de Pokémon GO: Sevilla - Más detalles revelados",
             "link": "https://pokemongolive.com/es/post/safari-zone-seville-2022-update/",
             "date": "7 de abril de 2022"
@@ -148,11 +153,6 @@
             "title": "¡El Tour de Pokémon GO: Johto viene a selectas ciudades de Europa!",
             "link": "https://pokemongolive.com/es/post/go-tour-cityactivations-europe-2022/",
             "date": "16 de febrero de 2022"
-        },
-        {
-            "title": "Haz acopio de objetos durante el evento Preparatorio al Tour de GO: Poké Balls",
-            "link": "https://pokemongolive.com/es/post/pokeball-prep-go-tour-prep-event/",
-            "date": "15 de febrero de 2022"
         }
     ]
 }
