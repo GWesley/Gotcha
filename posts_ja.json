@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "スカル団がテーマの着せ替えアイテム",
+            "link": "https://pokemongolive.com/ja/post/team-skull-avatar-items/",
+            "date": "2022年4月11日"
+        },
+        {
             "title": "「そらとぶピカチュウプロジェクト」と『Pokémon GO』のコラボイベント - 沖縄で開催されるリアルイベントについてお知らせします！",
             "link": "https://pokemongolive.com/ja/post/air-adventures-okinawa/",
             "date": "2022年4月7日"
@@ -148,11 +153,6 @@
             "title": "2022年「Pokémon GO バレンタイン」イベント：「フラベベ」初登場！",
             "link": "https://pokemongolive.com/ja/post/valentines-day-event-2022/",
             "date": "2022年2月7日"
-        },
-        {
-            "title": "「ポケモンカードゲーム」で、強化拡張パック「Pokémon GO」が発売決定！",
-            "link": "https://pokemongolive.com/ja/post/pgo-tcg/",
-            "date": "2022年2月3日"
         }
     ]
 }
