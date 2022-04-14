@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Semaine Environnement 2022 : Ceribou, Gouroutan, Étude ponctuelle et plus encore !",
+            "link": "https://pokemongolive.com/fr/post/sustainability-week-2022/",
+            "date": "14 avril 2022"
+        },
+        {
             "title": "Articles pour avatar inspirés de la Team Skull",
             "link": "https://pokemongolive.com/fr/post/team-skull-avatar-items/",
             "date": "11 avril 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Tour: Johto arrive dans certaines villes d'Europe!",
             "link": "https://pokemongolive.com/fr/post/go-tour-cityactivations-europe-2022/",
             "date": "16 février 2022"
-        },
-        {
-            "title": "Faites le plein d’objets lors de l’événement « Préparation GO Tour – Assemblée de Poké Balls »",
-            "link": "https://pokemongolive.com/fr/post/pokeball-prep-go-tour-prep-event/",
-            "date": "15 février 2022"
         }
     ]
 }
