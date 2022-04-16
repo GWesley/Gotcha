@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Collect a special postcard during Pokémon GO Community Day and get special postcards in select cities in the Asia-Pacific region",
+            "link": "https://pokemongolive.com/en/post/irl-community-day-april-2022/",
+            "date": "April 15, 2022"
+        },
+        {
             "title": "Sustainability Week 2022: Cherubi, Oranguru, Timed Research, and more!",
             "link": "https://pokemongolive.com/en/post/sustainability-week-2022/",
             "date": "April 14, 2022"
@@ -148,11 +153,6 @@
             "title": "Dev Diaries: GO Battle League",
             "link": "https://pokemongolive.com/en/post/devdiary-march2022-gobattleleague/",
             "date": "February 25, 2022"
-        },
-        {
-            "title": "Pokémon GO Roadmap: Early 2022",
-            "link": "https://pokemongolive.com/en/post/2022-quarter1-roadmap/",
-            "date": "February 23, 2022"
         }
     ]
 }
