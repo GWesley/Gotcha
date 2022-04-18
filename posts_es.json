@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Gana un viaje a Hawái para celebrar el Día de la Comunidad de Stufful durante la Temporada de Alola de Pokémon GO!",
+            "link": "https://pokemongolive.com/es/post/stufful-alola-sweepstakes/",
+            "date": "18 de abril de 2022"
+        },
+        {
             "title": "Semana de la Sostenibilidad de 2022: Cherubi, Oranguru, Investigación temporal ¡y mucho más!",
             "link": "https://pokemongolive.com/es/post/sustainability-week-2022/",
             "date": "14 de abril de 2022"
@@ -148,11 +153,6 @@
             "title": "¡La Zona Safari de Pokémon GO llega a Sevilla, España!",
             "link": "https://pokemongolive.com/es/post/safari-zone-seville-2022/",
             "date": "18 de febrero de 2022"
-        },
-        {
-            "title": "Liga Combates GO: acerca de la próxima temporada",
-            "link": "https://pokemongolive.com/es/post/go-battle-league-next-season-update/",
-            "date": "17 de febrero de 2022"
         }
     ]
 }
