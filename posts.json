@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Win a trip to Hawaii in celebration of Pokémon GO’s Stufful Community Day during the Season of Alola!",
+            "link": "https://pokemongolive.com/en/post/stufful-alola-sweepstakes/",
+            "date": "April 18, 2022"
+        },
+        {
             "title": "Collect a special postcard during Pokémon GO Community Day and get special postcards in select cities in the Asia-Pacific region",
             "link": "https://pokemongolive.com/en/post/irl-community-day-april-2022/",
             "date": "April 15, 2022"
@@ -148,11 +153,6 @@
             "title": "More Pokémon originally found in the Alola region are coming to Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/gen-7-launch/",
             "date": "February 27, 2022"
-        },
-        {
-            "title": "Dev Diaries: GO Battle League",
-            "link": "https://pokemongolive.com/en/post/devdiary-march2022-gobattleleague/",
-            "date": "February 25, 2022"
         }
     ]
 }
