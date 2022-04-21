@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Sette consigli per il Community Day di Stufful",
+            "link": "https://pokemongolive.com/it/post/7-tips-stufful-community-day/",
+            "date": "21 aprile 2022"
+        },
+        {
             "title": "Settimana della sostenibilità 2022: Cherubi, Oranguru, ricerca a tempo e tanto altro!",
             "link": "https://pokemongolive.com/it/post/sustainability-week-2022/",
             "date": "14 aprile 2022"
@@ -148,11 +153,6 @@
             "title": "Il Tour di Pokémon GO: Johto sta arrivando in alcune città selezionate in Europa!",
             "link": "https://pokemongolive.com/it/post/go-tour-cityactivations-europe-2022/",
             "date": "16 febbraio 2022"
-        },
-        {
-            "title": "Fate il pieno di oggetti durante l'evento Poké Ball a volontà del Tour GO",
-            "link": "https://pokemongolive.com/it/post/pokeball-prep-go-tour-prep-event/",
-            "date": "15 febbraio 2022"
         }
     ]
 }
