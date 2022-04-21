@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Sieben Tipps für den Community Day mit Velursi",
+            "link": "https://pokemongolive.com/de/post/7-tips-stufful-community-day/",
+            "date": "21. April 2022"
+        },
+        {
             "title": "Gewinnt anlässlich des Community Day mit Velursi und der Alola-Jahreszeit in Pokémon GO eine Reise nach Hawaii!",
             "link": "https://pokemongolive.com/de/post/stufful-alola-sweepstakes/",
             "date": "18. April 2022"
@@ -148,11 +153,6 @@
             "title": "Die Pokémon GO Safari Zone kommt nach Sevilla in Spanien!",
             "link": "https://pokemongolive.com/de/post/safari-zone-seville-2022/",
             "date": "18. Februar 2022"
-        },
-        {
-            "title": "Informationen zur nächsten Saison der GO-Kampfliga",
-            "link": "https://pokemongolive.com/de/post/go-battle-league-next-season-update/",
-            "date": "17. Februar 2022"
         }
     ]
 }
