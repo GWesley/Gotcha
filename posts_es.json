@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Siete consejos para el Día de la Comunidad con Stufful",
+            "link": "https://pokemongolive.com/es/post/7-tips-stufful-community-day/",
+            "date": "21 de abril de 2022"
+        },
+        {
             "title": "¡Gana un viaje a Hawái para celebrar el Día de la Comunidad de Stufful durante la Temporada de Alola de Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/stufful-alola-sweepstakes/",
             "date": "18 de abril de 2022"
@@ -148,11 +153,6 @@
             "title": "El evento de colaboración global Pokémon Air Adventures se celebrará en mayo",
             "link": "https://pokemongolive.com/es/post/flying-pikachu-2022/",
             "date": "20 de febrero de 2022"
-        },
-        {
-            "title": "¡La Zona Safari de Pokémon GO llega a Sevilla, España!",
-            "link": "https://pokemongolive.com/es/post/safari-zone-seville-2022/",
-            "date": "18 de febrero de 2022"
         }
     ]
 }
