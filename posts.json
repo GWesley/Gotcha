@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Dev Diaries: a mega update to Mega Evolution in Pokémon GO is coming soon!",
+            "link": "https://pokemongolive.com/en/post/mega-evolution-2022-update-soft/",
+            "date": "April 25, 2022"
+        },
+        {
             "title": "May 2022 Community Day: Alolan Geodude",
             "link": "https://pokemongolive.com/en/post/communityday-may-2022-alolan-geodude/",
             "date": "April 25, 2022"
@@ -147,11 +152,6 @@
         {
             "title": "GO Battle League: Interlude Season",
             "link": "https://pokemongolive.com/en/post/go-battle-league-interlude-season/",
-            "date": "February 28, 2022"
-        },
-        {
-            "title": "March Content Update: the Season of Alola, March Community Day, new Raids, and more!",
-            "link": "https://pokemongolive.com/en/post/march-2022-content-update/",
             "date": "February 28, 2022"
         }
     ]
