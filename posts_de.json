@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Entwicklertagebuch: Ein Mega-Update für die Mega-Entwicklung in Pokémon GO steht bevor!",
+            "link": "https://pokemongolive.com/de/post/mega-evolution-2022-update-soft/",
+            "date": "25. April 2022"
+        },
+        {
             "title": "Community Day im Mai 2022: Alola-Kleinstein",
             "link": "https://pokemongolive.com/de/post/communityday-may-2022-alolan-geodude/",
             "date": "25. April 2022"
@@ -148,11 +153,6 @@
             "title": "Alles, was ihr vor der Pokémon GO Tour: Johto wissen müsst!",
             "link": "https://pokemongolive.com/de/post/pokemongotour-knowbeforeyougo/",
             "date": "23. Februar 2022"
-        },
-        {
-            "title": "Das Pokémon Luftabenteuer-Event findet im Mai statt!",
-            "link": "https://pokemongolive.com/de/post/flying-pikachu-2022/",
-            "date": "20. Februar 2022"
         }
     ]
 }
