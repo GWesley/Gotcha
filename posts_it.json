@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day di maggio 2022: Geodude di Alola",
+            "link": "https://pokemongolive.com/it/post/communityday-may-2022-alolan-geodude/",
+            "date": "25 aprile 2022"
+        },
+        {
             "title": "Sette consigli per il Community Day di Stufful",
             "link": "https://pokemongolive.com/it/post/7-tips-stufful-community-day/",
             "date": "21 aprile 2022"
@@ -148,11 +153,6 @@
             "title": "Lega Lotte GO: informazioni sulla prossima stagione",
             "link": "https://pokemongolive.com/it/post/go-battle-league-next-season-update/",
             "date": "17 febbraio 2022"
-        },
-        {
-            "title": "Il Tour di Pokémon GO: Johto sta arrivando in alcune città selezionate in Europa!",
-            "link": "https://pokemongolive.com/it/post/go-tour-cityactivations-europe-2022/",
-            "date": "16 febbraio 2022"
         }
     ]
 }
