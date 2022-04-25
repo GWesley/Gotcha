@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté mai 2022 : Racaillou d'Alola",
+            "link": "https://pokemongolive.com/fr/post/communityday-may-2022-alolan-geodude/",
+            "date": "25 avril 2022"
+        },
+        {
             "title": "Sept conseils pour la Journée Communauté de Nounourson",
             "link": "https://pokemongolive.com/fr/post/7-tips-stufful-community-day/",
             "date": "21 avril 2022"
@@ -148,11 +153,6 @@
             "title": "L’événement collaboratif mondial Pokémon Air Adventures arrive en mai",
             "link": "https://pokemongolive.com/fr/post/flying-pikachu-2022/",
             "date": "20 février 2022"
-        },
-        {
-            "title": "Pokémon GO Safari Zone arrive à Séville, Espagne !",
-            "link": "https://pokemongolive.com/fr/post/safari-zone-seville-2022/",
-            "date": "18 février 2022"
         }
     ]
 }
