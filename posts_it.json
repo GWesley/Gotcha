@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Diario degli sviluppatori: è in arrivo un mega aggiornamento relativo alla megaevoluzione in Pokémon GO!",
+            "link": "https://pokemongolive.com/it/post/mega-evolution-2022-update-soft/",
+            "date": "25 aprile 2022"
+        },
+        {
             "title": "Community Day di maggio 2022: Geodude di Alola",
             "link": "https://pokemongolive.com/it/post/communityday-may-2022-alolan-geodude/",
             "date": "25 aprile 2022"
@@ -148,11 +153,6 @@
             "title": "La Zona Safari Pokémon GO si svolgerà a Siviglia, in Spagna!",
             "link": "https://pokemongolive.com/it/post/safari-zone-seville-2022/",
             "date": "18 febbraio 2022"
-        },
-        {
-            "title": "Lega Lotte GO: informazioni sulla prossima stagione",
-            "link": "https://pokemongolive.com/it/post/go-battle-league-next-season-update/",
-            "date": "17 febbraio 2022"
         }
     ]
 }
