@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Gracias por un maravilloso Día de la Comunidad de abril!",
+            "link": "https://pokemongolive.com/es/post/community-day-meetup-april-2022-recap/",
+            "date": "27 de abril de 2022"
+        },
+        {
             "title": "Diarios de desarrollador: ¡próximamente lanzaremos una megactualización para la megaevolución en Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/mega-evolution-2022-update-soft/",
             "date": "25 de abril de 2022"
@@ -148,11 +153,6 @@
             "title": "Diarios de desarrollador: Liga Combates GO",
             "link": "https://pokemongolive.com/es/post/devdiary-march2022-gobattleleague/",
             "date": "25 de febrero de 2022"
-        },
-        {
-            "title": "Todo lo que tenéis que saber antes del Tour de Pokémon GO: Johto",
-            "link": "https://pokemongolive.com/es/post/pokemongotour-knowbeforeyougo/",
-            "date": "23 de febrero de 2022"
         }
     ]
 }
