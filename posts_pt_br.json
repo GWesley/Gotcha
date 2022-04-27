@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Agradecemos pelo incrível Dia Comunitário de abril!",
+            "link": "https://pokemongolive.com/pt_br/post/community-day-meetup-april-2022-recap/",
+            "date": "27 de abril de 2022"
+        },
+        {
             "title": "Diários do Desenvolvedor: uma mega-atualização na Megaevolução está chegando ao Pokémon GO!",
             "link": "https://pokemongolive.com/pt_br/post/mega-evolution-2022-update-soft/",
             "date": "25 de abril de 2022"
@@ -148,11 +153,6 @@
             "title": "Tudo o que vocês precisam saber antes do Pokémon GO Tour: Johto!",
             "link": "https://pokemongolive.com/pt_br/post/pokemongotour-knowbeforeyougo/",
             "date": "23 de fevereiro de 2022"
-        },
-        {
-            "title": "Em maio, vem aí o evento de colaboração global Pokémon Air Adventures",
-            "link": "https://pokemongolive.com/pt_br/post/flying-pikachu-2022/",
-            "date": "20 de fevereiro de 2022"
         }
     ]
 }
