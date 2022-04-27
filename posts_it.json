@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Grazie per aver contribuito a rendere fantastico il Community Day di aprile!",
+            "link": "https://pokemongolive.com/it/post/community-day-meetup-april-2022-recap/",
+            "date": "27 aprile 2022"
+        },
+        {
             "title": "Diario degli sviluppatori: è in arrivo un mega aggiornamento relativo alla megaevoluzione in Pokémon GO!",
             "link": "https://pokemongolive.com/it/post/mega-evolution-2022-update-soft/",
             "date": "25 aprile 2022"
@@ -148,11 +153,6 @@
             "title": "Evento mondiale di collaborazione Pokémon - Avventure aeree in arrivo a maggio",
             "link": "https://pokemongolive.com/it/post/flying-pikachu-2022/",
             "date": "20 febbraio 2022"
-        },
-        {
-            "title": "La Zona Safari Pokémon GO si svolgerà a Siviglia, in Spagna!",
-            "link": "https://pokemongolive.com/it/post/safari-zone-seville-2022/",
-            "date": "18 febbraio 2022"
         }
     ]
 }
