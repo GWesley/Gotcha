@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mega Latios and Mega Latias soar to new heights in the global Pokémon Air Adventures event",
+            "link": "https://pokemongolive.com/en/post/air-adventures-global/",
+            "date": "April 29, 2022"
+        },
+        {
             "title": "Celebrate the Global launch of the Mega Evolution update with Mega Kangaskhan and a Mega Moment event!",
             "link": "https://pokemongolive.com/en/post/mega-evolution-2022-update-global/",
             "date": "April 28, 2022"
@@ -148,11 +153,6 @@
             "title": "Thanks for taking part in Pokémon GO Tour: Johto and Pokémon GO Tour: Live!",
             "link": "https://pokemongolive.com/en/post/gotour2022-recap/",
             "date": "March 2, 2022"
-        },
-        {
-            "title": "Welcome to the Season of Alola",
-            "link": "https://pokemongolive.com/en/post/season-of-alola-2022/",
-            "date": "February 28, 2022"
         }
     ]
 }
