@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "5月のイベント最新情報：5月の「コミュニティ・デイ」、レイドバトルに「カプ・レヒレ」、「大いなるメガシンカ」など！",
+            "link": "https://pokemongolive.com/ja/post/may-2022-content-update/",
+            "date": "2022年4月29日"
+        },
+        {
             "title": "「そらとぶピカチュウプロジェクト」コラボイベントで、「メガラティオス」と「メガラティアス」が登場",
             "link": "https://pokemongolive.com/ja/post/air-adventures-global/",
             "date": "2022年4月29日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』の仕様変更に関するお知らせ",
             "link": "https://pokemongolive.com/ja/post/exploration-updates/",
             "date": "2022年2月28日"
-        },
-        {
-            "title": "『Pokémon GO』に、アローラ地方で発見されたポケモンが続々登場！",
-            "link": "https://pokemongolive.com/ja/post/gen-7-launch/",
-            "date": "2022年2月27日"
         }
     ]
 }
