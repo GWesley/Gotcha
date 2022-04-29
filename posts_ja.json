@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「そらとぶピカチュウプロジェクト」コラボイベントで、「メガラティオス」と「メガラティアス」が登場",
+            "link": "https://pokemongolive.com/ja/post/air-adventures-global/",
+            "date": "2022年4月29日"
+        },
+        {
             "title": "メガシンカのアップデートが世界中で導入されました！「メガガルーラ」が登場するほか、「大いなるメガシンカ」イベントが開催されます！",
             "link": "https://pokemongolive.com/ja/post/mega-evolution-2022-update-global/",
             "date": "2022年4月28日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』に、アローラ地方で発見されたポケモンが続々登場！",
             "link": "https://pokemongolive.com/ja/post/gen-7-launch/",
             "date": "2022年2月27日"
-        },
-        {
-            "title": "ディベロッパーダイアリー：「GOバトルリーグ」",
-            "link": "https://pokemongolive.com/ja/post/devdiary-march2022-gobattleleague/",
-            "date": "2022年2月25日"
         }
     ]
 }
