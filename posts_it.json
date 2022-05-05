@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "I biglietti per il Pokémon GO Fest di Berlino sono in vendita!",
+            "link": "https://pokemongolive.com/it/post/gofest2022-berlin-tickets/",
+            "date": "5 maggio 2022"
+        },
+        {
             "title": "In arrivo a maggio: Community Day di maggio, Tapu Fini nei raid, Un megamomento e tanto altro!",
             "link": "https://pokemongolive.com/it/post/may-2022-content-update/",
             "date": "29 aprile 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Lega Lotte GO: Stagione di Intermezzo",
             "link": "https://pokemongolive.com/it/post/go-battle-league-interlude-season/",
-            "date": "28 febbraio 2022"
-        },
-        {
-            "title": "In arrivo a marzo: la stagione di Alola, il Community Day di marzo, nuovi boss del raid e altro ancora!",
-            "link": "https://pokemongolive.com/it/post/march-2022-content-update/",
             "date": "28 febbraio 2022"
         }
     ]
