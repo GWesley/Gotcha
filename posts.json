@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Tickets to Pokémon GO Fest: Berlin are on sale now!",
+            "link": "https://pokemongolive.com/en/post/gofest2022-berlin-tickets/",
+            "date": "May 5, 2022"
+        },
+        {
             "title": "May Content Update: May Community Day, Tapu Fini in raids, A Mega Moment, and more!",
             "link": "https://pokemongolive.com/en/post/may-2022-content-update/",
             "date": "April 29, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Community Day meetups are coming to select cities worldwide",
             "link": "https://pokemongolive.com/en/post/irl-community-day-march-2022/",
             "date": "March 9, 2022"
-        },
-        {
-            "title": "Pokémon GO Safari Zone: Seville tickets are available now!",
-            "link": "https://pokemongolive.com/en/post/safari-zone-seville-2022-tickets/",
-            "date": "March 8, 2022"
         }
     ]
 }
