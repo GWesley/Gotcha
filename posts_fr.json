@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les billets pour le « Pokémon Go Fest : Berlin » sont en vente !",
+            "link": "https://pokemongolive.com/fr/post/gofest2022-berlin-tickets/",
+            "date": "5 mai 2022"
+        },
+        {
             "title": "Mise à jour du contenu de mai : Journée Communauté, Tokopisco dans les Raids, Un Méga-moment, et plus encore !",
             "link": "https://pokemongolive.com/fr/post/may-2022-content-update/",
             "date": "29 avril 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Journée Communauté mars 2022 : Sabelette et Sabelette d'Alola",
             "link": "https://pokemongolive.com/fr/post/communityday-mar22-sandshrew/",
-            "date": "28 février 2022"
-        },
-        {
-            "title": "Ligue Combat GO : Saison Interlude",
-            "link": "https://pokemongolive.com/fr/post/go-battle-league-interlude-season/",
             "date": "28 février 2022"
         }
     ]
