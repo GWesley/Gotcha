@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Der Ticketverkauf für das Pokémon GO Fest in Berlin hat begonnen!",
+            "link": "https://pokemongolive.com/de/post/gofest2022-berlin-tickets/",
+            "date": "5. Mai 2022"
+        },
+        {
             "title": "Content im Mai: Community Day, Kapu-Kime in Raid-Kämpfen, das Event \"Ein Mega-Moment\" und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/may-2022-content-update/",
             "date": "29. April 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Community Day im März 2022: Sandan und Alola-Sandan",
             "link": "https://pokemongolive.com/de/post/communityday-mar22-sandshrew/",
-            "date": "28. Februar 2022"
-        },
-        {
-            "title": "GO-Kampfliga: Zwischensaison",
-            "link": "https://pokemongolive.com/de/post/go-battle-league-interlude-season/",
             "date": "28. Februar 2022"
         }
     ]
