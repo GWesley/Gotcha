@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "May Community Day meetups are coming to select cities worldwide",
+            "link": "https://pokemongolive.com/en/post/irl-community-day-may-2022/",
+            "date": "May 11, 2022"
+        },
+        {
             "title": "Tickets to Pokémon GO Fest: Sapporo are on sale now!",
             "link": "https://pokemongolive.com/en/post/gofest2022-sapporo-tickets/",
             "date": "May 10, 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Reflecting, Exploring, and Walking to honor the 11th Memorial Day of the Great East Japan Earthquake",
             "link": "https://pokemongolive.com/en/post/tohoku2022/",
-            "date": "March 10, 2022"
-        },
-        {
-            "title": "Oricorio makes its dazzling Pokémon GO debut during the Festival of Colors event!",
-            "link": "https://pokemongolive.com/en/post/festivalofcolors-2022/",
             "date": "March 10, 2022"
         }
     ]
