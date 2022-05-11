@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les rencontres de la Journée Communauté Pokémon GO arrivent dans certaines villes du monde",
+            "link": "https://pokemongolive.com/fr/post/irl-community-day-may-2022/",
+            "date": "11 mai 2022"
+        },
+        {
             "title": "Le « Festival Aquatique » de Pokémon GO revient pour 2022 et donnera l’occasion à Lokhlass portant une écharpe, Araqua et Tarenbulle de faire leurs débuts.",
             "link": "https://pokemongolive.com/fr/post/water-festival-2022/",
             "date": "9 mai 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Bienvenue à la Saison d'Alola",
             "link": "https://pokemongolive.com/fr/post/season-of-alola-2022/",
-            "date": "28 février 2022"
-        },
-        {
-            "title": "Faites place à encore plus de Pokémon de la région d’Alola avec la Saison d'Alola  !",
-            "link": "https://pokemongolive.com/fr/post/welcome-the-season-of-alola/",
             "date": "28 février 2022"
         }
     ]
