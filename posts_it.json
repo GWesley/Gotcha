@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ora potete regalare biglietti per eventi ai vostri amici!",
+            "link": "https://pokemongolive.com/it/post/ticket-gifting-how-to/",
+            "date": "17 maggio 2022"
+        },
+        {
             "title": "Grazie per i momenti indimenticabili vissuti in occasione della Zona Safari Pokémon GO di Siviglia!",
             "link": "https://pokemongolive.com/it/post/safari-zone-seville-2022-recap/",
             "date": "17 maggio 2022"
@@ -148,11 +153,6 @@
             "title": "Grazie per aver preso parte al Tour di Pokémon GO di Johto e all'evento dal vivo del Tour di Pokémon GO!",
             "link": "https://pokemongolive.com/it/post/gotour2022-recap/",
             "date": "2 marzo 2022"
-        },
-        {
-            "title": "Benvenuti nella stagione di Alola",
-            "link": "https://pokemongolive.com/it/post/season-of-alola-2022/",
-            "date": "28 febbraio 2022"
         }
     ]
 }
