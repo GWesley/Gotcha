@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Thanks for making memories at Pokémon GO Safari Zone Seville!",
+            "link": "https://pokemongolive.com/en/post/safari-zone-seville-2022-recap/",
+            "date": "May 17, 2022"
+        },
+        {
             "title": "Pokémon GO Fest 2022 T-shirts will be available to Trainers via Niantic Supply",
             "link": "https://pokemongolive.com/en/post/pokemongofest2022-shirt/",
             "date": "May 13, 2022"
@@ -148,11 +153,6 @@
             "title": "The Best Places Globally to Play Community Day This Weekend",
             "link": "https://pokemongolive.com/en/post/best-places-to-play-cd/",
             "date": "March 12, 2022"
-        },
-        {
-            "title": "A new PokéStop for your community!",
-            "link": "https://pokemongolive.com/en/post/for-your-community-pokestop/",
-            "date": "March 11, 2022"
         }
     ]
 }
