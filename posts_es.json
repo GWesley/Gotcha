@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Gracias por atesorar momentos en la Zona Safari de Pokémon GO de Sevilla!",
+            "link": "https://pokemongolive.com/es/post/safari-zone-seville-2022-recap/",
+            "date": "17 de mayo de 2022"
+        },
+        {
             "title": "Las quedadas por el Día de la Comunidad de Pokémon GO regresan a algunas ciudades del mundo",
             "link": "https://pokemongolive.com/es/post/irl-community-day-may-2022/",
             "date": "11 de mayo de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Gracias por formar parte del Tour de Pokémon GO: Johto y del Tour de Pokémon GO: En vivo!",
             "link": "https://pokemongolive.com/es/post/gotour2022-recap/",
             "date": "2 de marzo de 2022"
-        },
-        {
-            "title": "¡Os damos la bienvenida a la Temporada de Alola!",
-            "link": "https://pokemongolive.com/es/post/season-of-alola-2022/",
-            "date": "28 de febrero de 2022"
         }
     ]
 }
