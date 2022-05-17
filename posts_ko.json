@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "이제 프렌드에게 티켓을 선물할 수 있습니다!",
+            "link": "https://pokemongolive.com/ko/post/ticket-gifting-how-to/",
+            "date": "2022년 5월 17일"
+        },
+        {
             "title": "2022년의 워터페스티벌에 스카프를 한 \"라프라스\", \"물거미\", \"깨비물거미\"가 처음으로 등장합니다!",
             "link": "https://pokemongolive.com/ko/post/water-festival-2022/",
             "date": "2022년 5월 9일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO Tour: 성도지방\"이 곧 개최!",
             "link": "https://pokemongolive.com/ko/post/pokemongotour-knowbeforeyougo/",
             "date": "2022년 2월 23일"
-        },
-        {
-            "title": "\"하늘 나는 피카츄 프로젝트\" 5월 개최",
-            "link": "https://pokemongolive.com/ko/post/flying-pikachu-2022/",
-            "date": "2022년 2월 20일"
         }
     ]
 }
