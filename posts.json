@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "You can now gift event tickets to your friends!",
+            "link": "https://pokemongolive.com/en/post/ticket-gifting-how-to/",
+            "date": "May 17, 2022"
+        },
+        {
             "title": "Thanks for making memories at Pokémon GO Safari Zone Seville!",
             "link": "https://pokemongolive.com/en/post/safari-zone-seville-2022-recap/",
             "date": "May 17, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO’s Lush Jungle event features Cottonee, Fomantis, Tapu Lele, a weekend park spotlight, and more!",
             "link": "https://pokemongolive.com/en/post/lush-jungle-event/",
             "date": "March 17, 2022"
-        },
-        {
-            "title": "The Best Places Globally to Play Community Day This Weekend",
-            "link": "https://pokemongolive.com/en/post/best-places-to-play-cd/",
-            "date": "March 12, 2022"
         }
     ]
 }
