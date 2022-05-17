@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Vous pouvez désormais offrir des billets d'événements à vos amis !",
+            "link": "https://pokemongolive.com/fr/post/ticket-gifting-how-to/",
+            "date": "17 mai 2022"
+        },
+        {
             "title": "Merci à toutes et tous d’avoir créé de magnifiques souvenirs à la « Zone Safari Pokémon GO » de Séville !",
             "link": "https://pokemongolive.com/fr/post/safari-zone-seville-2022-recap/",
             "date": "17 mai 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Safari Zone : les billets pour Séville sont disponibles dès maintenant !",
             "link": "https://pokemongolive.com/fr/post/safari-zone-seville-2022-tickets/",
             "date": "8 mars 2022"
-        },
-        {
-            "title": "Merci d'avoir participé au Circuit Pokémon GO : Johto ainsi qu'au Circuit Pokémon GO : En direct !",
-            "link": "https://pokemongolive.com/fr/post/gotour2022-recap/",
-            "date": "2 mars 2022"
         }
     ]
 }
