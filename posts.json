@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate the Season of Alola during the Alola to Alola finale event!",
+            "link": "https://pokemongolive.com/en/post/alola-to-alola/",
+            "date": "May 18, 2022"
+        },
+        {
             "title": "You can now gift event tickets to your friends!",
             "link": "https://pokemongolive.com/en/post/ticket-gifting-how-to/",
             "date": "May 17, 2022"
@@ -148,11 +153,6 @@
             "title": "Thank you for an amazing in-person Community Day!",
             "link": "https://pokemongolive.com/en/post/irl-community-day-march-2022-recap/",
             "date": "March 18, 2022"
-        },
-        {
-            "title": "Pokémon GO’s Lush Jungle event features Cottonee, Fomantis, Tapu Lele, a weekend park spotlight, and more!",
-            "link": "https://pokemongolive.com/en/post/lush-jungle-event/",
-            "date": "March 17, 2022"
         }
     ]
 }
