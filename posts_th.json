@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ฉลองฤดูกาลแห่งอโลลาในช่วงอีเวนต์อโลลาฟินาเล่!",
+            "link": "https://pokemongolive.com/th/post/alola-to-alola/",
+            "date": "18 พฤษภาคม 2565"
+        },
+        {
             "title": "ตอนนี้คุณสามารถส่งตั๋วอีเวนต์ให้เพื่อนของคุณได้แล้ว!",
             "link": "https://pokemongolive.com/th/post/ticket-gifting-how-to/",
             "date": "17 พฤษภาคม 2565"
@@ -147,11 +152,6 @@
         {
             "title": "อัปเดตเนื้อหาเดือนมีนาคม: ฤดูกาลแห่งอโลลา, คอมมิวนิตี้เดย์มีนาคม, บอสใหม่ และอีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/march-2022-content-update/",
-            "date": "28 กุมภาพันธ์ 2565"
-        },
-        {
-            "title": "อัปเดตการสำรวจใน Pokémon GO",
-            "link": "https://pokemongolive.com/th/post/exploration-updates/",
             "date": "28 กุมภาพันธ์ 2565"
         }
     ]
