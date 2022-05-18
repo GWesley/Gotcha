@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Celebra la Temporada de Alola durante el evento final De Alola a Alola!",
+            "link": "https://pokemongolive.com/es/post/alola-to-alola/",
+            "date": "18 de mayo de 2022"
+        },
+        {
             "title": "¡Ahora puedes regalar a tus amistades entradas para eventos!",
             "link": "https://pokemongolive.com/es/post/ticket-gifting-how-to/",
             "date": "17 de mayo de 2022"
@@ -148,11 +153,6 @@
             "title": "Las quedadas del Día de la Comunidad de Pokémon GO se celebrarán por todo el mundo en las ciudades elegidas",
             "link": "https://pokemongolive.com/es/post/irl-community-day-march-2022/",
             "date": "9 de marzo de 2022"
-        },
-        {
-            "title": "Zona Safari de Pokémon GO: ¡ya están disponibles las entradas para el evento de Sevilla!",
-            "link": "https://pokemongolive.com/es/post/safari-zone-seville-2022-tickets/",
-            "date": "8 de marzo de 2022"
         }
     ]
 }
