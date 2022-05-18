@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Célébrez la Saison d’Alola lors de l’événement final : « Alola à Alola » !",
+            "link": "https://pokemongolive.com/fr/post/alola-to-alola/",
+            "date": "18 mai 2022"
+        },
+        {
             "title": "Vous pouvez désormais offrir des billets d'événements à vos amis !",
             "link": "https://pokemongolive.com/fr/post/ticket-gifting-how-to/",
             "date": "17 mai 2022"
@@ -148,11 +153,6 @@
             "title": "Les rencontres de la Journée Communauté de Pokémon GO arrivent dans certaines villes du monde",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-march-2022/",
             "date": "9 mars 2022"
-        },
-        {
-            "title": "Pokémon GO Safari Zone : les billets pour Séville sont disponibles dès maintenant !",
-            "link": "https://pokemongolive.com/fr/post/safari-zone-seville-2022-tickets/",
-            "date": "8 mars 2022"
         }
     ]
 }
