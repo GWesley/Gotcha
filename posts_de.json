@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wir feiern das Ende der Alola-Jahreszeit mit dem Event \"Alola an Alola\"!",
+            "link": "https://pokemongolive.com/de/post/alola-to-alola/",
+            "date": "18. Mai 2022"
+        },
+        {
             "title": "Event-Tickets können von jetzt an verschenkt werden!",
             "link": "https://pokemongolive.com/de/post/ticket-gifting-how-to/",
             "date": "17. Mai 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Community Day-Meetups in ausgewählten Städten auf der ganzen Welt",
             "link": "https://pokemongolive.com/de/post/irl-community-day-march-2022/",
             "date": "9. März 2022"
-        },
-        {
-            "title": "Der Ticketverkauf für die Pokémon GO-Safari-Zone in Sevilla hat begonnen!",
-            "link": "https://pokemongolive.com/de/post/safari-zone-seville-2022-tickets/",
-            "date": "8. März 2022"
         }
     ]
 }
