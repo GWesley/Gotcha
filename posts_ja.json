@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "新しいソーシャル機能と現地で参加するレイドバトルについて",
+            "link": "https://pokemongolive.com/ja/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
+            "date": "2022年5月19日"
+        },
+        {
             "title": "『Pokémon GO』とAmazonのPrime Gamingがコラボ！Amazon Primeメンバーの皆さんへ魅力的なリワードをお届け",
             "link": "https://pokemongolive.com/ja/post/pokemon-go-prime-gaming-promotion-2022/",
             "date": "2022年5月19日"
@@ -148,11 +153,6 @@
             "title": "「カラーフェスティバル」イベントで「オドリドリ」が『Pokémon GO』に初登場！",
             "link": "https://pokemongolive.com/ja/post/festivalofcolors-2022/",
             "date": "2022年3月10日"
-        },
-        {
-            "title": "「Pokémon GO Tour：ジョウト地方」へのご参加、ありがとうございました！",
-            "link": "https://pokemongolive.com/ja/post/gotour2022-recap/",
-            "date": "2022年3月2日"
         }
     ]
 }
