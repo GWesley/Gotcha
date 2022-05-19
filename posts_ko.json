@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "새로운 소셜 기능과 현지 참여 레이드배틀에 대해",
+            "link": "https://pokemongolive.com/ko/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
+            "date": "2022년 5월 19일"
+        },
+        {
             "title": "시즌 마지막 이벤트 \"알로라 피날레\"로 알로라 시즌 마지막을 장식하세요!",
             "link": "https://pokemongolive.com/ko/post/alola-to-alola/",
             "date": "2022년 5월 18일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO\" 사양변경에 관한 안내",
             "link": "https://pokemongolive.com/ko/post/exploration-updates/",
             "date": "2022년 2월 28일"
-        },
-        {
-            "title": "\"Pokémon GO\"에 알로라지방에서 발견된 포켓몬들이 더 많이 등장!",
-            "link": "https://pokemongolive.com/ko/post/gen-7-launch/",
-            "date": "2022년 2월 27일"
         }
     ]
 }
