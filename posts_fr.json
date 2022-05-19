@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "De nouvelles fonctionnalités sociales ainsi que des mises à jour pour les raids en personne",
+            "link": "https://pokemongolive.com/fr/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
+            "date": "19 mai 2022"
+        },
+        {
             "title": "Pokémon GO et Prime Gaming d'Amazon s'associent pour offrir des récompenses exceptionnelles aux membres d'Amazon Prime",
             "link": "https://pokemongolive.com/fr/post/pokemon-go-prime-gaming-promotion-2022/",
             "date": "19 mai 2022"
@@ -148,11 +153,6 @@
             "title": "L'événement Jungle Sombrefeuille de Pokémon GO mettra à l'honneur Doudouvet, Mimantis, Tokopiyon, les rencontres dans les parcs durant un week-end et bien plus encore !",
             "link": "https://pokemongolive.com/fr/post/lush-jungle-event/",
             "date": "17 mars 2022"
-        },
-        {
-            "title": "Plumeline fait des débuts éblouissants sur la scène de Pokémon GO pour la Fête des couleurs !",
-            "link": "https://pokemongolive.com/fr/post/festivalofcolors-2022/",
-            "date": "10 mars 2022"
         }
     ]
 }
