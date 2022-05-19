@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO and Amazon’s Prime Gaming team up to bring exciting rewards to Amazon Prime members",
+            "link": "https://pokemongolive.com/en/post/pokemon-go-prime-gaming-promotion-2022/",
+            "date": "May 19, 2022"
+        },
+        {
             "title": "Celebrate the Season of Alola during the Alola to Alola finale event!",
             "link": "https://pokemongolive.com/en/post/alola-to-alola/",
             "date": "May 18, 2022"
@@ -148,11 +153,6 @@
             "title": "April 2022 Community Day: Stufful",
             "link": "https://pokemongolive.com/en/post/communityday-april22-stufful/",
             "date": "March 23, 2022"
-        },
-        {
-            "title": "Thank you for an amazing in-person Community Day!",
-            "link": "https://pokemongolive.com/en/post/irl-community-day-march-2022-recap/",
-            "date": "March 18, 2022"
         }
     ]
 }
