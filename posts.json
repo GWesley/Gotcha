@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "New social features, as well as updates for in-person raids",
+            "link": "https://pokemongolive.com/en/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
+            "date": "May 19, 2022"
+        },
+        {
             "title": "Pokémon GO and Amazon’s Prime Gaming are collaborating with Prime Student to bring exclusive, interactive experiences to select universities!",
             "link": "https://pokemongolive.com/en/post/pokemon-go-prime-student-may-community-day/",
             "date": "May 19, 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day Classic: Memories of Mudkip",
             "link": "https://pokemongolive.com/en/post/community-day-classic-mudkip-april-2022/",
             "date": "March 28, 2022"
-        },
-        {
-            "title": "April Content Update: April Community Day, Tapu Bulu in raids, Sustainability Week, and more!",
-            "link": "https://pokemongolive.com/en/post/april-2022-content-update/",
-            "date": "March 25, 2022"
         }
     ]
 }
