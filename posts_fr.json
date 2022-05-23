@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Notez bien les dates des événements « Journée Communauté » de la prochaine saison !",
+            "link": "https://pokemongolive.com/fr/post/cd-savethedate-s7/",
+            "date": "23 mai 2022"
+        },
+        {
             "title": "De nouvelles fonctionnalités sociales ainsi que des mises à jour pour les raids en personne",
             "link": "https://pokemongolive.com/fr/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
             "date": "19 mai 2022"
@@ -148,11 +153,6 @@
             "title": "Merci pour cette incroyable Journée Communauté en votre compagnie !",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-march-2022-recap/",
             "date": "18 mars 2022"
-        },
-        {
-            "title": "L'événement Jungle Sombrefeuille de Pokémon GO mettra à l'honneur Doudouvet, Mimantis, Tokopiyon, les rencontres dans les parcs durant un week-end et bien plus encore !",
-            "link": "https://pokemongolive.com/fr/post/lush-jungle-event/",
-            "date": "17 mars 2022"
         }
     ]
 }
