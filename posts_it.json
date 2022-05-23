@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Segnatevi le date dei Community Day della prossima stagione!",
+            "link": "https://pokemongolive.com/it/post/cd-savethedate-s7/",
+            "date": "23 maggio 2022"
+        },
+        {
             "title": "Nuove funzionalità social e aggiornamenti per i raid di persona",
             "link": "https://pokemongolive.com/it/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
             "date": "19 maggio 2022"
@@ -148,11 +153,6 @@
             "title": "L'evento Giungla Ombrosa di Pokémon GO avrà come protagonisti Cottonee, Fomantis e Tapu Lele, oltre a un weekend di incontri nei parchi e molto altro!",
             "link": "https://pokemongolive.com/it/post/lush-jungle-event/",
             "date": "17 marzo 2022"
-        },
-        {
-            "title": "Durante l'evento del Festival dei colori, Oricorio farà il suo debutto sfavillante in Pokémon GO!",
-            "link": "https://pokemongolive.com/it/post/festivalofcolors-2022/",
-            "date": "10 marzo 2022"
         }
     ]
 }
