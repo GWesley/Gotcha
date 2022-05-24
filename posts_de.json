@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Der Ticketverkauf für das Pokémon GO Fest in Seattle hat begonnen!",
+            "link": "https://pokemongolive.com/de/post/gofest2022-seattle-tickets/",
+            "date": "24. Mai 2022"
+        },
+        {
             "title": "Greift nach den Sternen bei der GO-Kampftag: Sternenstaub-Überraschung",
             "link": "https://pokemongolive.com/de/post/go-battle-day-mega-stardust-surprise/",
             "date": "23. Mai 2022"
@@ -148,11 +153,6 @@
             "title": "Content im April: Community Day, Kapu-Toro in Raid-Kämpfen, Umweltwoche und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/april-2022-content-update/",
             "date": "25. März 2022"
-        },
-        {
-            "title": "Community Day im April 2022: Velursi",
-            "link": "https://pokemongolive.com/de/post/communityday-april22-stufful/",
-            "date": "23. März 2022"
         }
     ]
 }
