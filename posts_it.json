@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "I biglietti per il Pokémon GO Fest di Seattle sono ora in vendita!",
+            "link": "https://pokemongolive.com/it/post/gofest2022-seattle-tickets/",
+            "date": "24 maggio 2022"
+        },
+        {
             "title": "Puntate alle stelle durante la Giornata Lotte GO: sorpresa di polvere di stelle",
             "link": "https://pokemongolive.com/it/post/go-battle-day-mega-stardust-surprise/",
             "date": "23 maggio 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day di aprile 2022: Stufful",
             "link": "https://pokemongolive.com/it/post/communityday-april22-stufful/",
             "date": "23 marzo 2022"
-        },
-        {
-            "title": "Grazie per questo fantastico Community Day dal vivo!",
-            "link": "https://pokemongolive.com/it/post/irl-community-day-march-2022-recap/",
-            "date": "18 marzo 2022"
         }
     ]
 }
