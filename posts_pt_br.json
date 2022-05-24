@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Os ingressos para o Pokémon GO Fest: Seattle já estão à venda!",
+            "link": "https://pokemongolive.com/pt_br/post/gofest2022-seattle-tickets/",
+            "date": "24 de maio de 2022"
+        },
+        {
             "title": "Atire nas estrelas durante o dia de Batalhas GO: surpresa de Poeira Estelar",
             "link": "https://pokemongolive.com/pt_br/post/go-battle-day-mega-stardust-surprise/",
             "date": "23 de maio de 2022"
@@ -148,11 +153,6 @@
             "title": "Atualização de conteúdo de abril: o Dia Comunitário de abril, Tapu Bulu em reides, Semana da sustentabilidade e muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/april-2022-content-update/",
             "date": "25 de março de 2022"
-        },
-        {
-            "title": "Dia Comunitário de abril de 2022: Stufful",
-            "link": "https://pokemongolive.com/pt_br/post/communityday-april22-stufful/",
-            "date": "23 de março de 2022"
         }
     ]
 }
