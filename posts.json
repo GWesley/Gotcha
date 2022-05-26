@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Fest 2022—additional details revealed!",
+            "link": "https://pokemongolive.com/en/post/pokemongofest2022-update/",
+            "date": "May 26, 2022"
+        },
+        {
             "title": "Tickets to Pokémon GO Fest: Seattle are on sale now!",
             "link": "https://pokemongolive.com/en/post/gofest2022-seattle-tickets/",
             "date": "May 24, 2022"
@@ -148,11 +153,6 @@
             "title": "April Community Day meetups are coming to select cities worldwide",
             "link": "https://pokemongolive.com/en/post/community-day-meetup-april-2022/",
             "date": "April 5, 2022"
-        },
-        {
-            "title": "Salandit, Salazzle, and more debut during the All-Hands Rocket Retreat event",
-            "link": "https://pokemongolive.com/en/post/team-go-rocket-takeover-rocket-retreat/",
-            "date": "April 2, 2022"
         }
     ]
 }
