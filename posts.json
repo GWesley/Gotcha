@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Season of GO",
+            "link": "https://pokemongolive.com/en/post/season-of-go-2022/",
+            "date": "May 26, 2022"
+        },
+        {
             "title": "GO Battle League: Season 11 Update",
             "link": "https://pokemongolive.com/en/post/gobattleleague-season11/",
             "date": "May 26, 2022"
@@ -148,11 +153,6 @@
             "title": "Avatar items inspired by Team Skull",
             "link": "https://pokemongolive.com/en/post/team-skull-avatar-items/",
             "date": "April 11, 2022"
-        },
-        {
-            "title": "Pokémon GO Safari Zone: Seville — Additional details revealed",
-            "link": "https://pokemongolive.com/en/post/safari-zone-seville-2022-update/",
-            "date": "April 7, 2022"
         }
     ]
 }
