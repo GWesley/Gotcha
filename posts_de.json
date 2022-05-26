@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Weitere Details zum Pokémon GO Fest 2022 enthüllt",
+            "link": "https://pokemongolive.com/de/post/pokemongofest2022-update/",
+            "date": "26. Mai 2022"
+        },
+        {
             "title": "Der Ticketverkauf für das Pokémon GO Fest in Seattle hat begonnen!",
             "link": "https://pokemongolive.com/de/post/gofest2022-seattle-tickets/",
             "date": "24. Mai 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day Classic: Hoch lebe Hydropi!",
             "link": "https://pokemongolive.com/de/post/community-day-classic-mudkip-april-2022/",
             "date": "28. März 2022"
-        },
-        {
-            "title": "Content im April: Community Day, Kapu-Toro in Raid-Kämpfen, Umweltwoche und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/april-2022-content-update/",
-            "date": "25. März 2022"
         }
     ]
 }
