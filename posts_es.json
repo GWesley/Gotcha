@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Fest 2022: ¡más detalles disponibles!",
+            "link": "https://pokemongolive.com/es/post/pokemongofest2022-update/",
+            "date": "26 de mayo de 2022"
+        },
+        {
             "title": "¡Ya están a la venta las entradas para el Pokémon GO Fest: Seattle!",
             "link": "https://pokemongolive.com/es/post/gofest2022-seattle-tickets/",
             "date": "24 de mayo de 2022"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad clásico: recuerdos de Mudkip",
             "link": "https://pokemongolive.com/es/post/community-day-classic-mudkip-april-2022/",
             "date": "28 de marzo de 2022"
-        },
-        {
-            "title": "Actualización de contenido de abril: Día de la Comunidad de abril, Tapu Bulu en incursiones, Semana de la Sostenibilidad ¡y mucho más!",
-            "link": "https://pokemongolive.com/es/post/april-2022-content-update/",
-            "date": "25 de marzo de 2022"
         }
     ]
 }
