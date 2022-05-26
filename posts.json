@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "GO Battle League: Season 11 Update",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-season11/",
+            "date": "May 26, 2022"
+        },
+        {
+            "title": "June Content Update: Pokémon GO Fest 2022, Season of GO, Mewtwo returns to raids, and more!",
+            "link": "https://pokemongolive.com/en/post/june-2022-content-update/",
+            "date": "May 26, 2022"
+        },
+        {
             "title": "Pokémon GO Fest 2022—additional details revealed!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2022-update/",
             "date": "May 26, 2022"
@@ -143,16 +153,6 @@
             "title": "Pokémon GO Safari Zone: Seville — Additional details revealed",
             "link": "https://pokemongolive.com/en/post/safari-zone-seville-2022-update/",
             "date": "April 7, 2022"
-        },
-        {
-            "title": "Spring into Spring with Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/egg-citing-spring-surprise-2022/",
-            "date": "April 6, 2022"
-        },
-        {
-            "title": "April Community Day meetups are coming to select cities worldwide",
-            "link": "https://pokemongolive.com/en/post/community-day-meetup-april-2022/",
-            "date": "April 5, 2022"
         }
     ]
 }
