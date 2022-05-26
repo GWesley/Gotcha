@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Saison GO",
+            "link": "https://pokemongolive.com/fr/post/season-of-go-2022/",
+            "date": "26 mai 2022"
+        },
+        {
             "title": "Mise à jour de la saison 11 de la Ligue de Combat GO",
             "link": "https://pokemongolive.com/fr/post/gobattleleague-season11/",
             "date": "26 mai 2022"
@@ -148,11 +153,6 @@
             "title": "Tritox, Malamandre et bien d’autres font leurs débuts lors de l’événement « Offensive Team GO Rocket : repos général »",
             "link": "https://pokemongolive.com/fr/post/team-go-rocket-takeover-rocket-retreat/",
             "date": "2 avril 2022"
-        },
-        {
-            "title": "Poissuspens... d’avril 2022 : Anomalie en vue",
-            "link": "https://pokemongolive.com/fr/post/april-fools-2022/",
-            "date": "31 mars 2022"
         }
     ]
 }
