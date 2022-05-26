@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ecco a voi nuovi dettagli sul Pokémon GO Fest 2022!",
+            "link": "https://pokemongolive.com/it/post/pokemongofest2022-update/",
+            "date": "26 maggio 2022"
+        },
+        {
             "title": "I biglietti per il Pokémon GO Fest di Seattle sono ora in vendita!",
             "link": "https://pokemongolive.com/it/post/gofest2022-seattle-tickets/",
             "date": "24 maggio 2022"
@@ -148,11 +153,6 @@
             "title": "Contenuti di aprile aggiornati: Community Day di aprile, Tapu Bulu nei raid, settimana della sostenibilità e molto altro!",
             "link": "https://pokemongolive.com/it/post/april-2022-content-update/",
             "date": "25 marzo 2022"
-        },
-        {
-            "title": "Community Day di aprile 2022: Stufful",
-            "link": "https://pokemongolive.com/it/post/communityday-april22-stufful/",
-            "date": "23 marzo 2022"
         }
     ]
 }
