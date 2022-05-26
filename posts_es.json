@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Temporada de GO",
+            "link": "https://pokemongolive.com/es/post/season-of-go-2022/",
+            "date": "26 de mayo de 2022"
+        },
+        {
             "title": "Novedades sobre la Liga Combates GO: Temporada 11",
             "link": "https://pokemongolive.com/es/post/gobattleleague-season11/",
             "date": "26 de mayo de 2022"
@@ -148,11 +153,6 @@
             "title": "Salandit, Salazzle y otros harán su debut durante el evento Retiro Rocket para todos",
             "link": "https://pokemongolive.com/es/post/team-go-rocket-takeover-rocket-retreat/",
             "date": "2 de abril de 2022"
-        },
-        {
-            "title": "Día de las bromas de abril 2022: Venir, no viene nada normal",
-            "link": "https://pokemongolive.com/es/post/april-fools-2022/",
-            "date": "31 de marzo de 2022"
         }
     ]
 }
