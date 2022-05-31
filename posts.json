@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Get ready for summer with Pokémon GO Fest 2022’s Ultra Unlocks!",
+            "link": "https://pokemongolive.com/en/post/pokemon-go-fest-2022-ultra-unlocks/",
+            "date": "May 31, 2022"
+        },
+        {
             "title": "Season of GO",
             "link": "https://pokemongolive.com/en/post/season-of-go-2022/",
             "date": "May 26, 2022"
@@ -148,11 +153,6 @@
             "title": "Sustainability Week 2022: Cherubi, Oranguru, Timed Research, and more!",
             "link": "https://pokemongolive.com/en/post/sustainability-week-2022/",
             "date": "April 14, 2022"
-        },
-        {
-            "title": "Avatar items inspired by Team Skull",
-            "link": "https://pokemongolive.com/en/post/team-skull-avatar-items/",
-            "date": "April 11, 2022"
         }
     ]
 }
