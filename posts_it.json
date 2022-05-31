@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Settimana dell'avventura di Pokémon GO 2022: debutto di nuovi Pokémon e un segreto \"Ultra\"",
+            "link": "https://pokemongolive.com/it/post/adventure-week-2022/",
+            "date": "31 maggio 2022"
+        },
+        {
             "title": "Preparatevi all'estate con gli sblocchi dell'ultrabonus del Pokémon GO Fest 2022!",
             "link": "https://pokemongolive.com/it/post/pokemon-go-fest-2022-ultra-unlocks/",
             "date": "31 maggio 2022"
@@ -148,11 +153,6 @@
             "title": "Gli incontri in occasione del Community Day stanno per iniziare in alcune città del mondo",
             "link": "https://pokemongolive.com/it/post/community-day-meetup-april-2022/",
             "date": "5 aprile 2022"
-        },
-        {
-            "title": "Salandit, Salazzle e altri debutteranno durante l'evento Vacanza in stile Team Rocket",
-            "link": "https://pokemongolive.com/it/post/team-go-rocket-takeover-rocket-retreat/",
-            "date": "2 aprile 2022"
         }
     ]
 }
