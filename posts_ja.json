@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「Pokémon GO Fest 2022」のウルトラアンロックで熱い夏を迎えよう！",
+            "link": "https://pokemongolive.com/ja/post/pokemon-go-fest-2022-ultra-unlocks/",
+            "date": "2022年5月31日"
+        },
+        {
             "title": "「シーズンオブGO」",
             "link": "https://pokemongolive.com/ja/post/season-of-go-2022/",
             "date": "2022年5月26日"
@@ -17,6 +22,11 @@
         {
             "title": "6月の最新情報：「Pokémon GO Fest 2022」、「シーズンオブGO」、レイドバトルに「ミュウツー」が登場など、6月も盛りだくさんです！",
             "link": "https://pokemongolive.com/ja/post/june-2022-content-update/",
+            "date": "2022年5月26日"
+        },
+        {
+            "title": "「Pokémon GO Fest 2022」の追加情報をお知らせします！",
+            "link": "https://pokemongolive.com/ja/post/pokemongofest2022-update/",
             "date": "2022年5月26日"
         },
         {
@@ -143,16 +153,6 @@
             "title": "「Pokémon GO Fest 2022」開催決定！",
             "link": "https://pokemongolive.com/ja/post/gofest2022-savethedate/",
             "date": "2022年3月31日"
-        },
-        {
-            "title": "「『Pokémon GO』 パートナーリサーチ」のご案内！",
-            "link": "https://pokemongolive.com/ja/post/202203partnerresearch-jp/",
-            "date": "2022年3月29日"
-        },
-        {
-            "title": "コミュニティ・デイ（復刻）：「ミズゴロウ」が再び大量発生！",
-            "link": "https://pokemongolive.com/ja/post/community-day-classic-mudkip-april-2022/",
-            "date": "2022年3月28日"
         }
     ]
 }
