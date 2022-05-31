@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Semaine Aventure 2022 de Pokémon GO : de nouvelles arrivées de Pokémon et un « Ultra » secret",
+            "link": "https://pokemongolive.com/fr/post/adventure-week-2022/",
+            "date": "31 mai 2022"
+        },
+        {
             "title": "L'été arrive avec les Ultra Bonus du Pokémon GO Fest 2022 !",
             "link": "https://pokemongolive.com/fr/post/pokemon-go-fest-2022-ultra-unlocks/",
             "date": "31 mai 2022"
@@ -148,11 +153,6 @@
             "title": "Fleurissez avec le printemps avec Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/egg-citing-spring-surprise-2022/",
             "date": "6 avril 2022"
-        },
-        {
-            "title": "Les rencontres de la Journée Communauté arrivent dans certaines villes du monde.",
-            "link": "https://pokemongolive.com/fr/post/community-day-meetup-april-2022/",
-            "date": "5 avril 2022"
         }
     ]
 }
