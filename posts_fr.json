@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L'été arrive avec les Ultra Bonus du Pokémon GO Fest 2022 !",
+            "link": "https://pokemongolive.com/fr/post/pokemon-go-fest-2022-ultra-unlocks/",
+            "date": "31 mai 2022"
+        },
+        {
             "title": "Saison GO",
             "link": "https://pokemongolive.com/fr/post/season-of-go-2022/",
             "date": "26 mai 2022"
@@ -148,11 +153,6 @@
             "title": "Les rencontres de la Journée Communauté arrivent dans certaines villes du monde.",
             "link": "https://pokemongolive.com/fr/post/community-day-meetup-april-2022/",
             "date": "5 avril 2022"
-        },
-        {
-            "title": "Tritox, Malamandre et bien d’autres font leurs débuts lors de l’événement « Offensive Team GO Rocket : repos général »",
-            "link": "https://pokemongolive.com/fr/post/team-go-rocket-takeover-rocket-retreat/",
-            "date": "2 avril 2022"
         }
     ]
 }
