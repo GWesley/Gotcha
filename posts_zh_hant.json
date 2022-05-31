@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "跟著「Pokémon GO Fest 2022」的究極解鎖一起迎接盛夏！",
+            "link": "https://pokemongolive.com/zh_hant/post/pokemon-go-fest-2022-ultra-unlocks/",
+            "date": "2022年5月31日"
+        },
+        {
             "title": "Season of GO",
             "link": "https://pokemongolive.com/zh_hant/post/season-of-go-2022/",
             "date": "2022年5月26日"
@@ -17,6 +22,11 @@
         {
             "title": "6月更新內容：Pokémon GO Fest 2022、「GO的季節」、超夢回歸團體戰，以及更多精彩內容！",
             "link": "https://pokemongolive.com/zh_hant/post/june-2022-content-update/",
+            "date": "2022年5月26日"
+        },
+        {
+            "title": "Pokémon GO Fest 2022——揭露更多細節！",
+            "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2022-update/",
             "date": "2022年5月26日"
         },
         {
@@ -53,6 +63,11 @@
             "title": "在阿羅拉小拳石社群日盡情享受見面會和額外獎勵！",
             "link": "https://pokemongolive.com/zh_hant/post/irl-community-day-may-2022/",
             "date": "2022年5月11日"
+        },
+        {
+            "title": "「Pokémon GO Fest 2022：札幌」入場券現正熱賣中！",
+            "link": "https://pokemongolive.com/zh_hant/post/gofest2022-sapporo-tickets/",
+            "date": "2022年5月10日"
         },
         {
             "title": "Pokémon GO潑水節在2022年再次舉辦。圍著頭巾的拉普拉斯、滴蛛、和滴蛛霸將首次亮相！",
@@ -138,21 +153,6 @@
             "title": "經典社群日：「水躍魚」即將回歸！",
             "link": "https://pokemongolive.com/zh_hant/post/community-day-classic-mudkip-april-2022/",
             "date": "2022年3月28日"
-        },
-        {
-            "title": "4月內容更新：社群日、卡璞・哞哞團體戰、永續發展週，還有更多內容！",
-            "link": "https://pokemongolive.com/zh_hant/post/april-2022-content-update/",
-            "date": "2022年3月25日"
-        },
-        {
-            "title": "2022年4月社群日：童偶熊",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-april22-stufful/",
-            "date": "2022年3月23日"
-        },
-        {
-            "title": "Pokémon GO「樹蔭叢林」活動要來了！木棉球、偽螳草、卡璞・蝶蝶、週末公園聚焦時刻、以及更多內容都在這裡等著你喔！",
-            "link": "https://pokemongolive.com/zh_hant/post/lush-jungle-event/",
-            "date": "2022年3月17日"
         }
     ]
 }
