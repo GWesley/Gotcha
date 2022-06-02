@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』 パートナーリサーチ」のご案内！",
+            "link": "https://pokemongolive.com/ja/post/202206partnerresearch-jp/",
+            "date": "2022年6月1日"
+        },
+        {
             "title": "『Pokémon GO』の「アドベンチャーウィーク2022」：新しいポケモンが登場、ウルトラ級のサプライズも！",
             "link": "https://pokemongolive.com/ja/post/adventure-week-2022/",
             "date": "2022年5月31日"
@@ -85,6 +90,11 @@
             "date": "2022年5月9日"
         },
         {
+            "title": "「Pokémon GO Fest: Berlin」のチケットは現在発売中です！",
+            "link": "https://pokemongolive.com/ja/post/gofest2022-berlin-tickets/",
+            "date": "2022年5月5日"
+        },
+        {
             "title": "5月のイベント最新情報：5月の「コミュニティ・デイ」、レイドバトルに「カプ・レヒレ」、「大いなるメガシンカ」など！",
             "link": "https://pokemongolive.com/ja/post/may-2022-content-update/",
             "date": "2022年4月29日"
@@ -143,16 +153,6 @@
             "title": "『Pokémon GO』で春の訪れを感じましょう！",
             "link": "https://pokemongolive.com/ja/post/egg-citing-spring-surprise-2022/",
             "date": "2022年4月6日"
-        },
-        {
-            "title": "「GOロケット団占拠」イベントで「ヤトウモリ」「エンニュート」が初登場",
-            "link": "https://pokemongolive.com/ja/post/team-go-rocket-takeover-rocket-retreat/",
-            "date": "2022年4月2日"
-        },
-        {
-            "title": "エイプリルフール2022：「メタモン」があちこちに出現",
-            "link": "https://pokemongolive.com/ja/post/april-fools-2022/",
-            "date": "2022年3月31日"
         }
     ]
 }
