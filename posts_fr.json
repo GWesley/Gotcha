@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mise à jour « Pokémon GO Fest 2022 » - Zéroïd fait son apparition !",
+            "link": "https://pokemongolive.com/fr/post/gofest-2022-nihilego/",
+            "date": "4 juin 2022"
+        },
+        {
             "title": "Semaine Aventure 2022 de Pokémon GO : de nouvelles arrivées de Pokémon et un « Ultra » secret",
             "link": "https://pokemongolive.com/fr/post/adventure-week-2022/",
             "date": "31 mai 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Zone Safari : Séville - Indications complémentaires",
             "link": "https://pokemongolive.com/fr/post/safari-zone-seville-2022-update/",
             "date": "7 avril 2022"
-        },
-        {
-            "title": "Fleurissez avec le printemps avec Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/egg-citing-spring-surprise-2022/",
-            "date": "6 avril 2022"
         }
     ]
 }
