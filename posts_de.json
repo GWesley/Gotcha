@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Update zum Pokémon GO Fest 2022: Anego erscheint!",
+            "link": "https://pokemongolive.com/de/post/gofest-2022-nihilego/",
+            "date": "4. Juni 2022"
+        },
+        {
             "title": "Abenteuerwoche 2022 in Pokémon GO: Neue Pokémon-Debüts und ein Ultrageheimnis",
             "link": "https://pokemongolive.com/de/post/adventure-week-2022/",
             "date": "31. Mai 2022"
@@ -148,11 +153,6 @@
             "title": "Weitere Details zur Pokémon GO-Safari-Zone in Sevilla",
             "link": "https://pokemongolive.com/de/post/safari-zone-seville-2022-update/",
             "date": "7. April 2022"
-        },
-        {
-            "title": "Hüpft in den Frühling mit Pokémon GO!",
-            "link": "https://pokemongolive.com/de/post/egg-citing-spring-surprise-2022/",
-            "date": "6. April 2022"
         }
     ]
 }
