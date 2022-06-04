@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Fest 2022 update - Nihilego emerges!",
+            "link": "https://pokemongolive.com/en/post/gofest-2022-nihilego/",
+            "date": "June 4, 2022"
+        },
+        {
             "title": "Pokémon GO Adventure Week 2022: Pokémon debuts and mysterious secrets",
             "link": "https://pokemongolive.com/en/post/adventure-week-2022/",
             "date": "May 31, 2022"
@@ -148,11 +153,6 @@
             "title": "Win a trip to Hawaii in celebration of Pokémon GO’s Stufful Community Day during the Season of Alola!",
             "link": "https://pokemongolive.com/en/post/stufful-alola-sweepstakes/",
             "date": "April 18, 2022"
-        },
-        {
-            "title": "Collect a special postcard during Pokémon GO Community Day and get special postcards in select cities in the Asia-Pacific region",
-            "link": "https://pokemongolive.com/en/post/irl-community-day-april-2022/",
-            "date": "April 15, 2022"
         }
     ]
 }
