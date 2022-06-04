@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "อัปเดต Pokémon GO Fest 2022 - อุทซึรอยด์ปรากฏตัว!",
+            "link": "https://pokemongolive.com/th/post/gofest-2022-nihilego/",
+            "date": "4 มิถุนายน 2565"
+        },
+        {
             "title": "สัปดาห์แห่งการผจญภัย Pokémon GO 2022: เปิดตัวโปเกมอนใหม่และความลับ \"อัลตร้า\"",
             "link": "https://pokemongolive.com/th/post/adventure-week-2022/",
             "date": "31 พฤษภาคม 2565"
@@ -80,6 +85,11 @@
             "date": "9 พฤษภาคม 2565"
         },
         {
+            "title": "ตั๋ว Pokémon GO Fest: เบอร์ลินวางจำหน่ายแล้ว!",
+            "link": "https://pokemongolive.com/th/post/gofest2022-berlin-tickets/",
+            "date": "5 พฤษภาคม 2565"
+        },
+        {
             "title": "อัปเดตเนื้อหาเดือนพฤษภาคม: คอมมิวนิตี้เดย์พฤษภาคม, คาปู เรฮิเรในการตีบอส, ช่วงเวลาเมก้า และอีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/may-2022-content-update/",
             "date": "29 เมษายน 2565"
@@ -143,16 +153,6 @@
             "title": "มาสัมผัสฤดูใบไม้ผลิไปกับ Pokémon GO!",
             "link": "https://pokemongolive.com/th/post/egg-citing-spring-surprise-2022/",
             "date": "6 เมษายน 2565"
-        },
-        {
-            "title": "ยาโทโมริ, เอ็นนิวท์ และโปเกมอนอีกมากมายจะเปิดตัวระหว่างอีเวนต์ \"การบุกของแก๊งโกร็อกเกต\"",
-            "link": "https://pokemongolive.com/th/post/team-go-rocket-takeover-rocket-retreat/",
-            "date": "2 เมษายน 2565"
-        },
-        {
-            "title": "เมษาหน้าโง่ 2022: เมตามอนมากันให้พรึ่บ",
-            "link": "https://pokemongolive.com/th/post/april-fools-2022/",
-            "date": "31 มีนาคม 2565"
         }
     ]
 }
