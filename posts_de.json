@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wir feiern die Erweiterung Pokémon GO des Pokémon-Sammelkartenspiels mit unserem Crossover-Event mit Pokémon-Sammelkartenspiel!",
+            "link": "https://pokemongolive.com/de/post/Pokémon-TCG-Crossover-Event/",
+            "date": "6. Juni 2022"
+        },
+        {
             "title": "Abenteuerwoche 2022 in Pokémon GO: Neue Pokémon-Debüts und ein Ultrageheimnis",
             "link": "https://pokemongolive.com/de/post/adventure-week-2022/",
             "date": "5. Juni 2022"
@@ -148,11 +153,6 @@
             "title": "Von Team Skull inspirierte Avatar-Artikel",
             "link": "https://pokemongolive.com/de/post/team-skull-avatar-items/",
             "date": "11. April 2022"
-        },
-        {
-            "title": "Weitere Details zur Pokémon GO-Safari-Zone in Sevilla",
-            "link": "https://pokemongolive.com/de/post/safari-zone-seville-2022-update/",
-            "date": "7. April 2022"
         }
     ]
 }
