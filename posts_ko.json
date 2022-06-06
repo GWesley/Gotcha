@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "포켓몬 카드 게임 강화 확장팩 「Pokémon GO」 출시를 기념하여 포켓몬 카드 콜라보 이벤트 개최!",
+            "link": "https://pokemongolive.com/ko/post/Pokémon-TCG-Crossover-Event/",
+            "date": "2022년 6월 6일"
+        },
+        {
             "title": "\"Pokémon GO\" 어드벤처위크 2022: 새로운 포켓몬 등장, 울트라급 서프라이즈도!",
             "link": "https://pokemongolive.com/ko/post/adventure-week-2022/",
             "date": "2022년 6월 5일"
@@ -147,11 +152,6 @@
         {
             "title": "만우절2022: \"메타몽\"이 여기저기 출현",
             "link": "https://pokemongolive.com/ko/post/april-fools-2022/",
-            "date": "2022년 3월 31일"
-        },
-        {
-            "title": "“Pokémon GO Fest 2022” 개최 결정!",
-            "link": "https://pokemongolive.com/ko/post/gofest2022-savethedate/",
             "date": "2022년 3월 31일"
         }
     ]
