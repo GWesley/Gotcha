@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Celebra la expansión Pokémon GO de JCC Pokémon con nuestro Evento Fusión de JCC Pokémon!",
+            "link": "https://pokemongolive.com/es/post/Pokémon-TCG-Crossover-Event/",
+            "date": "6 de junio de 2022"
+        },
+        {
             "title": "Semana de Aventuras 2022 de Pokémon GO: nuevos debuts de Pokémon y un Ultrasecreto",
             "link": "https://pokemongolive.com/es/post/adventure-week-2022/",
             "date": "5 de junio de 2022"
@@ -148,11 +153,6 @@
             "title": "Objetos para el avatar inspirados en el Team Skull",
             "link": "https://pokemongolive.com/es/post/team-skull-avatar-items/",
             "date": "11 de abril de 2022"
-        },
-        {
-            "title": "Zona Safari de Pokémon GO: Sevilla - Más detalles revelados",
-            "link": "https://pokemongolive.com/es/post/safari-zone-seville-2022-update/",
-            "date": "7 de abril de 2022"
         }
     ]
 }
