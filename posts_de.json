@@ -5,8 +5,13 @@
     ],
     "posts": [
         {
+            "title": "Wir danken euch für ein erfolgreiches Pokémon GO Fest 2022!",
+            "link": "https://pokemongolive.com/de/post/pokemongofest2022-recap/",
+            "date": "8. Juni 2022"
+        },
+        {
             "title": "Wir feiern die Erweiterung Pokémon GO des Pokémon-Sammelkartenspiels mit unserem Crossover-Event mit Pokémon-Sammelkartenspiel!",
-            "link": "https://pokemongolive.com/de/post/Pokémon-TCG-Crossover-Event/",
+            "link": "https://pokemongolive.com/de/post/Pokemon-TCG-Crossover-Event/",
             "date": "6. Juni 2022"
         },
         {
@@ -148,11 +153,6 @@
             "title": "Umweltwoche 2022: Kikugi, Kommandutan, Befristete Forschung und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/sustainability-week-2022/",
             "date": "14. April 2022"
-        },
-        {
-            "title": "Von Team Skull inspirierte Avatar-Artikel",
-            "link": "https://pokemongolive.com/de/post/team-skull-avatar-items/",
-            "date": "11. April 2022"
         }
     ]
 }
