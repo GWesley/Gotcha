@@ -5,8 +5,13 @@
     ],
     "posts": [
         {
+            "title": "Il Pokémon GO Fest 2022 è stato un successo. Grazie a tutti!",
+            "link": "https://pokemongolive.com/it/post/pokemongofest2022-recap/",
+            "date": "8 giugno 2022"
+        },
+        {
             "title": "Festeggiate l’espansione Pokémon GO del GCC Pokémon con il nostro evento di collaborazione con il GCC Pokémon!",
-            "link": "https://pokemongolive.com/it/post/Pokémon-TCG-Crossover-Event/",
+            "link": "https://pokemongolive.com/it/post/Pokemon-TCG-Crossover-Event/",
             "date": "6 giugno 2022"
         },
         {
@@ -148,11 +153,6 @@
             "title": "Oggetti avatar ispirati al Team Skull",
             "link": "https://pokemongolive.com/it/post/team-skull-avatar-items/",
             "date": "11 aprile 2022"
-        },
-        {
-            "title": "Ulteriori informazioni sulla Zona Safari di Pokémon GO di Siviglia",
-            "link": "https://pokemongolive.com/it/post/safari-zone-seville-2022-update/",
-            "date": "7 aprile 2022"
         }
     ]
 }
