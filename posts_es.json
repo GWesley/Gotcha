@@ -5,8 +5,13 @@
     ],
     "posts": [
         {
+            "title": "Muchísimas gracias: ¡el Pokémon GO Fest 2022 ha sido todo un éxito!",
+            "link": "https://pokemongolive.com/es/post/pokemongofest2022-recap/",
+            "date": "8 de junio de 2022"
+        },
+        {
             "title": "¡Celebra la expansión Pokémon GO de JCC Pokémon con nuestro Evento Fusión de JCC Pokémon!",
-            "link": "https://pokemongolive.com/es/post/Pokémon-TCG-Crossover-Event/",
+            "link": "https://pokemongolive.com/es/post/Pokemon-TCG-Crossover-Event/",
             "date": "6 de junio de 2022"
         },
         {
@@ -148,11 +153,6 @@
             "title": "Semana de la Sostenibilidad de 2022: Cherubi, Oranguru, Investigación temporal ¡y mucho más!",
             "link": "https://pokemongolive.com/es/post/sustainability-week-2022/",
             "date": "14 de abril de 2022"
-        },
-        {
-            "title": "Objetos para el avatar inspirados en el Team Skull",
-            "link": "https://pokemongolive.com/es/post/team-skull-avatar-items/",
-            "date": "11 de abril de 2022"
         }
     ]
 }
