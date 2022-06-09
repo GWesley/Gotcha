@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day im Juni 2022: Kapuno",
+            "link": "https://pokemongolive.com/de/post/communityday-june-2022-deino/",
+            "date": "9. Juni 2022"
+        },
+        {
             "title": "Wir danken euch für ein erfolgreiches Pokémon GO Fest 2022!",
             "link": "https://pokemongolive.com/de/post/pokemongofest2022-recap/",
             "date": "8. Juni 2022"
@@ -148,11 +153,6 @@
             "title": "Gewinnt anlässlich des Community Day mit Velursi und der Alola-Jahreszeit in Pokémon GO eine Reise nach Hawaii!",
             "link": "https://pokemongolive.com/de/post/stufful-alola-sweepstakes/",
             "date": "18. April 2022"
-        },
-        {
-            "title": "Umweltwoche 2022: Kikugi, Kommandutan, Befristete Forschung und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/sustainability-week-2022/",
-            "date": "14. April 2022"
         }
     ]
 }
