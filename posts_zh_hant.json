@@ -5,8 +5,13 @@
     ],
     "posts": [
         {
+            "title": "2022年6月社群日：單首龍",
+            "link": "https://pokemongolive.com/zh_hant/post/communityday-june-2022-deino/",
+            "date": "2022年6月9日"
+        },
+        {
             "title": "寶可夢卡牌聯名活動！歡慶《寶可夢集換式卡牌：強化擴充包 「Pokémon GO」》上市！",
-            "link": "https://pokemongolive.com/zh_hant/post/Pokémon-TCG-Crossover-Event/",
+            "link": "https://pokemongolive.com/zh_hant/post/Pokemon-TCG-Crossover-Event/",
             "date": "2022年6月6日"
         },
         {
@@ -148,11 +153,6 @@
             "title": "骷髏隊主題服飾",
             "link": "https://pokemongolive.com/zh_hant/post/team-skull-avatar-items/",
             "date": "2022年4月11日"
-        },
-        {
-            "title": "春意漸濃的Pokémon GO！",
-            "link": "https://pokemongolive.com/zh_hant/post/egg-citing-spring-surprise-2022/",
-            "date": "2022年4月6日"
         }
     ]
 }
