@@ -5,8 +5,13 @@
     ],
     "posts": [
         {
+            "title": "คอมมิวนิตี้เดย์มิถุนายน 2022: โมโนซึ",
+            "link": "https://pokemongolive.com/th/post/communityday-june-2022-deino/",
+            "date": "9 มิถุนายน 2565"
+        },
+        {
             "title": "ฉลอง \"การ์ดชุดเสริมเพิ่มความแกร่ง Pokémon GO\" จากโปเกมอนเทรดดิ้งการ์ดเกมด้วยอีเวนต์โคลาโบโปเกมอนการ์ดของเรา!",
-            "link": "https://pokemongolive.com/th/post/Pokémon-TCG-Crossover-Event/",
+            "link": "https://pokemongolive.com/th/post/Pokemon-TCG-Crossover-Event/",
             "date": "6 มิถุนายน 2565"
         },
         {
@@ -148,11 +153,6 @@
             "title": "ไอเทมอวาตาร์ที่ได้รับแรงบันดาลใจจากแก๊งสกัล",
             "link": "https://pokemongolive.com/th/post/team-skull-avatar-items/",
             "date": "11 เมษายน 2565"
-        },
-        {
-            "title": "​​อีเวนต์ “เมษาชุ่มฉ่ำ” ฉลองเทศกาลปีใหม่ไทย",
-            "link": "https://pokemongolive.com/th/post/2022songkran/",
-            "date": "7 เมษายน 2565"
         }
     ]
 }
