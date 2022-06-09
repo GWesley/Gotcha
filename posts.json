@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "June 2022 Community Day: Deino",
+            "link": "https://pokemongolive.com/en/post/communityday-june-2022-deino/",
+            "date": "June 9, 2022"
+        },
+        {
             "title": "We’re grateful for a successful Pokémon GO Fest 2022!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2022-recap/",
             "date": "June 8, 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Dev Diaries: a mega update to Mega Evolution in Pokémon GO is coming soon!",
             "link": "https://pokemongolive.com/en/post/mega-evolution-2022-update-soft/",
-            "date": "April 25, 2022"
-        },
-        {
-            "title": "May 2022 Community Day: Alolan Geodude",
-            "link": "https://pokemongolive.com/en/post/communityday-may-2022-alolan-geodude/",
             "date": "April 25, 2022"
         }
     ]
