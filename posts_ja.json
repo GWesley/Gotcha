@@ -5,8 +5,13 @@
     ],
     "posts": [
         {
+            "title": "2022年6月の「コミュニティ・デイ」：「モノズ」",
+            "link": "https://pokemongolive.com/ja/post/communityday-june-2022-deino/",
+            "date": "2022年6月9日"
+        },
+        {
             "title": "強化拡張パック「Pokémon GO」の発売を記念して、「ポケモンカードゲームコラボイベント」を開催！",
-            "link": "https://pokemongolive.com/ja/post/Pokémon-TCG-Crossover-Event/",
+            "link": "https://pokemongolive.com/ja/post/Pokemon-TCG-Crossover-Event/",
             "date": "2022年6月6日"
         },
         {
@@ -148,11 +153,6 @@
             "title": "サステナビリティウィーク2022：「チェリンボ」や「ヤレユータン」、タイムチャレンジなどが登場！",
             "link": "https://pokemongolive.com/ja/post/sustainability-week-2022/",
             "date": "2022年4月14日"
-        },
-        {
-            "title": "スカル団がテーマの着せ替えアイテム",
-            "link": "https://pokemongolive.com/ja/post/team-skull-avatar-items/",
-            "date": "2022年4月11日"
         }
     ]
 }
