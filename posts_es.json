@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de la Comunidad de junio de 2022: Deino",
+            "link": "https://pokemongolive.com/es/post/communityday-june-2022-deino/",
+            "date": "9 de junio de 2022"
+        },
+        {
             "title": "Muchísimas gracias: ¡el Pokémon GO Fest 2022 ha sido todo un éxito!",
             "link": "https://pokemongolive.com/es/post/pokemongofest2022-recap/",
             "date": "8 de junio de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Gana un viaje a Hawái para celebrar el Día de la Comunidad de Stufful durante la Temporada de Alola de Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/stufful-alola-sweepstakes/",
             "date": "18 de abril de 2022"
-        },
-        {
-            "title": "Semana de la Sostenibilidad de 2022: Cherubi, Oranguru, Investigación temporal ¡y mucho más!",
-            "link": "https://pokemongolive.com/es/post/sustainability-week-2022/",
-            "date": "14 de abril de 2022"
         }
     ]
 }
