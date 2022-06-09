@@ -5,8 +5,13 @@
     ],
     "posts": [
         {
+            "title": "2022년 6월 커뮤니티 데이: \"모노두\"",
+            "link": "https://pokemongolive.com/ko/post/communityday-june-2022-deino/",
+            "date": "2022년 6월 9일"
+        },
+        {
             "title": "포켓몬 카드 게임 강화 확장팩 「Pokémon GO」 출시를 기념하여 포켓몬 카드 콜라보 이벤트 개최!",
-            "link": "https://pokemongolive.com/ko/post/Pokémon-TCG-Crossover-Event/",
+            "link": "https://pokemongolive.com/ko/post/Pokemon-TCG-Crossover-Event/",
             "date": "2022년 6월 6일"
         },
         {
@@ -148,11 +153,6 @@
             "title": "\"GO로켓단 점거\" 이벤트에서 \"야도뇽\", \"염뉴트\", 다양한 포켓몬이 첫 등장",
             "link": "https://pokemongolive.com/ko/post/team-go-rocket-takeover-rocket-retreat/",
             "date": "2022년 4월 2일"
-        },
-        {
-            "title": "만우절2022: \"메타몽\"이 여기저기 출현",
-            "link": "https://pokemongolive.com/ko/post/april-fools-2022/",
-            "date": "2022년 3월 31일"
         }
     ]
 }
