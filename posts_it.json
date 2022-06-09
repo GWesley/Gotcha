@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day di giugno 2022: Deino",
+            "link": "https://pokemongolive.com/it/post/communityday-june-2022-deino/",
+            "date": "9 giugno 2022"
+        },
+        {
             "title": "Il Pokémon GO Fest 2022 è stato un successo. Grazie a tutti!",
             "link": "https://pokemongolive.com/it/post/pokemongofest2022-recap/",
             "date": "8 giugno 2022"
@@ -148,11 +153,6 @@
             "title": "Settimana della sostenibilità 2022: Cherubi, Oranguru, ricerca a tempo e tanto altro!",
             "link": "https://pokemongolive.com/it/post/sustainability-week-2022/",
             "date": "14 aprile 2022"
-        },
-        {
-            "title": "Oggetti avatar ispirati al Team Skull",
-            "link": "https://pokemongolive.com/it/post/team-skull-avatar-items/",
-            "date": "11 aprile 2022"
         }
     ]
 }
