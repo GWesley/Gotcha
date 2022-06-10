@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Os encontros do Dia Comunitário de junho estão chegando a cidades selecionadas!",
+            "link": "https://pokemongolive.com/pt_br/post/irl-community-day-june-2022/",
+            "date": "10 de junho de 2022"
+        },
+        {
             "title": "Dia Comunitário: Deino de junho de 2022",
             "link": "https://pokemongolive.com/pt_br/post/communityday-june-2022-deino/",
             "date": "9 de junho de 2022"
@@ -148,11 +153,6 @@
             "title": "Dia Comunitário de maio de 2022: Geodude de Alola",
             "link": "https://pokemongolive.com/pt_br/post/communityday-may-2022-alolan-geodude/",
             "date": "25 de abril de 2022"
-        },
-        {
-            "title": "Sete dicas para o Dia Comunitário de Stufful",
-            "link": "https://pokemongolive.com/pt_br/post/7-tips-stufful-community-day/",
-            "date": "21 de abril de 2022"
         }
     ]
 }
