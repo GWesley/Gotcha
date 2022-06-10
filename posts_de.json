@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Am Community Day im Juni finden wieder Meetups in ausgewählten Städten statt!",
+            "link": "https://pokemongolive.com/de/post/irl-community-day-june-2022/",
+            "date": "10. Juni 2022"
+        },
+        {
             "title": "Wir sind auf Instagram! 🇩🇪",
             "link": "https://pokemongolive.com/de/post/instagram-germany-launch/",
             "date": "10. Juni 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day im Mai 2022: Alola-Kleinstein",
             "link": "https://pokemongolive.com/de/post/communityday-may-2022-alolan-geodude/",
             "date": "25. April 2022"
-        },
-        {
-            "title": "Sieben Tipps für den Community Day mit Velursi",
-            "link": "https://pokemongolive.com/de/post/7-tips-stufful-community-day/",
-            "date": "21. April 2022"
         }
     ]
 }
