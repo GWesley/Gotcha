@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Gli incontri in occasione del Community Day di giugno stanno per iniziare in alcune città!",
+            "link": "https://pokemongolive.com/it/post/irl-community-day-june-2022/",
+            "date": "10 giugno 2022"
+        },
+        {
             "title": "Community Day di giugno 2022: Deino",
             "link": "https://pokemongolive.com/it/post/communityday-june-2022-deino/",
             "date": "9 giugno 2022"
@@ -148,11 +153,6 @@
             "title": "Sette consigli per il Community Day di Stufful",
             "link": "https://pokemongolive.com/it/post/7-tips-stufful-community-day/",
             "date": "21 aprile 2022"
-        },
-        {
-            "title": "Settimana della sostenibilità 2022: Cherubi, Oranguru, ricerca a tempo e tanto altro!",
-            "link": "https://pokemongolive.com/it/post/sustainability-week-2022/",
-            "date": "14 aprile 2022"
         }
     ]
 }
