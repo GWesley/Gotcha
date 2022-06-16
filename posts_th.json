@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "งานนัดพบคอมมิวนิตี้เดย์มิถุนายนกำลังมาที่เมืองที่คัดเลือกไว้ทั่วโลกแล้ว!",
+            "link": "https://pokemongolive.com/th/post/irl-community-day-june-2022/",
+            "date": "10 มิถุนายน 2565"
+        },
+        {
             "title": "คอมมิวนิตี้เดย์มิถุนายน 2022: โมโนซึ",
             "link": "https://pokemongolive.com/th/post/communityday-june-2022-deino/",
             "date": "9 มิถุนายน 2565"
+        },
+        {
+            "title": "ขอบคุณสำหรับความสำเร็จของ Pokémon GO Fest 2022!",
+            "link": "https://pokemongolive.com/th/post/pokemongofest2022-recap/",
+            "date": "8 มิถุนายน 2565"
         },
         {
             "title": "ฉลอง \"การ์ดชุดเสริมเพิ่มความแกร่ง Pokémon GO\" จากโปเกมอนเทรดดิ้งการ์ดเกมด้วยอีเวนต์โคลาโบโปเกมอนการ์ดของเรา!",
@@ -143,16 +153,6 @@
             "title": "มาร่วมคอมมิวนิตี้เดย์ Pokémon GO และรับโปสการ์ดพิเศษในเมืองที่ได้รับการคัดเลือกในภูมิภาคเอเซียแปซิฟิก",
             "link": "https://pokemongolive.com/th/post/irl-community-day-april-2022/",
             "date": "15 เมษายน 2565"
-        },
-        {
-            "title": "สัปดาห์แห่งความยั่งยืน 2022: เชอรินโบ, ยาเรยูตัน, งานวิจัยแบบจำกัดเวลา และอีกมากมาย!",
-            "link": "https://pokemongolive.com/th/post/sustainability-week-2022/",
-            "date": "14 เมษายน 2565"
-        },
-        {
-            "title": "ไอเทมอวาตาร์ที่ได้รับแรงบันดาลใจจากแก๊งสกัล",
-            "link": "https://pokemongolive.com/th/post/team-skull-avatar-items/",
-            "date": "11 เมษายน 2565"
         }
     ]
 }
