@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "6月は一部の都市で「コミュニティ・デイ」でリアルの交流を楽しみましょう！",
+            "link": "https://pokemongolive.com/ja/post/irl-community-day-june-2022/",
+            "date": "2022年6月10日"
+        },
+        {
             "title": "2022年6月の「コミュニティ・デイ」：「モノズ」",
             "link": "https://pokemongolive.com/ja/post/communityday-june-2022-deino/",
             "date": "2022年6月9日"
+        },
+        {
+            "title": "グローバルイベントの「Pokémon GO Fest 2022」が大盛況のうちに終了しました！",
+            "link": "https://pokemongolive.com/ja/post/pokemongofest2022-recap/",
+            "date": "2022年6月8日"
         },
         {
             "title": "強化拡張パック「Pokémon GO」の発売を記念して、「ポケモンカードゲームコラボイベント」を開催！",
@@ -143,16 +153,6 @@
             "title": "「ヌイコグマ」の「コミュニティ・デイ」をもっと楽しむ7つのヒント",
             "link": "https://pokemongolive.com/ja/post/7-tips-stufful-community-day/",
             "date": "2022年4月21日"
-        },
-        {
-            "title": "「ヌイコグマ」のコミュニティ・デイ記念に、抽選でハワイ旅行をプレゼント！",
-            "link": "https://pokemongolive.com/ja/post/stufful-alola-sweepstakes/",
-            "date": "2022年4月18日"
-        },
-        {
-            "title": "サステナビリティウィーク2022：「チェリンボ」や「ヤレユータン」、タイムチャレンジなどが登場！",
-            "link": "https://pokemongolive.com/ja/post/sustainability-week-2022/",
-            "date": "2022年4月14日"
         }
     ]
 }
