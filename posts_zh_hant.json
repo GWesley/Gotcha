@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "6月社群日現場活動即將在特定城市登場！",
+            "link": "https://pokemongolive.com/zh_hant/post/irl-community-day-june-2022/",
+            "date": "2022年6月10日"
+        },
+        {
             "title": "2022年6月社群日：單首龍",
             "link": "https://pokemongolive.com/zh_hant/post/communityday-june-2022-deino/",
             "date": "2022年6月9日"
+        },
+        {
+            "title": "感謝各位讓我們有個成功的Pokémon GO Fest 2022！",
+            "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2022-recap/",
+            "date": "2022年6月8日"
         },
         {
             "title": "寶可夢卡牌聯名活動！歡慶《寶可夢集換式卡牌：強化擴充包 「Pokémon GO」》上市！",
@@ -143,16 +153,6 @@
             "title": "歡迎參加Pokémon GO社群日，在亞太地區特定城市中領取特別明信片",
             "link": "https://pokemongolive.com/zh_hant/post/irl-community-day-april-2022/",
             "date": "2022年4月15日"
-        },
-        {
-            "title": "永續發展週2022：櫻花寶、智揮猩、限時調查，還有更多內容！",
-            "link": "https://pokemongolive.com/zh_hant/post/sustainability-week-2022/",
-            "date": "2022年4月14日"
-        },
-        {
-            "title": "骷髏隊主題服飾",
-            "link": "https://pokemongolive.com/zh_hant/post/team-skull-avatar-items/",
-            "date": "2022年4月11日"
         }
     ]
 }
