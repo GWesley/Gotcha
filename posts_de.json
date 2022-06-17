@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Trefft euch mit namhaften Trainern in Berlin und Seattle!",
+            "link": "https://pokemongolive.com/de/post/notable-trainer-meet-greet-go-fest-2022/",
+            "date": "17. Juni 2022"
+        },
+        {
             "title": "Am Community Day im Juni finden wieder Meetups in ausgewählten Städten statt!",
             "link": "https://pokemongolive.com/de/post/irl-community-day-june-2022/",
             "date": "10. Juni 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Entwicklertagebuch: Ein Mega-Update für die Mega-Entwicklung in Pokémon GO steht bevor!",
             "link": "https://pokemongolive.com/de/post/mega-evolution-2022-update-soft/",
-            "date": "25. April 2022"
-        },
-        {
-            "title": "Community Day im Mai 2022: Alola-Kleinstein",
-            "link": "https://pokemongolive.com/de/post/communityday-may-2022-alolan-geodude/",
             "date": "25. April 2022"
         }
     ]
