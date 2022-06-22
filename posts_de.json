@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ultrabestien erscheinen bei den Live-Events zum Pokémon GO Fest!",
+            "link": "https://pokemongolive.com/de/post/ultrabeasts-join-gofest-irl/",
+            "date": "22. Juni 2022"
+        },
+        {
             "title": "Trefft euch mit namhaften Trainern in Berlin und Seattle!",
             "link": "https://pokemongolive.com/de/post/notable-trainer-meet-greet-go-fest-2022/",
             "date": "17. Juni 2022"
@@ -148,11 +153,6 @@
             "title": "Vielen Dank für einen weiteren aufregenden Community Day im April!",
             "link": "https://pokemongolive.com/de/post/community-day-meetup-april-2022-recap/",
             "date": "27. April 2022"
-        },
-        {
-            "title": "Entwicklertagebuch: Ein Mega-Update für die Mega-Entwicklung in Pokémon GO steht bevor!",
-            "link": "https://pokemongolive.com/de/post/mega-evolution-2022-update-soft/",
-            "date": "25. April 2022"
         }
     ]
 }
