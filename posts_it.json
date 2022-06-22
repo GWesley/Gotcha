@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ai festeggiamenti per il Pokémon GO Fest che si svolgono in tutto il mondo sono in arrivo le Ultracreature!",
+            "link": "https://pokemongolive.com/it/post/ultrabeasts-join-gofest-irl/",
+            "date": "22 giugno 2022"
+        },
+        {
             "title": "Gli incontri in occasione del Community Day di giugno stanno per iniziare in alcune città!",
             "link": "https://pokemongolive.com/it/post/irl-community-day-june-2022/",
             "date": "10 giugno 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day di maggio 2022: Geodude di Alola",
             "link": "https://pokemongolive.com/it/post/communityday-may-2022-alolan-geodude/",
             "date": "25 aprile 2022"
-        },
-        {
-            "title": "Sette consigli per il Community Day di Stufful",
-            "link": "https://pokemongolive.com/it/post/7-tips-stufful-community-day/",
-            "date": "21 aprile 2022"
         }
     ]
 }
