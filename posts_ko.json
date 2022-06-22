@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "세계 각 도시의 \"Pokémon GO Fest 2022\" 현장 이벤트에 울트라비스트가 나타났습니다!",
+            "link": "https://pokemongolive.com/ko/post/ultrabeasts-join-gofest-irl/",
+            "date": "2022년 6월 22일"
+        },
+        {
             "title": "2022년 6월 커뮤니티 데이: \"모노두\"",
             "link": "https://pokemongolive.com/ko/post/communityday-june-2022-deino/",
             "date": "2022년 6월 9일"
+        },
+        {
+            "title": "글로벌 이벤트 \"Pokémon GO Fest 2022\"를 성공적으로 종료했습니다!",
+            "link": "https://pokemongolive.com/ko/post/pokemongofest2022-recap/",
+            "date": "2022년 6월 8일"
         },
         {
             "title": "포켓몬 카드 게임 강화 확장팩 「Pokémon GO」 출시를 기념하여 포켓몬 카드 콜라보 이벤트 개최!",
@@ -143,16 +153,6 @@
             "title": "스컬단을 모티브로 한 의상 아이템",
             "link": "https://pokemongolive.com/ko/post/team-skull-avatar-items/",
             "date": "2022년 4월 11일"
-        },
-        {
-            "title": "\"Pokémon GO\"와 함께 봄 속으로!",
-            "link": "https://pokemongolive.com/ko/post/egg-citing-spring-surprise-2022/",
-            "date": "2022년 4월 6일"
-        },
-        {
-            "title": "\"GO로켓단 점거\" 이벤트에서 \"야도뇽\", \"염뉴트\", 다양한 포켓몬이 첫 등장",
-            "link": "https://pokemongolive.com/ko/post/team-go-rocket-takeover-rocket-retreat/",
-            "date": "2022년 4월 2일"
         }
     ]
 }
