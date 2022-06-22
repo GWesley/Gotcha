@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les Ultra-Chimères s'invitent aux festivités du Pokémon GO Fest dans le monde entier !",
+            "link": "https://pokemongolive.com/fr/post/ultrabeasts-join-gofest-irl/",
+            "date": "22 juin 2022"
+        },
+        {
             "title": "Les rencontres de la Journée Communauté de juin arrivent dans certaines villes !",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-june-2022/",
             "date": "10 juin 2022"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté mai 2022 : Racaillou d'Alola",
             "link": "https://pokemongolive.com/fr/post/communityday-may-2022-alolan-geodude/",
             "date": "25 avril 2022"
-        },
-        {
-            "title": "Sept conseils pour la Journée Communauté de Nounourson",
-            "link": "https://pokemongolive.com/fr/post/7-tips-stufful-community-day/",
-            "date": "21 avril 2022"
         }
     ]
 }
