@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "July 2022 Community Day: Starly",
+            "link": "https://pokemongolive.com/en/post/communityday-july-2022-starly/",
+            "date": "June 27, 2022"
+        },
+        {
             "title": "Ultra Beasts are coming to Pokémon GO Fest celebrations around the world!",
             "link": "https://pokemongolive.com/en/post/ultrabeasts-join-gofest-irl/",
             "date": "June 22, 2022"
@@ -148,11 +153,6 @@
             "title": "Mega Latios and Mega Latias soar to new heights in the global Pokémon Air Adventures event",
             "link": "https://pokemongolive.com/en/post/air-adventures-global/",
             "date": "April 29, 2022"
-        },
-        {
-            "title": "Celebrate the Global launch of the Mega Evolution update with Mega Kangaskhan and a Mega Moment event!",
-            "link": "https://pokemongolive.com/en/post/mega-evolution-2022-update-global/",
-            "date": "April 28, 2022"
         }
     ]
 }
