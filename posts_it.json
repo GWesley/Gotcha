@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "In arrivo a luglio: Community Day di luglio; Articuno, Zapdos e Moltres tornano nei raid; evento dell'anniversario di Pokémon GO e tanto altro!",
+            "link": "https://pokemongolive.com/it/post/july-2022-content-update/",
+            "date": "28 giugno 2022"
+        },
+        {
             "title": "Community Day di luglio 2022: Starly",
             "link": "https://pokemongolive.com/it/post/communityday-july-2022-starly/",
             "date": "27 giugno 2022"
@@ -148,11 +153,6 @@
             "title": "Grazie per aver contribuito a rendere fantastico il Community Day di aprile!",
             "link": "https://pokemongolive.com/it/post/community-day-meetup-april-2022-recap/",
             "date": "27 aprile 2022"
-        },
-        {
-            "title": "Diario degli sviluppatori: è in arrivo un mega aggiornamento relativo alla megaevoluzione in Pokémon GO!",
-            "link": "https://pokemongolive.com/it/post/mega-evolution-2022-update-soft/",
-            "date": "25 aprile 2022"
         }
     ]
 }
