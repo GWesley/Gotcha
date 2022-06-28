@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mise à jour du contenu de juillet : Journée Communauté de juillet ; Artikodin, Électhor et Sulfura reviennent dans les raids ; événement anniversaire de Pokémon GO ; et bien plus !",
+            "link": "https://pokemongolive.com/fr/post/july-2022-content-update/",
+            "date": "28 juin 2022"
+        },
+        {
             "title": "Journée Communauté de juillet 2022 : Étourmi",
             "link": "https://pokemongolive.com/fr/post/communityday-july-2022-starly/",
             "date": "27 juin 2022"
@@ -148,11 +153,6 @@
             "title": "Merci infiniment pour cette superbe Journée Communauté d’avril !",
             "link": "https://pokemongolive.com/fr/post/community-day-meetup-april-2022-recap/",
             "date": "27 avril 2022"
-        },
-        {
-            "title": "Journaux de développeurs : Une méga mise à jour des Méga-Évolutions dans Pokémon GO arrive bientôt !",
-            "link": "https://pokemongolive.com/fr/post/mega-evolution-2022-update-soft/",
-            "date": "25 avril 2022"
         }
     ]
 }
