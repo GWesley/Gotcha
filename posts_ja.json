@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "7月の最新情報：7月の「コミュニティ・デイ」、「フリーザー」「サンダー」「ファイヤー」がレイドバトルに再登場、『Pokémon GO』の6周年記念イベントなど！",
+            "link": "https://pokemongolive.com/ja/post/july-2022-content-update/",
+            "date": "2022年6月28日"
+        },
+        {
             "title": "2022年7月の「コミュニティ・デイ」：「ムックル」",
             "link": "https://pokemongolive.com/ja/post/communityday-july-2022-starly/",
             "date": "2022年6月27日"
@@ -148,11 +153,6 @@
             "title": "「Pokémon GO Fest 2022」：「シェイミ」が登場！チケットの詳細や、イベントの内容をお伝えします。",
             "link": "https://pokemongolive.com/ja/post/gofest2022-tickets-shaymin-fulldetails/",
             "date": "2022年4月27日"
-        },
-        {
-            "title": "ディベロッパーダイアリー：『Pokémon GO』メガシンカの最新アップデートがまもなく登場！",
-            "link": "https://pokemongolive.com/ja/post/mega-evolution-2022-update-soft/",
-            "date": "2022年4月25日"
         }
     ]
 }
