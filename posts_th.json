@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "อัปเดตเนื้อหาเดือนกรกฎาคม: คอมมิวนิตี้เดย์กรกฎาคม; ฟรีเซอร์, ธันเดอร์ และไฟเยอร์หวนกลับมาสู่การตีบอส; อีเวนต์ฉลองครบรอบ Pokémon GO; และอีกมากมาย!",
+            "link": "https://pokemongolive.com/th/post/july-2022-content-update/",
+            "date": "28 มิถุนายน 2565"
+        },
+        {
             "title": "คอมมิวนิตี้เดย์กรกฎาคม 2022: มุคคูรุ",
             "link": "https://pokemongolive.com/th/post/communityday-july-2022-starly/",
             "date": "27 มิถุนายน 2565"
@@ -148,11 +153,6 @@
             "title": "คอมมิวนิตี้เดย์พฤษภาคม 2022: อิชิซึบูเตะ (ร่างอโลลา)",
             "link": "https://pokemongolive.com/th/post/communityday-may-2022-alolan-geodude/",
             "date": "25 เมษายน 2565"
-        },
-        {
-            "title": "เคล็ดลับเจ็ดข้อสำหรับคอมมิวนิตี้เดย์นุยโคกุมะ",
-            "link": "https://pokemongolive.com/th/post/7-tips-stufful-community-day/",
-            "date": "21 เมษายน 2565"
         }
     ]
 }
