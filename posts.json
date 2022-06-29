@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Celebrate six years of Pokémon GO during the Anniversary Event and Battle Weekend!",
+            "link": "https://pokemongolive.com/en/post/anniversary-event-battle-weekend-2022/",
+            "date": "June 29, 2022"
+        },
+        {
+            "title": "Pokémon GO Fest: Berlin—Global Challenge and Ultra Unlock!",
+            "link": "https://pokemongolive.com/en/post/gofest2022-berlin-ultraunlockchallenge/",
+            "date": "June 29, 2022"
+        },
+        {
             "title": "July Content Update: July Community Day; Articuno, Zapdos, and Moltres return to raids; Pokémon GO Anniversary Event; and more!",
             "link": "https://pokemongolive.com/en/post/july-2022-content-update/",
             "date": "June 28, 2022"
@@ -143,16 +153,6 @@
             "title": "Pokémon GO’s Water Festival returns for 2022 and brings the debuts of Lapras wearing a scarf, Dewpider, and Araquanid",
             "link": "https://pokemongolive.com/en/post/water-festival-2022/",
             "date": "May 9, 2022"
-        },
-        {
-            "title": "Tickets to Pokémon GO Fest: Berlin are on sale now!",
-            "link": "https://pokemongolive.com/en/post/gofest2022-berlin-tickets/",
-            "date": "May 5, 2022"
-        },
-        {
-            "title": "May Content Update: May Community Day, Tapu Fini in raids, A Mega Moment, and more!",
-            "link": "https://pokemongolive.com/en/post/may-2022-content-update/",
-            "date": "April 29, 2022"
         }
     ]
 }
