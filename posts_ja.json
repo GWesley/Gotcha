@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "アニバーサリーイベントと「バトルウィークエンド」で『Pokémon GO』の6周年を祝おう！",
+            "link": "https://pokemongolive.com/ja/post/anniversary-event-battle-weekend-2022/",
+            "date": "2022年6月29日"
+        },
+        {
+            "title": "「Pokémon GO Fest 2022: Berlin」の「グローバルチャレンジ」と「ウルトラアンロック」についてお知らせします！",
+            "link": "https://pokemongolive.com/ja/post/gofest2022-berlin-ultraunlockchallenge/",
+            "date": "2022年6月29日"
+        },
+        {
             "title": "7月の最新情報：7月の「コミュニティ・デイ」、「フリーザー」「サンダー」「ファイヤー」がレイドバトルに再登場、『Pokémon GO』の6周年記念イベントなど！",
             "link": "https://pokemongolive.com/ja/post/july-2022-content-update/",
             "date": "2022年6月28日"
@@ -143,16 +153,6 @@
             "title": "「そらとぶピカチュウプロジェクト」コラボイベントで、「メガラティオス」と「メガラティアス」が登場",
             "link": "https://pokemongolive.com/ja/post/air-adventures-global/",
             "date": "2022年4月29日"
-        },
-        {
-            "title": "メガシンカのアップデートが世界中で導入されました！「メガガルーラ」が登場するほか、「大いなるメガシンカ」イベントが開催されます！",
-            "link": "https://pokemongolive.com/ja/post/mega-evolution-2022-update-global/",
-            "date": "2022年4月28日"
-        },
-        {
-            "title": "「Pokémon GO Fest 2022」：「シェイミ」が登場！チケットの詳細や、イベントの内容をお伝えします。",
-            "link": "https://pokemongolive.com/ja/post/gofest2022-tickets-shaymin-fulldetails/",
-            "date": "2022年4月27日"
         }
     ]
 }
