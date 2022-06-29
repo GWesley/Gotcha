@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "¡Celebra los seis años de Pokémon GO en el Evento de Aniversario y el Fin de Semana de Combates!",
+            "link": "https://pokemongolive.com/es/post/anniversary-event-battle-weekend-2022/",
+            "date": "29 de junio de 2022"
+        },
+        {
+            "title": "Pokémon GO Fest: Berlín—¡desafío global y ultrabonus!",
+            "link": "https://pokemongolive.com/es/post/gofest2022-berlin-ultraunlockchallenge/",
+            "date": "29 de junio de 2022"
+        },
+        {
             "title": "Actualización sobre el contenido de julio: Día de la Comunidad de julio; Articuno, Zapdos y Moltres vuelven a las incursiones, evento por el aniversario de Pokémon GO, ¡y mucho más!",
             "link": "https://pokemongolive.com/es/post/july-2022-content-update/",
             "date": "28 de junio de 2022"
@@ -143,16 +153,6 @@
             "title": "¡Celebra el lanzamiento global de la nueva megaevolución con Mega-Kangaskhan y un megamomento!",
             "link": "https://pokemongolive.com/es/post/mega-evolution-2022-update-global/",
             "date": "28 de abril de 2022"
-        },
-        {
-            "title": "Pokémon GO Fest 2022: entradas, Shaymin y todos los detalles del evento",
-            "link": "https://pokemongolive.com/es/post/gofest2022-tickets-shaymin-fulldetails/",
-            "date": "27 de abril de 2022"
-        },
-        {
-            "title": "¡Gracias por un maravilloso Día de la Comunidad de abril!",
-            "link": "https://pokemongolive.com/es/post/community-day-meetup-april-2022-recap/",
-            "date": "27 de abril de 2022"
         }
     ]
 }
