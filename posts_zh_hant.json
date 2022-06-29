@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "加入週年慶活動和對戰週末，歡慶Pokémon GO六周年！",
+            "link": "https://pokemongolive.com/zh_hant/post/anniversary-event-battle-weekend-2022/",
+            "date": "2022年6月29日"
+        },
+        {
+            "title": "Pokémon GO Fest 2022: Berlin——全球大挑戰和究極解鎖！",
+            "link": "https://pokemongolive.com/zh_hant/post/gofest2022-berlin-ultraunlockchallenge/",
+            "date": "2022年6月29日"
+        },
+        {
             "title": "7月活動更新：7月社群日、急凍鳥、閃電鳥和火焰鳥回歸團體戰、Pokémon GO週年慶祝活動以及更多精彩內容！",
             "link": "https://pokemongolive.com/zh_hant/post/july-2022-content-update/",
             "date": "2022年6月28日"
@@ -143,16 +153,6 @@
             "title": "Pokémon GO Fest 2022：謝米登場！入場券詳細資訊以及琳瑯滿目的活動內容！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest2022-tickets-shaymin-fulldetails/",
             "date": "2022年4月27日"
-        },
-        {
-            "title": "開發團隊日記：敬請期待Pokémon GO超級進化的超級大更新！",
-            "link": "https://pokemongolive.com/zh_hant/post/mega-evolution-2022-update-soft/",
-            "date": "2022年4月25日"
-        },
-        {
-            "title": "2022年5月社群日：阿羅拉小拳石",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-may-2022-alolan-geodude/",
-            "date": "2022年4月25日"
         }
     ]
 }
