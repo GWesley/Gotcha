@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Wir feiern sechs Jahre Pokémon GO mit einem Jubiläums-Event und einem Kampfwochenende!",
+            "link": "https://pokemongolive.com/de/post/anniversary-event-battle-weekend-2022/",
+            "date": "29. Juni 2022"
+        },
+        {
+            "title": "Pokémon GO Fest: Berlin – Globale Herausforderung und Hyperbonus!",
+            "link": "https://pokemongolive.com/de/post/gofest2022-berlin-ultraunlockchallenge/",
+            "date": "29. Juni 2022"
+        },
+        {
             "title": "Content im Juli: Community Day, Rückkehr von Arktos, Zapdos und Lavados in Raid-Kämpfe, Event zum Jubiläum von Pokémon GO und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/july-2022-content-update/",
             "date": "28. Juni 2022"
@@ -143,16 +153,6 @@
             "title": "Content im Mai: Community Day, Kapu-Kime in Raid-Kämpfen, das Event \"Ein Mega-Moment\" und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/may-2022-content-update/",
             "date": "29. April 2022"
-        },
-        {
-            "title": "Mega-Latios und Mega-Latias steigen beim weltweiten Pokémon Luftabenteuer-Event in neue Höhen auf",
-            "link": "https://pokemongolive.com/de/post/air-adventures-global/",
-            "date": "29. April 2022"
-        },
-        {
-            "title": "Weltweite Einführung der überarbeiteten Mega-Entwicklung mit Mega-Kangama und dem Event \"Ein Mega-Moment\"",
-            "link": "https://pokemongolive.com/de/post/mega-evolution-2022-update-global/",
-            "date": "28. April 2022"
         }
     ]
 }
