@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "歡慶《Pokémon GO》6週年！",
+            "link": "https://pokemongolive.com/zh_hant/post/pgo-anniversary-2022/",
+            "date": "2022年7月5日"
+        },
+        {
             "title": "加入週年慶活動和對戰週末，歡慶Pokémon GO六周年！",
             "link": "https://pokemongolive.com/zh_hant/post/anniversary-event-battle-weekend-2022/",
             "date": "2022年6月29日"
@@ -148,11 +153,6 @@
             "title": "和超級袋獸還有超級時刻活動超級一起慶祝超級進化更新！",
             "link": "https://pokemongolive.com/zh_hant/post/mega-evolution-2022-update-global/",
             "date": "2022年4月28日"
-        },
-        {
-            "title": "Pokémon GO Fest 2022：謝米登場！入場券詳細資訊以及琳瑯滿目的活動內容！",
-            "link": "https://pokemongolive.com/zh_hant/post/gofest2022-tickets-shaymin-fulldetails/",
-            "date": "2022年4月27日"
         }
     ]
 }
