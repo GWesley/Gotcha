@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Buon sesto anniversario, Pokémon GO!",
+            "link": "https://pokemongolive.com/it/post/pgo-anniversary-2022/",
+            "date": "5 luglio 2022"
+        },
+        {
             "title": "Festeggiate i sei anni di Pokémon GO durante l'evento dell'anniversario e il weekend di lotta!",
             "link": "https://pokemongolive.com/it/post/anniversary-event-battle-weekend-2022/",
             "date": "29 giugno 2022"
@@ -148,11 +153,6 @@
             "title": "MegaLatios e MegaLatias volano verso nuovi orizzonti nell'evento globale Pokémon - Avventure aeree",
             "link": "https://pokemongolive.com/it/post/air-adventures-global/",
             "date": "29 aprile 2022"
-        },
-        {
-            "title": "Festeggiate il lancio a livello globale dell'aggiornamento relativo alla megaevoluzione con MegaKangaskhan e un megamomento!",
-            "link": "https://pokemongolive.com/it/post/mega-evolution-2022-update-global/",
-            "date": "28 aprile 2022"
         }
     ]
 }
