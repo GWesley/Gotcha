@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Alles Gute zum 6. Geburtstag, Pokémon GO!",
+            "link": "https://pokemongolive.com/de/post/pgo-anniversary-2022/",
+            "date": "5. Juli 2022"
+        },
+        {
             "title": "Wir feiern sechs Jahre Pokémon GO mit einem Jubiläums-Event und einem Kampfwochenende!",
             "link": "https://pokemongolive.com/de/post/anniversary-event-battle-weekend-2022/",
             "date": "29. Juni 2022"
@@ -148,11 +153,6 @@
             "title": "Der Ticketverkauf für das Pokémon GO Fest in Berlin hat begonnen!",
             "link": "https://pokemongolive.com/de/post/gofest2022-berlin-tickets/",
             "date": "5. Mai 2022"
-        },
-        {
-            "title": "Content im Mai: Community Day, Kapu-Kime in Raid-Kämpfen, das Event \"Ein Mega-Moment\" und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/may-2022-content-update/",
-            "date": "29. April 2022"
         }
     ]
 }
