@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Happy sixth anniversary, Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/pgo-anniversary-2022/",
+            "date": "July 5, 2022"
+        },
+        {
             "title": "Celebrate six years of Pokémon GO during the Anniversary Event and Battle Weekend!",
             "link": "https://pokemongolive.com/en/post/anniversary-event-battle-weekend-2022/",
             "date": "June 29, 2022"
@@ -148,11 +153,6 @@
             "title": "Tickets to Pokémon GO Fest: Sapporo are on sale now!",
             "link": "https://pokemongolive.com/en/post/gofest2022-sapporo-tickets/",
             "date": "May 10, 2022"
-        },
-        {
-            "title": "Pokémon GO’s Water Festival returns for 2022 and brings the debuts of Lapras wearing a scarf, Dewpider, and Araquanid",
-            "link": "https://pokemongolive.com/en/post/water-festival-2022/",
-            "date": "May 9, 2022"
         }
     ]
 }
