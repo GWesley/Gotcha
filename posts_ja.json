@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』の6周年を祝いましょう！",
+            "link": "https://pokemongolive.com/ja/post/pgo-anniversary-2022/",
+            "date": "2022年7月5日"
+        },
+        {
             "title": "アニバーサリーイベントと「バトルウィークエンド」で『Pokémon GO』の6周年を祝おう！",
             "link": "https://pokemongolive.com/ja/post/anniversary-event-battle-weekend-2022/",
             "date": "2022年6月29日"
@@ -147,11 +152,6 @@
         {
             "title": "5月のイベント最新情報：5月の「コミュニティ・デイ」、レイドバトルに「カプ・レヒレ」、「大いなるメガシンカ」など！",
             "link": "https://pokemongolive.com/ja/post/may-2022-content-update/",
-            "date": "2022年4月29日"
-        },
-        {
-            "title": "「そらとぶピカチュウプロジェクト」コラボイベントで、「メガラティオス」と「メガラティアス」が登場",
-            "link": "https://pokemongolive.com/ja/post/air-adventures-global/",
             "date": "2022年4月29日"
         }
     ]
