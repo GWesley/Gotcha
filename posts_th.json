@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "สุขสันต์ครบรอบ Pokémon GO ปีที่ 6!",
+            "link": "https://pokemongolive.com/th/post/pgo-anniversary-2022/",
+            "date": "5 กรกฎาคม 2565"
+        },
+        {
             "title": "ฉลองครบรอบหกปีของ Pokémon GO ในช่วงอีเวนต์ครบรอบและสุดสัปดาห์แห่งการแบตเทิล!",
             "link": "https://pokemongolive.com/th/post/anniversary-event-battle-weekend-2022/",
             "date": "29 มิถุนายน 2565"
@@ -148,11 +153,6 @@
             "title": "ฉลองการเปิดตัวทั่วโลกของการอัปเดตวิวัฒนาการเมก้าด้วยเมก้าการูราและอีเวนต์ช่วงเวลาเมก้า!",
             "link": "https://pokemongolive.com/th/post/mega-evolution-2022-update-global/",
             "date": "28 เมษายน 2565"
-        },
-        {
-            "title": "Pokémon GO Fest 2022: ตั๋ว, เชมิน และรายละเอียดอีเวนต์เต็ม ๆ",
-            "link": "https://pokemongolive.com/th/post/gofest2022-tickets-shaymin-fulldetails/",
-            "date": "27 เมษายน 2565"
         }
     ]
 }
