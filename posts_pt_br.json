@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Agradecemos a participação no Pokémon GO Fest: Berlim!",
+            "link": "https://pokemongolive.com/pt_br/post/gofest-2022-berlin-recap/",
+            "date": "6 de julho de 2022"
+        },
+        {
             "title": "Feliz aniversário de seis anos, Pokémon GO!",
             "link": "https://pokemongolive.com/pt_br/post/pgo-anniversary-2022/",
             "date": "5 de julho de 2022"
@@ -148,11 +153,6 @@
             "title": "O Festival Aquático do Pokémon GO retorna em 2022 com as estreias de Dewpider, Araquanid e Lapras de gravata",
             "link": "https://pokemongolive.com/pt_br/post/water-festival-2022/",
             "date": "9 de maio de 2022"
-        },
-        {
-            "title": "Os ingressos para o Pokémon GO Fest: Berlin já estão à venda!",
-            "link": "https://pokemongolive.com/pt_br/post/gofest2022-berlin-tickets/",
-            "date": "5 de maio de 2022"
         }
     ]
 }
