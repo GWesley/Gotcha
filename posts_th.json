@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ขอบคุณที่มา Pokémon GO Fest 2022: เบอร์ลิน!",
+            "link": "https://pokemongolive.com/th/post/gofest-2022-berlin-recap/",
+            "date": "6 กรกฎาคม 2565"
+        },
+        {
             "title": "สุขสันต์ครบรอบ Pokémon GO ปีที่ 6!",
             "link": "https://pokemongolive.com/th/post/pgo-anniversary-2022/",
             "date": "5 กรกฎาคม 2565"
@@ -148,11 +153,6 @@
             "title": "เมก้าลาทิโอสและเมก้าลาทิอาสทะยานสู่จุดสูงสุดในอีเวนต์ \"โปรเจ็คต์พิคาชูเหินฟ้า\" ทั่วโลก",
             "link": "https://pokemongolive.com/th/post/air-adventures-global/",
             "date": "29 เมษายน 2565"
-        },
-        {
-            "title": "ฉลองการเปิดตัวทั่วโลกของการอัปเดตวิวัฒนาการเมก้าด้วยเมก้าการูราและอีเวนต์ช่วงเวลาเมก้า!",
-            "link": "https://pokemongolive.com/th/post/mega-evolution-2022-update-global/",
-            "date": "28 เมษายน 2565"
         }
     ]
 }
