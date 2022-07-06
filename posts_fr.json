@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Merci pour votre participation au Festival Pokémon GO: Berlin!",
+            "link": "https://pokemongolive.com/fr/post/gofest-2022-berlin-recap/",
+            "date": "6 juillet 2022"
+        },
+        {
             "title": "Joyeux sixième anniversaire, Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/pgo-anniversary-2022/",
             "date": "5 juillet 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Mise à jour du contenu de mai : Journée Communauté, Tokopisco dans les Raids, Un Méga-moment, et plus encore !",
             "link": "https://pokemongolive.com/fr/post/may-2022-content-update/",
-            "date": "29 avril 2022"
-        },
-        {
-            "title": "Méga-Latios et Méga-Latias s’envolent vers de nouveaux sommets lors de l’événement mondial « Pokémon Air Adventures »",
-            "link": "https://pokemongolive.com/fr/post/air-adventures-global/",
             "date": "29 avril 2022"
         }
     ]
