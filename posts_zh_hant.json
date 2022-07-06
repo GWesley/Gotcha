@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "感謝各位參與Pokémon GO Fest 2022: Berlin！",
+            "link": "https://pokemongolive.com/zh_hant/post/gofest-2022-berlin-recap/",
+            "date": "2022年7月6日"
+        },
+        {
             "title": "歡慶《Pokémon GO》6週年！",
             "link": "https://pokemongolive.com/zh_hant/post/pgo-anniversary-2022/",
             "date": "2022年7月5日"
@@ -148,11 +153,6 @@
             "title": "超級拉帝歐斯和超級拉帝亞斯在全球飛翔皮卡丘計畫活動裡飛得更高更遠",
             "link": "https://pokemongolive.com/zh_hant/post/air-adventures-global/",
             "date": "2022年4月29日"
-        },
-        {
-            "title": "和超級袋獸還有超級時刻活動超級一起慶祝超級進化更新！",
-            "link": "https://pokemongolive.com/zh_hant/post/mega-evolution-2022-update-global/",
-            "date": "2022年4月28日"
         }
     ]
 }
