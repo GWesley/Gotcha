@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Vielen Dank für eure Teilnahme beim Pokémon GO Fest in Berlin!",
+            "link": "https://pokemongolive.com/de/post/gofest-2022-berlin-recap/",
+            "date": "6. Juli 2022"
+        },
+        {
             "title": "Alles Gute zum 6. Geburtstag, Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/pgo-anniversary-2022/",
             "date": "5. Juli 2022"
@@ -148,11 +153,6 @@
             "title": "Das Wasserfestival kehrt in Pokémon GO zurück und bringt 2022 die Debüts von Lapras mit Schal, Araqua und Aranestro",
             "link": "https://pokemongolive.com/de/post/water-festival-2022/",
             "date": "9. Mai 2022"
-        },
-        {
-            "title": "Der Ticketverkauf für das Pokémon GO Fest in Berlin hat begonnen!",
-            "link": "https://pokemongolive.com/de/post/gofest2022-berlin-tickets/",
-            "date": "5. Mai 2022"
         }
     ]
 }
