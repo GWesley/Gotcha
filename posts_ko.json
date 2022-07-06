@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO Fest 2022: Berlin\"에 참여해 주셔서 감사합니다!",
+            "link": "https://pokemongolive.com/ko/post/gofest-2022-berlin-recap/",
+            "date": "2022년 7월 6일"
+        },
+        {
             "title": "\"Pokémon GO\"가 6주년을 기념합시다!",
             "link": "https://pokemongolive.com/ko/post/pgo-anniversary-2022/",
             "date": "2022년 7월 5일"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest 2022: \"쉐이미\"가 등장! 티켓의 상세와 이벤트 내용 안내",
             "link": "https://pokemongolive.com/ko/post/gofest2022-tickets-shaymin-fulldetails/",
             "date": "2022년 4월 27일"
-        },
-        {
-            "title": "데펠로퍼 다이어리: \"Pokémon GO\"의 메가진화 최신 업데이트가 찾아옵니다!",
-            "link": "https://pokemongolive.com/ko/post/mega-evolution-2022-update-soft/",
-            "date": "2022년 4월 25일"
         }
     ]
 }
