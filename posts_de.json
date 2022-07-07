@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Entwicklertagebuch: Campfire",
+            "link": "https://pokemongolive.com/de/post/dev-diaries-introducing-campfire/",
+            "date": "7. Juli 2022"
+        },
+        {
             "title": "Vielen Dank für eure Teilnahme am Pokémon GO Fest in Berlin!",
             "link": "https://pokemongolive.com/de/post/gofest-2022-berlin-recap/",
             "date": "6. Juli 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Community Day-Meetups kommen in weltweit ausgewählte Städte",
             "link": "https://pokemongolive.com/de/post/irl-community-day-may-2022/",
             "date": "11. Mai 2022"
-        },
-        {
-            "title": "Das Wasserfestival kehrt in Pokémon GO zurück und bringt 2022 die Debüts von Lapras mit Schal, Araqua und Aranestro",
-            "link": "https://pokemongolive.com/de/post/water-festival-2022/",
-            "date": "9. Mai 2022"
         }
     ]
 }
