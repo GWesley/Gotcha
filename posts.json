@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Dev Diaries: Introducing Campfire!",
+            "link": "https://pokemongolive.com/en/post/dev-diaries-introducing-campfire/",
+            "date": "July 7, 2022"
+        },
+        {
             "title": "Thank you for coming to Pokémon GO Fest: Berlin!",
             "link": "https://pokemongolive.com/en/post/gofest-2022-berlin-recap/",
             "date": "July 6, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest 2022 T-shirts will be available to Trainers via Niantic Supply",
             "link": "https://pokemongolive.com/en/post/pokemongofest2022-shirt/",
             "date": "May 13, 2022"
-        },
-        {
-            "title": "May Community Day meetups are coming to select cities worldwide",
-            "link": "https://pokemongolive.com/en/post/irl-community-day-may-2022/",
-            "date": "May 11, 2022"
         }
     ]
 }
