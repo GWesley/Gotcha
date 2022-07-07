@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "開發團隊日記：隆重介紹Campfire！",
+            "link": "https://pokemongolive.com/zh_hant/post/dev-diaries-introducing-campfire/",
+            "date": "2022年7月7日"
+        },
+        {
             "title": "感謝各位參與Pokémon GO Fest 2022: Berlin！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest-2022-berlin-recap/",
             "date": "2022年7月6日"
@@ -147,11 +152,6 @@
         {
             "title": "5月更新內容：5月社群日、卡璞・鰭鰭降臨團體戰、超級時刻，以及更多內容！",
             "link": "https://pokemongolive.com/zh_hant/post/may-2022-content-update/",
-            "date": "2022年4月29日"
-        },
-        {
-            "title": "超級拉帝歐斯和超級拉帝亞斯在全球飛翔皮卡丘計畫活動裡飛得更高更遠",
-            "link": "https://pokemongolive.com/zh_hant/post/air-adventures-global/",
             "date": "2022年4月29日"
         }
     ]
