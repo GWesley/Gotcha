@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Diários de Desenvolvedores: Apresentando o Campfire!",
+            "link": "https://pokemongolive.com/pt_br/post/dev-diaries-introducing-campfire/",
+            "date": "7 de julho de 2022"
+        },
+        {
             "title": "Agradecemos a participação no Pokémon GO Fest: Berlim!",
             "link": "https://pokemongolive.com/pt_br/post/gofest-2022-berlin-recap/",
             "date": "6 de julho de 2022"
@@ -148,11 +153,6 @@
             "title": "Participem dos Encontros Presenciais durante o Dia Comunitário de Maio!",
             "link": "https://pokemongolive.com/pt_br/post/irl-community-day-may-2022/",
             "date": "11 de maio de 2022"
-        },
-        {
-            "title": "O Festival Aquático do Pokémon GO retorna em 2022 com as estreias de Dewpider, Araquanid e Lapras de gravata",
-            "link": "https://pokemongolive.com/pt_br/post/water-festival-2022/",
-            "date": "9 de maio de 2022"
         }
     ]
 }
