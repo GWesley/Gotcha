@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journaux de développeurs : Présentation de Campfire !",
+            "link": "https://pokemongolive.com/fr/post/dev-diaries-introducing-campfire/",
+            "date": "7 juillet 2022"
+        },
+        {
             "title": "Merci pour votre participation au Festival Pokémon GO: Berlin!",
             "link": "https://pokemongolive.com/fr/post/gofest-2022-berlin-recap/",
             "date": "6 juillet 2022"
@@ -148,11 +153,6 @@
             "title": "Les billets pour le « Pokémon Go Fest : Berlin » sont en vente !",
             "link": "https://pokemongolive.com/fr/post/gofest2022-berlin-tickets/",
             "date": "5 mai 2022"
-        },
-        {
-            "title": "Mise à jour du contenu de mai : Journée Communauté, Tokopisco dans les Raids, Un Méga-moment, et plus encore !",
-            "link": "https://pokemongolive.com/fr/post/may-2022-content-update/",
-            "date": "29 avril 2022"
         }
     ]
 }
