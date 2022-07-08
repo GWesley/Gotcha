@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Divertitevi con gli incontri del Community Day di luglio in città selezionate!",
+            "link": "https://pokemongolive.com/it/post/irl-community-day-july-2022/",
+            "date": "8 luglio 2022"
+        },
+        {
             "title": "Diario degli sviluppatori: presentazione di Campfire!",
             "link": "https://pokemongolive.com/it/post/dev-diaries-introducing-campfire/",
             "date": "7 luglio 2022"
@@ -148,11 +153,6 @@
             "title": "Il Festival dell’Acqua di Pokémon GO torna nel 2022 con il debutto di Lapras con una sciarpa, Dewpider e Araquanid",
             "link": "https://pokemongolive.com/it/post/water-festival-2022/",
             "date": "9 maggio 2022"
-        },
-        {
-            "title": "I biglietti per il Pokémon GO Fest di Berlino sono in vendita!",
-            "link": "https://pokemongolive.com/it/post/gofest2022-berlin-tickets/",
-            "date": "5 maggio 2022"
         }
     ]
 }
