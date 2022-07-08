@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Aproveitem os encontros do Dia Comunitário de julho em cidades selecionadas!",
+            "link": "https://pokemongolive.com/pt_br/post/irl-community-day-july-2022/",
+            "date": "8 de julho de 2022"
+        },
+        {
             "title": "Diários de Desenvolvedores: Apresentando o Campfire!",
             "link": "https://pokemongolive.com/pt_br/post/dev-diaries-introducing-campfire/",
             "date": "7 de julho de 2022"
@@ -148,11 +153,6 @@
             "title": "Agradecemos a vocês por criarem memórias na Zona de Safári do Pokémon Go em Sevilha!",
             "link": "https://pokemongolive.com/pt_br/post/safari-zone-seville-2022-recap/",
             "date": "17 de maio de 2022"
-        },
-        {
-            "title": "Participem dos Encontros Presenciais durante o Dia Comunitário de Maio!",
-            "link": "https://pokemongolive.com/pt_br/post/irl-community-day-may-2022/",
-            "date": "11 de maio de 2022"
         }
     ]
 }
