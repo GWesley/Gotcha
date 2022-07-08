@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Profitez des rencontres de la Journée Communauté de juillet dans les villes sélectionnées !",
+            "link": "https://pokemongolive.com/fr/post/irl-community-day-july-2022/",
+            "date": "8 juillet 2022"
+        },
+        {
             "title": "Journaux de développeurs : Présentation de Campfire !",
             "link": "https://pokemongolive.com/fr/post/dev-diaries-introducing-campfire/",
             "date": "7 juillet 2022"
@@ -148,11 +153,6 @@
             "title": "Le « Festival Aquatique » de Pokémon GO revient pour 2022 et donnera l’occasion à Lokhlass portant une écharpe, Araqua et Tarenbulle de faire leurs débuts.",
             "link": "https://pokemongolive.com/fr/post/water-festival-2022/",
             "date": "9 mai 2022"
-        },
-        {
-            "title": "Les billets pour le « Pokémon Go Fest : Berlin » sont en vente !",
-            "link": "https://pokemongolive.com/fr/post/gofest2022-berlin-tickets/",
-            "date": "5 mai 2022"
         }
     ]
 }
