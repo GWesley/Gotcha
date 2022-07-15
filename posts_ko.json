@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "한국어 커뮤니티를 위한 \"Pokémon GO\"한국 공식 Instagram이 개설되었습니다!",
+            "link": "https://pokemongolive.com/ko/post/instagram-korea-launch/",
+            "date": "2022년 7월 15일"
+        },
+        {
             "title": "데펠로퍼 다이어리: Campfire를 소개합니다!",
             "link": "https://pokemongolive.com/ko/post/dev-diaries-introducing-campfire/",
             "date": "2022년 7월 7일"
@@ -148,11 +153,6 @@
             "title": "하늘 나는 피카츄 프로젝트 콜라보 이벤트에서 \"메가라티오스\"와 \"메가라티아스\"가 등장",
             "link": "https://pokemongolive.com/ko/post/air-adventures-global/",
             "date": "2022년 4월 29일"
-        },
-        {
-            "title": "메가진화 업데이트가 전 세계에 적용되었습니다! \"메가캥카\"가 등장하고 '위대한 메가진화' 이벤트가 개최됩니다!",
-            "link": "https://pokemongolive.com/ko/post/mega-evolution-2022-update-global/",
-            "date": "2022년 4월 28일"
         }
     ]
 }
