@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté d'août 2022 : Zigzaton de Galar",
+            "link": "https://pokemongolive.com/fr/post/communityday-august-2022-galarian-zigzagoon/",
+            "date": "19 juillet 2022"
+        },
+        {
             "title": "Profitez des rencontres de la Journée Communauté de juillet dans les villes sélectionnées !",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-july-2022/",
             "date": "8 juillet 2022"
@@ -148,11 +153,6 @@
             "title": "Les rencontres de la Journée Communauté Pokémon GO arrivent dans certaines villes du monde",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-may-2022/",
             "date": "11 mai 2022"
-        },
-        {
-            "title": "Le « Festival Aquatique » de Pokémon GO revient pour 2022 et donnera l’occasion à Lokhlass portant une écharpe, Araqua et Tarenbulle de faire leurs débuts.",
-            "link": "https://pokemongolive.com/fr/post/water-festival-2022/",
-            "date": "9 mai 2022"
         }
     ]
 }
