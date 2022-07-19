@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "2022年8月社群日：伽勒爾蛇紋熊",
+            "link": "https://pokemongolive.com/zh_hant/post/communityday-august-2022-galarian-zigzagoon/",
+            "date": "2022年7月19日"
+        },
+        {
             "title": "開發團隊日記：隆重介紹Campfire！",
             "link": "https://pokemongolive.com/zh_hant/post/dev-diaries-introducing-campfire/",
             "date": "2022年7月7日"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest：柏林的入場券開賣了！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest2022-berlin-tickets/",
             "date": "2022年5月5日"
-        },
-        {
-            "title": "5月更新內容：5月社群日、卡璞・鰭鰭降臨團體戰、超級時刻，以及更多內容！",
-            "link": "https://pokemongolive.com/zh_hant/post/may-2022-content-update/",
-            "date": "2022年4月29日"
         }
     ]
 }
