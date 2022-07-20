@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "히스이 이벤트와 함께 과거로 시간여행을 떠나세요!",
+            "link": "https://pokemongolive.com/ko/post/hisuian-discoveries/",
+            "date": "2022년 7월 20일"
+        },
+        {
             "title": "2022년 8월 커뮤니티 데이: \"지그제구리(가라르의 모습)\"",
             "link": "https://pokemongolive.com/ko/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "2022년 7월 19일"
@@ -148,11 +153,6 @@
             "title": "지금 Pokémon GO Fest: Berlin 티켓을 구매할 수 있습니다!",
             "link": "https://pokemongolive.com/ko/post/gofest2022-berlin-tickets/",
             "date": "2022년 5월 5일"
-        },
-        {
-            "title": "5월의 최신 정보: 5월 커뮤니티 데이, 레이드배틀에 \"카푸느지느\"가 등장, 위대한 메가진화 등!",
-            "link": "https://pokemongolive.com/ko/post/may-2022-content-update/",
-            "date": "2022년 4월 29일"
         }
     ]
 }
