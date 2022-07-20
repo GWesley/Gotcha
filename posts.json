@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Step back in time with the Hisuian Discoveries event",
+            "link": "https://pokemongolive.com/en/post/hisuian-discoveries/",
+            "date": "July 20, 2022"
+        },
+        {
             "title": "August 2022 Community Day: Galarian Zigzagoon",
             "link": "https://pokemongolive.com/en/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "July 19, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO and Amazon’s Prime Gaming team up to bring exciting rewards to Amazon Prime members",
             "link": "https://pokemongolive.com/en/post/pokemon-go-prime-gaming-promotion-2022/",
             "date": "May 19, 2022"
-        },
-        {
-            "title": "Celebrate the Season of Alola during the Alola to Alola finale event!",
-            "link": "https://pokemongolive.com/en/post/alola-to-alola/",
-            "date": "May 18, 2022"
         }
     ]
 }
