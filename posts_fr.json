@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Remontez le temps avec l’événement « Découvertes à Hisui »",
+            "link": "https://pokemongolive.com/fr/post/hisuian-discoveries/",
+            "date": "20 juillet 2022"
+        },
+        {
             "title": "Journée Communauté d'août 2022 : Zigzaton de Galar",
             "link": "https://pokemongolive.com/fr/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "19 juillet 2022"
@@ -148,11 +153,6 @@
             "title": "Merci à toutes et tous d’avoir créé de magnifiques souvenirs à la « Zone Safari Pokémon GO » de Séville !",
             "link": "https://pokemongolive.com/fr/post/safari-zone-seville-2022-recap/",
             "date": "17 mai 2022"
-        },
-        {
-            "title": "Les rencontres de la Journée Communauté Pokémon GO arrivent dans certaines villes du monde",
-            "link": "https://pokemongolive.com/fr/post/irl-community-day-may-2022/",
-            "date": "11 mai 2022"
         }
     ]
 }
