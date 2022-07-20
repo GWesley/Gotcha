@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Fate un tuffo nel passato con l'evento Scoperte di Hisui",
+            "link": "https://pokemongolive.com/it/post/hisuian-discoveries/",
+            "date": "20 luglio 2022"
+        },
+        {
             "title": "Community Day di agosto 2022: Zigzagoon di Galar",
             "link": "https://pokemongolive.com/it/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "19 luglio 2022"
@@ -148,11 +153,6 @@
             "title": "Grazie per i momenti indimenticabili vissuti in occasione della Zona Safari Pokémon GO di Siviglia!",
             "link": "https://pokemongolive.com/it/post/safari-zone-seville-2022-recap/",
             "date": "17 maggio 2022"
-        },
-        {
-            "title": "Gli incontri in occasione del Community Day di Pokémon GO stanno per iniziare in alcune città del mondo",
-            "link": "https://pokemongolive.com/it/post/irl-community-day-may-2022/",
-            "date": "11 maggio 2022"
         }
     ]
 }
