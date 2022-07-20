@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「ヒスイイベント」で時代をさかのぼりましょう！",
+            "link": "https://pokemongolive.com/ja/post/hisuian-discoveries/",
+            "date": "2022年7月20日"
+        },
+        {
             "title": "2022年8月の「コミュニティ・デイ」：「ジグザグマ（ガラルのすがた）」",
             "link": "https://pokemongolive.com/ja/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "2022年7月19日"
@@ -148,11 +153,6 @@
             "title": "チケットをフレンドにプレゼントできるようになりました！",
             "link": "https://pokemongolive.com/ja/post/ticket-gifting-how-to/",
             "date": "2022年5月17日"
-        },
-        {
-            "title": "「Pokémon GO Fest 2022 Sapporo」：リアルイベントのチケット発売中！",
-            "link": "https://pokemongolive.com/ja/post/gofest2022-sapporo-tickets/",
-            "date": "2022年5月10日"
         }
     ]
 }
