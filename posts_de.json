@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Beim Event \"Hisui-Entdeckungen\" drehen wir die Zeit zurück!",
+            "link": "https://pokemongolive.com/de/post/hisuian-discoveries/",
+            "date": "20. Juli 2022"
+        },
+        {
             "title": "Community Day im August 2022: Galar-Zigzachs",
             "link": "https://pokemongolive.com/de/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "19. Juli 2022"
@@ -148,11 +153,6 @@
             "title": "Wir feiern das Ende der Alola-Jahreszeit mit dem Event \"Alola an Alola\"!",
             "link": "https://pokemongolive.com/de/post/alola-to-alola/",
             "date": "18. Mai 2022"
-        },
-        {
-            "title": "Event-Tickets können von jetzt an verschenkt werden!",
-            "link": "https://pokemongolive.com/de/post/ticket-gifting-how-to/",
-            "date": "17. Mai 2022"
         }
     ]
 }
