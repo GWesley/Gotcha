@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「おさんぽおこう」が『Pokémon GO』に新登場！",
+            "link": "https://pokemongolive.com/ja/post/daily-adventure-incense-update/",
+            "date": "2022年7月25日"
+        },
+        {
             "title": "「ヒスイイベント」で時代をさかのぼりましょう！",
             "link": "https://pokemongolive.com/ja/post/hisuian-discoveries/",
             "date": "2022年7月24日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』とAmazonのPrime Gamingがコラボ！Amazon Primeメンバーの皆さんへ魅力的なリワードをお届け",
             "link": "https://pokemongolive.com/ja/post/pokemon-go-prime-gaming-promotion-2022/",
             "date": "2022年5月19日"
-        },
-        {
-            "title": "シーズン最後の「アローラフィナーレ」イベントで「アローラシーズン」の有終の美を飾りましょう！",
-            "link": "https://pokemongolive.com/ja/post/alola-to-alola/",
-            "date": "2022年5月18日"
         }
     ]
 }
