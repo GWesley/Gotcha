@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L'Encens d’aventure quotidienne arrive dans Pokémon GO !",
+            "link": "https://pokemongolive.com/fr/post/daily-adventure-incense-update/",
+            "date": "25 juillet 2022"
+        },
+        {
             "title": "Remontez le temps avec l’événement « Découvertes à Hisui »",
             "link": "https://pokemongolive.com/fr/post/hisuian-discoveries/",
             "date": "24 juillet 2022"
@@ -148,11 +153,6 @@
             "title": "Célébrez la Saison d’Alola lors de l’événement final : « Alola à Alola » !",
             "link": "https://pokemongolive.com/fr/post/alola-to-alola/",
             "date": "18 mai 2022"
-        },
-        {
-            "title": "Vous pouvez désormais offrir des billets d'événements à vos amis !",
-            "link": "https://pokemongolive.com/fr/post/ticket-gifting-how-to/",
-            "date": "17 mai 2022"
         }
     ]
 }
