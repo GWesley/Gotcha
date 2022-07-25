@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Daily Adventure Incense is coming to Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/daily-adventure-incense-update/",
+            "date": "July 25, 2022"
+        },
+        {
             "title": "Step back in time with the Hisuian Discoveries event",
             "link": "https://pokemongolive.com/en/post/hisuian-discoveries/",
             "date": "July 24, 2022"
@@ -148,11 +153,6 @@
             "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/en/post/cd-savethedate-s7/",
             "date": "May 23, 2022"
-        },
-        {
-            "title": "New social features, as well as updates for in-person raids",
-            "link": "https://pokemongolive.com/en/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
-            "date": "May 19, 2022"
         }
     ]
 }
