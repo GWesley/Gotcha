@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "เครื่องหอมรายวันกำลังจะมาใน Pokémon GO!",
+            "link": "https://pokemongolive.com/th/post/daily-adventure-incense-update/",
+            "date": "25 กรกฎาคม 2565"
+        },
+        {
             "title": "ย้อนเวลากลับไปกับอีเวนต์การค้นพบในฮิซุย",
             "link": "https://pokemongolive.com/th/post/hisuian-discoveries/",
             "date": "24 กรกฎาคม 2565"
@@ -148,11 +153,6 @@
             "title": "งานนัดพบคอมมิวนิตี้เดย์กำลังมาที่เมืองที่กำหนดไว้ทั่วโลกแล้ว!",
             "link": "https://pokemongolive.com/th/post/irl-community-day-may-2022/",
             "date": "11 พฤษภาคม 2565"
-        },
-        {
-            "title": "ตั๋วสำหรับ Pokémon GO Fest: ซัปโปโรวางจำหน่ายแล้ว!",
-            "link": "https://pokemongolive.com/th/post/gofest2022-sapporo-tickets/",
-            "date": "10 พฤษภาคม 2565"
         }
     ]
 }
