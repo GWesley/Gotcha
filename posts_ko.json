@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"산책향로\"가 \"Pokémon GO\"에 새롭게 등장!",
+            "link": "https://pokemongolive.com/ko/post/daily-adventure-incense-update/",
+            "date": "2022년 7월 25일"
+        },
+        {
             "title": "히스이 이벤트와 함께 과거로 시간여행을 떠나세요!",
             "link": "https://pokemongolive.com/ko/post/hisuian-discoveries/",
             "date": "2022년 7월 24일"
@@ -148,11 +153,6 @@
             "title": "“Pokémon GO Fest 2022 Sapporo\" 현장 이벤트 티켓 판매 중!",
             "link": "https://pokemongolive.com/ko/post/gofest2022-sapporo-tickets/",
             "date": "2022년 5월 10일"
-        },
-        {
-            "title": "2022년의 워터페스티벌에 스카프를 한 \"라프라스\", \"물거미\", \"깨비물거미\"가 처음으로 등장합니다!",
-            "link": "https://pokemongolive.com/ko/post/water-festival-2022/",
-            "date": "2022년 5월 9일"
         }
     ]
 }
