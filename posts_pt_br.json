@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O Incenso de Aventura Diário está chegando ao Pokémon GO!",
+            "link": "https://pokemongolive.com/pt_br/post/daily-adventure-incense-update/",
+            "date": "25 de julho de 2022"
+        },
+        {
             "title": "Voltem no tempo com o evento Descobertas de Hisui",
             "link": "https://pokemongolive.com/pt_br/post/hisuian-discoveries/",
             "date": "24 de julho de 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO e Amazon Prime Gaming firmam parceria para oferecer recompensas aos membros do Amazon Prime",
             "link": "https://pokemongolive.com/pt_br/post/pokemon-go-prime-gaming-promotion-2022/",
             "date": "19 de maio de 2022"
-        },
-        {
-            "title": "Comemorem a Temporada de Alola durante o evento final de Alola to Alola!",
-            "link": "https://pokemongolive.com/pt_br/post/alola-to-alola/",
-            "date": "18 de maio de 2022"
         }
     ]
 }
