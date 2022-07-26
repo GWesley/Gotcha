@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "8月の最新情報：「Pokémon GO Fest: Sapporo」と「Pokémon GO Fest 2022: フィナーレ」、「ザシアン」と「ザマゼンタ」がレイドバトルに再登場、「むしタイプポケモンのイベント」など！",
+            "link": "https://pokemongolive.com/ja/post/august-2022-content-update/",
+            "date": "2022年7月26日"
+        },
+        {
             "title": "「Pokémon GO Fest 2022: Seattle」にご参加いただき、ありがとうございました！",
             "link": "https://pokemongolive.com/ja/post/gofest-seattle-recap/",
             "date": "2022年7月26日"
@@ -148,11 +153,6 @@
             "title": "次のシーズンで開催される「コミュニティ・デイ」の日程をお知らせします！",
             "link": "https://pokemongolive.com/ja/post/cd-savethedate-s7/",
             "date": "2022年5月23日"
-        },
-        {
-            "title": "新しいソーシャル機能と現地で参加するレイドバトルについて",
-            "link": "https://pokemongolive.com/ja/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
-            "date": "2022年5月19日"
         }
     ]
 }
