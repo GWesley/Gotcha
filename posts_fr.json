@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Merci pour cet incroyable « Pokémon GO Fest : Seattle » !",
+            "link": "https://pokemongolive.com/fr/post/gofest-seattle-recap/",
+            "date": "26 juillet 2022"
+        },
+        {
             "title": "L'Encens d’aventure quotidienne arrive dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/daily-adventure-incense-update/",
             "date": "25 juillet 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO et Prime Gaming d'Amazon s'associent pour offrir des récompenses exceptionnelles aux membres d'Amazon Prime",
             "link": "https://pokemongolive.com/fr/post/pokemon-go-prime-gaming-promotion-2022/",
             "date": "19 mai 2022"
-        },
-        {
-            "title": "Célébrez la Saison d’Alola lors de l’événement final : « Alola à Alola » !",
-            "link": "https://pokemongolive.com/fr/post/alola-to-alola/",
-            "date": "18 mai 2022"
         }
     ]
 }
