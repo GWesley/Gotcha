@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "8월의 최신 정보: \"Pokémon GO Fest: Sapporo\"와 \"Pokémon GO Fest 2022: 피날레\", \"자시안\"과 \"자마젠타\"가 레이드배틀에 재등장, 벌레타입 포켓몬 이벤트 등 다양한 이벤트!",
+            "link": "https://pokemongolive.com/ko/post/august-2022-content-update/",
+            "date": "2022년 7월 26일"
+        },
+        {
             "title": "\"Pokémon GO Fest 2022: Seattle\"을 즐겨 주셔서 감사합니다!",
             "link": "https://pokemongolive.com/ko/post/gofest-seattle-recap/",
             "date": "2022년 7월 26일"
@@ -148,11 +153,6 @@
             "title": "시즌 마지막 이벤트 \"알로라 피날레\"로 알로라 시즌 마지막을 장식하세요!",
             "link": "https://pokemongolive.com/ko/post/alola-to-alola/",
             "date": "2022년 5월 18일"
-        },
-        {
-            "title": "이제 프렌드에게 티켓을 선물할 수 있습니다!",
-            "link": "https://pokemongolive.com/ko/post/ticket-gifting-how-to/",
-            "date": "2022년 5월 17일"
         }
     ]
 }
