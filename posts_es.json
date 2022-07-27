@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Gracias por acompañarnos en nuestros encuentros del Día de la Comunidad de julio!",
+            "link": "https://pokemongolive.com/es/post/community-day-july-2022-recap/",
+            "date": "27 de julio de 2022"
+        },
+        {
             "title": "Actualización de contenido de agosto: ¡Pokémon GO Fest: Sapporo y Pokémon GO Fest 2022: Clausura, Zacian y Zamazenta regresan a las incursiones, evento \"¡A bichear!\" y más!",
             "link": "https://pokemongolive.com/es/post/august-2022-content-update/",
             "date": "26 de julio de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Apuntad en el calendario los Días de la Comunidad de la próxima Temporada!",
             "link": "https://pokemongolive.com/es/post/cd-savethedate-s7/",
             "date": "23 de mayo de 2022"
-        },
-        {
-            "title": "Nuevas funciones sociales y novedades en las incursiones presenciales",
-            "link": "https://pokemongolive.com/es/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
-            "date": "19 de mayo de 2022"
         }
     ]
 }
