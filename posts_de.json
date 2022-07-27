@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Danke, dass ihr bei unseren Community Day-Meetups im Juli dabei wart!",
+            "link": "https://pokemongolive.com/de/post/community-day-july-2022-recap/",
+            "date": "27. Juli 2022"
+        },
+        {
             "title": "Content im August: Pokémon GO Fest: Sapporo und Abschluss-Event zum Pokémon GO Fest 2022, Rückkehr von Zacian und Zamazenta in Raid-Kämpfe, Käferkrabbelei-Event und vieles mehr!",
             "link": "https://pokemongolive.com/de/post/august-2022-content-update/",
             "date": "26. Juli 2022"
@@ -148,11 +153,6 @@
             "title": "Der Ticketverkauf für das Pokémon GO Fest in Seattle hat begonnen!",
             "link": "https://pokemongolive.com/de/post/gofest2022-seattle-tickets/",
             "date": "24. Mai 2022"
-        },
-        {
-            "title": "Greift nach den Sternen bei der GO-Kampftag: Sternenstaub-Überraschung",
-            "link": "https://pokemongolive.com/de/post/go-battle-day-mega-stardust-surprise/",
-            "date": "23. Mai 2022"
         }
     ]
 }
