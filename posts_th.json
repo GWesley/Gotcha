@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ขอบคุณที่เข้าร่วมงานนัดพบคอมมิวนิตี้เดย์กรกฎาคม!",
+            "link": "https://pokemongolive.com/th/post/community-day-july-2022-recap/",
+            "date": "27 กรกฎาคม 2565"
+        },
+        {
             "title": "อัปเดตเนื้อหาเดือนสิงหาคม: Pokémon GO Fest: ซัปโปโร และ Pokémon GO Fest 2022: ปิดฉาก, ซาเชียนและซามาเซนตากลับสู่การบุกตีบอส, อีเวนต์ฝูงแมลงบุก และอีกมากมาย!",
             "link": "https://pokemongolive.com/th/post/august-2022-content-update/",
             "date": "26 กรกฎาคม 2565"
@@ -148,11 +153,6 @@
             "title": "ฟีเจอร์โซเชียลใหม่ พร้อมอัปเดตการตีบอสระยะใกล้",
             "link": "https://pokemongolive.com/th/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
             "date": "19 พฤษภาคม 2565"
-        },
-        {
-            "title": "ฉลองฤดูกาลแห่งอโลลาในช่วงอีเวนต์อโลลาฟินาเล่!",
-            "link": "https://pokemongolive.com/th/post/alola-to-alola/",
-            "date": "18 พฤษภาคม 2565"
         }
     ]
 }
