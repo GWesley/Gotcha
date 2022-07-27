@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Thank you for joining our July Community Day meetups!",
+            "link": "https://pokemongolive.com/en/post/community-day-july-2022-recap/",
+            "date": "July 27, 2022"
+        },
+        {
             "title": "August Content Update: Pokémon GO Fest: Sapporo and Pokémon GO Fest 2022: Finale, Zacian and Zamazenta return to raids, the Bug Out! event, and more!",
             "link": "https://pokemongolive.com/en/post/august-2022-content-update/",
             "date": "July 26, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest 2022—additional details revealed!",
             "link": "https://pokemongolive.com/en/post/pokemongofest2022-update/",
             "date": "May 26, 2022"
-        },
-        {
-            "title": "Tickets to Pokémon GO Fest: Seattle are on sale now!",
-            "link": "https://pokemongolive.com/en/post/gofest2022-seattle-tickets/",
-            "date": "May 24, 2022"
         }
     ]
 }
