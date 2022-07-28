@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Programme : « Ambassadeur de Communauté »",
+            "link": "https://pokemongolive.com/fr/post/community-ambassador-program/",
+            "date": "28 juillet 2022"
+        },
+        {
             "title": "Journée Communauté d'août 2022 : Zigzaton de Galar",
             "link": "https://pokemongolive.com/fr/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "27 juillet 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Visez les étoiles pendant la Journée Combat GO : Surprise de Poussière d’Étoiles",
             "link": "https://pokemongolive.com/fr/post/go-battle-day-mega-stardust-surprise/",
-            "date": "23 mai 2022"
-        },
-        {
-            "title": "Notez bien les dates des événements « Journée Communauté » de la prochaine saison !",
-            "link": "https://pokemongolive.com/fr/post/cd-savethedate-s7/",
             "date": "23 mai 2022"
         }
     ]
