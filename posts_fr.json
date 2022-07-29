@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Profitez des rencontres de la Journée Communauté de août dans les villes sélectionnées !",
+            "link": "https://pokemongolive.com/fr/post/irl-community-day-august-2022/",
+            "date": "29 juillet 2022"
+        },
+        {
             "title": "Programme : « Ambassadeur de Communauté »",
             "link": "https://pokemongolive.com/fr/post/community-ambassador-program/",
             "date": "28 juillet 2022"
@@ -148,11 +153,6 @@
             "title": "Les billets pour le « Pokémon GO Fest : Seattle » sont en vente dès maintenant !",
             "link": "https://pokemongolive.com/fr/post/gofest2022-seattle-tickets/",
             "date": "24 mai 2022"
-        },
-        {
-            "title": "Visez les étoiles pendant la Journée Combat GO : Surprise de Poussière d’Étoiles",
-            "link": "https://pokemongolive.com/fr/post/go-battle-day-mega-stardust-surprise/",
-            "date": "23 mai 2022"
         }
     ]
 }
