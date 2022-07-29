@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Nehmt im August an Community Day-Meetups in ausgewählten Städten teil!",
+            "link": "https://pokemongolive.com/de/post/irl-community-day-august-2022/",
+            "date": "29. Juli 2022"
+        },
+        {
             "title": "Community Day im August 2022: Galar-Zigzachs",
             "link": "https://pokemongolive.com/de/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "27. Juli 2022"
@@ -148,11 +153,6 @@
             "title": "Weitere Details zum Pokémon GO Fest 2022 enthüllt",
             "link": "https://pokemongolive.com/de/post/pokemongofest2022-update/",
             "date": "26. Mai 2022"
-        },
-        {
-            "title": "Der Ticketverkauf für das Pokémon GO Fest in Seattle hat begonnen!",
-            "link": "https://pokemongolive.com/de/post/gofest2022-seattle-tickets/",
-            "date": "24. Mai 2022"
         }
     ]
 }
