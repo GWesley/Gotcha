@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Safari Zone活動即將來到台北市",
+            "link": "https://pokemongolive.com/zh_hant/post/safari-zone-taipei-2022-annoucement/",
+            "date": "2022年8月1日"
+        },
+        {
             "title": "2022年8月社群日：伽勒爾蛇紋熊",
             "link": "https://pokemongolive.com/zh_hant/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "2022年7月27日"
@@ -148,11 +153,6 @@
             "title": "記得把下一季節的社群日時間記下來喔！",
             "link": "https://pokemongolive.com/zh_hant/post/cd-savethedate-s7/",
             "date": "2022年5月23日"
-        },
-        {
-            "title": "全新社群功能與現場團體戰的更新",
-            "link": "https://pokemongolive.com/zh_hant/post/changes-updates-in-person-raid-bonuses-remote-raid-passes/",
-            "date": "2022年5月19日"
         }
     ]
 }
