@@ -5,9 +5,24 @@
     ],
     "posts": [
         {
+            "title": "Vuelve el evento ¡A bichear!, con Mega-Scizor y un Pokémon que debuta",
+            "link": "https://pokemongolive.com/es/post/bug-out-returns-2022/",
+            "date": "3 de agosto de 2022"
+        },
+        {
+            "title": "Pokémon GO Fest: Sapporo—¡Desafío global y Ultrabonus!",
+            "link": "https://pokemongolive.com/es/post/gofest-2022-sapporo-globalchallenge/",
+            "date": "3 de agosto de 2022"
+        },
+        {
             "title": "¡Disfrutad de las quedadas del Día de la Comunidad de agosto en determinadas ciudades!",
             "link": "https://pokemongolive.com/es/post/irl-community-day-august-2022/",
             "date": "29 de julio de 2022"
+        },
+        {
+            "title": "Programa de Embajadores de la Comunidad",
+            "link": "https://pokemongolive.com/es/post/community-ambassador-program/",
+            "date": "28 de julio de 2022"
         },
         {
             "title": "Día de la Comunidad de agosto de 2022: Zigzagoon de Galar",
@@ -138,21 +153,6 @@
             "title": "Actualización de contenido de junio: ¡Pokémon GO Fest 2022, Temporada de GO, regreso de Mewtwo a las incursiones y mucho más!",
             "link": "https://pokemongolive.com/es/post/june-2022-content-update/",
             "date": "26 de mayo de 2022"
-        },
-        {
-            "title": "Pokémon GO Fest 2022: ¡más detalles disponibles!",
-            "link": "https://pokemongolive.com/es/post/pokemongofest2022-update/",
-            "date": "26 de mayo de 2022"
-        },
-        {
-            "title": "¡Ya están a la venta las entradas para el Pokémon GO Fest: Seattle!",
-            "link": "https://pokemongolive.com/es/post/gofest2022-seattle-tickets/",
-            "date": "24 de mayo de 2022"
-        },
-        {
-            "title": "Apuntad hacia las estrellas durante el día de Combates GO: sorpresa de Polvo Estelar",
-            "link": "https://pokemongolive.com/es/post/go-battle-day-mega-stardust-surprise/",
-            "date": "23 de mayo de 2022"
         }
     ]
 }
