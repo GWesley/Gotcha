@@ -5,9 +5,24 @@
     ],
     "posts": [
         {
+            "title": "O evento Caça aos Insetos! está de volta, trazendo Mega Scizor e uma nova estreia Pokémon",
+            "link": "https://pokemongolive.com/pt_br/post/bug-out-returns-2022/",
+            "date": "3 de agosto de 2022"
+        },
+        {
+            "title": "Pokémon GO Fest: Sapporo — Desafio Global e Ultradesbloqueio!",
+            "link": "https://pokemongolive.com/pt_br/post/gofest-2022-sapporo-globalchallenge/",
+            "date": "3 de agosto de 2022"
+        },
+        {
             "title": "Aproveitem os encontros do Dia Comunitário de agosto em cidades selecionadas!",
             "link": "https://pokemongolive.com/pt_br/post/irl-community-day-august-2022/",
             "date": "29 de julho de 2022"
+        },
+        {
+            "title": "Programa Embaixador da Comunidade",
+            "link": "https://pokemongolive.com/pt_br/post/community-ambassador-program/",
+            "date": "28 de julho de 2022"
         },
         {
             "title": "Dia Comunitário de agosto de 2022: Zigzagoon de Galar",
@@ -138,21 +153,6 @@
             "title": "Atualização da Liga de Batalha GO: 11ª temporada",
             "link": "https://pokemongolive.com/pt_br/post/gobattleleague-season11/",
             "date": "26 de maio de 2022"
-        },
-        {
-            "title": "Atualização de conteúdo de junho: Pokémon GO Fest 2022, Temporada de GO, Mewtwo retorna às reides e muito mais!",
-            "link": "https://pokemongolive.com/pt_br/post/june-2022-content-update/",
-            "date": "26 de maio de 2022"
-        },
-        {
-            "title": "Pokémon GO Fest 2022: revelados mais detalhes!",
-            "link": "https://pokemongolive.com/pt_br/post/pokemongofest2022-update/",
-            "date": "26 de maio de 2022"
-        },
-        {
-            "title": "Os ingressos para o Pokémon GO Fest: Seattle já estão à venda!",
-            "link": "https://pokemongolive.com/pt_br/post/gofest2022-seattle-tickets/",
-            "date": "24 de maio de 2022"
         }
     ]
 }
