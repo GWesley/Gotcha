@@ -5,9 +5,24 @@
     ],
     "posts": [
         {
+            "title": "L'evento Bacomania sta per tornare e porterà MegaScizor e il debutto di un nuovo Pokémon",
+            "link": "https://pokemongolive.com/it/post/bug-out-returns-2022/",
+            "date": "3 agosto 2022"
+        },
+        {
+            "title": "Pokémon GO Fest di Sapporo: sfida globale Ultrabonus!",
+            "link": "https://pokemongolive.com/it/post/gofest-2022-sapporo-globalchallenge/",
+            "date": "3 agosto 2022"
+        },
+        {
             "title": "Divertitevi con gli incontri del Community Day di agosto in città selezionate!",
             "link": "https://pokemongolive.com/it/post/irl-community-day-august-2022/",
             "date": "29 luglio 2022"
+        },
+        {
+            "title": "Il Community Ambassador Program",
+            "link": "https://pokemongolive.com/it/post/community-ambassador-program/",
+            "date": "28 luglio 2022"
         },
         {
             "title": "Community Day di agosto 2022: Zigzagoon di Galar",
@@ -138,21 +153,6 @@
             "title": "In arrivo a giugno: Pokémon GO Fest 2022, stagione di GO, ritorno di Mewtwo nei raid e molto altro!",
             "link": "https://pokemongolive.com/it/post/june-2022-content-update/",
             "date": "26 maggio 2022"
-        },
-        {
-            "title": "Ecco a voi nuovi dettagli sul Pokémon GO Fest 2022!",
-            "link": "https://pokemongolive.com/it/post/pokemongofest2022-update/",
-            "date": "26 maggio 2022"
-        },
-        {
-            "title": "I biglietti per il Pokémon GO Fest di Seattle sono ora in vendita!",
-            "link": "https://pokemongolive.com/it/post/gofest2022-seattle-tickets/",
-            "date": "24 maggio 2022"
-        },
-        {
-            "title": "Puntate alle stelle durante la Giornata Lotte GO: sorpresa di polvere di stelle",
-            "link": "https://pokemongolive.com/it/post/go-battle-day-mega-stardust-surprise/",
-            "date": "23 maggio 2022"
         }
     ]
 }
