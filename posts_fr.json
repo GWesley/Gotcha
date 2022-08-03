@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "L’événement « Insectomania » revient en compagnie de Méga-Cizayox et un tout nouveau Pokémon",
+            "link": "https://pokemongolive.com/fr/post/bug-out-returns-2022/",
+            "date": "3 août 2022"
+        },
+        {
+            "title": "Pokémon GO Fest : Sapporo — Défi mondial et Déblocage d'Ultra Bonus !",
+            "link": "https://pokemongolive.com/fr/post/gofest-2022-sapporo-globalchallenge/",
+            "date": "3 août 2022"
+        },
+        {
             "title": "Profitez des rencontres de la Journée Communauté de août dans les villes sélectionnées !",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-august-2022/",
             "date": "29 juillet 2022"
@@ -143,16 +153,6 @@
             "title": "Mise à jour du contenu de juin : Pokémon GO Fest 2022, Saison GO, Mewtwo revient dans les raids, et plus encore !",
             "link": "https://pokemongolive.com/fr/post/june-2022-content-update/",
             "date": "26 mai 2022"
-        },
-        {
-            "title": "Pokémon GO Fest 2022 : Détails supplémentaires disponibles !",
-            "link": "https://pokemongolive.com/fr/post/pokemongofest2022-update/",
-            "date": "26 mai 2022"
-        },
-        {
-            "title": "Les billets pour le « Pokémon GO Fest : Seattle » sont en vente dès maintenant !",
-            "link": "https://pokemongolive.com/fr/post/gofest2022-seattle-tickets/",
-            "date": "24 mai 2022"
         }
     ]
 }
