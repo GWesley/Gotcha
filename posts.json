@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "The Bug Out! event returns, bringing Mega Scizor and a new Pokémon debut",
+            "link": "https://pokemongolive.com/en/post/bug-out-returns-2022/",
+            "date": "August 3, 2022"
+        },
+        {
+            "title": "Pokémon GO Fest: Sapporo—Global Challenge and Ultra Unlock!",
+            "link": "https://pokemongolive.com/en/post/gofest-2022-sapporo-globalchallenge/",
+            "date": "August 3, 2022"
+        },
+        {
             "title": "Enjoy August Community Day meetups in select cities!",
             "link": "https://pokemongolive.com/en/post/irl-community-day-august-2022/",
             "date": "July 29, 2022"
@@ -143,16 +153,6 @@
             "title": "Get ready for summer with Pokémon GO Fest 2022’s Ultra Unlocks!",
             "link": "https://pokemongolive.com/en/post/pokemon-go-fest-2022-ultra-unlocks/",
             "date": "May 31, 2022"
-        },
-        {
-            "title": "Season of GO",
-            "link": "https://pokemongolive.com/en/post/season-of-go-2022/",
-            "date": "May 26, 2022"
-        },
-        {
-            "title": "GO Battle League: Season 11 Update",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-season11/",
-            "date": "May 26, 2022"
         }
     ]
 }
