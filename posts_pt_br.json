@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "Agradecemos a participação no Pokémon GO Fest: Sapporo!",
+            "link": "https://pokemongolive.com/pt_br/post/gofest-2022-sapporo-recap/",
+            "date": "8 de agosto de 2022"
+        },
+        {
             "title": "O evento Caça aos Insetos! está de volta, trazendo Mega Scizor e uma nova estreia Pokémon",
             "link": "https://pokemongolive.com/pt_br/post/bug-out-returns-2022/",
-            "date": "3 de agosto de 2022"
+            "date": "7 de agosto de 2022"
+        },
+        {
+            "title": "Dia Comunitário de agosto de 2022: Zigzagoon de Galar",
+            "link": "https://pokemongolive.com/pt_br/post/communityday-august-2022-galarian-zigzagoon/",
+            "date": "7 de agosto de 2022"
         },
         {
             "title": "Pokémon GO Fest: Sapporo — Desafio Global e Ultradesbloqueio!",
@@ -23,11 +33,6 @@
             "title": "Programa Embaixador da Comunidade",
             "link": "https://pokemongolive.com/pt_br/post/community-ambassador-program/",
             "date": "28 de julho de 2022"
-        },
-        {
-            "title": "Dia Comunitário de agosto de 2022: Zigzagoon de Galar",
-            "link": "https://pokemongolive.com/pt_br/post/communityday-august-2022-galarian-zigzagoon/",
-            "date": "27 de julho de 2022"
         },
         {
             "title": "Agradecemos sua participação nos encontros do Dia Comunitário de julho!",
@@ -147,11 +152,6 @@
         {
             "title": "Temporada de GO",
             "link": "https://pokemongolive.com/pt_br/post/season-of-go-2022/",
-            "date": "26 de maio de 2022"
-        },
-        {
-            "title": "Atualização da Liga de Batalha GO: 11ª temporada",
-            "link": "https://pokemongolive.com/pt_br/post/gobattleleague-season11/",
             "date": "26 de maio de 2022"
         }
     ]
