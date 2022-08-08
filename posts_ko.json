@@ -5,19 +5,24 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO Safari Zone: 고양시”가 9월 23일~25일로 일정이 결정되었습니다!",
+            "link": "https://pokemongolive.com/ko/post/safarizone-goyang-korea-announce/",
+            "date": "2022년 8월 7일"
+        },
+        {
             "title": "다시 돌아온 벌레타입 포켓몬 이벤트, \"메가핫삼\"과 새로운 포켓몬 등장!",
             "link": "https://pokemongolive.com/ko/post/bug-out-returns-2022/",
-            "date": "2022년 8월 3일"
+            "date": "2022년 8월 7일"
+        },
+        {
+            "title": "2022년 8월 커뮤니티 데이: \"지그제구리(가라르의 모습)\"",
+            "link": "https://pokemongolive.com/ko/post/communityday-august-2022-galarian-zigzagoon/",
+            "date": "2022년 8월 7일"
         },
         {
             "title": "\"Pokémon GO Fest 2022: Sapporo\" - 글로벌 챌린지, 울트라 언록 안내!",
             "link": "https://pokemongolive.com/ko/post/gofest-2022-sapporo-globalchallenge/",
             "date": "2022년 8월 3일"
-        },
-        {
-            "title": "2022년 8월 커뮤니티 데이: \"지그제구리(가라르의 모습)\"",
-            "link": "https://pokemongolive.com/ko/post/communityday-august-2022-galarian-zigzagoon/",
-            "date": "2022년 7월 27일"
         },
         {
             "title": "7월 커뮤니티 데이에 참가해 주셔서 감사합니다!",
@@ -148,11 +153,6 @@
             "title": "지금 \"Pokémon GO Fest 2022\": Seattle\" 티켓을 구매할 수 있습니다!",
             "link": "https://pokemongolive.com/ko/post/gofest2022-seattle-tickets/",
             "date": "2022년 5월 24일"
-        },
-        {
-            "title": "GO배틀 데이: \"별의모래\" 깜짝 선물에서 \"별의모래\"를 많이 손에 넣으세요!",
-            "link": "https://pokemongolive.com/ko/post/go-battle-day-mega-stardust-surprise/",
-            "date": "2022년 5월 23일"
         }
     ]
 }
