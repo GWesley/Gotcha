@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "¡Gracias por asistir al Pokémon GO Fest: Sapporo!",
+            "link": "https://pokemongolive.com/es/post/gofest-2022-sapporo-recap/",
+            "date": "8 de agosto de 2022"
+        },
+        {
             "title": "Vuelve el evento ¡A bichear!, con Mega-Scizor y un Pokémon que debuta",
             "link": "https://pokemongolive.com/es/post/bug-out-returns-2022/",
-            "date": "3 de agosto de 2022"
+            "date": "7 de agosto de 2022"
+        },
+        {
+            "title": "Día de la Comunidad de agosto de 2022: Zigzagoon de Galar",
+            "link": "https://pokemongolive.com/es/post/communityday-august-2022-galarian-zigzagoon/",
+            "date": "7 de agosto de 2022"
         },
         {
             "title": "Pokémon GO Fest: Sapporo—¡Desafío global y Ultrabonus!",
@@ -23,11 +33,6 @@
             "title": "Programa de Embajadores de la Comunidad",
             "link": "https://pokemongolive.com/es/post/community-ambassador-program/",
             "date": "28 de julio de 2022"
-        },
-        {
-            "title": "Día de la Comunidad de agosto de 2022: Zigzagoon de Galar",
-            "link": "https://pokemongolive.com/es/post/communityday-august-2022-galarian-zigzagoon/",
-            "date": "27 de julio de 2022"
         },
         {
             "title": "¡Gracias por acompañarnos en nuestros encuentros del Día de la Comunidad de julio!",
@@ -147,11 +152,6 @@
         {
             "title": "Novedades sobre la Liga Combates GO: Temporada 11",
             "link": "https://pokemongolive.com/es/post/gobattleleague-season11/",
-            "date": "26 de mayo de 2022"
-        },
-        {
-            "title": "Actualización de contenido de junio: ¡Pokémon GO Fest 2022, Temporada de GO, regreso de Mewtwo a las incursiones y mucho más!",
-            "link": "https://pokemongolive.com/es/post/june-2022-content-update/",
             "date": "26 de mayo de 2022"
         }
     ]
