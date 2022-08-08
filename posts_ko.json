@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO Fest 2022: Sapporo\"에 참여해 주셔서 감사합니다!",
+            "link": "https://pokemongolive.com/ko/post/gofest-2022-sapporo-recap/",
+            "date": "2022년 8월 8일"
+        },
+        {
             "title": "\"Pokémon GO Safari Zone: 고양시”가 9월 23일~25일로 일정이 결정되었습니다!",
             "link": "https://pokemongolive.com/ko/post/safarizone-goyang-korea-announce/",
             "date": "2022년 8월 7일"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest 2022의 추가 정보 공개!",
             "link": "https://pokemongolive.com/ko/post/pokemongofest2022-update/",
             "date": "2022년 5월 26일"
-        },
-        {
-            "title": "지금 \"Pokémon GO Fest 2022\": Seattle\" 티켓을 구매할 수 있습니다!",
-            "link": "https://pokemongolive.com/ko/post/gofest2022-seattle-tickets/",
-            "date": "2022년 5월 24일"
         }
     ]
 }
