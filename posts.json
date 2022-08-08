@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "Thank you for coming to Pokémon GO Fest: Sapporo!",
+            "link": "https://pokemongolive.com/en/post/gofest-2022-sapporo-recap/",
+            "date": "August 8, 2022"
+        },
+        {
             "title": "The Bug Out! event returns, bringing Mega Scizor and a new Pokémon debut",
             "link": "https://pokemongolive.com/en/post/bug-out-returns-2022/",
-            "date": "August 3, 2022"
+            "date": "August 7, 2022"
+        },
+        {
+            "title": "August 2022 Community Day: Galarian Zigzagoon",
+            "link": "https://pokemongolive.com/en/post/communityday-august-2022-galarian-zigzagoon/",
+            "date": "August 7, 2022"
         },
         {
             "title": "Pokémon GO Fest: Sapporo—Global Challenge and Ultra Unlock!",
@@ -23,11 +33,6 @@
             "title": "The Community Ambassador Program",
             "link": "https://pokemongolive.com/en/post/community-ambassador-program/",
             "date": "July 28, 2022"
-        },
-        {
-            "title": "August 2022 Community Day: Galarian Zigzagoon",
-            "link": "https://pokemongolive.com/en/post/communityday-august-2022-galarian-zigzagoon/",
-            "date": "July 27, 2022"
         },
         {
             "title": "Thank you for joining our July Community Day meetups!",
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest 2022 update - Nihilego emerges!",
             "link": "https://pokemongolive.com/en/post/gofest-2022-nihilego/",
             "date": "June 4, 2022"
-        },
-        {
-            "title": "Get ready for summer with Pokémon GO Fest 2022’s Ultra Unlocks!",
-            "link": "https://pokemongolive.com/en/post/pokemon-go-fest-2022-ultra-unlocks/",
-            "date": "May 31, 2022"
         }
     ]
 }
