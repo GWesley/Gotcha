@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "ขอบคุณที่มา Pokémon GO Fest: ซัปโปโร!",
+            "link": "https://pokemongolive.com/th/post/gofest-2022-sapporo-recap/",
+            "date": "8 สิงหาคม 2565"
+        },
+        {
             "title": "อีเวนต์ฝูงแมลงบุก! กลับมาพร้อมกับเมก้าฮัซซัมและโปเกมอนตัวใหม่",
             "link": "https://pokemongolive.com/th/post/bug-out-returns-2022/",
-            "date": "3 สิงหาคม 2565"
+            "date": "7 สิงหาคม 2565"
+        },
+        {
+            "title": "คอมมิวนิตี้เดย์สิงหาคม 2022: จิกุซากุมะ (ร่างกาลาร์)",
+            "link": "https://pokemongolive.com/th/post/communityday-august-2022-galarian-zigzagoon/",
+            "date": "7 สิงหาคม 2565"
         },
         {
             "title": "Pokémon GO Fest: ซัปโปโร—คำท้าสำหรับทั่วโลกและปลดล็อกอัลตร้า!",
@@ -15,9 +25,9 @@
             "date": "3 สิงหาคม 2565"
         },
         {
-            "title": "คอมมิวนิตี้เดย์สิงหาคม 2022: จิกุซากุมะ (ร่างกาลาร์)",
-            "link": "https://pokemongolive.com/th/post/communityday-august-2022-galarian-zigzagoon/",
-            "date": "27 กรกฎาคม 2565"
+            "title": "เข้าร่วมงานนัดพบในสถานที่จริงในระหว่างคอมมิวนิตี้เดย์จิกุซากุมะ (ร่างกาลาร์) ในเมืองที่คัดเลือกไว้ทั่วโลก!",
+            "link": "https://pokemongolive.com/th/post/irl-community-day-august-2022/",
+            "date": "29 กรกฎาคม 2565"
         },
         {
             "title": "ขอบคุณที่เข้าร่วมงานนัดพบคอมมิวนิตี้เดย์กรกฎาคม!",
@@ -143,16 +153,6 @@
             "title": "เปิดเผยรายละเอียดเพิ่มเติมของ Pokémon GO Fest 2022!",
             "link": "https://pokemongolive.com/th/post/pokemongofest2022-update/",
             "date": "26 พฤษภาคม 2565"
-        },
-        {
-            "title": "ตั๋วสำหรับ Pokémon GO Fest 2022: ซีแอตเทิลวางจำหน่ายแล้ว!",
-            "link": "https://pokemongolive.com/th/post/gofest2022-seattle-tickets/",
-            "date": "24 พฤษภาคม 2565"
-        },
-        {
-            "title": "ไขว่คว้าดวงดาวมาให้ได้ในช่วงโกแบตเทิลเดย์: สตาร์ดัสต์สุดเซอร์ไพรส์",
-            "link": "https://pokemongolive.com/th/post/go-battle-day-mega-stardust-surprise/",
-            "date": "23 พฤษภาคม 2565"
         }
     ]
 }
