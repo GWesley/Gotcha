@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ecco a voi i dettagli dell'evento finale del Pokémon GO Fest 2022: Ultracreature, Shaymin Forma Cielo e tanto, tanto altro!",
+            "link": "https://pokemongolive.com/it/post/gofest2022-finale-event/",
+            "date": "9 agosto 2022"
+        },
+        {
             "title": "Grazie per aver partecipato al Pokémon GO Fest di Sapporo!",
             "link": "https://pokemongolive.com/it/post/gofest-2022-sapporo-recap/",
             "date": "8 agosto 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Stagione di GO",
             "link": "https://pokemongolive.com/it/post/season-of-go-2022/",
-            "date": "26 maggio 2022"
-        },
-        {
-            "title": "Lega Lotte GO: aggiornamento sulla 11ª stagione",
-            "link": "https://pokemongolive.com/it/post/gobattleleague-season11/",
             "date": "26 maggio 2022"
         }
     ]
