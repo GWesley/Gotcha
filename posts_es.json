@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Revelamos los detalles del evento final de Pokémon GO Fest 2022: Ultraentes, Shaymin Forma Cielo ¡y muchísimo más!",
+            "link": "https://pokemongolive.com/es/post/gofest2022-finale-event/",
+            "date": "9 de agosto de 2022"
+        },
+        {
             "title": "¡Gracias por asistir al Pokémon GO Fest: Sapporo!",
             "link": "https://pokemongolive.com/es/post/gofest-2022-sapporo-recap/",
             "date": "8 de agosto de 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Temporada de GO",
             "link": "https://pokemongolive.com/es/post/season-of-go-2022/",
-            "date": "26 de mayo de 2022"
-        },
-        {
-            "title": "Novedades sobre la Liga Combates GO: Temporada 11",
-            "link": "https://pokemongolive.com/es/post/gobattleleague-season11/",
             "date": "26 de mayo de 2022"
         }
     ]
