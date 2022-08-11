@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebre o Campeonato Mundial do Pokémon GO de 2022!",
+            "link": "https://pokemongolive.com/pt_br/post/world-championships-event-2022/",
+            "date": "11 de agosto de 2022"
+        },
+        {
             "title": "Pokémon GO Fest 2022: detalhes do evento final revelados – Ultra Beasts, Shaymin Forma Céu e muito, muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/gofest2022-finale-event/",
             "date": "9 de agosto de 2022"
@@ -148,11 +153,6 @@
             "title": "Atualização do Pokémon GO Fest 2022 – Nihilego emerge!",
             "link": "https://pokemongolive.com/pt_br/post/gofest-2022-nihilego/",
             "date": "4 de junho de 2022"
-        },
-        {
-            "title": "Preparem-se para o verão com os Ultradesbloqueios do Pokémon GO Fest 2022!",
-            "link": "https://pokemongolive.com/pt_br/post/pokemon-go-fest-2022-ultra-unlocks/",
-            "date": "31 de maio de 2022"
         }
     ]
 }
