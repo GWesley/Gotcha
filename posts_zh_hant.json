@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "在Pokémon GO歡慶2022 Pokémon World Championships！",
+            "link": "https://pokemongolive.com/zh_hant/post/world-championships-event-2022/",
+            "date": "2022年8月11日"
+        },
+        {
             "title": "Pokémon GO Fest 2022：壓軸活動詳情揭曉——究極異獸、謝米（天空形態），以及更多內容！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest2022-finale-event/",
             "date": "2022年8月9日"
@@ -147,11 +152,6 @@
         {
             "title": "Season of GO",
             "link": "https://pokemongolive.com/zh_hant/post/season-of-go-2022/",
-            "date": "2022年5月26日"
-        },
-        {
-            "title": "GO對戰聯盟第11賽季最新消息",
-            "link": "https://pokemongolive.com/zh_hant/post/gobattleleague-season11/",
             "date": "2022年5月26日"
         }
     ]
