@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wir feiern die Pokémon-Weltmeisterschaften 2022 in Pokémon GO!",
+            "link": "https://pokemongolive.com/de/post/world-championships-event-2022/",
+            "date": "11. August 2022"
+        },
+        {
             "title": "Pokémon GO Fest 2022: Details zum Abschluss-Event enthüllt – Ultrabestien, Shaymin in der Zenitform und vieles, vieles mehr!",
             "link": "https://pokemongolive.com/de/post/gofest2022-finale-event/",
             "date": "9. August 2022"
@@ -148,11 +153,6 @@
             "title": "Abenteuerwoche 2022 in Pokémon GO: Neue Pokémon-Debüts und ein Ultrageheimnis",
             "link": "https://pokemongolive.com/de/post/adventure-week-2022/",
             "date": "5. Juni 2022"
-        },
-        {
-            "title": "Update zum Pokémon GO Fest 2022: Anego erscheint!",
-            "link": "https://pokemongolive.com/de/post/gofest-2022-nihilego/",
-            "date": "4. Juni 2022"
         }
     ]
 }
