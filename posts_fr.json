@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Célébrez les Championnats du Monde Pokémon 2022 dans Pokémon GO !",
+            "link": "https://pokemongolive.com/fr/post/world-championships-event-2022/",
+            "date": "11 août 2022"
+        },
+        {
             "title": "Découvrez les détails de l’événement « Pokémon GO Fest 2022 : Final » ! Des Ultra-chimères, Shaymin Forme Céleste et bien plus encore vous attendent !",
             "link": "https://pokemongolive.com/fr/post/gofest2022-finale-event/",
             "date": "9 août 2022"
@@ -148,11 +153,6 @@
             "title": "L'été arrive avec les Ultra Bonus du Pokémon GO Fest 2022 !",
             "link": "https://pokemongolive.com/fr/post/pokemon-go-fest-2022-ultra-unlocks/",
             "date": "31 mai 2022"
-        },
-        {
-            "title": "Saison GO",
-            "link": "https://pokemongolive.com/fr/post/season-of-go-2022/",
-            "date": "26 mai 2022"
         }
     ]
 }
