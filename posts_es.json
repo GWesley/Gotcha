@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Investigación temporal exclusiva durante la retransmisión del Campeonato Mundial de Pokémon GO en Twitch!",
+            "link": "https://pokemongolive.com/es/post/world-championship-twitch-timed-research-2022/",
+            "date": "16 de agosto de 2022"
+        },
+        {
             "title": "¡Reclama tus bonus en Prime Gaming!",
             "link": "https://pokemongolive.com/es/post/pokemon-go-prime-gaming-promotion-2022-reminder/",
             "date": "11 de agosto de 2022"
@@ -148,11 +153,6 @@
             "title": "Semana de Aventuras 2022 de Pokémon GO: nuevos debuts de Pokémon y un Ultrasecreto",
             "link": "https://pokemongolive.com/es/post/adventure-week-2022/",
             "date": "5 de junio de 2022"
-        },
-        {
-            "title": "Novedades del Pokémon GO Fest 2022: ¡Aparece Nihilego!",
-            "link": "https://pokemongolive.com/es/post/gofest-2022-nihilego/",
-            "date": "4 de junio de 2022"
         }
     ]
 }
