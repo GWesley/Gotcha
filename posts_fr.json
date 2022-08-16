@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Étude ponctuelle exclusive pendant la diffusion Twitch des Championnat du Monde de Pokémon GO !",
+            "link": "https://pokemongolive.com/fr/post/world-championship-twitch-timed-research-2022/",
+            "date": "16 août 2022"
+        },
+        {
             "title": "Célébrez les Championnats du Monde Pokémon 2022 dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/world-championships-event-2022/",
             "date": "11 août 2022"
@@ -148,11 +153,6 @@
             "title": "Mise à jour « Pokémon GO Fest 2022 » - Zéroïd fait son apparition !",
             "link": "https://pokemongolive.com/fr/post/gofest-2022-nihilego/",
             "date": "4 juin 2022"
-        },
-        {
-            "title": "L'été arrive avec les Ultra Bonus du Pokémon GO Fest 2022 !",
-            "link": "https://pokemongolive.com/fr/post/pokemon-go-fest-2022-ultra-unlocks/",
-            "date": "31 mai 2022"
         }
     ]
 }
