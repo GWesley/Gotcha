@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Thank you for celebrating Galarian Zigzagoon Community Day with us!",
+            "link": "https://pokemongolive.com/en/post/community-day-august-2022-recap/",
+            "date": "August 17, 2022"
+        },
+        {
             "title": "Exclusive Timed Research during the Pokémon GO World Championships Twitch broadcast!",
             "link": "https://pokemongolive.com/en/post/world-championship-twitch-timed-research-2022/",
             "date": "August 16, 2022"
@@ -148,11 +153,6 @@
             "title": "June Community Day meetups are coming to select cities!",
             "link": "https://pokemongolive.com/en/post/irl-community-day-june-2022/",
             "date": "June 10, 2022"
-        },
-        {
-            "title": "June 2022 Community Day: Deino",
-            "link": "https://pokemongolive.com/en/post/communityday-june-2022-deino/",
-            "date": "June 9, 2022"
         }
     ]
 }
