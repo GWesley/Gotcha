@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Danke für eure Teilnahme am Community Day mit Galar-Zigzachs!",
+            "link": "https://pokemongolive.com/de/post/community-day-august-2022-recap/",
+            "date": "17. August 2022"
+        },
+        {
             "title": "Exklusive Befristete Forschung von der Twitch-Übertragung der Pokémon GO-Weltmeisterschaften",
             "link": "https://pokemongolive.com/de/post/world-championship-twitch-timed-research-2022/",
             "date": "16. August 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day im Juni 2022: Kapuno",
             "link": "https://pokemongolive.com/de/post/communityday-june-2022-deino/",
             "date": "9. Juni 2022"
-        },
-        {
-            "title": "Wir danken euch für ein erfolgreiches Pokémon GO Fest 2022!",
-            "link": "https://pokemongolive.com/de/post/pokemongofest2022-recap/",
-            "date": "8. Juni 2022"
         }
     ]
 }
