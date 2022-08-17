@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Merci de célébrer la Journée Communauté de Zigzaton de Galar avec nous !",
+            "link": "https://pokemongolive.com/fr/post/community-day-august-2022-recap/",
+            "date": "17 août 2022"
+        },
+        {
             "title": "Étude ponctuelle exclusive pendant la diffusion Twitch des Championnat du Monde de Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/world-championship-twitch-timed-research-2022/",
             "date": "16 août 2022"
@@ -148,11 +153,6 @@
             "title": "Semaine Aventure 2022 de Pokémon GO : de nouvelles arrivées de Pokémon et un « Ultra » secret",
             "link": "https://pokemongolive.com/fr/post/adventure-week-2022/",
             "date": "5 juin 2022"
-        },
-        {
-            "title": "Mise à jour « Pokémon GO Fest 2022 » - Zéroïd fait son apparition !",
-            "link": "https://pokemongolive.com/fr/post/gofest-2022-nihilego/",
-            "date": "4 juin 2022"
         }
     ]
 }
