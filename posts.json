@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Attrapez des Pokémon à McDonald's™ ce mois d'août!",
+            "link": "https://pokemongolive.com/en/post/mcdonalds-collaboration-france/",
+            "date": "August 22, 2022"
+        },
+        {
             "title": "Thank you for celebrating Galarian Zigzagoon Community Day with us!",
             "link": "https://pokemongolive.com/en/post/community-day-august-2022-recap/",
             "date": "August 17, 2022"
@@ -148,11 +153,6 @@
             "title": "Meet and play with notable Trainers in Berlin and Seattle",
             "link": "https://pokemongolive.com/en/post/notable-trainer-meet-greet-go-fest-2022/",
             "date": "June 17, 2022"
-        },
-        {
-            "title": "June Community Day meetups are coming to select cities!",
-            "link": "https://pokemongolive.com/en/post/irl-community-day-june-2022/",
-            "date": "June 10, 2022"
         }
     ]
 }
