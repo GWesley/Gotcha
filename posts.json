@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Save the dates for next Season’s Community Days!",
+            "link": "https://pokemongolive.com/en/post/cd-savethedate-s8/",
+            "date": "August 22, 2022"
+        },
+        {
             "title": "Attrapez des Pokémon à McDonald's™ ce mois d'août!",
             "link": "https://pokemongolive.com/en/post/mcdonalds-collaboration-france/",
             "date": "August 22, 2022"
@@ -148,11 +153,6 @@
             "title": "Ultra Beasts are coming to Pokémon GO Fest celebrations around the world!",
             "link": "https://pokemongolive.com/en/post/ultrabeasts-join-gofest-irl/",
             "date": "June 22, 2022"
-        },
-        {
-            "title": "Meet and play with notable Trainers in Berlin and Seattle",
-            "link": "https://pokemongolive.com/en/post/notable-trainer-meet-greet-go-fest-2022/",
-            "date": "June 17, 2022"
         }
     ]
 }
