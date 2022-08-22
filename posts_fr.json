@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Notez bien les dates des événements « Journée Communauté » de la saison prochaine !",
+            "link": "https://pokemongolive.com/fr/post/cd-savethedate-s8/",
+            "date": "22 août 2022"
+        },
+        {
             "title": "Attrapez des Pokémon à McDonald's™ ce mois d'août!",
             "link": "https://pokemongolive.com/fr/post/mcdonalds-collaboration-france/",
             "date": "22 août 2022"
@@ -148,11 +153,6 @@
             "title": "Nous sommes reconnaissants pour le succès du Pokémon GO Fest 2022 !",
             "link": "https://pokemongolive.com/fr/post/pokemongofest2022-recap/",
             "date": "8 juin 2022"
-        },
-        {
-            "title": "Fêtez l’arrivée de l’extension Pokémon GO du JCC Pokémon lors de notre évènement de collaboration du JCC Pokémon !",
-            "link": "https://pokemongolive.com/fr/post/Pokemon-TCG-Crossover-Event/",
-            "date": "6 juin 2022"
         }
     ]
 }
