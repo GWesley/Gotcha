@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Die Termine für die Community Days der nächsten Jahreszeit stehen fest!",
+            "link": "https://pokemongolive.com/de/post/cd-savethedate-s8/",
+            "date": "22. August 2022"
+        },
+        {
             "title": "Danke für eure Teilnahme am Community Day mit Galar-Zigzachs!",
             "link": "https://pokemongolive.com/de/post/community-day-august-2022-recap/",
             "date": "17. August 2022"
@@ -148,11 +153,6 @@
             "title": "Wir sind auf Instagram! 🇩🇪",
             "link": "https://pokemongolive.com/de/post/instagram-germany-launch/",
             "date": "10. Juni 2022"
-        },
-        {
-            "title": "Community Day im Juni 2022: Kapuno",
-            "link": "https://pokemongolive.com/de/post/communityday-june-2022-deino/",
-            "date": "9. Juni 2022"
         }
     ]
 }
