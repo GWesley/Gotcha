@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "다음 시즌의 커뮤니티 데이 일정을 기억해 주세요!",
+            "link": "https://pokemongolive.com/ko/post/cd-savethedate-s8/",
+            "date": "2022년 8월 22일"
+        },
+        {
             "title": "지그제구리(가라르의 모습)\" 커뮤니티 데이에 참가해 주셔서 감사합니다!",
             "link": "https://pokemongolive.com/ko/post/community-day-august-2022-recap/",
             "date": "2022년 8월 17일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO Fest 2022\" 울트라 언록과 함께 여름을 준비하세요!",
             "link": "https://pokemongolive.com/ko/post/pokemon-go-fest-2022-ultra-unlocks/",
             "date": "2022년 5월 31일"
-        },
-        {
-            "title": "Season of GO",
-            "link": "https://pokemongolive.com/ko/post/season-of-go-2022/",
-            "date": "2022년 5월 26일"
         }
     ]
 }
