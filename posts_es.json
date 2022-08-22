@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Apuntad en el calendario los Días de la Comunidad de la próxima Temporada!",
+            "link": "https://pokemongolive.com/es/post/cd-savethedate-s8/",
+            "date": "22 de agosto de 2022"
+        },
+        {
             "title": "¡Gracias por celebrar el Día de la Comunidad dedicado a Zigzagoon de Galar con nosotros!",
             "link": "https://pokemongolive.com/es/post/community-day-august-2022-recap/",
             "date": "17 de agosto de 2022"
@@ -148,11 +153,6 @@
             "title": "Muchísimas gracias: ¡el Pokémon GO Fest 2022 ha sido todo un éxito!",
             "link": "https://pokemongolive.com/es/post/pokemongofest2022-recap/",
             "date": "8 de junio de 2022"
-        },
-        {
-            "title": "¡Celebra la expansión Pokémon GO de JCC Pokémon con nuestro Evento Fusión de JCC Pokémon!",
-            "link": "https://pokemongolive.com/es/post/Pokemon-TCG-Crossover-Event/",
-            "date": "6 de junio de 2022"
         }
     ]
 }
