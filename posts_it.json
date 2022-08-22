@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Segnatevi le date dei Community Day della prossima stagione!",
+            "link": "https://pokemongolive.com/it/post/cd-savethedate-s8/",
+            "date": "22 agosto 2022"
+        },
+        {
             "title": "Grazie per aver festeggiato con noi il Community Day dedicato a Zigzagoon di Galar!",
             "link": "https://pokemongolive.com/it/post/community-day-august-2022-recap/",
             "date": "17 agosto 2022"
@@ -148,11 +153,6 @@
             "title": "Il Pokémon GO Fest 2022 è stato un successo. Grazie a tutti!",
             "link": "https://pokemongolive.com/it/post/pokemongofest2022-recap/",
             "date": "8 giugno 2022"
-        },
-        {
-            "title": "Festeggiate l’espansione Pokémon GO del GCC Pokémon con il nostro evento di collaborazione con il GCC Pokémon!",
-            "link": "https://pokemongolive.com/it/post/Pokemon-TCG-Crossover-Event/",
-            "date": "6 giugno 2022"
         }
     ]
 }
