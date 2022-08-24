@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Skryte oblicze Polski czeka na odkrycie w Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/secret-side-of-poland-awaits-2022/",
-            "date": "August 23, 2022"
-        },
-        {
             "title": "Pokémon GO Safari Zone: Goyang – Tickets available now for South Korea’s first Safari Zone event!",
             "link": "https://pokemongolive.com/en/post/pokemon-go-safari-zone-goyang/",
             "date": "August 22, 2022"
@@ -17,11 +12,6 @@
         {
             "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/en/post/cd-savethedate-s8/",
-            "date": "August 22, 2022"
-        },
-        {
-            "title": "Attrapez des Pokémon à McDonald's™ ce mois d'août!",
-            "link": "https://pokemongolive.com/en/post/mcdonalds-collaboration-france/",
             "date": "August 22, 2022"
         },
         {
@@ -153,6 +143,16 @@
             "title": "July Content Update: July Community Day; Articuno, Zapdos, and Moltres return to raids; Pokémon GO Anniversary Event; and more!",
             "link": "https://pokemongolive.com/en/post/july-2022-content-update/",
             "date": "June 28, 2022"
+        },
+        {
+            "title": "July 2022 Community Day: Starly",
+            "link": "https://pokemongolive.com/en/post/communityday-july-2022-starly/",
+            "date": "June 27, 2022"
+        },
+        {
+            "title": "Ultra Beasts are coming to Pokémon GO Fest celebrations around the world!",
+            "link": "https://pokemongolive.com/en/post/ultrabeasts-join-gofest-irl/",
+            "date": "June 22, 2022"
         }
     ]
 }
