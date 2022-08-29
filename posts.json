@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Thank you for joining our Pokémon GO Fest 2022 events!",
+            "link": "https://pokemongolive.com/en/post/gofest-2022-finale-recap/",
+            "date": "August 29, 2022"
+        },
+        {
             "title": "Warning: Ultra Beast incursions begin August 27!",
             "link": "https://pokemongolive.com/en/post/gofest2022-finale-ultra-beast-incursions/",
             "date": "August 26, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest: Berlin—Global Challenge and Ultra Unlock!",
             "link": "https://pokemongolive.com/en/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "June 29, 2022"
-        },
-        {
-            "title": "July Content Update: July Community Day; Articuno, Zapdos, and Moltres return to raids; Pokémon GO Anniversary Event; and more!",
-            "link": "https://pokemongolive.com/en/post/july-2022-content-update/",
-            "date": "June 28, 2022"
         }
     ]
 }
