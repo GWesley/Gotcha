@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO Fest 2022\" 이벤트에 참여해 주셔서 감사합니다!",
+            "link": "https://pokemongolive.com/ko/post/gofest-2022-finale-recap/",
+            "date": "2022년 8월 29일"
+        },
+        {
             "title": "8월 27일, 울트라비스트가 급습합니다!",
             "link": "https://pokemongolive.com/ko/post/gofest2022-finale-ultra-beast-incursions/",
             "date": "2022년 8월 26일"
@@ -148,11 +153,6 @@
             "title": "포켓몬 카드 게임 강화 확장팩 「Pokémon GO」 출시를 기념하여 포켓몬 카드 콜라보 이벤트 개최!",
             "link": "https://pokemongolive.com/ko/post/Pokemon-TCG-Crossover-Event/",
             "date": "2022년 6월 6일"
-        },
-        {
-            "title": "\"Pokémon GO\" 어드벤처위크 2022: 새로운 포켓몬 등장, 울트라급 서프라이즈도!",
-            "link": "https://pokemongolive.com/ko/post/adventure-week-2022/",
-            "date": "2022년 6월 5일"
         }
     ]
 }
