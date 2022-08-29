@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Grazie per aver partecipato agli eventi del Festival di Pokémon GO 2022.",
+            "link": "https://pokemongolive.com/it/post/gofest-2022-finale-recap/",
+            "date": "29 agosto 2022"
+        },
+        {
             "title": "Attenzione: le incursioni delle Ultracreature incominciano il 27 agosto!",
             "link": "https://pokemongolive.com/it/post/gofest2022-finale-ultra-beast-incursions/",
             "date": "26 agosto 2022"
@@ -148,11 +153,6 @@
             "title": "Ai festeggiamenti per il Pokémon GO Fest che si svolgono in tutto il mondo sono in arrivo le Ultracreature!",
             "link": "https://pokemongolive.com/it/post/ultrabeasts-join-gofest-irl/",
             "date": "22 giugno 2022"
-        },
-        {
-            "title": "Gli incontri in occasione del Community Day di giugno stanno per iniziare in alcune città!",
-            "link": "https://pokemongolive.com/it/post/irl-community-day-june-2022/",
-            "date": "10 giugno 2022"
         }
     ]
 }
