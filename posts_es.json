@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Gracias por participar en los eventos del Pokémon GO Fest de 2022!",
+            "link": "https://pokemongolive.com/es/post/gofest-2022-finale-recap/",
+            "date": "29 de agosto de 2022"
+        },
+        {
             "title": "Advertencia: ¡Las incursiones de ultraentes empiezan el 27 de agosto!",
             "link": "https://pokemongolive.com/es/post/gofest2022-finale-ultra-beast-incursions/",
             "date": "26 de agosto de 2022"
@@ -148,11 +153,6 @@
             "title": "¡El Pokémon GO Fest que celebraremos en todo el mundo contará con ultraentes!",
             "link": "https://pokemongolive.com/es/post/ultrabeasts-join-gofest-irl/",
             "date": "22 de junio de 2022"
-        },
-        {
-            "title": "¡Llegan las quedadas por el Día de la Comunidad de junio a determinadas ciudades!",
-            "link": "https://pokemongolive.com/es/post/irl-community-day-june-2022/",
-            "date": "10 de junio de 2022"
         }
     ]
 }
