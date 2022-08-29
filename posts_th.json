@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ขอบคุณที่เข้าร่วมอีเวนต์ Pokémon GO Fest ในปี 2022 ของเรา!",
+            "link": "https://pokemongolive.com/th/post/gofest-2022-finale-recap/",
+            "date": "29 สิงหาคม 2565"
+        },
+        {
             "title": "คำเตือน: การบุกรุกของอัลตร้าบีสต์เริ่ม 27 สิงหาคมนี้!",
             "link": "https://pokemongolive.com/th/post/gofest2022-finale-ultra-beast-incursions/",
             "date": "26 สิงหาคม 2565"
@@ -148,11 +153,6 @@
             "title": "ขอบคุณสำหรับความสำเร็จของ Pokémon GO Fest 2022!",
             "link": "https://pokemongolive.com/th/post/pokemongofest2022-recap/",
             "date": "8 มิถุนายน 2565"
-        },
-        {
-            "title": "ฉลอง \"การ์ดชุดเสริมเพิ่มความแกร่ง Pokémon GO\" จากโปเกมอนเทรดดิ้งการ์ดเกมด้วยอีเวนต์โคลาโบโปเกมอนการ์ดของเรา!",
-            "link": "https://pokemongolive.com/th/post/Pokemon-TCG-Crossover-Event/",
-            "date": "6 มิถุนายน 2565"
         }
     ]
 }
