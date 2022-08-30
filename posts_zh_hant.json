@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "GO對戰聯盟：光之季更新",
+            "link": "https://pokemongolive.com/zh_hant/post/gobattleleague-seasonoflight/",
+            "date": "2022年8月30日"
+        },
+        {
             "title": "在期間限定調查中歡慶回轉寶可夢好啦魷的到來！",
             "link": "https://pokemongolive.com/zh_hant/post/inkay-limited-research-2022/",
             "date": "2022年8月30日"
@@ -148,11 +153,6 @@
             "title": "6月社群日現場活動即將在特定城市登場！",
             "link": "https://pokemongolive.com/zh_hant/post/irl-community-day-june-2022/",
             "date": "2022年6月10日"
-        },
-        {
-            "title": "2022年6月社群日：單首龍",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-june-2022-deino/",
-            "date": "2022年6月9日"
         }
     ]
 }
