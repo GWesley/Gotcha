@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Actualización de la Liga Combates GO: Temporada de la Luz",
+            "link": "https://pokemongolive.com/es/post/gobattleleague-seasonoflight/",
+            "date": "30 de agosto de 2022"
+        },
+        {
+            "title": "¡Conmemora al Pokémon Rotación con una investigación limitada con Inkay!",
+            "link": "https://pokemongolive.com/es/post/inkay-limited-research-2022/",
+            "date": "30 de agosto de 2022"
+        },
+        {
             "title": "¡Gracias por participar en los eventos del Pokémon GO Fest de 2022!",
             "link": "https://pokemongolive.com/es/post/gofest-2022-finale-recap/",
             "date": "29 de agosto de 2022"
@@ -143,16 +153,6 @@
             "title": "Actualización sobre el contenido de julio: Día de la Comunidad de julio; Articuno, Zapdos y Moltres vuelven a las incursiones, evento por el aniversario de Pokémon GO, ¡y mucho más!",
             "link": "https://pokemongolive.com/es/post/july-2022-content-update/",
             "date": "28 de junio de 2022"
-        },
-        {
-            "title": "Día de la Comunidad de julio de 2022: Starly",
-            "link": "https://pokemongolive.com/es/post/communityday-july-2022-starly/",
-            "date": "27 de junio de 2022"
-        },
-        {
-            "title": "¡El Pokémon GO Fest que celebraremos en todo el mundo contará con ultraentes!",
-            "link": "https://pokemongolive.com/es/post/ultrabeasts-join-gofest-irl/",
-            "date": "22 de junio de 2022"
         }
     ]
 }
