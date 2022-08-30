@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "感謝各位參與Pokémon GO Fest 2022活動！",
+            "link": "https://pokemongolive.com/zh_hant/post/gofest-2022-finale-recap/",
+            "date": "2022年8月29日"
+        },
+        {
             "title": "警告：究極異獸將於台灣時間8月27日（星期六）大舉入侵！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest2022-finale-ultra-beast-incursions/",
             "date": "2022年8月26日"
@@ -148,11 +153,6 @@
             "title": "感謝各位讓我們有個成功的Pokémon GO Fest 2022！",
             "link": "https://pokemongolive.com/zh_hant/post/pokemongofest2022-recap/",
             "date": "2022年6月8日"
-        },
-        {
-            "title": "寶可夢卡牌聯名活動！歡慶《寶可夢集換式卡牌：強化擴充包 「Pokémon GO」》上市！",
-            "link": "https://pokemongolive.com/zh_hant/post/Pokemon-TCG-Crossover-Event/",
-            "date": "2022年6月6日"
         }
     ]
 }
