@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "GO Battle League: Season of Light Update",
+            "link": "https://pokemongolive.com/en/post/gobattleleague-seasonoflight/",
+            "date": "August 30, 2022"
+        },
+        {
+            "title": "Celebrate the Revolving Pokémon with Limited Research, featuring Inkay!",
+            "link": "https://pokemongolive.com/en/post/inkay-limited-research-2022/",
+            "date": "August 30, 2022"
+        },
+        {
             "title": "Thank you for joining our Pokémon GO Fest 2022 events!",
             "link": "https://pokemongolive.com/en/post/gofest-2022-finale-recap/",
             "date": "August 29, 2022"
@@ -143,16 +153,6 @@
             "title": "Happy sixth anniversary, Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/pgo-anniversary-2022/",
             "date": "July 5, 2022"
-        },
-        {
-            "title": "Celebrate six years of Pokémon GO during the Anniversary Event and Battle Weekend!",
-            "link": "https://pokemongolive.com/en/post/anniversary-event-battle-weekend-2022/",
-            "date": "June 29, 2022"
-        },
-        {
-            "title": "Pokémon GO Fest: Berlin—Global Challenge and Ultra Unlock!",
-            "link": "https://pokemongolive.com/en/post/gofest2022-berlin-ultraunlockchallenge/",
-            "date": "June 29, 2022"
         }
     ]
 }
