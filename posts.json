@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to the Season of Light",
+            "link": "https://pokemongolive.com/en/post/season-of-light/",
+            "date": "August 30, 2022"
+        },
+        {
             "title": "GO Battle League: Season of Light Update",
             "link": "https://pokemongolive.com/en/post/gobattleleague-seasonoflight/",
             "date": "August 30, 2022"
@@ -148,11 +153,6 @@
             "title": "Thank you for coming to Pokémon GO Fest: Berlin!",
             "link": "https://pokemongolive.com/en/post/gofest-2022-berlin-recap/",
             "date": "July 6, 2022"
-        },
-        {
-            "title": "Happy sixth anniversary, Pokémon GO!",
-            "link": "https://pokemongolive.com/en/post/pgo-anniversary-2022/",
-            "date": "July 5, 2022"
         }
     ]
 }
