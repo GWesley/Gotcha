@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Willkommen in der Jahreszeit des Lichts",
+            "link": "https://pokemongolive.com/de/post/season-of-light/",
+            "date": "30. August 2022"
+        },
+        {
             "title": "Update zur GO-Kampfliga: Jahreszeit des Lichts",
             "link": "https://pokemongolive.com/de/post/gobattleleague-seasonoflight/",
             "date": "30. August 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest: Berlin – Globale Herausforderung und Hyperbonus!",
             "link": "https://pokemongolive.com/de/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "29. Juni 2022"
-        },
-        {
-            "title": "Content im Juli: Community Day, Rückkehr von Arktos, Zapdos und Lavados in Raid-Kämpfe, Event zum Jubiläum von Pokémon GO und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/july-2022-content-update/",
-            "date": "28. Juni 2022"
         }
     ]
 }
