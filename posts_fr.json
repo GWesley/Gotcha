@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bienvenue dans la Saison de la Lumière",
+            "link": "https://pokemongolive.com/fr/post/season-of-light/",
+            "date": "30 août 2022"
+        },
+        {
             "title": "Mise à jour de la Ligue Combat GO : Saison de la lumière",
             "link": "https://pokemongolive.com/fr/post/gobattleleague-seasonoflight/",
             "date": "30 août 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest : Berlin - Défi mondial et Déblocage d'Ultra Bonus !",
             "link": "https://pokemongolive.com/fr/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "29 juin 2022"
-        },
-        {
-            "title": "Mise à jour du contenu de juillet : Journée Communauté de juillet ; Artikodin, Électhor et Sulfura reviennent dans les raids ; événement anniversaire de Pokémon GO ; et bien plus !",
-            "link": "https://pokemongolive.com/fr/post/july-2022-content-update/",
-            "date": "28 juin 2022"
         }
     ]
 }
