@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "歡迎來到光之季節",
+            "link": "https://pokemongolive.com/zh_hant/post/season-of-light/",
+            "date": "2022年8月30日"
+        },
+        {
             "title": "GO對戰聯盟：光之季更新",
             "link": "https://pokemongolive.com/zh_hant/post/gobattleleague-seasonoflight/",
             "date": "2022年8月30日"
@@ -148,11 +153,6 @@
             "title": "究極異獸即將降臨全球各地的Pokémon GO Fest 2022！",
             "link": "https://pokemongolive.com/zh_hant/post/ultrabeasts-join-gofest-irl/",
             "date": "2022年6月22日"
-        },
-        {
-            "title": "6月社群日現場活動即將在特定城市登場！",
-            "link": "https://pokemongolive.com/zh_hant/post/irl-community-day-june-2022/",
-            "date": "2022年6月10日"
         }
     ]
 }
