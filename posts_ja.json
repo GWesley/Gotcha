@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「光のシーズン」へようこそ！",
+            "link": "https://pokemongolive.com/ja/post/season-of-light/",
+            "date": "2022年8月30日"
+        },
+        {
             "title": "「GOバトルリーグ：光のシーズン」の最新情報",
             "link": "https://pokemongolive.com/ja/post/gobattleleague-seasonoflight/",
             "date": "2022年8月30日"
@@ -148,11 +153,6 @@
             "title": "「Pokémon GO Fest 2022: Berlin」の「グローバルチャレンジ」と「ウルトラアンロック」についてお知らせします！",
             "link": "https://pokemongolive.com/ja/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "2022年6月29日"
-        },
-        {
-            "title": "7月の最新情報：7月の「コミュニティ・デイ」、「フリーザー」「サンダー」「ファイヤー」がレイドバトルに再登場、『Pokémon GO』の6周年記念イベントなど！",
-            "link": "https://pokemongolive.com/ja/post/july-2022-content-update/",
-            "date": "2022年6月28日"
         }
     ]
 }
