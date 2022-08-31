@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Benvenuti alla Stagione della luce",
+            "link": "https://pokemongolive.com/it/post/season-of-light/",
+            "date": "30 agosto 2022"
+        },
+        {
             "title": "Lega Lotte GO: aggiornamento sulla stagione della luce",
             "link": "https://pokemongolive.com/it/post/gobattleleague-seasonoflight/",
             "date": "30 agosto 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest di Berlino: sfida globale e sblocco dell'ultrabonus!",
             "link": "https://pokemongolive.com/it/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "29 giugno 2022"
-        },
-        {
-            "title": "In arrivo a luglio: Community Day di luglio; Articuno, Zapdos e Moltres tornano nei raid; evento dell'anniversario di Pokémon GO e tanto altro!",
-            "link": "https://pokemongolive.com/it/post/july-2022-content-update/",
-            "date": "28 giugno 2022"
         }
     ]
 }
