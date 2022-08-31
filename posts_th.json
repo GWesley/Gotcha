@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ยินดีต้อนรับสู่ฤดูกาลแห่งแสง",
+            "link": "https://pokemongolive.com/th/post/season-of-light/",
+            "date": "30 สิงหาคม 2565"
+        },
+        {
             "title": "ฉลองให้กับโปเกมอนหมุนวน มาอีกะ ด้วยงานวิจัยแบบจำกัดเวลา!",
             "link": "https://pokemongolive.com/th/post/inkay-limited-research-2022/",
             "date": "30 สิงหาคม 2565"
@@ -148,11 +153,6 @@
             "title": "งานนัดพบคอมมิวนิตี้เดย์มิถุนายนกำลังมาที่เมืองที่คัดเลือกไว้ทั่วโลกแล้ว!",
             "link": "https://pokemongolive.com/th/post/irl-community-day-june-2022/",
             "date": "10 มิถุนายน 2565"
-        },
-        {
-            "title": "คอมมิวนิตี้เดย์มิถุนายน 2022: โมโนซึ",
-            "link": "https://pokemongolive.com/th/post/communityday-june-2022-deino/",
-            "date": "9 มิถุนายน 2565"
         }
     ]
 }
