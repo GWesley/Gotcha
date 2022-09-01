@@ -5,8 +5,18 @@
     ],
     "posts": [
         {
+            "title": "อีเวนต์พลังจิตสุดตื่นตากลับมาแล้ว!",
+            "link": "https://pokemongolive.com/th/post/psychic-spectacular-2022/",
+            "date": "1 กันยายน 2565"
+        },
+        {
             "title": "ยินดีต้อนรับสู่ฤดูกาลแห่งแสง",
             "link": "https://pokemongolive.com/th/post/season-of-light/",
+            "date": "30 สิงหาคม 2565"
+        },
+        {
+            "title": "โกแบตเทิลลีก: อัปเดตฤดูกาลแห่งแสง",
+            "link": "https://pokemongolive.com/th/post/gobattleleague-seasonoflight/",
             "date": "30 สิงหาคม 2565"
         },
         {
@@ -143,16 +153,6 @@
             "title": "คอมมิวนิตี้เดย์กรกฎาคม 2022: มุคคูรุ",
             "link": "https://pokemongolive.com/th/post/communityday-july-2022-starly/",
             "date": "27 มิถุนายน 2565"
-        },
-        {
-            "title": "พบกับอัลตร้าบีสต์ในงานฉลอง Pokémon GO Fest 2022 ทั่วโลก!",
-            "link": "https://pokemongolive.com/th/post/ultrabeasts-join-gofest-irl/",
-            "date": "22 มิถุนายน 2565"
-        },
-        {
-            "title": "งานนัดพบคอมมิวนิตี้เดย์มิถุนายนกำลังมาที่เมืองที่คัดเลือกไว้ทั่วโลกแล้ว!",
-            "link": "https://pokemongolive.com/th/post/irl-community-day-june-2022/",
-            "date": "10 มิถุนายน 2565"
         }
     ]
 }
