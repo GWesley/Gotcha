@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Fantasmagorie Psy fait son grand retour !",
+            "link": "https://pokemongolive.com/fr/post/psychic-spectacular-2022/",
+            "date": "1 septembre 2022"
+        },
+        {
             "title": "Bienvenue dans la Saison de la Lumière",
             "link": "https://pokemongolive.com/fr/post/season-of-light/",
             "date": "30 août 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Célébrez six ans de Pokémon GO durant l'événement Anniversaire et le Week-end Combat !",
             "link": "https://pokemongolive.com/fr/post/anniversary-event-battle-weekend-2022/",
-            "date": "29 juin 2022"
-        },
-        {
-            "title": "Pokémon GO Fest : Berlin - Défi mondial et Déblocage d'Ultra Bonus !",
-            "link": "https://pokemongolive.com/fr/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "29 juin 2022"
         }
     ]
