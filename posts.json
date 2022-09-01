@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Safari Zone is coming to Singapore!!",
+            "link": "https://pokemongolive.com/en/post/safari-zone-singapore-2022-annoucement/",
+            "date": "August 31, 2022"
+        },
+        {
             "title": "Welcome to the Season of Light",
             "link": "https://pokemongolive.com/en/post/season-of-light/",
             "date": "August 30, 2022"
@@ -148,11 +153,6 @@
             "title": "Dev Diaries: Introducing Campfire!",
             "link": "https://pokemongolive.com/en/post/dev-diaries-introducing-campfire/",
             "date": "July 7, 2022"
-        },
-        {
-            "title": "Thank you for coming to Pokémon GO Fest: Berlin!",
-            "link": "https://pokemongolive.com/en/post/gofest-2022-berlin-recap/",
-            "date": "July 6, 2022"
         }
     ]
 }
