@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "超能力週活動回來啦！",
+            "link": "https://pokemongolive.com/zh_hant/post/psychic-spectacular-2022/",
+            "date": "2022年9月1日"
+        },
+        {
             "title": "歡迎來到光之季節",
             "link": "https://pokemongolive.com/zh_hant/post/season-of-light/",
             "date": "2022年8月30日"
@@ -148,11 +153,6 @@
             "title": "2022年7月社群日：姆克兒",
             "link": "https://pokemongolive.com/zh_hant/post/communityday-july-2022-starly/",
             "date": "2022年6月27日"
-        },
-        {
-            "title": "究極異獸即將降臨全球各地的Pokémon GO Fest 2022！",
-            "link": "https://pokemongolive.com/zh_hant/post/ultrabeasts-join-gofest-irl/",
-            "date": "2022年6月22日"
         }
     ]
 }
