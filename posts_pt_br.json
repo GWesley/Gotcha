@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O evento Espetáculo Psíquico voltou!",
+            "link": "https://pokemongolive.com/pt_br/post/psychic-spectacular-2022/",
+            "date": "1 de setembro de 2022"
+        },
+        {
             "title": "Damos as boas-vindas à Temporada de Luz",
             "link": "https://pokemongolive.com/pt_br/post/season-of-light/",
             "date": "30 de agosto de 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Comemorem os seis anos de Pokémon GO durante o Evento de Aniversário e o Fim de semana de batalhas!",
             "link": "https://pokemongolive.com/pt_br/post/anniversary-event-battle-weekend-2022/",
-            "date": "29 de junho de 2022"
-        },
-        {
-            "title": "Pokémon GO Fest: Berlim — Desafio Global e Ultradesbloqueio!",
-            "link": "https://pokemongolive.com/pt_br/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "29 de junho de 2022"
         }
     ]
