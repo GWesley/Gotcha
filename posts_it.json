@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L'evento Psicomania è tornato!",
+            "link": "https://pokemongolive.com/it/post/psychic-spectacular-2022/",
+            "date": "1 settembre 2022"
+        },
+        {
             "title": "Benvenuti alla Stagione della luce",
             "link": "https://pokemongolive.com/it/post/season-of-light/",
             "date": "30 agosto 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Festeggiate i sei anni di Pokémon GO durante l'evento dell'anniversario e il weekend di lotta!",
             "link": "https://pokemongolive.com/it/post/anniversary-event-battle-weekend-2022/",
-            "date": "29 giugno 2022"
-        },
-        {
-            "title": "Pokémon GO Fest di Berlino: sfida globale e sblocco dell'ultrabonus!",
-            "link": "https://pokemongolive.com/it/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "29 giugno 2022"
         }
     ]
