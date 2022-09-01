@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Vuelve el Psicoespectáculo!",
+            "link": "https://pokemongolive.com/es/post/psychic-spectacular-2022/",
+            "date": "1 de septiembre de 2022"
+        },
+        {
             "title": "Os damos la bienvenida a la Temporada de la Luz",
             "link": "https://pokemongolive.com/es/post/season-of-light/",
             "date": "30 de agosto de 2022"
@@ -147,11 +152,6 @@
         {
             "title": "¡Celebra los seis años de Pokémon GO en el Evento de Aniversario y el Fin de Semana de Combates!",
             "link": "https://pokemongolive.com/es/post/anniversary-event-battle-weekend-2022/",
-            "date": "29 de junio de 2022"
-        },
-        {
-            "title": "Pokémon GO Fest: Berlín—¡desafío global y ultrabonus!",
-            "link": "https://pokemongolive.com/es/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "29 de junio de 2022"
         }
     ]
