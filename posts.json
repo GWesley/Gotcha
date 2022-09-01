@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "The Psychic Spectacular event is back!",
+            "link": "https://pokemongolive.com/en/post/psychic-spectacular-2022/",
+            "date": "September 1, 2022"
+        },
+        {
             "title": "New Pokémon GO Partner Research available to Verizon customers!",
             "link": "https://pokemongolive.com/en/post/verizon-pgo-partner-research/",
             "date": "September 1, 2022"
@@ -148,11 +153,6 @@
             "title": "Meet and play with notable Trainers in Seattle – Update!",
             "link": "https://pokemongolive.com/en/post/trainer-meet-greet-go-fest-seattle-2022/",
             "date": "July 18, 2022"
-        },
-        {
-            "title": "Enjoy July Community Day meetups in select cities!",
-            "link": "https://pokemongolive.com/en/post/irl-community-day-july-2022/",
-            "date": "July 8, 2022"
         }
     ]
 }
