@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Das Psycho-Spektakel ist zurück!",
+            "link": "https://pokemongolive.com/de/post/psychic-spectacular-2022/",
+            "date": "1. September 2022"
+        },
+        {
             "title": "Willkommen in der Jahreszeit des Lichts",
             "link": "https://pokemongolive.com/de/post/season-of-light/",
             "date": "30. August 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Wir feiern sechs Jahre Pokémon GO mit einem Jubiläums-Event und einem Kampfwochenende!",
             "link": "https://pokemongolive.com/de/post/anniversary-event-battle-weekend-2022/",
-            "date": "29. Juni 2022"
-        },
-        {
-            "title": "Pokémon GO Fest: Berlin – Globale Herausforderung und Hyperbonus!",
-            "link": "https://pokemongolive.com/de/post/gofest2022-berlin-ultraunlockchallenge/",
             "date": "29. Juni 2022"
         }
     ]
