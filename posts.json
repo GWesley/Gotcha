@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Clefairy are gathering in the moonlight!",
+            "link": "https://pokemongolive.com/en/post/clefairy-commotion-2022/",
+            "date": "September 2, 2022"
+        },
+        {
             "title": "The Psychic Spectacular event is back!",
             "link": "https://pokemongolive.com/en/post/psychic-spectacular-2022/",
             "date": "September 1, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest: Seattle—Global Challenge and Ultra Unlock!",
             "link": "https://pokemongolive.com/en/post/gofest2022-seattle-ultraunlockchallenge/",
             "date": "July 20, 2022"
-        },
-        {
-            "title": "Meet and play with notable Trainers in Seattle – Update!",
-            "link": "https://pokemongolive.com/en/post/trainer-meet-greet-go-fest-seattle-2022/",
-            "date": "July 18, 2022"
         }
     ]
 }
