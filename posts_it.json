@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "I Clefairy si stanno radunando al chiaro di luna!",
+            "link": "https://pokemongolive.com/it/post/clefairy-commotion-2022/",
+            "date": "2 settembre 2022"
+        },
+        {
             "title": "L'evento Psicomania è tornato!",
             "link": "https://pokemongolive.com/it/post/psychic-spectacular-2022/",
             "date": "1 settembre 2022"
@@ -148,11 +153,6 @@
             "title": "Buon sesto anniversario, Pokémon GO!",
             "link": "https://pokemongolive.com/it/post/pgo-anniversary-2022/",
             "date": "5 luglio 2022"
-        },
-        {
-            "title": "Festeggiate i sei anni di Pokémon GO durante l'evento dell'anniversario e il weekend di lotta!",
-            "link": "https://pokemongolive.com/it/post/anniversary-event-battle-weekend-2022/",
-            "date": "29 giugno 2022"
         }
     ]
 }
