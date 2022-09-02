@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "皮皮聚集在月光之下！",
+            "link": "https://pokemongolive.com/zh_hant/post/clefairy-commotion-2022/",
+            "date": "2022年9月2日"
+        },
+        {
             "title": "超能力週活動回來啦！",
             "link": "https://pokemongolive.com/zh_hant/post/psychic-spectacular-2022/",
             "date": "2022年9月1日"
@@ -148,11 +153,6 @@
             "title": "7月活動更新：7月社群日、急凍鳥、閃電鳥和火焰鳥回歸團體戰、Pokémon GO週年慶祝活動以及更多精彩內容！",
             "link": "https://pokemongolive.com/zh_hant/post/july-2022-content-update/",
             "date": "2022年6月28日"
-        },
-        {
-            "title": "2022年7月社群日：姆克兒",
-            "link": "https://pokemongolive.com/zh_hant/post/communityday-july-2022-starly/",
-            "date": "2022年6月27日"
         }
     ]
 }
