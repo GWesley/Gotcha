@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les Mélofée se rassemblent au clair de lune !",
+            "link": "https://pokemongolive.com/fr/post/clefairy-commotion-2022/",
+            "date": "2 septembre 2022"
+        },
+        {
             "title": "La Fantasmagorie Psy fait son grand retour !",
             "link": "https://pokemongolive.com/fr/post/psychic-spectacular-2022/",
             "date": "1 septembre 2022"
@@ -148,11 +153,6 @@
             "title": "Joyeux sixième anniversaire, Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/pgo-anniversary-2022/",
             "date": "5 juillet 2022"
-        },
-        {
-            "title": "Célébrez six ans de Pokémon GO durant l'événement Anniversaire et le Week-end Combat !",
-            "link": "https://pokemongolive.com/fr/post/anniversary-event-battle-weekend-2022/",
-            "date": "29 juin 2022"
         }
     ]
 }
