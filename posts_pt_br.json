@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Dia Comunitário de Setembro de 2022: Roggenrola",
+            "link": "https://pokemongolive.com/pt_br/post/community-day-september-2022-roggenrola/",
+            "date": "7 de setembro de 2022"
+        },
+        {
             "title": "Clefairy estão se reunindo ao luar!",
             "link": "https://pokemongolive.com/pt_br/post/clefairy-commotion-2022/",
             "date": "2 de setembro de 2022"
@@ -148,11 +153,6 @@
             "title": "Agradecemos a participação no Pokémon GO Fest: Berlim!",
             "link": "https://pokemongolive.com/pt_br/post/gofest-2022-berlin-recap/",
             "date": "6 de julho de 2022"
-        },
-        {
-            "title": "Feliz aniversário de seis anos, Pokémon GO!",
-            "link": "https://pokemongolive.com/pt_br/post/pgo-anniversary-2022/",
-            "date": "5 de julho de 2022"
         }
     ]
 }
