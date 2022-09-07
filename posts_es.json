@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Sal a jugar con los bonus especiales de Pokémon GO para los Entrenadores de España!",
+            "link": "https://pokemongolive.com/es/post/a-world-made-for-you-spain-2022/",
+            "date": "6 de septiembre de 2022"
+        },
+        {
             "title": "¡Los Clefairy se están reuniendo a la luz de la luna!",
             "link": "https://pokemongolive.com/es/post/clefairy-commotion-2022/",
             "date": "2 de septiembre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Gracias por venir al Pokémon GO Fest: Berlín!",
             "link": "https://pokemongolive.com/es/post/gofest-2022-berlin-recap/",
             "date": "6 de julio de 2022"
-        },
-        {
-            "title": "¡Feliz sexto aniversario, Pokémon GO!",
-            "link": "https://pokemongolive.com/es/post/pgo-anniversary-2022/",
-            "date": "5 de julio de 2022"
         }
     ]
 }
