@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day im September 2022: Kiesling",
+            "link": "https://pokemongolive.com/de/post/community-day-september-2022-roggenrola/",
+            "date": "7. September 2022"
+        },
+        {
             "title": "Piepi versammeln sich im Mondschein!",
             "link": "https://pokemongolive.com/de/post/clefairy-commotion-2022/",
             "date": "2. September 2022"
@@ -148,11 +153,6 @@
             "title": "Vielen Dank für eure Teilnahme am Pokémon GO Fest in Berlin!",
             "link": "https://pokemongolive.com/de/post/gofest-2022-berlin-recap/",
             "date": "6. Juli 2022"
-        },
-        {
-            "title": "Alles Gute zum 6. Geburtstag, Pokémon GO!",
-            "link": "https://pokemongolive.com/de/post/pgo-anniversary-2022/",
-            "date": "5. Juli 2022"
         }
     ]
 }
