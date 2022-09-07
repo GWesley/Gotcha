@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Sal a jugar con los bonus especiales de Pokémon GO para los Entrenadores de España!",
+            "link": "https://pokemongolive.com/en/post/a-world-made-for-you-spain-2022/",
+            "date": "September 6, 2022"
+        },
+        {
             "title": "Clefairy are gathering in the moonlight!",
             "link": "https://pokemongolive.com/en/post/clefairy-commotion-2022/",
             "date": "September 2, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest: Seattle - Login with Facebook Update",
             "link": "https://pokemongolive.com/en/post/gofest2022-seattle-fb-update/",
             "date": "July 22, 2022"
-        },
-        {
-            "title": "Pokémon GO Fest: Seattle—Global Challenge and Ultra Unlock!",
-            "link": "https://pokemongolive.com/en/post/gofest2022-seattle-ultraunlockchallenge/",
-            "date": "July 20, 2022"
         }
     ]
 }
