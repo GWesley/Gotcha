@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté de septembre 2022 : Nodulithe",
+            "link": "https://pokemongolive.com/fr/post/community-day-september-2022-roggenrola/",
+            "date": "7 septembre 2022"
+        },
+        {
             "title": "Les Mélofée se rassemblent au clair de lune !",
             "link": "https://pokemongolive.com/fr/post/clefairy-commotion-2022/",
             "date": "2 septembre 2022"
@@ -148,11 +153,6 @@
             "title": "Merci pour votre participation au Festival Pokémon GO: Berlin!",
             "link": "https://pokemongolive.com/fr/post/gofest-2022-berlin-recap/",
             "date": "6 juillet 2022"
-        },
-        {
-            "title": "Joyeux sixième anniversaire, Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/pgo-anniversary-2022/",
-            "date": "5 juillet 2022"
         }
     ]
 }
