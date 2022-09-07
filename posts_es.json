@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de la Comunidad de septiembre 2022: Roggenrola",
+            "link": "https://pokemongolive.com/es/post/community-day-september-2022-roggenrola/",
+            "date": "7 de septiembre de 2022"
+        },
+        {
             "title": "¡Sal a jugar con los bonus especiales de Pokémon GO para los Entrenadores de España!",
             "link": "https://pokemongolive.com/es/post/a-world-made-for-you-spain-2022/",
             "date": "6 de septiembre de 2022"
@@ -148,11 +153,6 @@
             "title": "Diarios de desarrollador: ¡Presentamos Campfire!",
             "link": "https://pokemongolive.com/es/post/dev-diaries-introducing-campfire/",
             "date": "7 de julio de 2022"
-        },
-        {
-            "title": "¡Gracias por venir al Pokémon GO Fest: Berlín!",
-            "link": "https://pokemongolive.com/es/post/gofest-2022-berlin-recap/",
-            "date": "6 de julio de 2022"
         }
     ]
 }
