@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Préparez-vous à affronter les Ultra-Chimères de type Acier, Méga-Galeking et Togedemaru au cours d'un nouvel événement : Mettez votre courage à l’épreuve !",
+            "link": "https://pokemongolive.com/fr/post/test-your-mettle/",
+            "date": "12 septembre 2022"
+        },
+        {
             "title": "Journée Communauté de septembre 2022 : Nodulithe",
             "link": "https://pokemongolive.com/fr/post/community-day-september-2022-roggenrola/",
             "date": "7 septembre 2022"
@@ -148,11 +153,6 @@
             "title": "Journaux de développeurs : Présentation de Campfire !",
             "link": "https://pokemongolive.com/fr/post/dev-diaries-introducing-campfire/",
             "date": "7 juillet 2022"
-        },
-        {
-            "title": "Merci pour votre participation au Festival Pokémon GO: Berlin!",
-            "link": "https://pokemongolive.com/fr/post/gofest-2022-berlin-recap/",
-            "date": "6 juillet 2022"
         }
     ]
 }
