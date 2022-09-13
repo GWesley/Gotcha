@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Preparatevi ad affrontare le Ultracreature di tipo Acciaio, MegaAggron e Togedemaru, durante il nuovo evento “Mostra la tua stoffa”!",
+            "link": "https://pokemongolive.com/it/post/test-your-mettle/",
+            "date": "12 settembre 2022"
+        },
+        {
             "title": "Community Day di settembre 2022: Roggenrola",
             "link": "https://pokemongolive.com/it/post/community-day-september-2022-roggenrola/",
             "date": "7 settembre 2022"
@@ -148,11 +153,6 @@
             "title": "Diario degli sviluppatori: presentazione di Campfire!",
             "link": "https://pokemongolive.com/it/post/dev-diaries-introducing-campfire/",
             "date": "7 luglio 2022"
-        },
-        {
-            "title": "Grazie per aver partecipato al Pokémon GO Fest di Berlino!",
-            "link": "https://pokemongolive.com/it/post/gofest-2022-berlin-recap/",
-            "date": "6 luglio 2022"
         }
     ]
 }
