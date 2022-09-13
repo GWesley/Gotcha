@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Preparem-se para Ultra Beasts do tipo Aço, Mega Aggron e Togedemaru, com um novo evento: Teste sua Coragem!",
+            "link": "https://pokemongolive.com/pt_br/post/test-your-mettle/",
+            "date": "12 de setembro de 2022"
+        },
+        {
             "title": "Dia Comunitário de Setembro de 2022: Roggenrola",
             "link": "https://pokemongolive.com/pt_br/post/community-day-september-2022-roggenrola/",
             "date": "7 de setembro de 2022"
@@ -148,11 +153,6 @@
             "title": "Diários de Desenvolvedores: Apresentando o Campfire!",
             "link": "https://pokemongolive.com/pt_br/post/dev-diaries-introducing-campfire/",
             "date": "7 de julho de 2022"
-        },
-        {
-            "title": "Agradecemos a participação no Pokémon GO Fest: Berlim!",
-            "link": "https://pokemongolive.com/pt_br/post/gofest-2022-berlin-recap/",
-            "date": "6 de julho de 2022"
         }
     ]
 }
