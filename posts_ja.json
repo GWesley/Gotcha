@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "はがねタイプの「ウルトラビースト」、「メガボスゴドラ」、「トゲデマル」が「はがねタイプポケモンイベント」に登場！",
+            "link": "https://pokemongolive.com/ja/post/test-your-mettle/",
+            "date": "2022年9月12日"
+        },
+        {
             "title": "「『Pokémon GO』パートナーリサーチ 」のご案内！",
             "link": "https://pokemongolive.com/ja/post/202209partnerresearch-jp/",
             "date": "2022年9月8日"
@@ -148,11 +153,6 @@
             "title": "「Pokémon GO Fest 2022: Seattle」の「グローバルチャレンジ」と「ウルトラアンロック」についてお知らせします！",
             "link": "https://pokemongolive.com/ja/post/gofest2022-seattle-ultraunlockchallenge/",
             "date": "2022年7月20日"
-        },
-        {
-            "title": "ディベロッパーダイアリー：『Campfire』登場！",
-            "link": "https://pokemongolive.com/ja/post/dev-diaries-introducing-campfire/",
-            "date": "2022年7月7日"
         }
     ]
 }
