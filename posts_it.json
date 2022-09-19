@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day di ottobre 2022: Litwick",
+            "link": "https://pokemongolive.com/it/post/community-day-october-2022-litwick/",
+            "date": "19 settembre 2022"
+        },
+        {
             "title": "Preparatevi ad affrontare le Ultracreature di tipo Acciaio, MegaAggron e Togedemaru, durante il nuovo evento “Mostra la tua stoffa”!",
             "link": "https://pokemongolive.com/it/post/test-your-mettle/",
             "date": "12 settembre 2022"
@@ -148,11 +153,6 @@
             "title": "Divertitevi con gli incontri del Community Day di luglio in città selezionate!",
             "link": "https://pokemongolive.com/it/post/irl-community-day-july-2022/",
             "date": "8 luglio 2022"
-        },
-        {
-            "title": "Diario degli sviluppatori: presentazione di Campfire!",
-            "link": "https://pokemongolive.com/it/post/dev-diaries-introducing-campfire/",
-            "date": "7 luglio 2022"
         }
     ]
 }
