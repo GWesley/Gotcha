@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "October 2022 Community Day: Litwick",
+            "link": "https://pokemongolive.com/en/post/community-day-october-2022-litwick/",
+            "date": "September 19, 2022"
+        },
+        {
             "title": "Gear up for Steel-type Ultra Beasts, Mega Aggron, and Togedemaru with a new event–Test Your Mettle!",
             "link": "https://pokemongolive.com/en/post/test-your-mettle/",
             "date": "September 12, 2022"
@@ -148,11 +153,6 @@
             "title": "Daily Adventure Incense is coming to Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/daily-adventure-incense-update/",
             "date": "July 25, 2022"
-        },
-        {
-            "title": "Step back in time with the Hisuian Discoveries event",
-            "link": "https://pokemongolive.com/en/post/hisuian-discoveries/",
-            "date": "July 24, 2022"
         }
     ]
 }
