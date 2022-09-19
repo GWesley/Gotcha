@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "2022年10月社群日：燭光靈",
+            "link": "https://pokemongolive.com/zh_hant/post/community-day-october-2022-litwick/",
+            "date": "2022年9月19日"
+        },
+        {
             "title": "在全新的「百鍊成鋼」活動中，準備挑戰鋼屬性的究極異獸、超級波士可多拉還有托戈德瑪爾！",
             "link": "https://pokemongolive.com/zh_hant/post/test-your-mettle/",
             "date": "2022年9月12日"
@@ -148,11 +153,6 @@
             "title": "歡慶《Pokémon GO》6週年！",
             "link": "https://pokemongolive.com/zh_hant/post/pgo-anniversary-2022/",
             "date": "2022年7月5日"
-        },
-        {
-            "title": "加入週年慶活動和對戰週末，歡慶Pokémon GO六周年！",
-            "link": "https://pokemongolive.com/zh_hant/post/anniversary-event-battle-weekend-2022/",
-            "date": "2022年6月29日"
         }
     ]
 }
