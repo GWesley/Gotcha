@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté du 20 octobre 2022 : Funécire",
+            "link": "https://pokemongolive.com/fr/post/community-day-october-2022-litwick/",
+            "date": "19 septembre 2022"
+        },
+        {
             "title": "Préparez-vous à affronter les Ultra-Chimères de type Acier, Méga-Galeking et Togedemaru au cours d'un nouvel événement : Mettez votre courage à l’épreuve !",
             "link": "https://pokemongolive.com/fr/post/test-your-mettle/",
             "date": "12 septembre 2022"
@@ -148,11 +153,6 @@
             "title": "Profitez des rencontres de la Journée Communauté de juillet dans les villes sélectionnées !",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-july-2022/",
             "date": "8 juillet 2022"
-        },
-        {
-            "title": "Journaux de développeurs : Présentation de Campfire !",
-            "link": "https://pokemongolive.com/fr/post/dev-diaries-introducing-campfire/",
-            "date": "7 juillet 2022"
         }
     ]
 }
