@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day im Oktober 2022: Lichtel",
+            "link": "https://pokemongolive.com/de/post/community-day-october-2022-litwick/",
+            "date": "19. September 2022"
+        },
+        {
             "title": "Testet eure Nerven aus Stahl – bei einem neuen Event mit Ultrabestien vom Typ Stahl, Mega-Stolloss und Togedemaru!",
             "link": "https://pokemongolive.com/de/post/test-your-mettle/",
             "date": "12. September 2022"
@@ -148,11 +153,6 @@
             "title": "Nehmt im Juli an Community Day-Meetups in ausgewählten Städten teil!",
             "link": "https://pokemongolive.com/de/post/irl-community-day-july-2022/",
             "date": "8. Juli 2022"
-        },
-        {
-            "title": "Entwicklertagebuch: Campfire",
-            "link": "https://pokemongolive.com/de/post/dev-diaries-introducing-campfire/",
-            "date": "7. Juli 2022"
         }
     ]
 }
