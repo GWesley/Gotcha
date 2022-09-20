@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mit Garstella, Aggrostella und neuen kostümierten Pokémon ist ein stylischer Auftritt bei der Fashion Week garantiert!",
+            "link": "https://pokemongolive.com/de/post/fashion-week-2022/",
+            "date": "20. September 2022"
+        },
+        {
             "title": "Community Day im Oktober 2022: Lichtel",
             "link": "https://pokemongolive.com/de/post/community-day-october-2022-litwick/",
             "date": "19. September 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest in Seattle – Globale Herausforderung und Hyperbonus!",
             "link": "https://pokemongolive.com/de/post/gofest2022-seattle-ultraunlockchallenge/",
             "date": "20. Juli 2022"
-        },
-        {
-            "title": "Nehmt im Juli an Community Day-Meetups in ausgewählten Städten teil!",
-            "link": "https://pokemongolive.com/de/post/irl-community-day-july-2022/",
-            "date": "8. Juli 2022"
         }
     ]
 }
