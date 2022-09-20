@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "在時裝週期間與好壞星、超壞星和全新的扮裝寶可夢一起大放異彩！",
+            "link": "https://pokemongolive.com/zh_hant/post/fashion-week-2022/",
+            "date": "2022年9月20日"
+        },
+        {
             "title": "2022年10月社群日：燭光靈",
             "link": "https://pokemongolive.com/zh_hant/post/community-day-october-2022-litwick/",
             "date": "2022年9月19日"
@@ -148,11 +153,6 @@
             "title": "感謝各位參與Pokémon GO Fest 2022: Berlin！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest-2022-berlin-recap/",
             "date": "2022年7月6日"
-        },
-        {
-            "title": "歡慶《Pokémon GO》6週年！",
-            "link": "https://pokemongolive.com/zh_hant/post/pgo-anniversary-2022/",
-            "date": "2022年7月5日"
         }
     ]
 }
