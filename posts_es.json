@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Volveos cósmicos con el nuevo evento Estrellas de la Evolución!",
+            "link": "https://pokemongolive.com/es/post/evolving-stars-2022/",
+            "date": "28 de septiembre de 2022"
+        },
+        {
             "title": "¡Alardes de estilo con Mareanie, Toxapex y Pokémon con nuevos trajes durante la Semana de la Moda!",
             "link": "https://pokemongolive.com/es/post/fashion-week-2022/",
             "date": "20 de septiembre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Llega a Pokémon GO el Incienso de Aventura Diaria!",
             "link": "https://pokemongolive.com/es/post/daily-adventure-incense-update/",
             "date": "25 de julio de 2022"
-        },
-        {
-            "title": "Regresa al pasado con el evento Descubriendo Hisui",
-            "link": "https://pokemongolive.com/es/post/hisuian-discoveries/",
-            "date": "24 de julio de 2022"
         }
     ]
 }
