@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "參加全新的「進化之星」活動，觀察寶可夢們不可思議的進化吧！",
+            "link": "https://pokemongolive.com/zh_hant/post/evolving-stars-2022/",
+            "date": "2022年9月28日"
+        },
+        {
             "title": "Pokémon GO Safari Zone: Taipei入場券現正熱賣中！",
             "link": "https://pokemongolive.com/zh_hant/post/pokemon-go-safari-zone-taipei/",
             "date": "2022年9月22日"
@@ -148,11 +153,6 @@
             "title": "「Pokémon GO Fest: Seattle」——「全球大挑戰」和「究極解鎖」！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest2022-seattle-ultraunlockchallenge/",
             "date": "2022年7月20日"
-        },
-        {
-            "title": "開發團隊日記：隆重介紹Campfire！",
-            "link": "https://pokemongolive.com/zh_hant/post/dev-diaries-introducing-campfire/",
-            "date": "2022年7月7日"
         }
     ]
 }
