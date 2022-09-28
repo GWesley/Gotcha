@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Envolez-vous vers d’autres cieux lors de notre événement Évolution étoilée !",
+            "link": "https://pokemongolive.com/fr/post/evolving-stars-2022/",
+            "date": "28 septembre 2022"
+        },
+        {
             "title": "Défilez avec style avec Vorastérie, Prédastérie, et de nouveaux Pokémon costumés pendant la Fashion Week !",
             "link": "https://pokemongolive.com/fr/post/fashion-week-2022/",
             "date": "20 septembre 2022"
@@ -148,11 +153,6 @@
             "title": "Remontez le temps avec l’événement « Découvertes à Hisui »",
             "link": "https://pokemongolive.com/fr/post/hisuian-discoveries/",
             "date": "24 juillet 2022"
-        },
-        {
-            "title": "Pokémon GO Fest : Seattle — Défi mondial et Déblocage d'Ultra Bonus !",
-            "link": "https://pokemongolive.com/fr/post/gofest2022-seattle-ultraunlockchallenge/",
-            "date": "20 juillet 2022"
         }
     ]
 }
