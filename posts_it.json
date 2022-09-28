@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Divertimento cosmico con il nuovo evento Stelle dell’evoluzione!",
+            "link": "https://pokemongolive.com/it/post/evolving-stars-2022/",
+            "date": "28 settembre 2022"
+        },
+        {
             "title": "Durante la settimana della moda, sfoggia il tuo stile con Mareanie, Toxapex e i nuovi Pokémon in costume!",
             "link": "https://pokemongolive.com/it/post/fashion-week-2022/",
             "date": "20 settembre 2022"
@@ -148,11 +153,6 @@
             "title": "Fate un tuffo nel passato con l'evento Scoperte di Hisui",
             "link": "https://pokemongolive.com/it/post/hisuian-discoveries/",
             "date": "24 luglio 2022"
-        },
-        {
-            "title": "Pokémon GO Fest di Seattle: sfida globale e sblocco dell'ultrabonus!",
-            "link": "https://pokemongolive.com/it/post/gofest2022-seattle-ultraunlockchallenge/",
-            "date": "20 luglio 2022"
         }
     ]
 }
