@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "參加全新的「進化之星」活動，觀察寶可夢們不可思議的進化吧！",
+            "link": "https://pokemongolive.com/th/post/evolving-stars-2022/",
+            "date": "28 กันยายน 2565"
+        },
+        {
             "title": "ตั๋วสำหรับ Pokémon GO ซาฟารีโซน: ไทเปเปิดวางจำหน่ายแล้ว!",
             "link": "https://pokemongolive.com/th/post/pokemon-go-safari-zone-taipei/",
             "date": "22 กันยายน 2565"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest: ซีแอตเทิล—คำท้าสำหรับทั่วโลกและปลดล็อกอัลตร้า!",
             "link": "https://pokemongolive.com/th/post/gofest2022-seattle-ultraunlockchallenge/",
             "date": "20 กรกฎาคม 2565"
-        },
-        {
-            "title": "ไดอารี่ของผู้พัฒนา: แนะนำ Campfire!",
-            "link": "https://pokemongolive.com/th/post/dev-diaries-introducing-campfire/",
-            "date": "7 กรกฎาคม 2565"
         }
     ]
 }
