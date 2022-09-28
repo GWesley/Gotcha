@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "처음 개최인 \"진화 포커스\" 이벤트에서 포켓몬의 신비한 진화에 주목하세요!",
+            "link": "https://pokemongolive.com/ko/post/evolving-stars-2022/",
+            "date": "2022년 9월 28일"
+        },
+        {
             "title": "\"Pokémon GO Safari Zone: 타이베이\"의 티켓 판매 중",
             "link": "https://pokemongolive.com/ko/post/pokemon-go-safari-zone-taipei/",
             "date": "2022년 9월 22일"
@@ -148,11 +153,6 @@
             "title": "한국어 커뮤니티를 위한 \"Pokémon GO\"한국 공식 Instagram이 개설되었습니다!",
             "link": "https://pokemongolive.com/ko/post/instagram-korea-launch/",
             "date": "2022년 7월 15일"
-        },
-        {
-            "title": "데펠로퍼 다이어리: Campfire를 소개합니다!",
-            "link": "https://pokemongolive.com/ko/post/dev-diaries-introducing-campfire/",
-            "date": "2022년 7월 7일"
         }
     ]
 }
