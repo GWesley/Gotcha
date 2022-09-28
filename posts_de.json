@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Beim neuen „Stars der Entwicklung“-Event wirken kosmische Kräfte!",
+            "link": "https://pokemongolive.com/de/post/evolving-stars-2022/",
+            "date": "28. September 2022"
+        },
+        {
             "title": "Mit Garstella, Aggrostella und neuen kostümierten Pokémon ist ein stylischer Auftritt bei der Fashion Week garantiert!",
             "link": "https://pokemongolive.com/de/post/fashion-week-2022/",
             "date": "20. September 2022"
@@ -148,11 +153,6 @@
             "title": "Beim Event \"Hisui-Entdeckungen\" drehen wir die Zeit zurück!",
             "link": "https://pokemongolive.com/de/post/hisuian-discoveries/",
             "date": "24. Juli 2022"
-        },
-        {
-            "title": "Pokémon GO Fest in Seattle – Globale Herausforderung und Hyperbonus!",
-            "link": "https://pokemongolive.com/de/post/gofest2022-seattle-ultraunlockchallenge/",
-            "date": "20. Juli 2022"
         }
     ]
 }
