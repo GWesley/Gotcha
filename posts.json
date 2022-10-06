@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day Classic: Dreaming of Dratini",
+            "link": "https://pokemongolive.com/en/post/community-day-classic-dratini-november-2022/",
+            "date": "October 6, 2022"
+        },
+        {
             "title": "Festival of Lights 2022: shine on with new Pokémon debuts and illuminating encounters",
             "link": "https://pokemongolive.com/en/post/festival-of-lights-2022/",
             "date": "October 5, 2022"
@@ -148,11 +153,6 @@
             "title": "Enjoy August Community Day meetups in select cities!",
             "link": "https://pokemongolive.com/en/post/irl-community-day-august-2022/",
             "date": "July 29, 2022"
-        },
-        {
-            "title": "The Community Ambassador Program",
-            "link": "https://pokemongolive.com/en/post/community-ambassador-program/",
-            "date": "July 28, 2022"
         }
     ]
 }
