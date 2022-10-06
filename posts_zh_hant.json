@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "經典社群日：迷你龍之夢",
+            "link": "https://pokemongolive.com/zh_hant/post/community-day-classic-dratini-november-2022/",
+            "date": "2022年10月6日"
+        },
+        {
             "title": "2022光之祭典：全新的寶可夢閃亮登場以及光鮮亮麗的遭遇",
             "link": "https://pokemongolive.com/zh_hant/post/festival-of-lights-2022/",
             "date": "2022年10月5日"
@@ -148,11 +153,6 @@
             "title": "散步小薰香即將在Pokémon GO中登場！",
             "link": "https://pokemongolive.com/zh_hant/post/daily-adventure-incense-update/",
             "date": "2022年7月25日"
-        },
-        {
-            "title": "和洗翠探索活動一起回到過去",
-            "link": "https://pokemongolive.com/zh_hant/post/hisuian-discoveries/",
-            "date": "2022年7月24日"
         }
     ]
 }
