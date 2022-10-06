@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "คอมมิวนิตี้เดย์ (รีเทิร์น): ฝันถึงมินิริว",
+            "link": "https://pokemongolive.com/th/post/community-day-classic-dratini-november-2022/",
+            "date": "6 ตุลาคม 2565"
+        },
+        {
             "title": "เทศกาลแห่งแสง 2022: เรืองรองไปพร้อมกับการเปิดตัวของโปเกมอนใหม่ ๆ และการเผชิญหน้าอันเปล่งประกาย",
             "link": "https://pokemongolive.com/th/post/festival-of-lights-2022/",
             "date": "5 ตุลาคม 2565"
@@ -148,11 +153,6 @@
             "title": "เครื่องหอมรายวันกำลังจะมาใน Pokémon GO!",
             "link": "https://pokemongolive.com/th/post/daily-adventure-incense-update/",
             "date": "25 กรกฎาคม 2565"
-        },
-        {
-            "title": "ย้อนเวลากลับไปกับอีเวนต์การค้นพบในฮิซุย",
-            "link": "https://pokemongolive.com/th/post/hisuian-discoveries/",
-            "date": "24 กรกฎาคม 2565"
         }
     ]
 }
