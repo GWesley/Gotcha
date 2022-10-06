@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Festival de las Luces 2022: pon un toque de luz en tu vida con los debuts de nuevos Pokémon y con encuentros deslumbrantes",
+            "link": "https://pokemongolive.com/es/post/festival-of-lights-2022/",
+            "date": "5 de octubre de 2022"
+        },
+        {
             "title": "¡Volveos cósmicos con el nuevo evento Estrellas de la Evolución!",
             "link": "https://pokemongolive.com/es/post/evolving-stars-2022/",
             "date": "28 de septiembre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Gracias por este fantástico Pokémon GO Fest: Seattle!",
             "link": "https://pokemongolive.com/es/post/gofest-seattle-recap/",
             "date": "26 de julio de 2022"
-        },
-        {
-            "title": "¡Llega a Pokémon GO el Incienso de Aventura Diaria!",
-            "link": "https://pokemongolive.com/es/post/daily-adventure-incense-update/",
-            "date": "25 de julio de 2022"
         }
     ]
 }
