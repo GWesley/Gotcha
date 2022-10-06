@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day Classic: Ein traumhaftes Dratini-Getümmel",
+            "link": "https://pokemongolive.com/de/post/community-day-classic-dratini-november-2022/",
+            "date": "6. Oktober 2022"
+        },
+        {
             "title": "Lichtfestival 2022: Strahlende neue Pokémon-Debüts und erleuchtende Begegnungen",
             "link": "https://pokemongolive.com/de/post/festival-of-lights-2022/",
             "date": "5. Oktober 2022"
@@ -148,11 +153,6 @@
             "title": "Wir danken euch für ein unvergessliches Pokémon GO Fest in Seattle!",
             "link": "https://pokemongolive.com/de/post/gofest-seattle-recap/",
             "date": "26. Juli 2022"
-        },
-        {
-            "title": "Täglicher Abenteuerrauch wird in Pokémon GO eingeführt!",
-            "link": "https://pokemongolive.com/de/post/daily-adventure-incense-update/",
-            "date": "25. Juli 2022"
         }
     ]
 }
