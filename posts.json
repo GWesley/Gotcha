@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Festival of Lights 2022: shine on with new Pokémon debuts and illuminating encounters",
+            "link": "https://pokemongolive.com/en/post/festival-of-lights-2022/",
+            "date": "October 5, 2022"
+        },
+        {
             "title": "Tickets available now for Pokémon GO Safari Zone: Taipei!",
             "link": "https://pokemongolive.com/en/post/pokemon-go-safari-zone-taipei/",
             "date": "September 28, 2022"
@@ -148,11 +153,6 @@
             "title": "The Community Ambassador Program",
             "link": "https://pokemongolive.com/en/post/community-ambassador-program/",
             "date": "July 28, 2022"
-        },
-        {
-            "title": "Thank you for joining our July Community Day meetups!",
-            "link": "https://pokemongolive.com/en/post/community-day-july-2022-recap/",
-            "date": "July 27, 2022"
         }
     ]
 }
