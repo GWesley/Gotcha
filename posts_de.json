@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Lichtfestival 2022: Strahlende neue Pokémon-Debüts und erleuchtende Begegnungen",
+            "link": "https://pokemongolive.com/de/post/festival-of-lights-2022/",
+            "date": "5. Oktober 2022"
+        },
+        {
             "title": "Beim neuen „Stars der Entwicklung“-Event wirken kosmische Kräfte!",
             "link": "https://pokemongolive.com/de/post/evolving-stars-2022/",
             "date": "28. September 2022"
@@ -148,11 +153,6 @@
             "title": "Täglicher Abenteuerrauch wird in Pokémon GO eingeführt!",
             "link": "https://pokemongolive.com/de/post/daily-adventure-incense-update/",
             "date": "25. Juli 2022"
-        },
-        {
-            "title": "Beim Event \"Hisui-Entdeckungen\" drehen wir die Zeit zurück!",
-            "link": "https://pokemongolive.com/de/post/hisuian-discoveries/",
-            "date": "24. Juli 2022"
         }
     ]
 }
