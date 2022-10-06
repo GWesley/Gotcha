@@ -5,12 +5,17 @@
     ],
     "posts": [
         {
+            "title": "เทศกาลแห่งแสง 2022: เรืองรองไปพร้อมกับการเปิดตัวของโปเกมอนใหม่ ๆ และการเผชิญหน้าอันเปล่งประกาย",
+            "link": "https://pokemongolive.com/th/post/festival-of-lights-2022/",
+            "date": "5 ตุลาคม 2565"
+        },
+        {
             "title": "ตั๋วสำหรับ Pokémon GO ซาฟารีโซน: ไทเปเปิดวางจำหน่ายแล้ว!",
             "link": "https://pokemongolive.com/th/post/pokemon-go-safari-zone-taipei/",
             "date": "28 กันยายน 2565"
         },
         {
-            "title": "參加全新的「進化之星」活動，觀察寶可夢們不可思議的進化吧！",
+            "title": "มาเจิดจรัสไปกับอีเวนต์รวมดาววิวัฒนาการ!",
             "link": "https://pokemongolive.com/th/post/evolving-stars-2022/",
             "date": "28 กันยายน 2565"
         },
@@ -148,11 +153,6 @@
             "title": "ย้อนเวลากลับไปกับอีเวนต์การค้นพบในฮิซุย",
             "link": "https://pokemongolive.com/th/post/hisuian-discoveries/",
             "date": "24 กรกฎาคม 2565"
-        },
-        {
-            "title": "Pokémon GO Fest: ซีแอตเทิล—คำท้าสำหรับทั่วโลกและปลดล็อกอัลตร้า!",
-            "link": "https://pokemongolive.com/th/post/gofest2022-seattle-ultraunlockchallenge/",
-            "date": "20 กรกฎาคม 2565"
         }
     ]
 }
