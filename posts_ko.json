@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "2022 빛의 페스티벌: 새로운 포켓몬과 반짝이는 만남을 즐기자!",
+            "link": "https://pokemongolive.com/ko/post/festival-of-lights-2022/",
+            "date": "2022년 10월 5일"
+        },
+        {
             "title": "\"Pokémon GO Safari Zone: 고양\"을 찾아주셔서 감사합니다!",
             "link": "https://pokemongolive.com/ko/post/safari-zone-goyang-2022-recap/",
             "date": "2022년 10월 3일"
@@ -148,11 +153,6 @@
             "title": "히스이 이벤트와 함께 과거로 시간여행을 떠나세요!",
             "link": "https://pokemongolive.com/ko/post/hisuian-discoveries/",
             "date": "2022년 7월 24일"
-        },
-        {
-            "title": "\"Pokémon GO Fest 2022: Seattle\" - 글로벌 챌린지와 울트라 언록 안내!",
-            "link": "https://pokemongolive.com/ko/post/gofest2022-seattle-ultraunlockchallenge/",
-            "date": "2022년 7월 20일"
         }
     ]
 }
