@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "2022光之祭典：全新的寶可夢閃亮登場以及光鮮亮麗的遭遇",
+            "link": "https://pokemongolive.com/zh_hant/post/festival-of-lights-2022/",
+            "date": "2022年10月5日"
+        },
+        {
             "title": "Pokémon GO Safari Zone: Taipei入場券現正熱賣中！",
             "link": "https://pokemongolive.com/zh_hant/post/pokemon-go-safari-zone-taipei/",
             "date": "2022年9月28日"
@@ -148,11 +153,6 @@
             "title": "和洗翠探索活動一起回到過去",
             "link": "https://pokemongolive.com/zh_hant/post/hisuian-discoveries/",
             "date": "2022年7月24日"
-        },
-        {
-            "title": "「Pokémon GO Fest: Seattle」——「全球大挑戰」和「究極解鎖」！",
-            "link": "https://pokemongolive.com/zh_hant/post/gofest2022-seattle-ultraunlockchallenge/",
-            "date": "2022年7月20日"
         }
     ]
 }
