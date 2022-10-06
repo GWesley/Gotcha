@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté classique : Un rêve de Minidraco",
+            "link": "https://pokemongolive.com/fr/post/community-day-classic-dratini-november-2022/",
+            "date": "6 octobre 2022"
+        },
+        {
             "title": "Fête des lumières 2022 : faites briller vos yeux avec de nouveaux débuts de Pokémon et des rencontres éblouissantes",
             "link": "https://pokemongolive.com/fr/post/festival-of-lights-2022/",
             "date": "5 octobre 2022"
@@ -148,11 +153,6 @@
             "title": "Merci pour cet incroyable « Pokémon GO Fest : Seattle » !",
             "link": "https://pokemongolive.com/fr/post/gofest-seattle-recap/",
             "date": "26 juillet 2022"
-        },
-        {
-            "title": "L'Encens d’aventure quotidienne arrive dans Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/daily-adventure-incense-update/",
-            "date": "25 juillet 2022"
         }
     ]
 }
