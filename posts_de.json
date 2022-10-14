@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wir stellen vor: Top-Raids",
+            "link": "https://pokemongolive.com/de/post/elite-raids-new-feature/",
+            "date": "14. Oktober 2022"
+        },
+        {
             "title": "Teil 1 des Halloween-Events 2022 bringt Mega-Banette und haufenweise Bonbon-Boni!",
             "link": "https://pokemongolive.com/de/post/halloween-2022-event-details-part-1/",
             "date": "13. Oktober 2022"
@@ -148,11 +153,6 @@
             "title": "Danke, dass ihr bei unseren Community Day-Meetups im Juli dabei wart!",
             "link": "https://pokemongolive.com/de/post/community-day-july-2022-recap/",
             "date": "27. Juli 2022"
-        },
-        {
-            "title": "Content im August: Pokémon GO Fest: Sapporo und Abschluss-Event zum Pokémon GO Fest 2022, Rückkehr von Zacian und Zamazenta in Raid-Kämpfe, Käferkrabbelei-Event und vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/august-2022-content-update/",
-            "date": "26. Juli 2022"
         }
     ]
 }
