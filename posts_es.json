@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Presentamos las Incursiones Élite",
+            "link": "https://pokemongolive.com/es/post/elite-raids-new-feature/",
+            "date": "14 de octubre de 2022"
+        },
+        {
             "title": "¡La Parte I de Pokémon GO Halloween 2022 viene cargada de bonus de Caramelos y aparecerá Mega-Banette!",
             "link": "https://pokemongolive.com/es/post/halloween-2022-event-details-part-1/",
             "date": "13 de octubre de 2022"
@@ -148,11 +153,6 @@
             "title": "Programa de Embajadores de la Comunidad",
             "link": "https://pokemongolive.com/es/post/community-ambassador-program/",
             "date": "28 de julio de 2022"
-        },
-        {
-            "title": "¡Gracias por acompañarnos en nuestros encuentros del Día de la Comunidad de julio!",
-            "link": "https://pokemongolive.com/es/post/community-day-july-2022-recap/",
-            "date": "27 de julio de 2022"
         }
     ]
 }
