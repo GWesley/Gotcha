@@ -5,12 +5,17 @@
     ],
     "posts": [
         {
+            "title": "隆重介紹：菁英團體戰",
+            "link": "https://pokemongolive.com/zh_hant/post/elite-raids-new-feature/",
+            "date": "2022年10月14日"
+        },
+        {
             "title": "Pokémon GO萬聖節 2022：Part 1將會帶來超級詛咒娃娃以及滿滿的糖果獎勵！",
             "link": "https://pokemongolive.com/zh_hant/post/halloween-2022-event-details-part-1/",
             "date": "2022年10月13日"
         },
         {
-            "title": "經典社群日：迷你龍之夢",
+            "title": "經典社群日：夢見迷你龍",
             "link": "https://pokemongolive.com/zh_hant/post/community-day-classic-dratini-november-2022/",
             "date": "2022年10月6日"
         },
@@ -147,11 +152,6 @@
         {
             "title": "8月內容更新：「Pokémon GO Fest: Sapporo」和「Pokémon GO Fest 2022：壓軸活動」、蒼響和藏瑪然特回歸團體戰、「一起來捕蟲！」活動，還有更多內容！",
             "link": "https://pokemongolive.com/zh_hant/post/august-2022-content-update/",
-            "date": "2022年7月26日"
-        },
-        {
-            "title": "感謝各位讓「Pokémon GO Fest 2022: Seattle」精彩非凡！",
-            "link": "https://pokemongolive.com/zh_hant/post/gofest-seattle-recap/",
             "date": "2022年7月26日"
         }
     ]
