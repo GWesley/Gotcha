@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Presentazione dei raid fuoriclasse",
+            "link": "https://pokemongolive.com/it/post/elite-raids-new-feature/",
+            "date": "14 ottobre 2022"
+        },
+        {
             "title": "Con Pokémon GO Halloween 2022 Parte I arrivano MegaBanette e montagne di bonus caramelle!",
             "link": "https://pokemongolive.com/it/post/halloween-2022-event-details-part-1/",
             "date": "13 ottobre 2022"
@@ -148,11 +153,6 @@
             "title": "Grazie per aver partecipato agli incontri del Community Day di luglio!",
             "link": "https://pokemongolive.com/it/post/community-day-july-2022-recap/",
             "date": "27 luglio 2022"
-        },
-        {
-            "title": "Aggiornamento contenuti di agosto: Pokémon GO Fest di Sapporo e Pokémon GO Fest 2022: evento finale, ritorno di Zacian e Zamazenta nei raid, evento Bacomania e molto altro!",
-            "link": "https://pokemongolive.com/it/post/august-2022-content-update/",
-            "date": "26 luglio 2022"
         }
     ]
 }
