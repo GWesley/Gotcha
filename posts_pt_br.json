@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Apresentamos: as Reides de Elite",
+            "link": "https://pokemongolive.com/pt_br/post/elite-raids-new-feature/",
+            "date": "14 de outubro de 2022"
+        },
+        {
             "title": "A parte I do Halloween 2022 no Pokémon GO traz o Mega Banette e muitos bônus de doces!",
             "link": "https://pokemongolive.com/pt_br/post/halloween-2022-event-details-part-1/",
             "date": "13 de outubro de 2022"
@@ -148,11 +153,6 @@
             "title": "Agradecemos sua participação nos encontros do Dia Comunitário de julho!",
             "link": "https://pokemongolive.com/pt_br/post/community-day-july-2022-recap/",
             "date": "27 de julho de 2022"
-        },
-        {
-            "title": "Atualização de conteúdo de agosto: Pokémon GO Fest: Sapporo e Pokémon GO Fest 2022: Finale, Zacian e Zamazenta retornam às reides, evento Caça aos insetos! e muito mais!",
-            "link": "https://pokemongolive.com/pt_br/post/august-2022-content-update/",
-            "date": "26 de julho de 2022"
         }
     ]
 }
