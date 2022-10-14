@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Introducing: Elite Raids",
+            "link": "https://pokemongolive.com/en/post/elite-raids-new-feature/",
+            "date": "October 14, 2022"
+        },
+        {
             "title": "Pokémon GO Halloween 2022 Part I brings Mega Banette and bucketfuls of Candy bonuses!",
             "link": "https://pokemongolive.com/en/post/halloween-2022-event-details-part-1/",
             "date": "October 13, 2022"
@@ -148,11 +153,6 @@
             "title": "August 2022 Community Day: Galarian Zigzagoon",
             "link": "https://pokemongolive.com/en/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "August 7, 2022"
-        },
-        {
-            "title": "Pokémon GO Fest: Sapporo—Global Challenge and Ultra Unlock!",
-            "link": "https://pokemongolive.com/en/post/gofest-2022-sapporo-globalchallenge/",
-            "date": "August 3, 2022"
         }
     ]
 }
