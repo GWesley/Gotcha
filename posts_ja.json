@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "新登場：エピックレイド",
+            "link": "https://pokemongolive.com/ja/post/elite-raids-new-feature/",
+            "date": "2022年10月14日"
+        },
+        {
             "title": "「Pokémon GO ハロウィン2022：パート1」では、「メガジュペッタ」や「ポケモンのアメ」のボーナスが入手できます！",
             "link": "https://pokemongolive.com/ja/post/halloween-2022-event-details-part-1/",
             "date": "2022年10月13日"
@@ -148,11 +153,6 @@
             "title": "「Pokémon GO Fest: Sapporo」の「グローバルチャレンジ」と「ウルトラアンロック」についてのお知らせ！",
             "link": "https://pokemongolive.com/ja/post/gofest-2022-sapporo-globalchallenge/",
             "date": "2022年8月3日"
-        },
-        {
-            "title": "『Pokémon GO』 パートナーリサーチ」のご案内！",
-            "link": "https://pokemongolive.com/ja/post/202206partnerresearch-jp/",
-            "date": "2022年8月1日"
         }
     ]
 }
