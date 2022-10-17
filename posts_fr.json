@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté de novembre 2022 : Teddiursa",
+            "link": "https://pokemongolive.com/fr/post/community-day-november-2022-teddiursa/",
+            "date": "17 octobre 2022"
+        },
+        {
             "title": "Les Raids d’élite sont là",
             "link": "https://pokemongolive.com/fr/post/elite-raids-new-feature/",
             "date": "14 octobre 2022"
@@ -148,11 +153,6 @@
             "title": "Programme : « Ambassadeur de Communauté »",
             "link": "https://pokemongolive.com/fr/post/community-ambassador-program/",
             "date": "28 juillet 2022"
-        },
-        {
-            "title": "Merci de vous joindre à nos rencontres de la Journée Communauté de juillet !",
-            "link": "https://pokemongolive.com/fr/post/community-day-july-2022-recap/",
-            "date": "27 juillet 2022"
         }
     ]
 }
