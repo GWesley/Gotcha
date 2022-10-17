@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de la Comunidad de noviembre de 2022: Teddiursa",
+            "link": "https://pokemongolive.com/es/post/community-day-november-2022-teddiursa/",
+            "date": "17 de octubre de 2022"
+        },
+        {
             "title": "Presentamos las Incursiones Élite",
             "link": "https://pokemongolive.com/es/post/elite-raids-new-feature/",
             "date": "14 de octubre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Disfrutad de las quedadas del Día de la Comunidad de agosto en determinadas ciudades!",
             "link": "https://pokemongolive.com/es/post/irl-community-day-august-2022/",
             "date": "29 de julio de 2022"
-        },
-        {
-            "title": "Programa de Embajadores de la Comunidad",
-            "link": "https://pokemongolive.com/es/post/community-ambassador-program/",
-            "date": "28 de julio de 2022"
         }
     ]
 }
