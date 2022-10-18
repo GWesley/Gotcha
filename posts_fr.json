@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de Muertos 2022 : Pokémon portant des couronnes cempasúchil, nouveaux bonus et un Défi de Collection !",
+            "link": "https://pokemongolive.com/fr/post/dia-de-muertos-2022/",
+            "date": "18 octobre 2022"
+        },
+        {
             "title": "Journée Communauté de novembre 2022 : Teddiursa",
             "link": "https://pokemongolive.com/fr/post/community-day-november-2022-teddiursa/",
             "date": "17 octobre 2022"
@@ -148,11 +153,6 @@
             "title": "Profitez des rencontres de la Journée Communauté de août dans les villes sélectionnées !",
             "link": "https://pokemongolive.com/fr/post/irl-community-day-august-2022/",
             "date": "29 juillet 2022"
-        },
-        {
-            "title": "Programme : « Ambassadeur de Communauté »",
-            "link": "https://pokemongolive.com/fr/post/community-ambassador-program/",
-            "date": "28 juillet 2022"
         }
     ]
 }
