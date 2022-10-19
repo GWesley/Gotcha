@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La deuxième partie de l’événement « Pokémon GO Halloween 2022 » ne lésine pas en sorts et en bonbons !",
+            "link": "https://pokemongolive.com/fr/post/halloween-2022-event-details-part-2/",
+            "date": "19 octobre 2022"
+        },
+        {
             "title": "Día de Muertos 2022 : Pokémon portant des couronnes cempasúchil, nouveaux bonus et un Défi de Collection !",
             "link": "https://pokemongolive.com/fr/post/dia-de-muertos-2022/",
             "date": "18 octobre 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest : Sapporo — Défi mondial et Déblocage d'Ultra Bonus !",
             "link": "https://pokemongolive.com/fr/post/gofest-2022-sapporo-globalchallenge/",
             "date": "3 août 2022"
-        },
-        {
-            "title": "Profitez des rencontres de la Journée Communauté de août dans les villes sélectionnées !",
-            "link": "https://pokemongolive.com/fr/post/irl-community-day-august-2022/",
-            "date": "29 juillet 2022"
         }
     ]
 }
