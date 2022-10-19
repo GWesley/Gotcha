@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Que no paren los dulces en la Parte II del Pokémon GO Halloween 2022!",
+            "link": "https://pokemongolive.com/es/post/halloween-2022-event-details-part-2/",
+            "date": "19 de octubre de 2022"
+        },
+        {
             "title": "Día de Muertos 2022: ¡Pokémon con coronas de cempasúchil, nuevos bonus y un desafío de colección!",
             "link": "https://pokemongolive.com/es/post/dia-de-muertos-2022/",
             "date": "18 de octubre de 2022"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad de agosto de 2022: Zigzagoon de Galar",
             "link": "https://pokemongolive.com/es/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "7 de agosto de 2022"
-        },
-        {
-            "title": "Pokémon GO Fest: Sapporo—¡Desafío global y Ultrabonus!",
-            "link": "https://pokemongolive.com/es/post/gofest-2022-sapporo-globalchallenge/",
-            "date": "3 de agosto de 2022"
         }
     ]
 }
