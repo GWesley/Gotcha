@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "커뮤니티 노트: \"Pokémon GO\" 맵 업데이트",
+            "link": "https://pokemongolive.com/ko/post/mapupdates-2022/",
+            "date": "2022년 10월 20일"
+        },
+        {
             "title": "\"Pokémon GO 핼러윈 2022: 파트2\"에서 트릭 앤 트리트를 즐기세요!",
             "link": "https://pokemongolive.com/ko/post/halloween-2022-event-details-part-2/",
             "date": "2022년 10월 19일"
@@ -147,11 +152,6 @@
         {
             "title": "다시 돌아온 벌레타입 포켓몬 이벤트, \"메가핫삼\"과 새로운 포켓몬 등장!",
             "link": "https://pokemongolive.com/ko/post/bug-out-returns-2022/",
-            "date": "2022년 8월 7일"
-        },
-        {
-            "title": "2022년 8월 커뮤니티 데이: \"지그제구리(가라르의 모습)\"",
-            "link": "https://pokemongolive.com/ko/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "2022년 8월 7일"
         }
     ]
