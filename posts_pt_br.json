@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Nota da Comunidade: atualizações do mapa do Pokémon GO",
+            "link": "https://pokemongolive.com/pt_br/post/mapupdates-2022/",
+            "date": "20 de outubro de 2022"
+        },
+        {
             "title": "A parte II do Halloween 2022 no Pokémon GO continua com gostosuras e travessuras!",
             "link": "https://pokemongolive.com/pt_br/post/halloween-2022-event-details-part-2/",
             "date": "19 de outubro de 2022"
@@ -148,11 +153,6 @@
             "title": "Dia Comunitário de agosto de 2022: Zigzagoon de Galar",
             "link": "https://pokemongolive.com/pt_br/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "7 de agosto de 2022"
-        },
-        {
-            "title": "Pokémon GO Fest: Sapporo — Desafio Global e Ultradesbloqueio!",
-            "link": "https://pokemongolive.com/pt_br/post/gofest-2022-sapporo-globalchallenge/",
-            "date": "3 de agosto de 2022"
         }
     ]
 }
