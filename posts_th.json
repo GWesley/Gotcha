@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "หมายเหตุชุมชน: อัปเดตแผนที่ Pokémon GO",
+            "link": "https://pokemongolive.com/th/post/mapupdates-2022/",
+            "date": "20 ตุลาคม 2565"
+        },
+        {
             "title": "\"Pokémon GO ฮาโลวีน 2022 ส่วนที่ 2\" สนุกไปกับทริกออร์ทรีต!",
             "link": "https://pokemongolive.com/th/post/halloween-2022-event-details-part-2/",
             "date": "19 ตุลาคม 2565"
@@ -148,11 +153,6 @@
             "title": "คอมมิวนิตี้เดย์สิงหาคม 2022: จิกุซากุมะ (ร่างกาลาร์)",
             "link": "https://pokemongolive.com/th/post/communityday-august-2022-galarian-zigzagoon/",
             "date": "7 สิงหาคม 2565"
-        },
-        {
-            "title": "Pokémon GO Fest: ซัปโปโร—คำท้าสำหรับทั่วโลกและปลดล็อกอัลตร้า!",
-            "link": "https://pokemongolive.com/th/post/gofest-2022-sapporo-globalchallenge/",
-            "date": "3 สิงหาคม 2565"
         }
     ]
 }
