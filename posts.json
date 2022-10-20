@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community note: Updates to the Pokémon GO map",
+            "link": "https://pokemongolive.com/en/post/mapupdates-2022/",
+            "date": "October 20, 2022"
+        },
+        {
             "title": "Pokémon GO Halloween 2022 Part II keeps the tricks and treats coming!",
             "link": "https://pokemongolive.com/en/post/halloween-2022-event-details-part-2/",
             "date": "October 19, 2022"
@@ -148,11 +153,6 @@
             "title": "Celebrate the 2022 Pokémon World Championships in Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/world-championships-event-2022/",
             "date": "August 11, 2022"
-        },
-        {
-            "title": "Pokémon GO Fest 2022: Finale event details revealed—Ultra Beasts, Sky Forme Shaymin, and much, much more!",
-            "link": "https://pokemongolive.com/en/post/gofest2022-finale-event/",
-            "date": "August 9, 2022"
         }
     ]
 }
