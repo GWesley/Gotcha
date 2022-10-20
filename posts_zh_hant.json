@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "社群筆記：Pokémon GO遊戲地圖更新",
+            "link": "https://pokemongolive.com/zh_hant/post/mapupdates-2022/",
+            "date": "2022年10月20日"
+        },
+        {
             "title": "2022年Pokémon GO萬聖節活動Part 2持續帶來更多驚喜！",
             "link": "https://pokemongolive.com/zh_hant/post/halloween-2022-event-details-part-2/",
             "date": "2022年10月19日"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest: Sapporo——「全球大挑戰」和「究極解鎖」！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest-2022-sapporo-globalchallenge/",
             "date": "2022年8月3日"
-        },
-        {
-            "title": "Pokémon GO Safari Zone活動即將來到台北市",
-            "link": "https://pokemongolive.com/zh_hant/post/safari-zone-taipei-2022-annoucement/",
-            "date": "2022年8月1日"
         }
     ]
 }
