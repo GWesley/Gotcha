@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "コミュニティノート：『Pokémon GO』のマップに行われるアップデート",
+            "link": "https://pokemongolive.com/ja/post/mapupdates-2022/",
+            "date": "2022年10月20日"
+        },
+        {
             "title": "「Pokémon GO ハロウィン2022：パート2」でもトリック・オア・トリートを楽しみましょう！",
             "link": "https://pokemongolive.com/ja/post/halloween-2022-event-details-part-2/",
             "date": "2022年10月19日"
@@ -148,11 +153,6 @@
             "title": "3D屋外広告「クロス新宿ビジョン」に、“ニャ”と“ネコ”のつくポケモンたちが登場ニャ！",
             "link": "https://pokemongolive.com/ja/post/shinjuku-nyatoneko/",
             "date": "2022年8月8日"
-        },
-        {
-            "title": "「Pokémon GO Fest 2022 Sapporo」で発生した接続しにくい状況について",
-            "link": "https://pokemongolive.com/ja/post/gofestsapporo-issue/",
-            "date": "2022年8月7日"
         }
     ]
 }
