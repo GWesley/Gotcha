@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Update für das Stickerfeature in Pokémon GO",
+            "link": "https://pokemongolive.com/de/post/sticker-feature-update-2022/",
+            "date": "25. Oktober 2022"
+        },
+        {
             "title": "Tickets für die Pokémon GO-Safari-Zone in den Gardens by the Bay jetzt verfügbar",
             "link": "https://pokemongolive.com/de/post/pokemon-go-safari-zone-singapore/",
             "date": "24. Oktober 2022"
@@ -148,11 +153,6 @@
             "title": "Vielen Dank für eure Teilnahme am Pokémon GO Fest in Sapporo!",
             "link": "https://pokemongolive.com/de/post/gofest-2022-sapporo-recap/",
             "date": "8. August 2022"
-        },
-        {
-            "title": "Unser Käferkrabbelei-Event kehrt mit Mega-Scherox und einem neuen Pokémon-Debüt zurück!",
-            "link": "https://pokemongolive.com/de/post/bug-out-returns-2022/",
-            "date": "7. August 2022"
         }
     ]
 }
