@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "È in arrivo un aggiornamento relativo alla funzionalità degli adesivi in Pokémon GO!",
+            "link": "https://pokemongolive.com/it/post/sticker-feature-update-2022/",
+            "date": "25 ottobre 2022"
+        },
+        {
             "title": "Biglietti disponibili adesso per la Zona Safari di Pokémon GO al Gardens by the Bay.",
             "link": "https://pokemongolive.com/it/post/pokemon-go-safari-zone-singapore/",
             "date": "24 ottobre 2022"
@@ -148,11 +153,6 @@
             "title": "Grazie per aver partecipato al Pokémon GO Fest di Sapporo!",
             "link": "https://pokemongolive.com/it/post/gofest-2022-sapporo-recap/",
             "date": "8 agosto 2022"
-        },
-        {
-            "title": "L'evento Bacomania sta per tornare e porterà MegaScizor e il debutto di un nuovo Pokémon",
-            "link": "https://pokemongolive.com/it/post/bug-out-returns-2022/",
-            "date": "7 agosto 2022"
         }
     ]
 }
