@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Ya están disponibles las entradas para la Zona Safari de Pokémon GO en Gardens by the Bay!",
+            "link": "https://pokemongolive.com/es/post/pokemon-go-safari-zone-singapore/",
+            "date": "24 de octubre de 2022"
+        },
+        {
             "title": "Nota para la comunidad: Novedades en el mapa de Pokémon GO",
             "link": "https://pokemongolive.com/es/post/mapupdates-2022/",
             "date": "20 de octubre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Gracias por asistir al Pokémon GO Fest: Sapporo!",
             "link": "https://pokemongolive.com/es/post/gofest-2022-sapporo-recap/",
             "date": "8 de agosto de 2022"
-        },
-        {
-            "title": "Vuelve el evento ¡A bichear!, con Mega-Scizor y un Pokémon que debuta",
-            "link": "https://pokemongolive.com/es/post/bug-out-returns-2022/",
-            "date": "7 de agosto de 2022"
         }
     ]
 }
