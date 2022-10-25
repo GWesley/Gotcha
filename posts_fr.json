@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Une mise à jour pour les autocollants arrive dans Pokémon GO !",
+            "link": "https://pokemongolive.com/fr/post/sticker-feature-update-2022/",
+            "date": "25 octobre 2022"
+        },
+        {
             "title": "Les billets disponibles pour Pokémon GO Safari Zone au Gardens by the Bay sont désormais disponibles !",
             "link": "https://pokemongolive.com/fr/post/pokemon-go-safari-zone-singapore/",
             "date": "24 octobre 2022"
@@ -148,11 +153,6 @@
             "title": "Merci pour votre participation au « Pokémon GO Fest : Sapporo » !",
             "link": "https://pokemongolive.com/fr/post/gofest-2022-sapporo-recap/",
             "date": "8 août 2022"
-        },
-        {
-            "title": "L’événement « Insectomania » revient en compagnie de Méga-Cizayox et un tout nouveau Pokémon",
-            "link": "https://pokemongolive.com/fr/post/bug-out-returns-2022/",
-            "date": "7 août 2022"
         }
     ]
 }
