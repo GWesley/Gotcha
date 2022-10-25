@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Actualización de pegatinas en Pokémon GO!",
+            "link": "https://pokemongolive.com/es/post/sticker-feature-update-2022/",
+            "date": "25 de octubre de 2022"
+        },
+        {
             "title": "¡Ya están disponibles las entradas para la Zona Safari de Pokémon GO en Gardens by the Bay!",
             "link": "https://pokemongolive.com/es/post/pokemon-go-safari-zone-singapore/",
             "date": "24 de octubre de 2022"
@@ -148,11 +153,6 @@
             "title": "Revelamos los detalles del evento final de Pokémon GO Fest 2022: Ultraentes, Shaymin Forma Cielo ¡y muchísimo más!",
             "link": "https://pokemongolive.com/es/post/gofest2022-finale-event/",
             "date": "9 de agosto de 2022"
-        },
-        {
-            "title": "¡Gracias por asistir al Pokémon GO Fest: Sapporo!",
-            "link": "https://pokemongolive.com/es/post/gofest-2022-sapporo-recap/",
-            "date": "8 de agosto de 2022"
         }
     ]
 }
