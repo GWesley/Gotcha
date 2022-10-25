@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』のステッカー機能がアップデート！",
+            "link": "https://pokemongolive.com/ja/post/sticker-feature-update-2022/",
+            "date": "2022年10月25日"
+        },
+        {
             "title": "Gardens by the Bayで開催される「Safari Zone」イベントのチケット発売中！",
             "link": "https://pokemongolive.com/ja/post/pokemon-go-safari-zone-singapore/",
             "date": "2022年10月24日"
@@ -148,11 +153,6 @@
             "title": "「Pokémon GO Fest 2022: フィナーレ」開催！「ウルトラビースト」、「シェイミ（スカイフォルム）」の登場など、盛りだくさんです！",
             "link": "https://pokemongolive.com/ja/post/gofest2022-finale-event/",
             "date": "2022年8月9日"
-        },
-        {
-            "title": "「Pokémon GO Fest: Sapporo」にご参加いただき、ありがとうございました！",
-            "link": "https://pokemongolive.com/ja/post/gofest-2022-sapporo-recap/",
-            "date": "2022年8月8日"
         }
     ]
 }
