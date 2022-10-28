@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "드디어 \"조로아\"와 \"조로아크\"가 \"Pokémon GO\"에 등장!",
+            "link": "https://pokemongolive.com/ko/post/halloween-zorua/",
+            "date": "2022년 10월 28일"
+        },
+        {
             "title": "\"Pokémon GO\" 스티커 기능이 업데이트됩니다!",
             "link": "https://pokemongolive.com/ko/post/sticker-feature-update-2022/",
             "date": "2022년 10월 25일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO Fest 2022: 피날레\" 이벤트 공개! 울트라비스트, \"쉐이미(스카이폼)\", 매우 다양한 이벤트!",
             "link": "https://pokemongolive.com/ko/post/gofest2022-finale-event/",
             "date": "2022년 8월 9일"
-        },
-        {
-            "title": "\"Pokémon GO Fest 2022: Sapporo\"에 참여해 주셔서 감사합니다!",
-            "link": "https://pokemongolive.com/ko/post/gofest-2022-sapporo-recap/",
-            "date": "2022년 8월 8일"
         }
     ]
 }
