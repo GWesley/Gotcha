@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「ゾロア」と「ゾロアーク」が『Pokémon GO』に登場しました！",
+            "link": "https://pokemongolive.com/ja/post/halloween-zorua/",
+            "date": "2022年10月28日"
+        },
+        {
             "title": "『Pokémon GO』のステッカー機能がアップデート！",
             "link": "https://pokemongolive.com/ja/post/sticker-feature-update-2022/",
             "date": "2022年10月25日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』で「ポケモンワールドチャンピオンシップス2022」の開催を祝いましょう！",
             "link": "https://pokemongolive.com/ja/post/world-championships-event-2022/",
             "date": "2022年8月11日"
-        },
-        {
-            "title": "「Pokémon GO Fest 2022: フィナーレ」開催！「ウルトラビースト」、「シェイミ（スカイフォルム）」の登場など、盛りだくさんです！",
-            "link": "https://pokemongolive.com/ja/post/gofest2022-finale-event/",
-            "date": "2022年8月9日"
         }
     ]
 }
