@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Zorua e Zoroak deram as caras no Pokémon GO!",
+            "link": "https://pokemongolive.com/pt_br/post/halloween-zorua/",
+            "date": "28 de outubro de 2022"
+        },
+        {
             "title": "Uma atualização do recurso de adesivo está chegando ao Pokémon GO!",
             "link": "https://pokemongolive.com/pt_br/post/sticker-feature-update-2022/",
             "date": "25 de outubro de 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest 2022: detalhes do evento final revelados – Ultra Beasts, Shaymin Forma Céu e muito, muito mais!",
             "link": "https://pokemongolive.com/pt_br/post/gofest2022-finale-event/",
             "date": "9 de agosto de 2022"
-        },
-        {
-            "title": "Agradecemos a participação no Pokémon GO Fest: Sapporo!",
-            "link": "https://pokemongolive.com/pt_br/post/gofest-2022-sapporo-recap/",
-            "date": "8 de agosto de 2022"
         }
     ]
 }
