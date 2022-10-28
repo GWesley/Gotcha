@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Zorua et Zoroark arrivent dans Pokémon GO !",
+            "link": "https://pokemongolive.com/fr/post/halloween-zorua/",
+            "date": "28 octobre 2022"
+        },
+        {
             "title": "Une mise à jour pour les autocollants arrive dans Pokémon GO !",
             "link": "https://pokemongolive.com/fr/post/sticker-feature-update-2022/",
             "date": "25 octobre 2022"
@@ -148,11 +153,6 @@
             "title": "Découvrez les détails de l’événement « Pokémon GO Fest 2022 : Final » ! Des Ultra-chimères, Shaymin Forme Céleste et bien plus encore vous attendent !",
             "link": "https://pokemongolive.com/fr/post/gofest2022-finale-event/",
             "date": "9 août 2022"
-        },
-        {
-            "title": "Merci pour votre participation au « Pokémon GO Fest : Sapporo » !",
-            "link": "https://pokemongolive.com/fr/post/gofest-2022-sapporo-recap/",
-            "date": "8 août 2022"
         }
     ]
 }
