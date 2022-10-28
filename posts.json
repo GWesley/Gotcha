@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Campfire, Niantic’s social app, is available in more US cities just in time for Halloween!",
+            "link": "https://pokemongolive.com/en/post/halloween-event-campfire-us/",
+            "date": "October 28, 2022"
+        },
+        {
             "title": "Zorua and Zoroark have revealed themselves in Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/halloween-zorua/",
             "date": "October 28, 2022"
@@ -148,11 +153,6 @@
             "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/en/post/cd-savethedate-s8/",
             "date": "August 22, 2022"
-        },
-        {
-            "title": "Thank you for celebrating Galarian Zigzagoon Community Day with us!",
-            "link": "https://pokemongolive.com/en/post/community-day-august-2022-recap/",
-            "date": "August 17, 2022"
         }
     ]
 }
