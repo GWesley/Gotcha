@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Zorua y Zoroark han aparecido en Pokémon GO!",
+            "link": "https://pokemongolive.com/es/post/halloween-zorua/",
+            "date": "28 de octubre de 2022"
+        },
+        {
             "title": "¡Actualización de pegatinas en Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/sticker-feature-update-2022/",
             "date": "25 de octubre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Celebra el Campeonato Mundial de Pokémon 2022 en Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/world-championships-event-2022/",
             "date": "11 de agosto de 2022"
-        },
-        {
-            "title": "Revelamos los detalles del evento final de Pokémon GO Fest 2022: Ultraentes, Shaymin Forma Cielo ¡y muchísimo más!",
-            "link": "https://pokemongolive.com/es/post/gofest2022-finale-event/",
-            "date": "9 de agosto de 2022"
         }
     ]
 }
