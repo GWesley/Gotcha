@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Zorua and Zoroark have revealed themselves in Pokémon GO!",
+            "link": "https://pokemongolive.com/en/post/halloween-zorua/",
+            "date": "October 28, 2022"
+        },
+        {
             "title": "A sticker feature update is coming to Pokémon GO!",
             "link": "https://pokemongolive.com/en/post/sticker-feature-update-2022/",
             "date": "October 25, 2022"
@@ -148,11 +153,6 @@
             "title": "Thank you for celebrating Galarian Zigzagoon Community Day with us!",
             "link": "https://pokemongolive.com/en/post/community-day-august-2022-recap/",
             "date": "August 17, 2022"
-        },
-        {
-            "title": "Exclusive Timed Research during the Pokémon GO World Championships Twitch broadcast!",
-            "link": "https://pokemongolive.com/en/post/world-championship-twitch-timed-research-2022/",
-            "date": "August 16, 2022"
         }
     ]
 }
