@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "謝謝你們，和我們一起在Pokémon GO Safari Zone: Taipei留下美好回憶！",
+            "link": "https://pokemongolive.com/zh_hant/post/safari-zone-taipei-2022-recap/",
+            "date": "2022年10月31日"
+        },
+        {
             "title": "索羅亞和索羅亞克首次在Pokémon GO現身！",
             "link": "https://pokemongolive.com/zh_hant/post/halloween-zorua/",
             "date": "2022年10月28日"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest 2022：壓軸活動詳情揭曉——究極異獸、謝米（天空形態），以及更多內容！",
             "link": "https://pokemongolive.com/zh_hant/post/gofest2022-finale-event/",
             "date": "2022年8月9日"
-        },
-        {
-            "title": "感謝各位參與Pokémon GO Fest: Sapporo！",
-            "link": "https://pokemongolive.com/zh_hant/post/gofest-2022-sapporo-recap/",
-            "date": "2022年8月8日"
         }
     ]
 }
