@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Developer Diaries: The Art of Pokémon GO",
+            "link": "https://pokemongolive.com/en/post/dev-diaries-art-of-pokemon-go/",
+            "date": "November 2, 2022"
+        },
+        {
             "title": "Thanks for making memories at Pokémon GO Safari Zone: Taipei!",
             "link": "https://pokemongolive.com/en/post/safari-zone-taipei-2022-recap/",
             "date": "October 31, 2022"
@@ -148,11 +153,6 @@
             "title": "More in-game item bundles from Prime Gaming are coming throughout fall!",
             "link": "https://pokemongolive.com/en/post/pokemon-go-prime-gaming-promotion-2022-fall-reminder/",
             "date": "August 25, 2022"
-        },
-        {
-            "title": "Pokémon GO Safari Zone: Goyang – Tickets available now for South Korea’s first Safari Zone event!",
-            "link": "https://pokemongolive.com/en/post/pokemon-go-safari-zone-goyang/",
-            "date": "August 22, 2022"
         }
     ]
 }
