@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Diarios de desarrollador: el arte de Pokémon GO",
+            "link": "https://pokemongolive.com/es/post/dev-diaries-art-of-pokemon-go/",
+            "date": "2 de noviembre de 2022"
+        },
+        {
             "title": "¡Zorua y Zoroark han aparecido en Pokémon GO!",
             "link": "https://pokemongolive.com/es/post/halloween-zorua/",
             "date": "28 de octubre de 2022"
@@ -147,11 +152,6 @@
         {
             "title": "¡Reclama tus bonus en Prime Gaming!",
             "link": "https://pokemongolive.com/es/post/pokemon-go-prime-gaming-promotion-2022-reminder/",
-            "date": "11 de agosto de 2022"
-        },
-        {
-            "title": "¡Celebra el Campeonato Mundial de Pokémon 2022 en Pokémon GO!",
-            "link": "https://pokemongolive.com/es/post/world-championships-event-2022/",
             "date": "11 de agosto de 2022"
         }
     ]
