@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Diários do Desenvolvedor: A arte do Pokémon GO",
+            "link": "https://pokemongolive.com/pt_br/post/dev-diaries-art-of-pokemon-go/",
+            "date": "2 de novembro de 2022"
+        },
+        {
             "title": "Zorua e Zoroak deram as caras no Pokémon GO!",
             "link": "https://pokemongolive.com/pt_br/post/halloween-zorua/",
             "date": "28 de outubro de 2022"
@@ -148,11 +153,6 @@
             "title": "Celebre o Campeonato Mundial do Pokémon GO de 2022!",
             "link": "https://pokemongolive.com/pt_br/post/world-championships-event-2022/",
             "date": "11 de agosto de 2022"
-        },
-        {
-            "title": "Pokémon GO Fest 2022: detalhes do evento final revelados – Ultra Beasts, Shaymin Forma Céu e muito, muito mais!",
-            "link": "https://pokemongolive.com/pt_br/post/gofest2022-finale-event/",
-            "date": "9 de agosto de 2022"
         }
     ]
 }
