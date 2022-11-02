@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Entwicklertagebuch: Das Artwork von Pokémon GO",
+            "link": "https://pokemongolive.com/de/post/dev-diaries-art-of-pokemon-go/",
+            "date": "2. November 2022"
+        },
+        {
             "title": "Zorua und Zoroark zeigen sich in Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/halloween-zorua/",
             "date": "28. Oktober 2022"
@@ -148,11 +153,6 @@
             "title": "Wir feiern die Pokémon-Weltmeisterschaften 2022 in Pokémon GO!",
             "link": "https://pokemongolive.com/de/post/world-championships-event-2022/",
             "date": "11. August 2022"
-        },
-        {
-            "title": "Pokémon GO Fest 2022: Details zum Abschluss-Event enthüllt – Ultrabestien, Shaymin in der Zenitform und vieles, vieles mehr!",
-            "link": "https://pokemongolive.com/de/post/gofest2022-finale-event/",
-            "date": "9. August 2022"
         }
     ]
 }
