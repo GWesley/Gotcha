@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "開発者インタビュー: 『Pokémon GO』のアート",
+            "link": "https://pokemongolive.com/ja/post/dev-diaries-art-of-pokemon-go/",
+            "date": "2022年11月2日"
+        },
+        {
             "title": "「Pokémon GO Safari Zone: Taipei」で一緒に思い出を作ってくれた皆さん、ありがとうございました！",
             "link": "https://pokemongolive.com/ja/post/safari-zone-taipei-2022-recap/",
             "date": "2022年10月31日"
@@ -148,11 +153,6 @@
             "title": "次のシーズンで開催される「コミュニティ・デイ」の日程をお知らせします！",
             "link": "https://pokemongolive.com/ja/post/cd-savethedate-s8/",
             "date": "2022年8月22日"
-        },
-        {
-            "title": "AmazonのPrime Gamingでボーナスの道具を受け取ろう！",
-            "link": "https://pokemongolive.com/ja/post/pokemon-go-prime-gaming-promotion-2022-reminder/",
-            "date": "2022年8月11日"
         }
     ]
 }
