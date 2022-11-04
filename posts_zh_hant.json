@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "開發團隊日記：Pokémon GO的美術",
+            "link": "https://pokemongolive.com/zh_hant/post/dev-diaries-art-of-pokemon-go/",
+            "date": "2022年11月2日"
+        },
+        {
             "title": "謝謝你們，和我們一起在Pokémon GO Safari Zone: Taipei留下美好回憶！",
             "link": "https://pokemongolive.com/zh_hant/post/safari-zone-taipei-2022-recap/",
             "date": "2022年10月31日"
@@ -148,11 +153,6 @@
             "title": "在Pokémon GO歡慶2022 Pokémon World Championships！",
             "link": "https://pokemongolive.com/zh_hant/post/world-championships-event-2022/",
             "date": "2022年8月11日"
-        },
-        {
-            "title": "Pokémon GO Fest 2022：壓軸活動詳情揭曉——究極異獸、謝米（天空形態），以及更多內容！",
-            "link": "https://pokemongolive.com/zh_hant/post/gofest2022-finale-event/",
-            "date": "2022年8月9日"
         }
     ]
 }
