@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ไดอารี่ของผู้พัฒนา: ศิลปะของ Pokémon GO",
+            "link": "https://pokemongolive.com/th/post/dev-diaries-art-of-pokemon-go/",
+            "date": "2 พฤศจิกายน 2565"
+        },
+        {
             "title": "ขอบคุณที่มาร่วมกันสร้างความทรงจำที่ Pokémon GO โซนซาฟารี: ไทเป!",
             "link": "https://pokemongolive.com/th/post/safari-zone-taipei-2022-recap/",
             "date": "31 ตุลาคม 2565"
@@ -148,11 +153,6 @@
             "title": "ขอบคุณที่ฉลองคอมมิวนิตี้เดย์จิกุซากุมะ (ร่างกาลาร์) กับเรา!",
             "link": "https://pokemongolive.com/th/post/community-day-august-2022-recap/",
             "date": "17 สิงหาคม 2565"
-        },
-        {
-            "title": "ฉลอง Pokémon GO World Championships 2022 ใน Pokémon GO!",
-            "link": "https://pokemongolive.com/th/post/world-championships-event-2022/",
-            "date": "11 สิงหาคม 2565"
         }
     ]
 }
