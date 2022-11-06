@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Neu entdeckt! Gierspenst, ein Pokémon aus der Paldea-Region!",
+            "link": "https://pokemongolive.com/de/post/coin/",
+            "date": "6. November 2022"
+        },
+        {
             "title": "Entwicklertagebuch: Das Artwork von Pokémon GO",
             "link": "https://pokemongolive.com/de/post/dev-diaries-art-of-pokemon-go/",
             "date": "2. November 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Holt euch Bonus-Bundles mit Prime Gaming!",
             "link": "https://pokemongolive.com/de/post/pokemon-go-prime-gaming-promotion-2022-reminder/",
-            "date": "11. August 2022"
-        },
-        {
-            "title": "Wir feiern die Pokémon-Weltmeisterschaften 2022 in Pokémon GO!",
-            "link": "https://pokemongolive.com/de/post/world-championships-event-2022/",
             "date": "11. August 2022"
         }
     ]
