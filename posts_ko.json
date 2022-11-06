@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "새로운 발견! 팔데아지방의 포켓몬 「모으령」",
+            "link": "https://pokemongolive.com/ko/post/coin/",
+            "date": "2022년 11월 6일"
+        },
+        {
             "title": "데펠로퍼 다이어리: \"Pokémon GO\"의 아트",
             "link": "https://pokemongolive.com/ko/post/dev-diaries-art-of-pokemon-go/",
             "date": "2022년 11월 2일"
@@ -148,11 +153,6 @@
             "title": "다음 시즌의 커뮤니티 데이 일정을 기억해 주세요!",
             "link": "https://pokemongolive.com/ko/post/cd-savethedate-s8/",
             "date": "2022년 8월 22일"
-        },
-        {
-            "title": "지그제구리(가라르의 모습)\" 커뮤니티 데이에 참가해 주셔서 감사합니다!",
-            "link": "https://pokemongolive.com/ko/post/community-day-august-2022-recap/",
-            "date": "2022년 8월 17일"
         }
     ]
 }
