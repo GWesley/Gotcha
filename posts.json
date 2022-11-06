@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "A new discovery! Gimmighoul, a Pokémon from the Paldea region!",
+            "link": "https://pokemongolive.com/en/post/coin/",
+            "date": "November 6, 2022"
+        },
+        {
             "title": "Developer Diaries: The Art of Pokémon GO",
             "link": "https://pokemongolive.com/en/post/dev-diaries-art-of-pokemon-go/",
             "date": "November 2, 2022"
@@ -148,11 +153,6 @@
             "title": "Warning: Ultra Beast incursions begin August 27!",
             "link": "https://pokemongolive.com/en/post/gofest2022-finale-ultra-beast-incursions/",
             "date": "August 26, 2022"
-        },
-        {
-            "title": "More in-game item bundles from Prime Gaming are coming throughout fall!",
-            "link": "https://pokemongolive.com/en/post/pokemon-go-prime-gaming-promotion-2022-fall-reminder/",
-            "date": "August 25, 2022"
         }
     ]
 }
