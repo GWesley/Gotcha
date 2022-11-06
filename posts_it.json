@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Una nuova scoperta! Gimmighoul, un Pokémon della regione di Paldea!",
+            "link": "https://pokemongolive.com/it/post/coin/",
+            "date": "6 novembre 2022"
+        },
+        {
             "title": "Diario degli sviluppatori: L’arte di Pokémon GO",
             "link": "https://pokemongolive.com/it/post/dev-diaries-art-of-pokemon-go/",
             "date": "2 novembre 2022"
@@ -147,11 +152,6 @@
         {
             "title": "Richiedete l'offerta di oggetti bonus tramite Prime Gaming!",
             "link": "https://pokemongolive.com/it/post/pokemon-go-prime-gaming-promotion-2022-reminder/",
-            "date": "11 agosto 2022"
-        },
-        {
-            "title": "Festeggiate i Campionati Mondiali Pokémon 2022 in Pokémon GO!",
-            "link": "https://pokemongolive.com/it/post/world-championships-event-2022/",
             "date": "11 agosto 2022"
         }
     ]
