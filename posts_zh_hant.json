@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "發現全新寶可夢！帕底亞地區的寶可夢「索財靈」",
+            "link": "https://pokemongolive.com/zh_hant/post/coin/",
+            "date": "2022年11月6日"
+        },
+        {
             "title": "開發團隊日記：Pokémon GO的美術",
             "link": "https://pokemongolive.com/zh_hant/post/dev-diaries-art-of-pokemon-go/",
             "date": "2022年11月2日"
@@ -148,11 +153,6 @@
             "title": "感謝大家和我們一起慶祝伽勒爾蛇紋熊的社群日！",
             "link": "https://pokemongolive.com/zh_hant/post/community-day-august-2022-recap/",
             "date": "2022年8月17日"
-        },
-        {
-            "title": "在Pokémon GO歡慶2022 Pokémon World Championships！",
-            "link": "https://pokemongolive.com/zh_hant/post/world-championships-event-2022/",
-            "date": "2022年8月11日"
         }
     ]
 }
