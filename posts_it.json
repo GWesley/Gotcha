@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Novembre sarà ricco di avventure con l’evento Fame golosa e l’Attacco del Team GO Rocket di Pokémon GO!",
+            "link": "https://pokemongolive.com/it/post/greedy-gluttons/",
+            "date": "7 novembre 2022"
+        },
+        {
             "title": "Una nuova scoperta! Gimmighoul, un Pokémon della regione di Paldea!",
             "link": "https://pokemongolive.com/it/post/coin/",
             "date": "6 novembre 2022"
@@ -148,11 +153,6 @@
             "title": "Ricerca a tempo esclusiva durante la trasmissione Twitch dei Campionati Mondiali di Pokémon GO!",
             "link": "https://pokemongolive.com/it/post/world-championship-twitch-timed-research-2022/",
             "date": "16 agosto 2022"
-        },
-        {
-            "title": "Richiedete l'offerta di oggetti bonus tramite Prime Gaming!",
-            "link": "https://pokemongolive.com/it/post/pokemon-go-prime-gaming-promotion-2022-reminder/",
-            "date": "11 agosto 2022"
         }
     ]
 }
