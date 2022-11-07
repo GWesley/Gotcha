@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "En noviembre, podremos disfrutar de un montón de aventuras en Pokémon GO con el evento Glotones Insaciables y la Toma de Control del Team GO Rocket.",
+            "link": "https://pokemongolive.com/es/post/greedy-gluttons/",
+            "date": "7 de noviembre de 2022"
+        },
+        {
             "title": "¡Un nuevo descubrimiento! ¡Gimmighoul, un Pokémon de la región de Paldea!",
             "link": "https://pokemongolive.com/es/post/coin/",
             "date": "6 de noviembre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Gracias por celebrar el Día de la Comunidad dedicado a Zigzagoon de Galar con nosotros!",
             "link": "https://pokemongolive.com/es/post/community-day-august-2022-recap/",
             "date": "17 de agosto de 2022"
-        },
-        {
-            "title": "¡Investigación temporal exclusiva durante la retransmisión del Campeonato Mundial de Pokémon GO en Twitch!",
-            "link": "https://pokemongolive.com/es/post/world-championship-twitch-timed-research-2022/",
-            "date": "16 de agosto de 2022"
         }
     ]
 }
