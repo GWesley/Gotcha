@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les événements « Gloutons Goulus » et « l’Offensive Team GO Rocket » vous réservent de sacrées aventures dans Pokémon GO ce novembre !",
+            "link": "https://pokemongolive.com/fr/post/greedy-gluttons/",
+            "date": "7 novembre 2022"
+        },
+        {
             "title": "Une nouvelle découverte ! Mordudor, un Pokémon de la région de Paldea !",
             "link": "https://pokemongolive.com/fr/post/coin/",
             "date": "6 novembre 2022"
@@ -148,11 +153,6 @@
             "title": "Merci de célébrer la Journée Communauté de Zigzaton de Galar avec nous !",
             "link": "https://pokemongolive.com/fr/post/community-day-august-2022-recap/",
             "date": "17 août 2022"
-        },
-        {
-            "title": "Étude ponctuelle exclusive pendant la diffusion Twitch des Championnat du Monde de Pokémon GO !",
-            "link": "https://pokemongolive.com/fr/post/world-championship-twitch-timed-research-2022/",
-            "date": "16 août 2022"
         }
     ]
 }
