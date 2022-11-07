@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』では11月、「くいしんぼうイベント」や「GOロケット団占拠」が開催されます！",
+            "link": "https://pokemongolive.com/ja/post/greedy-gluttons/",
+            "date": "2022年11月7日"
+        },
+        {
             "title": "新発見！パルデア地方のポケモン「コレクレー」",
             "link": "https://pokemongolive.com/ja/post/coin/",
             "date": "2022年11月6日"
@@ -148,11 +153,6 @@
             "title": "秋もAmazonのPrime Gamingで、道具が詰まったボックスが届きます！",
             "link": "https://pokemongolive.com/ja/post/pokemon-go-prime-gaming-promotion-2022-fall-reminder/",
             "date": "2022年8月25日"
-        },
-        {
-            "title": "「Pokémon GO Safari Zone：コヤン」 – 韓国で初開催となる「Safari Zone」イベントのチケットが発売中！",
-            "link": "https://pokemongolive.com/ja/post/pokemon-go-safari-zone-goyang/",
-            "date": "2022年8月22日"
         }
     ]
 }
