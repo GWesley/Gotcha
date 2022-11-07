@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "The Greedy Gluttons event and a Team GO Rocket takeover serve up adventure in Pokémon GO this November!",
+            "link": "https://pokemongolive.com/en/post/greedy-gluttons/",
+            "date": "November 7, 2022"
+        },
+        {
             "title": "A new discovery! Gimmighoul, a Pokémon from the Paldea region!",
             "link": "https://pokemongolive.com/en/post/coin/",
             "date": "November 6, 2022"
@@ -148,11 +153,6 @@
             "title": "Thank you for joining our Pokémon GO Fest 2022 events!",
             "link": "https://pokemongolive.com/en/post/gofest-2022-finale-recap/",
             "date": "August 29, 2022"
-        },
-        {
-            "title": "Warning: Ultra Beast incursions begin August 27!",
-            "link": "https://pokemongolive.com/en/post/gofest2022-finale-ultra-beast-incursions/",
-            "date": "August 26, 2022"
         }
     ]
 }
