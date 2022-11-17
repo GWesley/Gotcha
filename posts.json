@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "New avatar items inspired by Pokémon Scarlet and Pokémon Violet on Nintendo Switch are coming soon!",
+            "link": "https://pokemongolive.com/en/post/pokemon-scarlet-and-pokemon-violet-nintendo-switch-outfit/",
+            "date": "November 17, 2022"
+        },
+        {
             "title": "The Greedy Gluttons event and a Team GO Rocket takeover serve up adventure in Pokémon GO this November!",
             "link": "https://pokemongolive.com/en/post/greedy-gluttons/",
             "date": "November 7, 2022"
@@ -148,11 +153,6 @@
             "title": "Celebrate the Revolving Pokémon with Limited Research, featuring Inkay!",
             "link": "https://pokemongolive.com/en/post/inkay-limited-research-2022/",
             "date": "August 30, 2022"
-        },
-        {
-            "title": "Thank you for joining our Pokémon GO Fest 2022 events!",
-            "link": "https://pokemongolive.com/en/post/gofest-2022-finale-recap/",
-            "date": "August 29, 2022"
         }
     ]
 }
