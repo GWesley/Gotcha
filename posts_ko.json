@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "다음 시즌의 커뮤니티 데이 일정을 안내합니다!",
+            "link": "https://pokemongolive.com/ko/post/cd-savethedate-s9/",
+            "date": "2022년 11월 18일"
+        },
+        {
             "title": "Nintendo Switch 소프트웨어 「포켓몬스터스칼렛·바이올렛」의 주인공 의상을 모티브로 한 새로운 의상 아이템이 곧 등장합니다!",
             "link": "https://pokemongolive.com/ko/post/pokemon-scarlet-and-pokemon-violet-nintendo-switch-outfit/",
             "date": "2022년 11월 17일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO Fest 2022\" 이벤트에 참여해 주셔서 감사합니다!",
             "link": "https://pokemongolive.com/ko/post/gofest-2022-finale-recap/",
             "date": "2022년 8월 29일"
-        },
-        {
-            "title": "8월 27일, 울트라비스트가 급습합니다!",
-            "link": "https://pokemongolive.com/ko/post/gofest2022-finale-ultra-beast-incursions/",
-            "date": "2022년 8월 26일"
         }
     ]
 }
