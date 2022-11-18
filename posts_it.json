@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Segnatevi le date dei Community Day della prossima stagione!",
+            "link": "https://pokemongolive.com/it/post/cd-savethedate-s9/",
+            "date": "18 novembre 2022"
+        },
+        {
             "title": "Sono in arrivo nuovi oggetti avatar ispirati a Pokémon Scarlet e Pokémon Violetto per Nintendo Switch.",
             "link": "https://pokemongolive.com/it/post/pokemon-scarlet-and-pokemon-violet-nintendo-switch-outfit/",
             "date": "17 novembre 2022"
@@ -148,11 +153,6 @@
             "title": "Segnatevi le date dei Community Day della prossima stagione!",
             "link": "https://pokemongolive.com/it/post/cd-savethedate-s8/",
             "date": "22 agosto 2022"
-        },
-        {
-            "title": "Grazie per aver festeggiato con noi il Community Day dedicato a Zigzagoon di Galar!",
-            "link": "https://pokemongolive.com/it/post/community-day-august-2022-recap/",
-            "date": "17 agosto 2022"
         }
     ]
 }
