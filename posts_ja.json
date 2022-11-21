@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "title": "「太陽と月イベント」で輝きましょう！",
+            "link": "https://pokemongolive.com/ja/post/astraleclipse/",
+            "date": "2022年11月21日"
+        },
+        {
+            "title": "「ウルトラビースト」襲来との報告が届いています！",
+            "link": "https://pokemongolive.com/ja/post/ultrabeastarrival/",
+            "date": "2022年11月21日"
+        },
+        {
+            "title": "「ウルトラビースト」到来",
+            "link": "https://pokemongolive.com/ja/post/ultrabeastarrivallanding/",
+            "date": "2022年11月21日"
+        },
+        {
             "title": "次のシーズンで開催される「コミュニティ・デイ」の日程をお知らせします！",
             "link": "https://pokemongolive.com/ja/post/cd-savethedate-s9/",
             "date": "2022年11月18日"
@@ -138,21 +153,6 @@
             "title": "「光のシーズン」へようこそ！",
             "link": "https://pokemongolive.com/ja/post/season-of-light/",
             "date": "2022年8月30日"
-        },
-        {
-            "title": "「GOバトルリーグ：光のシーズン」の最新情報",
-            "link": "https://pokemongolive.com/ja/post/gobattleleague-seasonoflight/",
-            "date": "2022年8月30日"
-        },
-        {
-            "title": "かいてんポケモンの「マーイーカ」が限定リサーチに登場！",
-            "link": "https://pokemongolive.com/ja/post/inkay-limited-research-2022/",
-            "date": "2022年8月30日"
-        },
-        {
-            "title": "「Pokémon GO Fest 2022」にご参加いただきありがとうございました！",
-            "link": "https://pokemongolive.com/ja/post/gofest-2022-finale-recap/",
-            "date": "2022年8月29日"
         }
     ]
 }
