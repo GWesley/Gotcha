@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "title": "จงเป็นดาวเจิดจรัสในอีเวนต์ทิวาจันทรา!",
+            "link": "https://pokemongolive.com/th/post/astraleclipse/",
+            "date": "21 พฤศจิกายน 2565"
+        },
+        {
+            "title": "ข่าวด่วน—อัลตร้าบีสต์จำนวนมากกำลังใกล้เข้ามาแล้ว!",
+            "link": "https://pokemongolive.com/th/post/ultrabeastarrival/",
+            "date": "21 พฤศจิกายน 2565"
+        },
+        {
+            "title": "อัลตร้าบีสต์ กำลังมาแล้ว",
+            "link": "https://pokemongolive.com/th/post/ultrabeastarrivallanding/",
+            "date": "21 พฤศจิกายน 2565"
+        },
+        {
             "title": "จดบันทึกวันที่สำหรับคอมมิวนิตี้เดย์ของฤดูกาลหน้าเลย!",
             "link": "https://pokemongolive.com/th/post/cd-savethedate-s9/",
             "date": "18 พฤศจิกายน 2565"
@@ -138,21 +153,6 @@
             "title": "โกแบตเทิลลีก: อัปเดตฤดูกาลแห่งแสง",
             "link": "https://pokemongolive.com/th/post/gobattleleague-seasonoflight/",
             "date": "30 สิงหาคม 2565"
-        },
-        {
-            "title": "ฉลองให้กับโปเกมอนหมุนวน มาอีกะ ด้วยงานวิจัยแบบจำกัดเวลา!",
-            "link": "https://pokemongolive.com/th/post/inkay-limited-research-2022/",
-            "date": "30 สิงหาคม 2565"
-        },
-        {
-            "title": "ขอบคุณที่เข้าร่วมอีเวนต์ Pokémon GO Fest ในปี 2022 ของเรา!",
-            "link": "https://pokemongolive.com/th/post/gofest-2022-finale-recap/",
-            "date": "29 สิงหาคม 2565"
-        },
-        {
-            "title": "คำเตือน: การบุกรุกของอัลตร้าบีสต์เริ่ม 27 สิงหาคมนี้!",
-            "link": "https://pokemongolive.com/th/post/gofest2022-finale-ultra-beast-incursions/",
-            "date": "26 สิงหาคม 2565"
         }
     ]
 }
