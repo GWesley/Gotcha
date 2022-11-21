@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "title": "태양과 달 이벤트에서 빛나는 별이 되어보세요!",
+            "link": "https://pokemongolive.com/ko/post/astraleclipse/",
+            "date": "2022년 11월 21일"
+        },
+        {
+            "title": "제보가 도착했습니다. 수많은 울트라비스트가 접근하고 있습니다!",
+            "link": "https://pokemongolive.com/ko/post/ultrabeastarrival/",
+            "date": "2022년 11월 21일"
+        },
+        {
+            "title": "울트라비스트 접근 중",
+            "link": "https://pokemongolive.com/ko/post/ultrabeastarrivallanding/",
+            "date": "2022년 11월 21일"
+        },
+        {
             "title": "다음 시즌의 커뮤니티 데이 일정을 안내합니다!",
             "link": "https://pokemongolive.com/ko/post/cd-savethedate-s9/",
             "date": "2022년 11월 18일"
@@ -138,21 +153,6 @@
             "title": "빛의 시즌에 오신 것을 환영합니다",
             "link": "https://pokemongolive.com/ko/post/season-of-light/",
             "date": "2022년 8월 30일"
-        },
-        {
-            "title": "GO배틀리그: \"빛의 시즌\" 최신 정보",
-            "link": "https://pokemongolive.com/ko/post/gobattleleague-seasonoflight/",
-            "date": "2022년 8월 30일"
-        },
-        {
-            "title": "회전포켓몬 \"오케이징\"이 기간 한정 리서치에 등장!",
-            "link": "https://pokemongolive.com/ko/post/inkay-limited-research-2022/",
-            "date": "2022년 8월 30일"
-        },
-        {
-            "title": "\"Pokémon GO Fest 2022\" 이벤트에 참여해 주셔서 감사합니다!",
-            "link": "https://pokemongolive.com/ko/post/gofest-2022-finale-recap/",
-            "date": "2022년 8월 29일"
         }
     ]
 }
