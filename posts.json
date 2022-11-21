@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "title": "Be the star of the Astral Eclipse event!",
+            "link": "https://pokemongolive.com/en/post/astraleclipse/",
+            "date": "November 21, 2022"
+        },
+        {
+            "title": "The reports are in—a surge of Ultra Beasts is approaching!",
+            "link": "https://pokemongolive.com/en/post/ultrabeastarrival/",
+            "date": "November 21, 2022"
+        },
+        {
+            "title": "ULTRA BEASTS ARE COMING",
+            "link": "https://pokemongolive.com/en/post/ultrabeastarrivallanding/",
+            "date": "November 21, 2022"
+        },
+        {
             "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/en/post/cd-savethedate-s9/",
             "date": "November 18, 2022"
@@ -138,21 +153,6 @@
             "title": "New Pokémon GO Partner Research available to Verizon customers!",
             "link": "https://pokemongolive.com/en/post/verizon-pgo-partner-research/",
             "date": "September 1, 2022"
-        },
-        {
-            "title": "Pokémon GO Safari Zone is coming to Singapore!!",
-            "link": "https://pokemongolive.com/en/post/safari-zone-singapore-2022-annoucement/",
-            "date": "August 31, 2022"
-        },
-        {
-            "title": "Welcome to the Season of Light",
-            "link": "https://pokemongolive.com/en/post/season-of-light/",
-            "date": "August 30, 2022"
-        },
-        {
-            "title": "GO Battle League: Season of Light Update",
-            "link": "https://pokemongolive.com/en/post/gobattleleague-seasonoflight/",
-            "date": "August 30, 2022"
         }
     ]
 }
