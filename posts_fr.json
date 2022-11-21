@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "title": "Soyez la star de l’évènement « Éclipse astrale » !",
+            "link": "https://pokemongolive.com/fr/post/astraleclipse/",
+            "date": "21 novembre 2022"
+        },
+        {
+            "title": "Les rapports sont formels : une vague d'Ultra-Chimères approche !",
+            "link": "https://pokemongolive.com/fr/post/ultrabeastarrival/",
+            "date": "21 novembre 2022"
+        },
+        {
+            "title": "Les Ultra-chimères sont là !",
+            "link": "https://pokemongolive.com/fr/post/ultrabeastarrivallanding/",
+            "date": "21 novembre 2022"
+        },
+        {
             "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
             "link": "https://pokemongolive.com/fr/post/cd-savethedate-s9/",
             "date": "18 novembre 2022"
@@ -138,21 +153,6 @@
             "title": "Merci d'avoir participé à nos événements du Pokémon GO Fest 2022 !",
             "link": "https://pokemongolive.com/fr/post/gofest-2022-finale-recap/",
             "date": "29 août 2022"
-        },
-        {
-            "title": "Attention : l'invasion des Ultra-chimères commence le 27 août !",
-            "link": "https://pokemongolive.com/fr/post/gofest2022-finale-ultra-beast-incursions/",
-            "date": "26 août 2022"
-        },
-        {
-            "title": "D'autres lots d'objets en jeu prévus pour l'automne avec Prime Gaming !",
-            "link": "https://pokemongolive.com/fr/post/pokemon-go-prime-gaming-promotion-2022-fall-reminder/",
-            "date": "25 août 2022"
-        },
-        {
-            "title": "Notez bien les dates des événements « Journée Communauté » de la saison prochaine !",
-            "link": "https://pokemongolive.com/fr/post/cd-savethedate-s8/",
-            "date": "22 août 2022"
         }
     ]
 }
