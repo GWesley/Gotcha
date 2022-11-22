@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Merci d’avoir créé de beaux souvenirs lors de la « Pokémon GO Zone Safari : Singapour » !",
+            "link": "https://pokemongolive.com/fr/post/safari-zone-singapore-2022-recap/",
+            "date": "21 novembre 2022"
+        },
+        {
             "title": "Soyez la star de l’évènement « Éclipse astrale » !",
             "link": "https://pokemongolive.com/fr/post/astraleclipse/",
             "date": "21 novembre 2022"
@@ -148,11 +153,6 @@
             "title": "Célébrez le Pokémon Rotation avec l'Étude ciblée spéciale Sepiatop !",
             "link": "https://pokemongolive.com/fr/post/inkay-limited-research-2022/",
             "date": "30 août 2022"
-        },
-        {
-            "title": "Merci d'avoir participé à nos événements du Pokémon GO Fest 2022 !",
-            "link": "https://pokemongolive.com/fr/post/gofest-2022-finale-recap/",
-            "date": "29 août 2022"
         }
     ]
 }
