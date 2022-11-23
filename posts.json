@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Stay tuned to our Ultra Beast Arrival: Los Angeles coverage for a Mini Collection Challenge!",
+            "link": "https://pokemongolive.com/en/post/onthegonewscast/",
+            "date": "November 23, 2022"
+        },
+        {
             "title": "Thanks for making memories at Pokémon GO Safari Zone: Singapore!",
             "link": "https://pokemongolive.com/en/post/safari-zone-singapore-2022-recap/",
             "date": "November 21, 2022"
@@ -148,11 +153,6 @@
             "title": "Clefairy are gathering in the moonlight!",
             "link": "https://pokemongolive.com/en/post/clefairy-commotion-2022/",
             "date": "September 2, 2022"
-        },
-        {
-            "title": "The Psychic Spectacular event is back!",
-            "link": "https://pokemongolive.com/en/post/psychic-spectacular-2022/",
-            "date": "September 1, 2022"
         }
     ]
 }
