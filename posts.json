@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bahasa Indonesia language support for Pokémon GO and special events!",
+            "link": "https://pokemongolive.com/post/dukungan-bahasa-indonesia?hl=en",
+            "date": "November 29, 2022"
+        },
+        {
             "title": "GO Battle League: Mythical Wishes Update",
             "link": "https://pokemongolive.com/post/gobattleleague-mythicalwishes?hl=en",
             "date": "November 28, 2022"
@@ -148,11 +153,6 @@
             "title": "October 2022 Community Day: Litwick",
             "link": "https://pokemongolive.com/post/community-day-october-2022-litwick?hl=en",
             "date": "September 19, 2022"
-        },
-        {
-            "title": "Gear up for Steel-type Ultra Beasts, Mega Aggron, and Togedemaru with a new event–Test Your Mettle!",
-            "link": "https://pokemongolive.com/post/test-your-mettle?hl=en",
-            "date": "September 12, 2022"
         }
     ]
 }
