@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Haltet während des Mysteriöse Klinge-Events die Augen offen!",
+            "link": "https://pokemongolive.com/post/mythicblade?hl=de",
+            "date": "2. Dezember 2022"
+        },
+        {
             "title": "Update zu GO-Kampfliga: Mysteriöse Wünsche",
             "link": "https://pokemongolive.com/post/gobattleleague-mythicalwishes?hl=de",
             "date": "28. November 2022"
@@ -148,11 +153,6 @@
             "title": "Piepi versammeln sich im Mondschein!",
             "link": "https://pokemongolive.com/post/clefairy-commotion-2022?hl=de",
             "date": "2. September 2022"
-        },
-        {
-            "title": "Das Psycho-Spektakel ist zurück!",
-            "link": "https://pokemongolive.com/post/psychic-spectacular-2022?hl=de",
-            "date": "1. September 2022"
         }
     ]
 }
