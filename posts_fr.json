@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Affutez votre esprit durant l’événement : « Lame fabuleuse » !",
+            "link": "https://pokemongolive.com/post/mythicblade?hl=fr",
+            "date": "2 décembre 2022"
+        },
+        {
             "title": "Mise à jour de la « Ligue Combat GO : Vœux fabuleux »",
             "link": "https://pokemongolive.com/post/gobattleleague-mythicalwishes?hl=fr",
             "date": "28 novembre 2022"
@@ -148,11 +153,6 @@
             "title": "Les Mélofée se rassemblent au clair de lune !",
             "link": "https://pokemongolive.com/post/clefairy-commotion-2022?hl=fr",
             "date": "2 septembre 2022"
-        },
-        {
-            "title": "La Fantasmagorie Psy fait son grand retour !",
-            "link": "https://pokemongolive.com/post/psychic-spectacular-2022?hl=fr",
-            "date": "1 septembre 2022"
         }
     ]
 }
