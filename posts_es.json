@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Afila tu instinto en el evento de Filo Místico!",
+            "link": "https://pokemongolive.com/post/mythicblade?hl=es",
+            "date": "2 de diciembre de 2022"
+        },
+        {
             "title": "Actualización sobre la Liga Combates GO: Deseos singulares",
             "link": "https://pokemongolive.com/post/gobattleleague-mythicalwishes?hl=es",
             "date": "28 de noviembre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Sal a jugar con los bonus especiales de Pokémon GO para los Entrenadores de España!",
             "link": "https://pokemongolive.com/post/a-world-made-for-you-spain-2022?hl=es",
             "date": "6 de septiembre de 2022"
-        },
-        {
-            "title": "¡Los Clefairy se están reuniendo a la luz de la luna!",
-            "link": "https://pokemongolive.com/post/clefairy-commotion-2022?hl=es",
-            "date": "2 de septiembre de 2022"
         }
     ]
 }
