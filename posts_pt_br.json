@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Fiquem espertos durante o evento Lâmina Mítica!",
+            "link": "https://pokemongolive.com/post/mythicblade?hl=pt_BR",
+            "date": "2 de dezembro de 2022"
+        },
+        {
             "title": "Atualização da Liga de Batalha GO: Desejos Míticos",
             "link": "https://pokemongolive.com/post/gobattleleague-mythicalwishes?hl=pt_BR",
             "date": "28 de novembro de 2022"
@@ -148,11 +153,6 @@
             "title": "Clefairy estão se reunindo ao luar!",
             "link": "https://pokemongolive.com/post/clefairy-commotion-2022?hl=pt_BR",
             "date": "2 de setembro de 2022"
-        },
-        {
-            "title": "O evento Espetáculo Psíquico voltou!",
-            "link": "https://pokemongolive.com/post/psychic-spectacular-2022?hl=pt_BR",
-            "date": "1 de setembro de 2022"
         }
     ]
 }
