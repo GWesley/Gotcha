@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté de décembre 2022 : Les Pokémon vedettes des Journées Communauté de 2021 et 2022 reviennent en force !",
+            "link": "https://pokemongolive.com/post/community-day-december-2022?hl=fr",
+            "date": "5 décembre 2022"
+        },
+        {
             "title": "Affutez votre esprit durant l’événement : « Lame fabuleuse » !",
             "link": "https://pokemongolive.com/post/mythicblade?hl=fr",
             "date": "2 décembre 2022"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de septembre 2022 : Nodulithe",
             "link": "https://pokemongolive.com/post/community-day-september-2022-roggenrola?hl=fr",
             "date": "7 septembre 2022"
-        },
-        {
-            "title": "Les Mélofée se rassemblent au clair de lune !",
-            "link": "https://pokemongolive.com/post/clefairy-commotion-2022?hl=fr",
-            "date": "2 septembre 2022"
         }
     ]
 }
