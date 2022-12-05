@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day di dicembre 2022: ritornano i Pokémon protagonisti dei Community Day del 2021 e del 2022!",
+            "link": "https://pokemongolive.com/post/community-day-december-2022?hl=it",
+            "date": "5 dicembre 2022"
+        },
+        {
             "title": "Aguzzate la mente durante l’evento Lama misteriosa!",
             "link": "https://pokemongolive.com/post/mythicblade?hl=it",
             "date": "2 dicembre 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day di settembre 2022: Roggenrola",
             "link": "https://pokemongolive.com/post/community-day-september-2022-roggenrola?hl=it",
             "date": "7 settembre 2022"
-        },
-        {
-            "title": "I Clefairy si stanno radunando al chiaro di luna!",
-            "link": "https://pokemongolive.com/post/clefairy-commotion-2022?hl=it",
-            "date": "2 settembre 2022"
         }
     ]
 }
