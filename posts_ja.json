@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』に新たな大きさのポケモンが出現！",
+            "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=ja",
+            "date": "2022年12月8日"
+        },
+        {
             "title": "12月の「コミュニティ・デイ」は2021年と2022年の「コミュニティ・デイ」で登場したポケモンたちが出現！",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=ja",
             "date": "2022年12月5日"
@@ -148,11 +153,6 @@
             "title": "2022年10月の「コミュニティ・デイ」：「ヒトモシ」",
             "link": "https://pokemongolive.com/post/community-day-october-2022-litwick?hl=ja",
             "date": "2022年9月19日"
-        },
-        {
-            "title": "はがねタイプの「ウルトラビースト」、「メガボスゴドラ」、「トゲデマル」が「はがねタイプポケモンイベント」に登場！",
-            "link": "https://pokemongolive.com/post/test-your-mettle?hl=ja",
-            "date": "2022年9月12日"
         }
     ]
 }
