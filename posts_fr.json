@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "De nouvelles tailles de Pokémon ont été découvertes dans Pokémon GO !",
+            "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=fr",
+            "date": "8 décembre 2022"
+        },
+        {
             "title": "Journée Communauté de décembre 2022 : Les Pokémon vedettes des Journées Communauté de 2021 et 2022 reviennent en force !",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=fr",
             "date": "5 décembre 2022"
@@ -148,11 +153,6 @@
             "title": "Préparez-vous à affronter les Ultra-Chimères de type Acier, Méga-Galeking et Togedemaru au cours d'un nouvel événement : Mettez votre courage à l’épreuve !",
             "link": "https://pokemongolive.com/post/test-your-mettle?hl=fr",
             "date": "12 septembre 2022"
-        },
-        {
-            "title": "Journée Communauté de septembre 2022 : Nodulithe",
-            "link": "https://pokemongolive.com/post/community-day-september-2022-roggenrola?hl=fr",
-            "date": "7 septembre 2022"
         }
     ]
 }
