@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Se han descubierto nuevos tamaños de Pokémon en Pokémon GO!",
+            "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=es",
+            "date": "8 de diciembre de 2022"
+        },
+        {
             "title": "Día de la Comunidad de diciembre 2022: ¡Regresan los Pokémon protagonistas de los anteriores Días de la Comunidad de 2021 y 2022!",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=es",
             "date": "5 de diciembre de 2022"
@@ -148,11 +153,6 @@
             "title": "¡Equipaos para enfrentaros a ultraentes de tipo Acero, Mega-Aggron y Togedemaru en el nuevo evento \"Prueba Tu Valía\"!",
             "link": "https://pokemongolive.com/post/test-your-mettle?hl=es",
             "date": "12 de septiembre de 2022"
-        },
-        {
-            "title": "Día de la Comunidad de septiembre 2022: Roggenrola",
-            "link": "https://pokemongolive.com/post/community-day-september-2022-roggenrola?hl=es",
-            "date": "7 de septiembre de 2022"
         }
     ]
 }
