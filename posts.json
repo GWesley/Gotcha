@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "New Pokémon sizes have been discovered in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=en",
+            "date": "December 8, 2022"
+        },
+        {
             "title": "Pokémon GO at Pokémon Festival: Jakarta",
             "link": "https://pokemongolive.com/post/pokemon-festival-jakarta?hl=en",
             "date": "December 8, 2022"
@@ -148,11 +153,6 @@
             "title": "Festival of Lights 2022: shine on with new Pokémon debuts and illuminating encounters",
             "link": "https://pokemongolive.com/post/festival-of-lights-2022?hl=en",
             "date": "October 5, 2022"
-        },
-        {
-            "title": "Tickets available now for Pokémon GO Safari Zone: Taipei!",
-            "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-taipei?hl=en",
-            "date": "September 28, 2022"
         }
     ]
 }
