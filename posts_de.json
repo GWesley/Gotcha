@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Neue Pokémon-Größen wurden in Pokémon GO entdeckt!",
+            "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=de",
+            "date": "8. Dezember 2022"
+        },
+        {
             "title": "Community Day im Dezember 2022: Community Day-Pokémon aus 2021 und 2022 kehren zurück!",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=de",
             "date": "5. Dezember 2022"
@@ -148,11 +153,6 @@
             "title": "Testet eure Nerven aus Stahl – bei einem neuen Event mit Ultrabestien vom Typ Stahl, Mega-Stolloss und Togedemaru!",
             "link": "https://pokemongolive.com/post/test-your-mettle?hl=de",
             "date": "12. September 2022"
-        },
-        {
-            "title": "Community Day im September 2022: Kiesling",
-            "link": "https://pokemongolive.com/post/community-day-september-2022-roggenrola?hl=de",
-            "date": "7. September 2022"
         }
     ]
 }
