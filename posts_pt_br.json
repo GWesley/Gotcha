@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon de novos tamanhos foram descobertos no Pokémon GO!",
+            "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=pt_BR",
+            "date": "8 de dezembro de 2022"
+        },
+        {
             "title": "Dia Comunitário de dezembro de 2022: Pokémon que foram destaques de Dias Comunitários em 2021 e 2022 estarão de volta!",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=pt_BR",
             "date": "5 de dezembro de 2022"
@@ -148,11 +153,6 @@
             "title": "Preparem-se para Ultra Beasts do tipo Aço, Mega Aggron e Togedemaru, com um novo evento: Teste sua Coragem!",
             "link": "https://pokemongolive.com/post/test-your-mettle?hl=pt_BR",
             "date": "12 de setembro de 2022"
-        },
-        {
-            "title": "Dia Comunitário de Setembro de 2022: Roggenrola",
-            "link": "https://pokemongolive.com/post/community-day-september-2022-roggenrola?hl=pt_BR",
-            "date": "7 de setembro de 2022"
         }
     ]
 }
