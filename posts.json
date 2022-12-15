@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Scatterbug, Spewpa, and Vivillon have been discovered in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=en",
+            "date": "December 15, 2022"
+        },
+        {
             "title": "Celebrate the season—welcome Shiny Bergmite, Mega Glalie, and more to Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=en",
             "date": "December 12, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Halloween 2022 Part I brings Mega Banette and bucketfuls of Candy bonuses!",
             "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-1?hl=en",
             "date": "October 13, 2022"
-        },
-        {
-            "title": "Community Day Classic: Dreaming of Dratini",
-            "link": "https://pokemongolive.com/post/community-day-classic-dratini-november-2022?hl=en",
-            "date": "October 6, 2022"
         }
     ]
 }
