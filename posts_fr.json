@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté de janvier : Marisson",
+            "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=fr",
+            "date": "19 décembre 2022"
+        },
+        {
             "title": "Lépidonille, Pérégrain et Prismillon ont été découverts dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=fr",
             "date": "15 décembre 2022"
@@ -148,11 +153,6 @@
             "title": "Envolez-vous vers d’autres cieux lors de notre événement Évolution étoilée !",
             "link": "https://pokemongolive.com/post/evolving-stars-2022?hl=fr",
             "date": "28 septembre 2022"
-        },
-        {
-            "title": "Défilez avec style avec Vorastérie, Prédastérie, et de nouveaux Pokémon costumés pendant la Fashion Week !",
-            "link": "https://pokemongolive.com/post/fashion-week-2022?hl=fr",
-            "date": "20 septembre 2022"
         }
     ]
 }
