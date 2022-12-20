@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "’Tis the season to wear your festive best—Eevee and its Evolutions will be donning holiday hats in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=en",
+            "date": "December 20, 2022"
+        },
+        {
             "title": "January 2023 Community Day: Chespin",
             "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=en",
             "date": "December 19, 2022"
@@ -148,11 +153,6 @@
             "title": "November 2022 Community Day: Teddiursa",
             "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=en",
             "date": "October 17, 2022"
-        },
-        {
-            "title": "Introducing: Elite Raids",
-            "link": "https://pokemongolive.com/post/elite-raids-new-feature?hl=en",
-            "date": "October 14, 2022"
         }
     ]
 }
