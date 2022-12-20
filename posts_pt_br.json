@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Esta é a época para vestir o seu melhor traje festivo. Eevee e suas evoluções estarão com chapéus festivos no Pokémon GO!",
+            "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=pt_BR",
+            "date": "20 de dezembro de 2022"
+        },
+        {
             "title": "Dia Comunitário de janeiro de 2023: Chespin",
             "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=pt_BR",
             "date": "19 de dezembro de 2022"
@@ -148,11 +153,6 @@
             "title": "Festival das luzes 2022: iluminem-se com as novas estreias de Pokémon e encontros luminosos",
             "link": "https://pokemongolive.com/post/festival-of-lights-2022?hl=pt_BR",
             "date": "5 de outubro de 2022"
-        },
-        {
-            "title": "Entrem no mundo cósmico com nosso novo evento Estrelas em Evolução!",
-            "link": "https://pokemongolive.com/post/evolving-stars-2022?hl=pt_BR",
-            "date": "28 de setembro de 2022"
         }
     ]
 }
