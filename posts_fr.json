@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "C'est la saison de porter vos plus beaux vêtements de fêtes ! Évoli et ses Évolutions porteront des chapeaux de fêtes dans Pokémon GO !",
+            "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=fr",
+            "date": "20 décembre 2022"
+        },
+        {
             "title": "Journée Communauté de janvier : Marisson",
             "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=fr",
             "date": "19 décembre 2022"
@@ -148,11 +153,6 @@
             "title": "Fête des lumières 2022 : faites briller vos yeux avec de nouveaux débuts de Pokémon et des rencontres éblouissantes",
             "link": "https://pokemongolive.com/post/festival-of-lights-2022?hl=fr",
             "date": "5 octobre 2022"
-        },
-        {
-            "title": "Envolez-vous vers d’autres cieux lors de notre événement Évolution étoilée !",
-            "link": "https://pokemongolive.com/post/evolving-stars-2022?hl=fr",
-            "date": "28 septembre 2022"
         }
     ]
 }
