@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Auf euch wartet ein neues Jahr voller Abenteuer – feiert den Start in das Jahr 2023 mit Pokémon GO!",
+            "link": "https://pokemongolive.com/post/new-years-2023?hl=de",
+            "date": "22. Dezember 2022"
+        },
+        {
             "title": "Es ist an der Zeit, die Feiertagsoutfits auszupacken – Evoli und seine Entwicklungen tragen in Pokémon GO Feiertags-Hüte!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=de",
             "date": "20. Dezember 2022"
@@ -148,11 +153,6 @@
             "title": "Community Day Classic: Ein traumhaftes Dratini-Getümmel",
             "link": "https://pokemongolive.com/post/community-day-classic-dratini-november-2022?hl=de",
             "date": "6. Oktober 2022"
-        },
-        {
-            "title": "Lichtfestival 2022: Strahlende neue Pokémon-Debüts und erleuchtende Begegnungen",
-            "link": "https://pokemongolive.com/post/festival-of-lights-2022?hl=de",
-            "date": "5. Oktober 2022"
         }
     ]
 }
