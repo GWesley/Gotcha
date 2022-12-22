@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "新的一年帶來新的冒險──跟Pokémon GO一起慶祝2023的到來！",
+            "link": "https://pokemongolive.com/post/new-years-2023?hl=zh_Hant",
+            "date": "2022年12月22日"
+        },
+        {
             "title": "現在正是換上最棒慶典裝扮的季節——因為所有型態的伊布都會在Pokémon GO中戴上假日帽！",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=zh_Hant",
             "date": "2022年12月20日"
@@ -148,11 +153,6 @@
             "title": "經典社群日：夢見迷你龍",
             "link": "https://pokemongolive.com/post/community-day-classic-dratini-november-2022?hl=zh_Hant",
             "date": "2022年10月6日"
-        },
-        {
-            "title": "2022光之祭典：全新的寶可夢閃亮登場以及光鮮亮麗的遭遇",
-            "link": "https://pokemongolive.com/post/festival-of-lights-2022?hl=zh_Hant",
-            "date": "2022年10月5日"
         }
     ]
 }
