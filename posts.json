@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Thank you for an amazing year of Pokémon GO events in 2022!",
+            "link": "https://pokemongolive.com/post/2022-live-events-recap?hl=en",
+            "date": "January 3, 2023"
+        },
+        {
             "title": "A new year brings new adventures—celebrate the arrival of 2023 with Pokémon GO!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=en",
             "date": "December 22, 2022"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Halloween 2022 Part II keeps the tricks and treats coming!",
             "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-2?hl=en",
             "date": "October 19, 2022"
-        },
-        {
-            "title": "Día de Muertos 2022: Pokémon wearing cempasúchil crowns, new bonuses, and a Collection Challenge!",
-            "link": "https://pokemongolive.com/post/dia-de-muertos-2022?hl=en",
-            "date": "October 18, 2022"
         }
     ]
 }
