@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Danke für ein unvergessliches Jahr 2022 voller Events in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/2022-live-events-recap?hl=de",
+            "date": "3. Januar 2023"
+        },
+        {
             "title": "Auf euch wartet ein neues Jahr voller Abenteuer – feiert den Start in das Jahr 2023 mit Pokémon GO!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=de",
             "date": "22. Dezember 2022"
@@ -148,11 +153,6 @@
             "title": "Teil 1 des Halloween-Events 2022 bringt Mega-Banette und haufenweise Bonbon-Boni!",
             "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-1?hl=de",
             "date": "13. Oktober 2022"
-        },
-        {
-            "title": "Community Day Classic: Ein traumhaftes Dratini-Getümmel",
-            "link": "https://pokemongolive.com/post/community-day-classic-dratini-november-2022?hl=de",
-            "date": "6. Oktober 2022"
         }
     ]
 }
