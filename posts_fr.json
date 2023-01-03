@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Merci pour cette année 2022 incroyable, remplie d'événements Pokémon GO !",
+            "link": "https://pokemongolive.com/post/2022-live-events-recap?hl=fr",
+            "date": "3 janvier 2023"
+        },
+        {
             "title": "Qui dit nouvelle année, dit nouvelles aventures ! Célébrez l’arrivée de 2023 avec Pokémon GO !",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=fr",
             "date": "22 décembre 2022"
@@ -148,11 +153,6 @@
             "title": "Lors de la première partie de l’événement « Pokémon GO Halloween 2022 », rencontrez Méga-Branette et profitez d’un énorme bonus de Bonbons !",
             "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-1?hl=fr",
             "date": "13 octobre 2022"
-        },
-        {
-            "title": "Journée Communauté classique : Un rêve de Minidraco",
-            "link": "https://pokemongolive.com/post/community-day-classic-dratini-november-2022?hl=fr",
-            "date": "6 octobre 2022"
         }
     ]
 }
