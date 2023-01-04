@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Erlebt beim Event „Funkelnde Fantasie“ fantastische Abenteuer!",
+            "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=de",
+            "date": "4. Januar 2023"
+        },
+        {
             "title": "Community Day Classic im Januar 2023: Larvitar",
             "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=de",
             "date": "4. Januar 2023"
@@ -148,11 +153,6 @@
             "title": "Community Day im November 2022: Teddiursa",
             "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=de",
             "date": "17. Oktober 2022"
-        },
-        {
-            "title": "Wir stellen vor: Top-Raids",
-            "link": "https://pokemongolive.com/post/elite-raids-new-feature?hl=de",
-            "date": "14. Oktober 2022"
         }
     ]
 }
