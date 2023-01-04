@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "January 2023 Community Day Classic: Larvitar",
+            "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=en",
+            "date": "January 4, 2023"
+        },
+        {
             "title": "Thank you for an amazing year of Pokémon GO events in 2022!",
             "link": "https://pokemongolive.com/post/2022-live-events-recap?hl=en",
             "date": "January 3, 2023"
@@ -148,11 +153,6 @@
             "title": "Community note: Updates to the Pokémon GO map",
             "link": "https://pokemongolive.com/post/mapupdates-2022?hl=en",
             "date": "October 20, 2022"
-        },
-        {
-            "title": "Pokémon GO Halloween 2022 Part II keeps the tricks and treats coming!",
-            "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-2?hl=en",
-            "date": "October 19, 2022"
         }
     ]
 }
