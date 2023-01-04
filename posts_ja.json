@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「フェアリー／ドラゴンタイプイベント」で気まぐれな冒険を楽しもう！",
+            "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=ja",
+            "date": "2023年1月4日"
+        },
+        {
             "title": "2023年1月の「コミュニティ・デイ（復刻）」：「ヨーギラス」",
             "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=ja",
             "date": "2023年1月4日"
@@ -148,11 +153,6 @@
             "title": "2022年11月の「コミュニティ・デイ」：「ヒメグマ」",
             "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=ja",
             "date": "2022年10月17日"
-        },
-        {
-            "title": "新登場：エピックレイド",
-            "link": "https://pokemongolive.com/post/elite-raids-new-feature?hl=ja",
-            "date": "2022年10月14日"
         }
     ]
 }
