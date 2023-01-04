@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Viva sua própria aventura exótica no evento Fantasias cintilantes!",
+            "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=pt_BR",
+            "date": "4 de janeiro de 2023"
+        },
+        {
             "title": "Dia Comunitário Clássico de janeiro de 2023: Larvitar",
             "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=pt_BR",
             "date": "4 de janeiro de 2023"
@@ -148,11 +153,6 @@
             "title": "Dia Comunitário de novembro de 2022: Teddiursa",
             "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=pt_BR",
             "date": "17 de outubro de 2022"
-        },
-        {
-            "title": "Apresentamos: as Reides de Elite",
-            "link": "https://pokemongolive.com/post/elite-raids-new-feature?hl=pt_BR",
-            "date": "14 de outubro de 2022"
         }
     ]
 }
