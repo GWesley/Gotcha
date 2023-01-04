@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Vive tu propia aventura mágica en el evento Fantasía Centelleante!",
+            "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=es",
+            "date": "4 de enero de 2023"
+        },
+        {
             "title": "Día de la Comunidad clásico de enero 2023: Larvitar",
             "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=es",
             "date": "4 de enero de 2023"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad de noviembre de 2022: Teddiursa",
             "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=es",
             "date": "17 de octubre de 2022"
-        },
-        {
-            "title": "Presentamos las Incursiones Élite",
-            "link": "https://pokemongolive.com/post/elite-raids-new-feature?hl=es",
-            "date": "14 de octubre de 2022"
         }
     ]
 }
