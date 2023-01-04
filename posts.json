@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Live your own whimsical adventure in the Twinkling Fantasy event!",
+            "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=en",
+            "date": "January 4, 2023"
+        },
+        {
             "title": "January 2023 Community Day Classic: Larvitar",
             "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=en",
             "date": "January 4, 2023"
@@ -148,11 +153,6 @@
             "title": "Tickets available now for Pokémon GO Safari Zone at Gardens by the Bay!",
             "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=en",
             "date": "October 24, 2022"
-        },
-        {
-            "title": "Community note: Updates to the Pokémon GO map",
-            "link": "https://pokemongolive.com/post/mapupdates-2022?hl=en",
-            "date": "October 20, 2022"
         }
     ]
 }
