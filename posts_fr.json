@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Vivez votre propre aventure magique avec l'événement Fantaisie scintillante !",
+            "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=fr",
+            "date": "4 janvier 2023"
+        },
+        {
             "title": "Journée Communauté classique de janvier 2023 : Embrylex",
             "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=fr",
             "date": "4 janvier 2023"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de novembre 2022 : Teddiursa",
             "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=fr",
             "date": "17 octobre 2022"
-        },
-        {
-            "title": "Les Raids d’élite sont là",
-            "link": "https://pokemongolive.com/post/elite-raids-new-feature?hl=fr",
-            "date": "14 octobre 2022"
         }
     ]
 }
