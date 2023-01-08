@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Kecleon fa il suo debutto in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=it",
+            "date": "7 gennaio 2023"
+        },
+        {
             "title": "Un’avventura magica durante l’evento Fantasia scintillante vi aspetta!",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=it",
             "date": "4 gennaio 2023"
@@ -148,11 +153,6 @@
             "title": "Día de Muertos 2022: Pokémon che indossano corone di cempasúchil, nuovi bonus e una sfida di collezione!",
             "link": "https://pokemongolive.com/post/dia-de-muertos-2022?hl=it",
             "date": "18 ottobre 2022"
-        },
-        {
-            "title": "Community Day di novembre 2022: Teddiursa",
-            "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=it",
-            "date": "17 ottobre 2022"
         }
     ]
 }
