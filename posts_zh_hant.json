@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "變隱龍於Pokémon GO中首度現身！",
+            "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=zh_Hant",
+            "date": "2023年1月7日"
+        },
+        {
             "title": "在閃爍明星活動中享受屬於自己的奇幻冒險吧！",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=zh_Hant",
             "date": "2023年1月4日"
@@ -148,11 +153,6 @@
             "title": "2022年11月社群日：熊寶寶",
             "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=zh_Hant",
             "date": "2022年10月17日"
-        },
-        {
-            "title": "隆重介紹：菁英團體戰",
-            "link": "https://pokemongolive.com/post/elite-raids-new-feature?hl=zh_Hant",
-            "date": "2022年10月14日"
         }
     ]
 }
