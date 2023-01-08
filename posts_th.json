@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "คาคุเลียนเปิดตัวใน Pokémon GO!",
+            "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=th",
+            "date": "7 มกราคม 2566"
+        },
+        {
             "title": "ผจญภัยเหนือจินตนาการในอีเวนต์แฟนตาซีพร่างพราว!",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=th",
             "date": "4 มกราคม 2566"
@@ -148,11 +153,6 @@
             "title": "คอมมิวนิตี้เดย์พฤศจิกายน 2022: ฮิเมกุมะ",
             "link": "https://pokemongolive.com/post/community-day-november-2022-teddiursa?hl=th",
             "date": "17 ตุลาคม 2565"
-        },
-        {
-            "title": "แนะนำ: ตีบอสเอลีต",
-            "link": "https://pokemongolive.com/post/elite-raids-new-feature?hl=th",
-            "date": "14 ตุลาคม 2565"
         }
     ]
 }
