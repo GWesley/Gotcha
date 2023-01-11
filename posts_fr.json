@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté février 2023 : Sonistrelle",
+            "link": "https://pokemongolive.com/post/communityday-february-2023-noibat?hl=fr",
+            "date": "11 janvier 2023"
+        },
+        {
             "title": "Kecleon fait ses débuts dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=fr",
             "date": "7 janvier 2023"
@@ -148,11 +153,6 @@
             "title": "La deuxième partie de l’événement « Pokémon GO Halloween 2022 » ne lésine pas en sorts et en bonbons !",
             "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-2?hl=fr",
             "date": "19 octobre 2022"
-        },
-        {
-            "title": "Día de Muertos 2022 : Pokémon portant des couronnes cempasúchil, nouveaux bonus et un Défi de Collection !",
-            "link": "https://pokemongolive.com/post/dia-de-muertos-2022?hl=fr",
-            "date": "18 octobre 2022"
         }
     ]
 }
