@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "February 2023 Community Day: Noibat",
+            "link": "https://pokemongolive.com/post/communityday-february-2023-noibat?hl=en",
+            "date": "January 11, 2023"
+        },
+        {
             "title": "Kecleon debuts in Pokémon GO!",
             "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=en",
             "date": "January 7, 2023"
@@ -148,11 +153,6 @@
             "title": "Zorua and Zoroark have revealed themselves in Pokémon GO!",
             "link": "https://pokemongolive.com/post/halloween-zorua?hl=en",
             "date": "October 28, 2022"
-        },
-        {
-            "title": "A sticker feature update is coming to Pokémon GO!",
-            "link": "https://pokemongolive.com/post/sticker-feature-update-2022?hl=en",
-            "date": "October 25, 2022"
         }
     ]
 }
