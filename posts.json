@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate the Lunar New Year with Pokémon GO’s 2023 Lunar New Year event!",
+            "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=en",
+            "date": "January 12, 2023"
+        },
+        {
             "title": "February 2023 Community Day: Noibat",
             "link": "https://pokemongolive.com/post/communityday-february-2023-noibat?hl=en",
             "date": "January 11, 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Campfire, Niantic’s social app, is available in more US cities just in time for Halloween!",
             "link": "https://pokemongolive.com/post/halloween-event-campfire-us?hl=en",
-            "date": "October 28, 2022"
-        },
-        {
-            "title": "Zorua and Zoroark have revealed themselves in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/halloween-zorua?hl=en",
             "date": "October 28, 2022"
         }
     ]
