@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ฉลองวันตรุษจีนด้วยอีเวนต์ตรุษจีนปี 2023 ของ Pokémon GO!",
+            "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=th",
+            "date": "12 มกราคม 2566"
+        },
+        {
             "title": "คอมมิวนิตี้เดย์เดือนกุมภาพันธ์ 2023: ออนแบท",
             "link": "https://pokemongolive.com/post/communityday-february-2023-noibat?hl=th",
             "date": "11 มกราคม 2566"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO ฮาโลวีน 2022 ส่วนที่ 2\" สนุกไปกับทริกออร์ทรีต!",
             "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-2?hl=th",
             "date": "19 ตุลาคม 2565"
-        },
-        {
-            "title": "Día de Muertos 2022: โปเกมอนสวมมงกุฎดอกไม้, โบนัสใหม่ ๆ และคำท้านักสะสม!",
-            "link": "https://pokemongolive.com/post/dia-de-muertos-2022?hl=th",
-            "date": "18 ตุลาคม 2565"
         }
     ]
 }
