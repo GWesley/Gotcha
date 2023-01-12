@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Celebrad el Año Nuevo Lunar con el evento del Año Nuevo Lunar 2023 de Pokémon GO!",
+            "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=es",
+            "date": "12 de enero de 2023"
+        },
+        {
             "title": "Día de la Comunidad de febrero de 2023: Noibat",
             "link": "https://pokemongolive.com/post/communityday-february-2023-noibat?hl=es",
             "date": "11 de enero de 2023"
@@ -148,11 +153,6 @@
             "title": "Nota para la comunidad: Novedades en el mapa de Pokémon GO",
             "link": "https://pokemongolive.com/post/mapupdates-2022?hl=es",
             "date": "20 de octubre de 2022"
-        },
-        {
-            "title": "¡Que no paren los dulces en la Parte II del Pokémon GO Halloween 2022!",
-            "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-2?hl=es",
-            "date": "19 de octubre de 2022"
         }
     ]
 }
