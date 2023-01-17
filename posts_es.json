@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Se han descubierto más Pokémon XXS y XXL en Pokémon GO!",
+            "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=es",
+            "date": "17 de enero de 2023"
+        },
+        {
             "title": "¡Celebrad el Año Nuevo Lunar con el evento del Año Nuevo Lunar 2023 de Pokémon GO!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=es",
             "date": "12 de enero de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Ya están disponibles las entradas para la Zona Safari de Pokémon GO en Gardens by the Bay!",
             "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=es",
             "date": "24 de octubre de 2022"
-        },
-        {
-            "title": "Nota para la comunidad: Novedades en el mapa de Pokémon GO",
-            "link": "https://pokemongolive.com/post/mapupdates-2022?hl=es",
-            "date": "20 de octubre de 2022"
         }
     ]
 }
