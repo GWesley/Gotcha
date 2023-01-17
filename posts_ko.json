@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\"에서 새로운 크기의 포켓몬이 추가로 발견되었습니다!",
+            "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=ko",
+            "date": "2023년 1월 17일"
+        },
+        {
             "title": "\"Pokémon GO\" 2023 설날 이벤트로 설날을 기념하세요!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=ko",
             "date": "2023년 1월 12일"
@@ -148,11 +153,6 @@
             "title": "커뮤니티 노트: \"Pokémon GO\" 맵 업데이트",
             "link": "https://pokemongolive.com/post/mapupdates-2022?hl=ko",
             "date": "2022년 10월 20일"
-        },
-        {
-            "title": "\"Pokémon GO 핼러윈 2022: 파트2\"에서 트릭 앤 트리트를 즐기세요!",
-            "link": "https://pokemongolive.com/post/halloween-2022-event-details-part-2?hl=ko",
-            "date": "2022년 10월 19일"
         }
     ]
 }
