@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "More XXS and XXL Pokémon have been discovered in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=en",
+            "date": "January 17, 2023"
+        },
+        {
             "title": "Celebrate the Lunar New Year with Pokémon GO’s 2023 Lunar New Year event!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=en",
             "date": "January 12, 2023"
@@ -148,11 +153,6 @@
             "title": "Thanks for making memories at Pokémon GO Safari Zone: Taipei!",
             "link": "https://pokemongolive.com/post/safari-zone-taipei-2022-recap?hl=en",
             "date": "October 31, 2022"
-        },
-        {
-            "title": "Campfire, Niantic’s social app, is available in more US cities just in time for Halloween!",
-            "link": "https://pokemongolive.com/post/halloween-event-campfire-us?hl=en",
-            "date": "October 28, 2022"
         }
     ]
 }
