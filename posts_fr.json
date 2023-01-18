@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Primo-Résurgence a été découverte dans Pokémon GO !",
+            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=fr",
+            "date": "18 janvier 2023"
+        },
+        {
             "title": "Plus de Pokémon XXS et XXL ont été découverts dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=fr",
             "date": "17 janvier 2023"
@@ -148,11 +153,6 @@
             "title": "Une mise à jour pour les autocollants arrive dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/sticker-feature-update-2022?hl=fr",
             "date": "25 octobre 2022"
-        },
-        {
-            "title": "Les billets disponibles pour Pokémon GO Safari Zone au Gardens by the Bay sont désormais disponibles !",
-            "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=fr",
-            "date": "24 octobre 2022"
         }
     ]
 }
