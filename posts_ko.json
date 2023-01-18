@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\"에서 원시회귀가 등장!",
+            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=ko",
+            "date": "2023년 1월 18일"
+        },
+        {
             "title": "\"Pokémon GO\"에서 새로운 크기의 포켓몬이 추가로 발견되었습니다!",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=ko",
             "date": "2023년 1월 17일"
@@ -148,11 +153,6 @@
             "title": "Gardens by the Bay에서 개최되는 Safari Zone 이벤트의 티켓을 지금 구매하세요!",
             "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=ko",
             "date": "2022년 10월 24일"
-        },
-        {
-            "title": "커뮤니티 노트: \"Pokémon GO\" 맵 업데이트",
-            "link": "https://pokemongolive.com/post/mapupdates-2022?hl=ko",
-            "date": "2022년 10월 20일"
         }
     ]
 }
