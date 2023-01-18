@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Uma Reversão Primitiva foi descoberta no Pokémon GO!",
+            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=pt_BR",
+            "date": "18 de janeiro de 2023"
+        },
+        {
             "title": "Mais Pokémon XXS e XXL foram descobertos no Pokémon GO!",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=pt_BR",
             "date": "17 de janeiro de 2023"
@@ -148,11 +153,6 @@
             "title": "Uma atualização do recurso de adesivo está chegando ao Pokémon GO!",
             "link": "https://pokemongolive.com/post/sticker-feature-update-2022?hl=pt_BR",
             "date": "25 de outubro de 2022"
-        },
-        {
-            "title": "Ingressos já disponíveis para a Zona de Safári do Pokémon GO em Gardens by the Bay!",
-            "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=pt_BR",
-            "date": "24 de outubro de 2022"
         }
     ]
 }
