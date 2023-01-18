@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡La Regresión Primigenia llega a Pokémon GO!",
+            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=es",
+            "date": "18 de enero de 2023"
+        },
+        {
             "title": "¡Se han descubierto más Pokémon XXS y XXL en Pokémon GO!",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=es",
             "date": "17 de enero de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Actualización de pegatinas en Pokémon GO!",
             "link": "https://pokemongolive.com/post/sticker-feature-update-2022?hl=es",
             "date": "25 de octubre de 2022"
-        },
-        {
-            "title": "¡Ya están disponibles las entradas para la Zona Safari de Pokémon GO en Gardens by the Bay!",
-            "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=es",
-            "date": "24 de octubre de 2022"
         }
     ]
 }
