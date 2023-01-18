@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Archeorisveglio è stato scoperto in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=it",
+            "date": "18 gennaio 2023"
+        },
+        {
             "title": "In Pokémon GO sono stati scoperti più Pokémon XXS e XXL!",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=it",
             "date": "17 gennaio 2023"
@@ -148,11 +153,6 @@
             "title": "È in arrivo un aggiornamento relativo alla funzionalità degli adesivi in Pokémon GO!",
             "link": "https://pokemongolive.com/post/sticker-feature-update-2022?hl=it",
             "date": "25 ottobre 2022"
-        },
-        {
-            "title": "Biglietti disponibili adesso per la Zona Safari di Pokémon GO al Gardens by the Bay.",
-            "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=it",
-            "date": "24 ottobre 2022"
         }
     ]
 }
