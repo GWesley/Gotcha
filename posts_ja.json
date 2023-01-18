@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』に「ゲンシカイキ」が登場！",
+            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=ja",
+            "date": "2023年1月18日"
+        },
+        {
             "title": "『Pokémon GO』で、XXSやXXLといった大きさのポケモンがさらに発見されています！",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=ja",
             "date": "2023年1月17日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』のステッカー機能がアップデート！",
             "link": "https://pokemongolive.com/post/sticker-feature-update-2022?hl=ja",
             "date": "2022年10月25日"
-        },
-        {
-            "title": "Gardens by the Bayで開催される「Safari Zone」イベントのチケット発売中！",
-            "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=ja",
-            "date": "2022年10月24日"
         }
     ]
 }
