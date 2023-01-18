@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Die Protomorphose wurde in Pokémon GO entdeckt!",
+            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=de",
+            "date": "18. Januar 2023"
+        },
+        {
             "title": "Weitere XXS- und XXL-Pokémon wurden in Pokémon GO entdeckt!",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=de",
             "date": "17. Januar 2023"
@@ -148,11 +153,6 @@
             "title": "Update für das Stickerfeature in Pokémon GO",
             "link": "https://pokemongolive.com/post/sticker-feature-update-2022?hl=de",
             "date": "25. Oktober 2022"
-        },
-        {
-            "title": "Tickets für die Pokémon GO-Safari-Zone in den Gardens by the Bay jetzt verfügbar",
-            "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=de",
-            "date": "24. Oktober 2022"
         }
     ]
 }
