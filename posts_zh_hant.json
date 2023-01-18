@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「原始回歸」來到Pokémon GO！",
+            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=zh_Hant",
+            "date": "2023年1月18日"
+        },
+        {
             "title": "Pokémon GO中出現了更多XXS和XXL體型的寶可夢！",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=zh_Hant",
             "date": "2023年1月17日"
@@ -148,11 +153,6 @@
             "title": "濱海灣花園Safari Zone活動入場券現正發售中！",
             "link": "https://pokemongolive.com/post/pokemon-go-safari-zone-singapore?hl=zh_Hant",
             "date": "2022年10月24日"
-        },
-        {
-            "title": "社群筆記：Pokémon GO遊戲地圖更新",
-            "link": "https://pokemongolive.com/post/mapupdates-2022?hl=zh_Hant",
-            "date": "2022年10月20日"
         }
     ]
 }
