@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Bzzt! Helioptile variocolor y Tapu Koko variocolor van como un rayo al evento Voltaje Crepitante. Se ha detectado también movimiento por parte del Team GO Rocket.",
+            "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=es",
+            "date": "20 de enero de 2023"
+        },
+        {
             "title": "¡La Regresión Primigenia llega a Pokémon GO!",
             "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=es",
             "date": "18 de enero de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Zorua y Zoroark han aparecido en Pokémon GO!",
             "link": "https://pokemongolive.com/post/halloween-zorua?hl=es",
             "date": "28 de octubre de 2022"
-        },
-        {
-            "title": "¡Actualización de pegatinas en Pokémon GO!",
-            "link": "https://pokemongolive.com/post/sticker-feature-update-2022?hl=es",
-            "date": "25 de octubre de 2022"
         }
     ]
 }
