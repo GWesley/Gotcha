@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Rayquaza emerges ahead of a Hoenn-sized adventure in Primal Rumblings!",
+            "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=en",
+            "date": "January 30, 2023"
+        },
+        {
             "title": "Bzzt! Shiny Helioptile and Shiny Tapu Koko bring the thunder in the Crackling Voltage event; Team GO Rocket activity also detected",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=en",
             "date": "January 20, 2023"
@@ -148,11 +153,6 @@
             "title": "The Greedy Gluttons event and a Team GO Rocket takeover serve up adventure in Pokémon GO this November!",
             "link": "https://pokemongolive.com/post/greedy-gluttons?hl=en",
             "date": "November 7, 2022"
-        },
-        {
-            "title": "A new discovery! Gimmighoul, a Pokémon from the Paldea region!",
-            "link": "https://pokemongolive.com/post/coin?hl=en",
-            "date": "November 6, 2022"
         }
     ]
 }
