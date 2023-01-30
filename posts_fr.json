@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Rayquaza émerge avant une aventure digne de Hoenn pendant l'événement Primo-grondement !",
+            "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=fr",
+            "date": "30 janvier 2023"
+        },
+        {
             "title": "Bzzt ! Galvaran Chromatique et Tokorico Chromatique font faire des étincelles dans l'événement Voltage crépitant ; des activités de la Team GO Rocket ont également été détectées",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=fr",
             "date": "20 janvier 2023"
@@ -148,11 +153,6 @@
             "title": "Journaux de développeurs : L’art de Pokémon GO",
             "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=fr",
             "date": "2 novembre 2022"
-        },
-        {
-            "title": "Zorua et Zoroark arrivent dans Pokémon GO !",
-            "link": "https://pokemongolive.com/post/halloween-zorua?hl=fr",
-            "date": "28 octobre 2022"
         }
     ]
 }
