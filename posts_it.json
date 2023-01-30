@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Rayquaza fa il suo debutto prima di una delle avventure di Hoenn in Archeopresagi!",
+            "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=it",
+            "date": "30 gennaio 2023"
+        },
+        {
             "title": "Bzzt! Helioptile e Tapu Koko cromatici portano energia nell’evento Tensione scoppiettante; rilevata attività anche del Team GO Rocket",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=it",
             "date": "20 gennaio 2023"
@@ -148,11 +153,6 @@
             "title": "Diario degli sviluppatori: L’arte di Pokémon GO",
             "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=it",
             "date": "2 novembre 2022"
-        },
-        {
-            "title": "Zorua e Zoroark sono apparsi in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/halloween-zorua?hl=it",
-            "date": "28 ottobre 2022"
         }
     ]
 }
