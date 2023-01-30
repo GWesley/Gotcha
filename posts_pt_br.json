@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Rayquaza surge antes de uma aventura do evento de Hoenn nos Tremores Primitivos!",
+            "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=pt_BR",
+            "date": "30 de janeiro de 2023"
+        },
+        {
             "title": "Bzzt! Helioptile e Tapu Koko Brilhante tornarão eletrizante o evento Voltagem estalante. Também detectamos atividade da Equipe GO Rocket",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=pt_BR",
             "date": "20 de janeiro de 2023"
@@ -148,11 +153,6 @@
             "title": "Diários do Desenvolvedor: A arte do Pokémon GO",
             "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=pt_BR",
             "date": "2 de novembro de 2022"
-        },
-        {
-            "title": "Zorua e Zoroak deram as caras no Pokémon GO!",
-            "link": "https://pokemongolive.com/post/halloween-zorua?hl=pt_BR",
-            "date": "28 de outubro de 2022"
         }
     ]
 }
