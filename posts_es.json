@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Rayquaza emerge antes de la aventura de Hoenn en Temblor Primigenio!",
+            "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=es",
+            "date": "30 de enero de 2023"
+        },
+        {
             "title": "¡Bzzt! Helioptile variocolor y Tapu Koko variocolor van como un rayo al evento Voltaje Crepitante. Se ha detectado también movimiento por parte del Team GO Rocket.",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=es",
             "date": "20 de enero de 2023"
@@ -148,11 +153,6 @@
             "title": "Diarios de desarrollador: el arte de Pokémon GO",
             "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=es",
             "date": "2 de noviembre de 2022"
-        },
-        {
-            "title": "¡Zorua y Zoroark han aparecido en Pokémon GO!",
-            "link": "https://pokemongolive.com/post/halloween-zorua?hl=es",
-            "date": "28 de octubre de 2022"
         }
     ]
 }
