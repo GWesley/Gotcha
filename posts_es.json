@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "El encanto está en el aire... ¡Vamos a celebrarlo en el Día de San Valentín 2023 de Pokémon GO y el día de investigaciones limitadas con Luvdisc!",
+            "link": "https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=es",
+            "date": "1 de febrero de 2023"
+        },
+        {
             "title": "¡Rayquaza emerge antes de la aventura de Hoenn en Temblor Primigenio!",
             "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=es",
             "date": "30 de enero de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Un nuevo descubrimiento! ¡Gimmighoul, un Pokémon de la región de Paldea!",
             "link": "https://pokemongolive.com/post/coin?hl=es",
             "date": "6 de noviembre de 2022"
-        },
-        {
-            "title": "Diarios de desarrollador: el arte de Pokémon GO",
-            "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=es",
-            "date": "2 de noviembre de 2022"
         }
     ]
 }
