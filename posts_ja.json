@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "愛に満ちた雰囲気が漂っています。『Pokémon GO』の2023年バレンタインイベントと「ラブカス」の「限定リサーチ」が開催！",
+            "link": "https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=ja",
+            "date": "2023年2月1日"
+        },
+        {
             "title": "ホウエン地方が舞台の冒険に先がけて、「原始の呼び声」イベントに「レックウザ」が出現！",
             "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=ja",
             "date": "2023年1月30日"
@@ -148,11 +153,6 @@
             "title": "新発見！パルデア地方のポケモン「コレクレー」",
             "link": "https://pokemongolive.com/post/coin?hl=ja",
             "date": "2022年11月6日"
-        },
-        {
-            "title": "開発者インタビュー: 『Pokémon GO』のアート",
-            "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=ja",
-            "date": "2022年11月2日"
         }
     ]
 }
