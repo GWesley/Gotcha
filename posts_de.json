@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Liebe liegt in der Luft – feiert den Valentinstag 2023 mit Pokémon GO und nehmt an der Begrenzten Forschung mit Liebiskus teil!",
+            "link": "https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=de",
+            "date": "1. Februar 2023"
+        },
+        {
             "title": "Rayquaza steigt beim Hoenn-Event „Proto-Grollen“ herab!",
             "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=de",
             "date": "30. Januar 2023"
@@ -148,11 +153,6 @@
             "title": "Neu entdeckt! Gierspenst, ein Pokémon aus der Paldea-Region!",
             "link": "https://pokemongolive.com/post/coin?hl=de",
             "date": "6. November 2022"
-        },
-        {
-            "title": "Entwicklertagebuch: Das Artwork von Pokémon GO",
-            "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=de",
-            "date": "2. November 2022"
         }
     ]
 }
