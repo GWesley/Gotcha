@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Il y a de l'amour dans l'air : célébrez la Saint-Valentin 2023 avec Pokémon GO et la journée d'Étude ciblée de Lovdisc !",
+            "link": "https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=fr",
+            "date": "1 février 2023"
+        },
+        {
             "title": "Rayquaza émerge avant une aventure digne de Hoenn pendant l'événement Primo-grondement !",
             "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=fr",
             "date": "30 janvier 2023"
@@ -148,11 +153,6 @@
             "title": "Une nouvelle découverte ! Mordudor, un Pokémon de la région de Paldea !",
             "link": "https://pokemongolive.com/post/coin?hl=fr",
             "date": "6 novembre 2022"
-        },
-        {
-            "title": "Journaux de développeurs : L’art de Pokémon GO",
-            "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=fr",
-            "date": "2 novembre 2022"
         }
     ]
 }
