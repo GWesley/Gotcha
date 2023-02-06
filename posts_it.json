@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Save the dates for next Season’s Community Days!",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=it",
+            "date": "6 febbraio 2023"
+        },
+        {
             "title": "L’amore è nell’aria: festeggia con l’evento di San Valentino 2023 di Pokémon GO e la giornata di ricerca mirata dedicata a Luvdisc.",
             "link": "https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=it",
             "date": "1 febbraio 2023"
@@ -15,7 +20,7 @@
             "date": "30 gennaio 2023"
         },
         {
-            "title": "Bzzt! Helioptile e Tapu Koko cromatici portano energia nell’evento Tensione scoppiettante; rilevata attività anche del Team GO Rocket",
+            "title": "Bzzt! Shiny Helioptile and Shiny Tapu Koko bring the thunder in the Crackling Voltage event; Team GO Rocket activity also detected",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=it",
             "date": "20 gennaio 2023"
         },
@@ -30,7 +35,7 @@
             "date": "17 gennaio 2023"
         },
         {
-            "title": "Festeggiate il Capodanno lunare con l’evento del 2023 di Pokémon GO!",
+            "title": "Celebrate the Lunar New Year with Pokémon GO’s 2023 Lunar New Year event!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=it",
             "date": "12 gennaio 2023"
         },
@@ -40,12 +45,12 @@
             "date": "11 gennaio 2023"
         },
         {
-            "title": "Kecleon fa il suo debutto in Pokémon GO!",
+            "title": "Kecleon debuts in Pokémon GO!",
             "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=it",
             "date": "7 gennaio 2023"
         },
         {
-            "title": "Un’avventura magica durante l’evento Fantasia scintillante vi aspetta!",
+            "title": "Live your own whimsical adventure in the Twinkling Fantasy event!",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=it",
             "date": "4 gennaio 2023"
         },
@@ -60,12 +65,12 @@
             "date": "3 gennaio 2023"
         },
         {
-            "title": "Anno nuovo, avventure nuove. Festeggiate l’arrivo del 2023 con Pokémon GO!",
+            "title": "A new year brings new adventures—celebrate the arrival of 2023 with Pokémon GO!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=it",
             "date": "22 dicembre 2022"
         },
         {
-            "title": "È la stagione in cui sfoggiare l’abito da festa più bello: Eevee e le sue evoluzioni indosseranno cappelli festivi in Pokémon GO!",
+            "title": "’Tis the season to wear your festive best—Eevee and its Evolutions will be donning holiday hats in Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=it",
             "date": "20 dicembre 2022"
         },
@@ -80,7 +85,7 @@
             "date": "15 dicembre 2022"
         },
         {
-            "title": "Festeggiate la stagione: date il benvenuto a MegaGlalie, Bergmite cromatico e a tanti altri in Pokémon GO!",
+            "title": "Celebrate the season—welcome Shiny Bergmite, Mega Glalie, and more to Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=it",
             "date": "12 dicembre 2022"
         },
@@ -110,7 +115,7 @@
             "date": "28 novembre 2022"
         },
         {
-            "title": "Continuate a seguire la nostra diretta dell’evento Arrivano le Ultracreature: Los Angeles per una mini sfida di collezione!",
+            "title": "Stay tuned to our Ultra Beast Arrival: Los Angeles coverage for a Mini Collection Challenge!",
             "link": "https://pokemongolive.com/post/onthegonewscast?hl=it",
             "date": "23 novembre 2022"
         },
@@ -135,7 +140,7 @@
             "date": "21 novembre 2022"
         },
         {
-            "title": "Segnatevi le date dei Community Day della prossima stagione!",
+            "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s9?hl=it",
             "date": "18 novembre 2022"
         },
@@ -145,14 +150,9 @@
             "date": "17 novembre 2022"
         },
         {
-            "title": "Novembre sarà ricco di avventure con l’evento Fame golosa e l’Attacco del Team GO Rocket di Pokémon GO!",
+            "title": "The Greedy Gluttons event and a Team GO Rocket takeover serve up adventure in Pokémon GO this November!",
             "link": "https://pokemongolive.com/post/greedy-gluttons?hl=it",
             "date": "7 novembre 2022"
-        },
-        {
-            "title": "Una nuova scoperta! Gimmighoul, un Pokémon della regione di Paldea!",
-            "link": "https://pokemongolive.com/post/coin?hl=it",
-            "date": "6 novembre 2022"
         }
     ]
 }
