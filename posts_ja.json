@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Save the dates for next Season’s Community Days!",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=ja",
+            "date": "2023年2月6日"
+        },
+        {
             "title": "愛に満ちた雰囲気が漂っています。『Pokémon GO』の2023年バレンタインイベントと「ラブカス」の「限定リサーチ」が開催！",
             "link": "https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=ja",
             "date": "2023年2月1日"
@@ -15,7 +20,7 @@
             "date": "2023年1月30日"
         },
         {
-            "title": "ビリビリ！「でんきタイプポケモンイベント」では「エリキテル」と「カプ・コケコ」が電気を放ちます！GOロケット団の活動も活発になっているようです。",
+            "title": "Bzzt! Shiny Helioptile and Shiny Tapu Koko bring the thunder in the Crackling Voltage event; Team GO Rocket activity also detected",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=ja",
             "date": "2023年1月20日"
         },
@@ -35,7 +40,7 @@
             "date": "2023年1月17日"
         },
         {
-            "title": "『Pokémon GO』の2023年旧正月イベントで、旧正月を祝いましょう！",
+            "title": "Celebrate the Lunar New Year with Pokémon GO’s 2023 Lunar New Year event!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=ja",
             "date": "2023年1月12日"
         },
@@ -45,12 +50,12 @@
             "date": "2023年1月11日"
         },
         {
-            "title": "『Pokémon GO』に「カクレオン」が登場！",
+            "title": "Kecleon debuts in Pokémon GO!",
             "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=ja",
             "date": "2023年1月7日"
         },
         {
-            "title": "「フェアリー／ドラゴンタイプイベント」で気まぐれな冒険を楽しもう！",
+            "title": "Live your own whimsical adventure in the Twinkling Fantasy event!",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=ja",
             "date": "2023年1月4日"
         },
@@ -60,12 +65,12 @@
             "date": "2023年1月4日"
         },
         {
-            "title": "新たな冒険が待ち受けている2023年が到来！『Pokémon GO』で新年を祝いましょう！",
+            "title": "A new year brings new adventures—celebrate the arrival of 2023 with Pokémon GO!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=ja",
             "date": "2022年12月22日"
         },
         {
-            "title": "ホリデーにぴったりな装いで盛り上がりましょう！ホリデーハットをかぶった「イーブイ」と進化形のポケモンたちが『Pokémon GO』に登場！",
+            "title": "’Tis the season to wear your festive best—Eevee and its Evolutions will be donning holiday hats in Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=ja",
             "date": "2022年12月20日"
         },
@@ -85,7 +90,7 @@
             "date": "2022年12月15日"
         },
         {
-            "title": "ホリデーシーズンをお祝いしよう！「メガオニゴーリ」や、色違いの「カチコール」が『Pokémon GO』にやってきます！",
+            "title": "Celebrate the season—welcome Shiny Bergmite, Mega Glalie, and more to Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=ja",
             "date": "2022年12月12日"
         },
@@ -135,7 +140,7 @@
             "date": "2022年11月21日"
         },
         {
-            "title": "次のシーズンで開催される「コミュニティ・デイ」の日程をお知らせします！",
+            "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s9?hl=ja",
             "date": "2022年11月18日"
         },
@@ -145,14 +150,9 @@
             "date": "2022年11月17日"
         },
         {
-            "title": "『Pokémon GO』では11月、「くいしんぼうイベント」や「GOロケット団占拠」が開催されます！",
+            "title": "The Greedy Gluttons event and a Team GO Rocket takeover serve up adventure in Pokémon GO this November!",
             "link": "https://pokemongolive.com/post/greedy-gluttons?hl=ja",
             "date": "2022年11月7日"
-        },
-        {
-            "title": "新発見！パルデア地方のポケモン「コレクレー」",
-            "link": "https://pokemongolive.com/post/coin?hl=ja",
-            "date": "2022年11月6日"
         }
     ]
 }
