@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "在「Pokémon GO Tour: 豐緣地區 – Las Vegas」捕捉擁有「紀念背卡」的寶可夢",
+            "link": "https://pokemongolive.com/post/location-card-new-feature?hl=zh_Hant",
+            "date": "2023年2月6日"
+        },
+        {
             "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=zh_Hant",
             "date": "2023年2月6日"
@@ -148,11 +153,6 @@
             "title": "發現全新寶可夢！帕底亞地區的寶可夢「索財靈」",
             "link": "https://pokemongolive.com/post/coin?hl=zh_Hant",
             "date": "2022年11月6日"
-        },
-        {
-            "title": "開發團隊日記：Pokémon GO的美術",
-            "link": "https://pokemongolive.com/post/dev-diaries-art-of-pokemon-go?hl=zh_Hant",
-            "date": "2022年11月2日"
         }
     ]
 }
