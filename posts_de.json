@@ -5,12 +5,17 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO kann jetzt mit Pokémon Karmesin und Pokémon Purpur verbunden werden! Fange Gierspenst in Wanderform und entwickle es zu Monetigo weiter!",
+            "link": "https://pokemongolive.com/post/gocoin?hl=de",
+            "date": "27. Februar 2023"
+        },
+        {
             "title": "Ortskarten für gefangene Pokémon bei der Pokémon GO Tour: Hoenn – Las Vegas",
             "link": "https://pokemongolive.com/post/location-card-new-feature?hl=de",
             "date": "6. Februar 2023"
         },
         {
-            "title": "Save the dates for next Season’s Community Days!",
+            "title": "Die Termine für die Community Days der nächsten Jahreszeit stehen fest!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=de",
             "date": "6. Februar 2023"
         },
@@ -25,7 +30,7 @@
             "date": "30. Januar 2023"
         },
         {
-            "title": "Bzzt! Shiny Helioptile and Shiny Tapu Koko bring the thunder in the Crackling Voltage event; Team GO Rocket activity also detected",
+            "title": "Bzzt! Schillernde Eguana und Schillernde Kapu-Riki lassen es beim Event „Hochspannung“ krachen! Außerdem tritt Team GO Rocket auf den Plan.",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=de",
             "date": "20. Januar 2023"
         },
@@ -40,7 +45,7 @@
             "date": "17. Januar 2023"
         },
         {
-            "title": "Celebrate the Lunar New Year with Pokémon GO’s 2023 Lunar New Year event!",
+            "title": "Feiert das Mondneujahr 2023 mit dem Mondneujahrs-Event in Pokémon GO!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=de",
             "date": "12. Januar 2023"
         },
@@ -50,12 +55,12 @@
             "date": "11. Januar 2023"
         },
         {
-            "title": "Kecleon debuts in Pokémon GO!",
+            "title": "Kecleon erscheint zum ersten Mal in Pokémon GO!",
             "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=de",
             "date": "7. Januar 2023"
         },
         {
-            "title": "Live your own whimsical adventure in the Twinkling Fantasy event!",
+            "title": "Erlebt beim Event „Funkelnde Fantasie“ fantastische Abenteuer!",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=de",
             "date": "4. Januar 2023"
         },
@@ -70,12 +75,12 @@
             "date": "3. Januar 2023"
         },
         {
-            "title": "A new year brings new adventures—celebrate the arrival of 2023 with Pokémon GO!",
+            "title": "Auf euch wartet ein neues Jahr voller Abenteuer – feiert den Start in das Jahr 2023 mit Pokémon GO!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=de",
             "date": "22. Dezember 2022"
         },
         {
-            "title": "’Tis the season to wear your festive best—Eevee and its Evolutions will be donning holiday hats in Pokémon GO!",
+            "title": "Es ist an der Zeit, die Feiertagsoutfits auszupacken – Evoli und seine Entwicklungen tragen in Pokémon GO Feiertags-Hüte!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=de",
             "date": "20. Dezember 2022"
         },
@@ -90,7 +95,7 @@
             "date": "15. Dezember 2022"
         },
         {
-            "title": "Celebrate the season—welcome Shiny Bergmite, Mega Glalie, and more to Pokémon GO!",
+            "title": "Wir feiern die Ankunft von Schillernden Arktip, Mega-Firnontor und weiteren Pokémon in Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=de",
             "date": "12. Dezember 2022"
         },
@@ -120,7 +125,7 @@
             "date": "28. November 2022"
         },
         {
-            "title": "Stay tuned to our Ultra Beast Arrival: Los Angeles coverage for a Mini Collection Challenge!",
+            "title": "Verfolgt unsere Berichterstattung zur Ultrabestien-Ankunft in Los Angeles, um eine Mini-Sammler-Herausforderung zu erhalten!",
             "link": "https://pokemongolive.com/post/onthegonewscast?hl=de",
             "date": "23. November 2022"
         },
@@ -145,14 +150,9 @@
             "date": "21. November 2022"
         },
         {
-            "title": "Save the dates for next Season’s Community Days!",
+            "title": "Die Termine für die Community Days der nächsten Jahreszeit stehen fest!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s9?hl=de",
             "date": "18. November 2022"
-        },
-        {
-            "title": "Neue Avatar-Artikel im Stil von Pokémon Karmesin und Pokémon Purpur für Nintendo Switch sind bald erhältlich!",
-            "link": "https://pokemongolive.com/post/pokemon-scarlet-and-pokemon-violet-nintendo-switch-outfit?hl=de",
-            "date": "17. November 2022"
         }
     ]
 }
