@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO can now connect to Pokémon Scarlet and Pokémon Violet! Catch Roaming Form Gimmighoul and evolve it into Gholdengo!",
+            "link": "https://pokemongolive.com/post/gocoin?hl=en",
+            "date": "February 27, 2023"
+        },
+        {
             "title": "Saturday update for Pokémon GO Tour: Hoenn – Las Vegas",
             "link": "https://pokemongolive.com/post/gotour2023-lasvegas-update?hl=en",
             "date": "February 18, 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Be the star of the Astral Eclipse event!",
             "link": "https://pokemongolive.com/post/astraleclipse?hl=en",
-            "date": "November 21, 2022"
-        },
-        {
-            "title": "The reports are in—a surge of Ultra Beasts is approaching!",
-            "link": "https://pokemongolive.com/post/ultrabeastarrival?hl=en",
             "date": "November 21, 2022"
         }
     ]
