@@ -5,12 +5,17 @@
     ],
     "posts": [
         {
+            "title": "이제 \"Pokémon GO\"를 「포켓몬스터스칼렛·바이올렛」과 연동할 수 있습니다! \"모으령(도보폼)\"을 잡아 타부자고로 진화시키세요!",
+            "link": "https://pokemongolive.com/post/gocoin?hl=ko",
+            "date": "2023년 2월 27일"
+        },
+        {
             "title": "\"Pokémon GO Tour: 호연 - Las Vegas\"에서 포켓몬을 잡고 특별한 로케이션 카드를 획득하세요",
             "link": "https://pokemongolive.com/post/location-card-new-feature?hl=ko",
             "date": "2023년 2월 6일"
         },
         {
-            "title": "Save the dates for next Season’s Community Days!",
+            "title": "다음 시즌의 커뮤니티 데이 일정을 안내합니다!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=ko",
             "date": "2023년 2월 6일"
         },
@@ -25,7 +30,7 @@
             "date": "2023년 1월 30일"
         },
         {
-            "title": "Bzzt! Shiny Helioptile and Shiny Tapu Koko bring the thunder in the Crackling Voltage event; Team GO Rocket activity also detected",
+            "title": "전기타입 포켓몬 이벤트에서는 \"목도리키텔\"과 \"카푸꼬꼬꼭\"이 전기를 내뿜습니다! GO로켓단 활동도 활발해진 것 같습니다.",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=ko",
             "date": "2023년 1월 20일"
         },
@@ -40,7 +45,7 @@
             "date": "2023년 1월 17일"
         },
         {
-            "title": "Celebrate the Lunar New Year with Pokémon GO’s 2023 Lunar New Year event!",
+            "title": "\"Pokémon GO\" 2023 설날 이벤트로 설날을 기념하세요!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=ko",
             "date": "2023년 1월 12일"
         },
@@ -50,12 +55,12 @@
             "date": "2023년 1월 11일"
         },
         {
-            "title": "Kecleon debuts in Pokémon GO!",
+            "title": "\"Pokémon GO\"에 \"켈리몬\" 등장!",
             "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=ko",
             "date": "2023년 1월 7일"
         },
         {
-            "title": "Live your own whimsical adventure in the Twinkling Fantasy event!",
+            "title": "페어리 / 드래곤타입 이벤트에서 기발한 모험을 떠나요!",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=ko",
             "date": "2023년 1월 4일"
         },
@@ -65,12 +70,12 @@
             "date": "2023년 1월 4일"
         },
         {
-            "title": "A new year brings new adventures—celebrate the arrival of 2023 with Pokémon GO!",
+            "title": "새해에는 새로운 모험이 찾아옵니다. \"Pokémon GO\"와 함께 2023년 새해를 맞이하세요!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=ko",
             "date": "2022년 12월 22일"
         },
         {
-            "title": "’Tis the season to wear your festive best—Eevee and its Evolutions will be donning holiday hats in Pokémon GO!",
+            "title": "홀리데이에 가장 어울리는 의상을 입어 보세요! \"Pokémon GO\"에서 \"이브이\"와 그 진화형들이 홀리데이 모자를 쓰고 \"Pokémon GO\"에 등장합니다!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=ko",
             "date": "2022년 12월 20일"
         },
@@ -85,7 +90,7 @@
             "date": "2022년 12월 15일"
         },
         {
-            "title": "Celebrate the season—welcome Shiny Bergmite, Mega Glalie, and more to Pokémon GO!",
+            "title": "연말 시즌을 기념하세요! \"메가얼음귀신\", 색이 다른 \"꽁어름\"이 \"Pokémon GO\"에 찾아옵니다!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=ko",
             "date": "2022년 12월 12일"
         },
@@ -135,7 +140,7 @@
             "date": "2022년 11월 21일"
         },
         {
-            "title": "Save the dates for next Season’s Community Days!",
+            "title": "다음 시즌의 커뮤니티 데이 일정을 안내합니다!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s9?hl=ko",
             "date": "2022년 11월 18일"
         },
@@ -145,14 +150,9 @@
             "date": "2022년 11월 17일"
         },
         {
-            "title": "The Greedy Gluttons event and a Team GO Rocket takeover serve up adventure in Pokémon GO this November!",
+            "title": "11월 \"Pokémon GO\"에서 먹보 이벤트와 GO로켓단 점령으로 새로운 모험을 떠나보세요!",
             "link": "https://pokemongolive.com/post/greedy-gluttons?hl=ko",
             "date": "2022년 11월 7일"
-        },
-        {
-            "title": "새로운 발견! 팔데아지방의 포켓몬 「모으령」",
-            "link": "https://pokemongolive.com/post/coin?hl=ko",
-            "date": "2022년 11월 6일"
         }
     ]
 }
