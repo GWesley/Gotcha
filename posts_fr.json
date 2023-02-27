@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bientôt disponible : Appairage avec Pokémon GO Plus + !",
+            "link": "https://pokemongolive.com/post/pair-with-pokemon-go-plus-plus?hl=fr",
+            "date": "27 février 2023"
+        },
+        {
             "title": "Vous pouvez maintenant connecter Pokémon GO à Pokémon Écarlate et Pokémon Violet ! Attrapez Mordudor Forme Marche et faites-le évoluer en Gromago !",
             "link": "https://pokemongolive.com/post/gocoin?hl=fr",
             "date": "27 février 2023"
@@ -148,11 +153,6 @@
             "title": "Les Ultra-chimères sont là !",
             "link": "https://pokemongolive.com/post/ultrabeastarrivallanding?hl=fr",
             "date": "21 novembre 2022"
-        },
-        {
-            "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s9?hl=fr",
-            "date": "18 novembre 2022"
         }
     ]
 }
