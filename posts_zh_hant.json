@@ -5,12 +5,17 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO 與《寶可夢朱／紫》連動囉！快來捕捉索財靈（徒步形態），並將牠進化成賽富豪吧！",
+            "link": "https://pokemongolive.com/post/gocoin?hl=zh_Hant",
+            "date": "2023年2月27日"
+        },
+        {
             "title": "在「Pokémon GO Tour: 豐緣地區 – Las Vegas」捕捉擁有「紀念背卡」的寶可夢",
             "link": "https://pokemongolive.com/post/location-card-new-feature?hl=zh_Hant",
             "date": "2023年2月6日"
         },
         {
-            "title": "Save the dates for next Season’s Community Days!",
+            "title": "記得把下個季節的社群日時間記下來！",
             "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=zh_Hant",
             "date": "2023年2月6日"
         },
@@ -20,7 +25,7 @@
             "date": "2023年2月1日"
         },
         {
-            "title": "Bzzt! Shiny Helioptile and Shiny Tapu Koko bring the thunder in the Crackling Voltage event; Team GO Rocket activity also detected",
+            "title": "滋滋滋！電蜥和卡璞・鳴鳴即將在劈啪伏特活動中轟動登場；GO火箭隊也正在蠢蠢欲動",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=zh_Hant",
             "date": "2023年1月20日"
         },
@@ -40,7 +45,7 @@
             "date": "2023年1月17日"
         },
         {
-            "title": "Celebrate the Lunar New Year with Pokémon GO’s 2023 Lunar New Year event!",
+            "title": "在Pokémon GO 2023年農曆春節活動中歡慶農曆新年！",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=zh_Hant",
             "date": "2023年1月12日"
         },
@@ -50,12 +55,12 @@
             "date": "2023年1月11日"
         },
         {
-            "title": "Kecleon debuts in Pokémon GO!",
+            "title": "變隱龍於Pokémon GO中首度現身！",
             "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=zh_Hant",
             "date": "2023年1月7日"
         },
         {
-            "title": "Live your own whimsical adventure in the Twinkling Fantasy event!",
+            "title": "在閃爍明星活動中享受屬於自己的奇幻冒險吧！",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=zh_Hant",
             "date": "2023年1月4日"
         },
@@ -65,12 +70,12 @@
             "date": "2023年1月4日"
         },
         {
-            "title": "A new year brings new adventures—celebrate the arrival of 2023 with Pokémon GO!",
+            "title": "新的一年帶來新的冒險──跟Pokémon GO一起慶祝2023的到來！",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=zh_Hant",
             "date": "2022年12月22日"
         },
         {
-            "title": "’Tis the season to wear your festive best—Eevee and its Evolutions will be donning holiday hats in Pokémon GO!",
+            "title": "現在正是換上最棒慶典裝扮的季節——因為所有型態的伊布都會在Pokémon GO中戴上假日帽！",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=zh_Hant",
             "date": "2022年12月20日"
         },
@@ -85,7 +90,7 @@
             "date": "2022年12月15日"
         },
         {
-            "title": "Celebrate the season—welcome Shiny Bergmite, Mega Glalie, and more to Pokémon GO!",
+            "title": "歡慶佳節——歡迎異色冰寶、超級冰鬼護，以及其他寶可夢加入Pokémon GO的行列！",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=zh_Hant",
             "date": "2022年12月12日"
         },
@@ -135,7 +140,7 @@
             "date": "2022年11月21日"
         },
         {
-            "title": "Save the dates for next Season’s Community Days!",
+            "title": "記得把下個季節的社群日時間記下來喔！",
             "link": "https://pokemongolive.com/post/cd-savethedate-s9?hl=zh_Hant",
             "date": "2022年11月18日"
         },
@@ -145,14 +150,9 @@
             "date": "2022年11月17日"
         },
         {
-            "title": "The Greedy Gluttons event and a Team GO Rocket takeover serve up adventure in Pokémon GO this November!",
+            "title": "「愛吃的大胃王」活動和「GO火箭隊入侵」將於11月在Pokémon GO中登場！",
             "link": "https://pokemongolive.com/post/greedy-gluttons?hl=zh_Hant",
             "date": "2022年11月7日"
-        },
-        {
-            "title": "發現全新寶可夢！帕底亞地區的寶可夢「索財靈」",
-            "link": "https://pokemongolive.com/post/coin?hl=zh_Hant",
-            "date": "2022年11月6日"
         }
     ]
 }
