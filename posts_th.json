@@ -5,12 +5,17 @@
     ],
     "posts": [
         {
+            "title": "สามารถเชื่อมต่อ Pokémon GO กับ Pokémon Scarlet และ Pokémon Violet ได้แล้ว! จับคอลเลคเรย์ (ฟอร์มเดินเท้า) และวิวัฒนาการเป็นซาร์ฟโก!",
+            "link": "https://pokemongolive.com/post/gocoin?hl=th",
+            "date": "27 กุมภาพันธ์ 2566"
+        },
+        {
             "title": "จับโปเกมอนที่มี \"การ์ดสถานที่\" ที่ Pokémon GO Tour: โฮเอ็น – ลาสเวกัส",
             "link": "https://pokemongolive.com/post/location-card-new-feature?hl=th",
             "date": "6 กุมภาพันธ์ 2566"
         },
         {
-            "title": "Save the dates for next Season’s Community Days!",
+            "title": "จดบันทึกวันที่สำหรับคอมมิวนิตี้เดย์ของฤดูกาลหน้าเลย!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=th",
             "date": "6 กุมภาพันธ์ 2566"
         },
@@ -25,7 +30,7 @@
             "date": "30 มกราคม 2566"
         },
         {
-            "title": "Bzzt! Shiny Helioptile and Shiny Tapu Koko bring the thunder in the Crackling Voltage event; Team GO Rocket activity also detected",
+            "title": "เปรี๊ยะ! เอลิคิเทลสีแตกต่างและคาปู โคเคโคสีแตกต่างจะนำสายฟ้ามาในอีเวนต์ไฟฟ้าแรงสูง; มีการตรวจพบกิจกรรมแก๊งโกร็อกเกตด้วย",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=th",
             "date": "20 มกราคม 2566"
         },
@@ -40,7 +45,7 @@
             "date": "17 มกราคม 2566"
         },
         {
-            "title": "Celebrate the Lunar New Year with Pokémon GO’s 2023 Lunar New Year event!",
+            "title": "ฉลองวันตรุษจีนด้วยอีเวนต์ตรุษจีนปี 2023 ของ Pokémon GO!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=th",
             "date": "12 มกราคม 2566"
         },
@@ -50,12 +55,12 @@
             "date": "11 มกราคม 2566"
         },
         {
-            "title": "Kecleon debuts in Pokémon GO!",
+            "title": "คาคุเลียนเปิดตัวใน Pokémon GO!",
             "link": "https://pokemongolive.com/post/kecleon-finally-debuts-pokemon-go?hl=th",
             "date": "7 มกราคม 2566"
         },
         {
-            "title": "Live your own whimsical adventure in the Twinkling Fantasy event!",
+            "title": "ผจญภัยเหนือจินตนาการในอีเวนต์แฟนตาซีพร่างพราว!",
             "link": "https://pokemongolive.com/post/twinkling-fantasy?hl=th",
             "date": "4 มกราคม 2566"
         },
@@ -65,12 +70,12 @@
             "date": "4 มกราคม 2566"
         },
         {
-            "title": "A new year brings new adventures—celebrate the arrival of 2023 with Pokémon GO!",
+            "title": "ปีใหม่ การผจญภัยใหม่ ๆ มาฉลองการมาถึงของปี 2023 กับ Pokémon GOกันเลย!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=th",
             "date": "22 ธันวาคม 2565"
         },
         {
-            "title": "’Tis the season to wear your festive best—Eevee and its Evolutions will be donning holiday hats in Pokémon GO!",
+            "title": "แต่งตัวให้เข้าธีมวันหยุดกันเลย! อีวุยและร่างวิวัฒนาการทั้งหมดที่สวมหมวกวันหยุดจะปรากฏตัวใน Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=th",
             "date": "20 ธันวาคม 2565"
         },
@@ -85,7 +90,7 @@
             "date": "15 ธันวาคม 2565"
         },
         {
-            "title": "Celebrate the season—welcome Shiny Bergmite, Mega Glalie, and more to Pokémon GO!",
+            "title": "ฉลองฤดูกาลแห่งวันหยุดกับคาจิคอลสีแตกต่าง, เมก้าโอนิโกริ และอีกมากมายใน Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=th",
             "date": "12 ธันวาคม 2565"
         },
@@ -135,7 +140,7 @@
             "date": "21 พฤศจิกายน 2565"
         },
         {
-            "title": "Save the dates for next Season’s Community Days!",
+            "title": "จดบันทึกวันที่สำหรับคอมมิวนิตี้เดย์ของฤดูกาลหน้าเลย!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s9?hl=th",
             "date": "18 พฤศจิกายน 2565"
         },
@@ -145,14 +150,9 @@
             "date": "17 พฤศจิกายน 2565"
         },
         {
-            "title": "The Greedy Gluttons event and a Team GO Rocket takeover serve up adventure in Pokémon GO this November!",
+            "title": "อีเวนต์จอมตะกละและแก๊งโกร็อกเกตบุกจะมาสู่ Pokémon GO ในเดือนพฤศจิกายนนี้!",
             "link": "https://pokemongolive.com/post/greedy-gluttons?hl=th",
             "date": "7 พฤศจิกายน 2565"
-        },
-        {
-            "title": "การค้นพบครั้งใหม่! โปเกมอนจากภูมิภาคพัลเดีย \"คอลเลคเรย์\"",
-            "link": "https://pokemongolive.com/post/coin?hl=th",
-            "date": "6 พฤศจิกายน 2565"
         }
     ]
 }
