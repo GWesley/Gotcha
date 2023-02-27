@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Coming Soon: Pair with Pokémon GO Plus +!",
+            "link": "https://pokemongolive.com/post/pair-with-pokemon-go-plus-plus?hl=en",
+            "date": "February 27, 2023"
+        },
+        {
             "title": "Pokémon GO can now connect to Pokémon Scarlet and Pokémon Violet! Catch Roaming Form Gimmighoul and evolve it into Gholdengo!",
             "link": "https://pokemongolive.com/post/gocoin?hl=en",
             "date": "February 27, 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Thanks for making memories at Pokémon GO Safari Zone: Singapore!",
             "link": "https://pokemongolive.com/post/safari-zone-singapore-2022-recap?hl=en",
-            "date": "November 21, 2022"
-        },
-        {
-            "title": "Be the star of the Astral Eclipse event!",
-            "link": "https://pokemongolive.com/post/astraleclipse?hl=en",
             "date": "November 21, 2022"
         }
     ]
