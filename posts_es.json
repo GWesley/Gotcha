@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "¡Perfecciona tus habilidades en el evento Objetivo de Captura!",
+            "link": "https://pokemongolive.com/post/catch-mastery-mar-2023?hl=es",
+            "date": "28 de febrero de 2023"
+        },
+        {
+            "title": "Actualización sobre la Liga Combates GO: Rising Heroes",
+            "link": "https://pokemongolive.com/post/go-battle-league-rising-heroes?hl=es",
+            "date": "28 de febrero de 2023"
+        },
+        {
             "title": "Próximamente: ¡Vinculación con Pokémon GO Plus +!",
             "link": "https://pokemongolive.com/post/pair-with-pokemon-go-plus-plus?hl=es",
             "date": "27 de febrero de 2023"
@@ -142,16 +152,6 @@
         {
             "title": "¡Sed los protagonistas del Eclipse Astral!",
             "link": "https://pokemongolive.com/post/astraleclipse?hl=es",
-            "date": "21 de noviembre de 2022"
-        },
-        {
-            "title": "Los informes así lo indican: ¡se acerca una oleada de Ultraentes!",
-            "link": "https://pokemongolive.com/post/ultrabeastarrival?hl=es",
-            "date": "21 de noviembre de 2022"
-        },
-        {
-            "title": "LOS ULTRAENTES ESTÁN LLEGANDO",
-            "link": "https://pokemongolive.com/post/ultrabeastarrivallanding?hl=es",
             "date": "21 de noviembre de 2022"
         }
     ]
