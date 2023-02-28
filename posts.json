@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Hone your catching skills in the Catch Mastery event!",
+            "link": "https://pokemongolive.com/post/catch-mastery-mar-2023?hl=en",
+            "date": "February 28, 2023"
+        },
+        {
+            "title": "GO Battle League: Rising Heroes Update",
+            "link": "https://pokemongolive.com/post/go-battle-league-rising-heroes?hl=en",
+            "date": "February 28, 2023"
+        },
+        {
             "title": "Coming Soon: Pair with Pokémon GO Plus +!",
             "link": "https://pokemongolive.com/post/pair-with-pokemon-go-plus-plus?hl=en",
             "date": "February 27, 2023"
@@ -143,16 +153,6 @@
             "title": "Mega Sceptile, Mega Blaziken, and Mega Swampert debut in Heading to Hoenn Mega Raid Day",
             "link": "https://pokemongolive.com/post/hoennmegaraidday?hl=en",
             "date": "November 28, 2022"
-        },
-        {
-            "title": "Stay tuned to our Ultra Beast Arrival: Los Angeles coverage for a Mini Collection Challenge!",
-            "link": "https://pokemongolive.com/post/onthegonewscast?hl=en",
-            "date": "November 23, 2022"
-        },
-        {
-            "title": "Thanks for making memories at Pokémon GO Safari Zone: Singapore!",
-            "link": "https://pokemongolive.com/post/safari-zone-singapore-2022-recap?hl=en",
-            "date": "November 21, 2022"
         }
     ]
 }
