@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Stellt euer Können beim Fangen von Pokémon während des Fangkunst-Events auf die Probe!",
+            "link": "https://pokemongolive.com/post/catch-mastery-mar-2023?hl=de",
+            "date": "28. Februar 2023"
+        },
+        {
+            "title": "Update zu GO-Kampfliga: Rising Heroes",
+            "link": "https://pokemongolive.com/post/go-battle-league-rising-heroes?hl=de",
+            "date": "28. Februar 2023"
+        },
+        {
             "title": "Bald möglich: Kopplung mit Pokémon GO Plus +",
             "link": "https://pokemongolive.com/post/pair-with-pokemon-go-plus-plus?hl=de",
             "date": "27. Februar 2023"
@@ -142,16 +152,6 @@
         {
             "title": "Seid die Stars der Astralfinsternis!",
             "link": "https://pokemongolive.com/post/astraleclipse?hl=de",
-            "date": "21. November 2022"
-        },
-        {
-            "title": "Eine ganze Schar an Ultrabestien kommt auf uns zu!",
-            "link": "https://pokemongolive.com/post/ultrabeastarrival?hl=de",
-            "date": "21. November 2022"
-        },
-        {
-            "title": "DIE ULTRABESTIEN KOMMEN!",
-            "link": "https://pokemongolive.com/post/ultrabeastarrivallanding?hl=de",
             "date": "21. November 2022"
         }
     ]
