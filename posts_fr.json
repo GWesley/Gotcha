@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Fête des couleurs revient en 2023 ! Méga-Charmina et Denticrisse feront leurs débuts pendant la seconde inauguration de ce festival coloré !",
+            "link": "https://pokemongolive.com/post/festival-of-colors-2023?hl=fr",
+            "date": "2 mars 2023"
+        },
+        {
             "title": "Journée Communauté du mois de mars 2023 : Ramoloss et Ramoloss de Galar",
             "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=fr",
             "date": "2 mars 2023"
@@ -148,11 +153,6 @@
             "title": "Restez à l’écoute pour ne rien manquer de notre reportage sur l’arrivée des Ultra-chimères à Los Angeles et obtenir un mini Défi de collection !",
             "link": "https://pokemongolive.com/post/onthegonewscast?hl=fr",
             "date": "23 novembre 2022"
-        },
-        {
-            "title": "Merci d’avoir créé de beaux souvenirs lors de la « Pokémon GO Zone Safari : Singapour » !",
-            "link": "https://pokemongolive.com/post/safari-zone-singapore-2022-recap?hl=fr",
-            "date": "21 novembre 2022"
         }
     ]
 }
