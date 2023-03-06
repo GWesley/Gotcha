@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Regidrago arrives in Elite Raids!",
+            "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=en",
+            "date": "March 6, 2023"
+        },
+        {
             "title": "Festival of Colors returns for 2023; Mega Medicham and Bruxish debut during the colorful celebration’s second year",
             "link": "https://pokemongolive.com/post/festival-of-colors-2023?hl=en",
             "date": "March 2, 2023"
@@ -148,11 +153,6 @@
             "title": "Keep sharp during the Mythic Blade event!",
             "link": "https://pokemongolive.com/post/mythicblade?hl=en",
             "date": "December 2, 2022"
-        },
-        {
-            "title": "Bahasa Indonesia language support for Pokémon GO and special events!",
-            "link": "https://pokemongolive.com/post/dukungan-bahasa-indonesia?hl=en",
-            "date": "November 29, 2022"
         }
     ]
 }
