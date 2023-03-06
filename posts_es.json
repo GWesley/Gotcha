@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Regidrago vuela hasta las incursiones élite!",
+            "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=es",
+            "date": "6 de marzo de 2023"
+        },
+        {
             "title": "¡El Festival de los Colores regresa en 2023! Mega-Medicham y Bruxish podrán vivir por primera vez esta segunda edición del evento más colorido que existe",
             "link": "https://pokemongolive.com/post/festival-of-colors-2023?hl=es",
             "date": "2 de marzo de 2023"
@@ -148,11 +153,6 @@
             "title": "Mega-Sceptile, Mega-Blaziken y Mega-Swampert debutan en el Día de Megaincursiones: Camino a Hoenn",
             "link": "https://pokemongolive.com/post/hoennmegaraidday?hl=es",
             "date": "28 de noviembre de 2022"
-        },
-        {
-            "title": "¡Podéis seguir nuestra cobertura de la aparición de los Ultraentes en Los Ángeles para conseguir un minidesafío de colección!",
-            "link": "https://pokemongolive.com/post/onthegonewscast?hl=es",
-            "date": "23 de noviembre de 2022"
         }
     ]
 }
