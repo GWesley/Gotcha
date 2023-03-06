@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Apresentamos a parceria com o Itaú no Brasil!",
+            "link": "https://pokemongolive.com/post/itau-partnership?hl=pt_BR",
+            "date": "6 de março de 2023"
+        },
+        {
             "title": "O Festival das Cores está de volta em 2023; Mega Medicham e Bruxish estreiam durante o segundo ano de celebrações coloridas",
             "link": "https://pokemongolive.com/post/festival-of-colors-2023?hl=pt_BR",
             "date": "2 de março de 2023"
@@ -148,11 +153,6 @@
             "title": "Mega Sceptile, Mega Blaziken e Mega Swampert estreiam no Rumo ao dia de Megarreides de Hoenn",
             "link": "https://pokemongolive.com/post/hoennmegaraidday?hl=pt_BR",
             "date": "28 de novembro de 2022"
-        },
-        {
-            "title": "Fiquem ligados na cobertura da Chegada de Ultracriaturas: Los Angeles para um Desafio de minicoleção!",
-            "link": "https://pokemongolive.com/post/onthegonewscast?hl=pt_BR",
-            "date": "23 de novembro de 2022"
         }
     ]
 }
