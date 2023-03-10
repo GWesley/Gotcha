@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Our continued commitment to real-world play in Pokémon GO",
+            "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=en",
+            "date": "March 10, 2023"
+        },
+        {
             "title": "Regidrago arrives in Elite Raids!",
             "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=en",
             "date": "March 6, 2023"
@@ -148,11 +153,6 @@
             "title": "December 2022 Community Day: Previously featured Pokémon from 2022 and 2021 Community Days return!",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=en",
             "date": "December 5, 2022"
-        },
-        {
-            "title": "Keep sharp during the Mythic Blade event!",
-            "link": "https://pokemongolive.com/post/mythicblade?hl=en",
-            "date": "December 2, 2022"
         }
     ]
 }
