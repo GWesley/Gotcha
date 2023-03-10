@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "持續完善Pokémon GO的真實世界遊戲體驗",
+            "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=zh_Hant",
+            "date": "2023年3月10日"
+        },
+        {
             "title": "雷吉鐸拉戈在菁英團體戰中登場！",
             "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=zh_Hant",
             "date": "2023年3月6日"
@@ -148,11 +153,6 @@
             "title": "超級蜥蜴王、超級火焰雞與超級巨沼怪將於豐緣超級團體戰日首次登場",
             "link": "https://pokemongolive.com/post/hoennmegaraidday?hl=zh_Hant",
             "date": "2022年11月28日"
-        },
-        {
-            "title": "謝謝你們，和我們一起在「Pokémon GO Safari Zone：Singapore」留下美好回憶！",
-            "link": "https://pokemongolive.com/post/safari-zone-singapore-2022-recap?hl=zh_Hant",
-            "date": "2022年11月21日"
         }
     ]
 }
