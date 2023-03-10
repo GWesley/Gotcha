@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Nosso compromisso contínuo em jogar no mundo real com o Pokémon GO",
+            "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=pt_BR",
+            "date": "10 de março de 2023"
+        },
+        {
             "title": "Regidrago chega às Reides de Elite!",
             "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=pt_BR",
             "date": "6 de março de 2023"
@@ -148,11 +153,6 @@
             "title": "Fiquem espertos durante o evento Lâmina Mítica!",
             "link": "https://pokemongolive.com/post/mythicblade?hl=pt_BR",
             "date": "2 de dezembro de 2022"
-        },
-        {
-            "title": "Atualização da Liga de Batalha GO: Desejos Míticos",
-            "link": "https://pokemongolive.com/post/gobattleleague-mythicalwishes?hl=pt_BR",
-            "date": "28 de novembro de 2022"
         }
     ]
 }
