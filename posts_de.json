@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Helft Prof. Willow bei einem neuen Event und bekämpft Team GO Rocket",
+            "link": "https://pokemongolive.com/post/lets-go-event-team-go-rocket-takeover?hl=de",
+            "date": "14. März 2023"
+        },
+        {
             "title": "Geplante Verbesserungen der Live-Events von Pokémon GO im Jahr 2023",
             "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=de",
             "date": "10. März 2023"
@@ -148,11 +153,6 @@
             "title": "Haltet während des Mysteriöse Klinge-Events die Augen offen!",
             "link": "https://pokemongolive.com/post/mythicblade?hl=de",
             "date": "2. Dezember 2022"
-        },
-        {
-            "title": "Update zu GO-Kampfliga: Mysteriöse Wünsche",
-            "link": "https://pokemongolive.com/post/gobattleleague-mythicalwishes?hl=de",
-            "date": "28. November 2022"
         }
     ]
 }
