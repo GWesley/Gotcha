@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "El Profesor Willow necesita vuestra ayuda en un nuevo evento. También hemos detectado actividad del Team GO Rocket.",
+            "link": "https://pokemongolive.com/post/lets-go-event-team-go-rocket-takeover?hl=es",
+            "date": "14 de marzo de 2023"
+        },
+        {
             "title": "Compromiso constante por ofrecer una experiencia del mundo real en Pokémon GO",
             "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=es",
             "date": "10 de marzo de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Afila tu instinto en el evento de Filo Místico!",
             "link": "https://pokemongolive.com/post/mythicblade?hl=es",
             "date": "2 de diciembre de 2022"
-        },
-        {
-            "title": "Actualización sobre la Liga Combates GO: Deseos singulares",
-            "link": "https://pokemongolive.com/post/gobattleleague-mythicalwishes?hl=es",
-            "date": "28 de noviembre de 2022"
         }
     ]
 }
