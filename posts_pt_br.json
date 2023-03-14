@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O Professor Willow precisa da ajuda de todos em um novo evento. Também detectamos atividade da Equipe GO Rocket",
+            "link": "https://pokemongolive.com/post/lets-go-event-team-go-rocket-takeover?hl=pt_BR",
+            "date": "14 de março de 2023"
+        },
+        {
             "title": "Nosso compromisso contínuo em jogar no mundo real com o Pokémon GO",
             "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=pt_BR",
             "date": "10 de março de 2023"
@@ -148,11 +153,6 @@
             "title": "Dia Comunitário de dezembro de 2022: Pokémon que foram destaques de Dias Comunitários em 2021 e 2022 estarão de volta!",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=pt_BR",
             "date": "5 de dezembro de 2022"
-        },
-        {
-            "title": "Fiquem espertos durante o evento Lâmina Mítica!",
-            "link": "https://pokemongolive.com/post/mythicblade?hl=pt_BR",
-            "date": "2 de dezembro de 2022"
         }
     ]
 }
