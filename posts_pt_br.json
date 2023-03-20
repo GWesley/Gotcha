@@ -5,9 +5,14 @@
     ],
     "posts": [
         {
+            "title": "Dia Comunitário de abril de 2023: Togetic",
+            "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=pt_BR",
+            "date": "19 de março de 2023"
+        },
+        {
             "title": "Dia Comunitário de março de 2023: Slowpoke e Slowpoke de Galar",
             "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=pt_BR",
-            "date": "15 de março de 2023"
+            "date": "17 de março de 2023"
         },
         {
             "title": "O Professor Willow precisa da ajuda de todos em um novo evento. Também detectamos atividade da Equipe GO Rocket",
@@ -148,11 +153,6 @@
             "title": "Pokémon de novos tamanhos foram descobertos no Pokémon GO!",
             "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=pt_BR",
             "date": "8 de dezembro de 2022"
-        },
-        {
-            "title": "Dia Comunitário de dezembro de 2022: Pokémon que foram destaques de Dias Comunitários em 2021 e 2022 estarão de volta!",
-            "link": "https://pokemongolive.com/post/community-day-december-2022?hl=pt_BR",
-            "date": "5 de dezembro de 2022"
         }
     ]
 }
