@@ -5,9 +5,14 @@
     ],
     "posts": [
         {
+            "title": "Community Day im April 2023: Togetic",
+            "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=de",
+            "date": "19. März 2023"
+        },
+        {
             "title": "Community Day im März 2023: Flegmon und Galar-Flegmon",
             "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=de",
-            "date": "15. März 2023"
+            "date": "17. März 2023"
         },
         {
             "title": "Helft Prof. Willow bei einem neuen Event und bekämpft Team GO Rocket",
@@ -148,11 +153,6 @@
             "title": "Community Day im Dezember 2022: Community Day-Pokémon aus 2021 und 2022 kehren zurück!",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=de",
             "date": "5. Dezember 2022"
-        },
-        {
-            "title": "Haltet während des Mysteriöse Klinge-Events die Augen offen!",
-            "link": "https://pokemongolive.com/post/mythicblade?hl=de",
-            "date": "2. Dezember 2022"
         }
     ]
 }
