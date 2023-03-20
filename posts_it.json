@@ -5,9 +5,14 @@
     ],
     "posts": [
         {
+            "title": "Community Day di aprile 2023: Togetic",
+            "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=it",
+            "date": "19 marzo 2023"
+        },
+        {
             "title": "Community Day di marzo 2023: Slowpoke e Slowpoke di Galar",
             "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=it",
-            "date": "15 marzo 2023"
+            "date": "17 marzo 2023"
         },
         {
             "title": "Il Professor Willow ha bisogno dell’aiuto di tutti per un nuovo evento; rilevata attività anche del Team GO Rocket",
@@ -148,11 +153,6 @@
             "title": "Community Day di dicembre 2022: ritornano i Pokémon protagonisti dei Community Day del 2021 e del 2022!",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=it",
             "date": "5 dicembre 2022"
-        },
-        {
-            "title": "Aguzzate la mente durante l’evento Lama misteriosa!",
-            "link": "https://pokemongolive.com/post/mythicblade?hl=it",
-            "date": "2 dicembre 2022"
         }
     ]
 }
