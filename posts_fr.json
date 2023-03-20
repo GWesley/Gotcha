@@ -5,9 +5,14 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté d’avril 2023 : Togetic",
+            "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=fr",
+            "date": "19 mars 2023"
+        },
+        {
             "title": "Journée Communauté du mois de mars 2023 : Ramoloss et Ramoloss de Galar",
             "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=fr",
-            "date": "15 mars 2023"
+            "date": "17 mars 2023"
         },
         {
             "title": "Le professeur Willow a besoin d'aide pour un nouvel événement ; une activité de la Team GO Rocket a aussi été détectée",
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de décembre 2022 : Les Pokémon vedettes des Journées Communauté de 2021 et 2022 reviennent en force !",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=fr",
             "date": "5 décembre 2022"
-        },
-        {
-            "title": "Affutez votre esprit durant l’événement : « Lame fabuleuse » !",
-            "link": "https://pokemongolive.com/post/mythicblade?hl=fr",
-            "date": "2 décembre 2022"
         }
     ]
 }
