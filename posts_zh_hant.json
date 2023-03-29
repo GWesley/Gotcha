@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "春意漸濃，和帶著櫻花的寶可夢們一起迎接春天，還有更多驚喜等著你！",
+            "link": "https://pokemongolive.com/post/spring-into-spring-2023?hl=zh_Hant",
+            "date": "2023年3月29日"
+        },
+        {
             "title": "2023年4月社群日：波克基古",
             "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=zh_Hant",
             "date": "2023年3月19日"
@@ -148,11 +153,6 @@
             "title": "2022年12月社群日：2021年與2022年社群日的主角寶可夢都回來了！",
             "link": "https://pokemongolive.com/post/community-day-december-2022?hl=zh_Hant",
             "date": "2022年12月5日"
-        },
-        {
-            "title": "神幻之劍活動期間請保持警覺！",
-            "link": "https://pokemongolive.com/post/mythicblade?hl=zh_Hant",
-            "date": "2022年12月2日"
         }
     ]
 }
