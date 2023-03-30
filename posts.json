@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Updates to Pokémon GO’s Remote Raids",
+            "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=en",
+            "date": "March 30, 2023"
+        },
+        {
             "title": "Spring into Spring with Pokémon adorned with cherry blossoms and more!",
             "link": "https://pokemongolive.com/post/spring-into-spring-2023?hl=en",
             "date": "March 29, 2023"
@@ -148,11 +153,6 @@
             "title": "Scatterbug, Spewpa, and Vivillon have been discovered in Pokémon GO!",
             "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=en",
             "date": "December 15, 2022"
-        },
-        {
-            "title": "Celebrate the season—welcome Shiny Bergmite, Mega Glalie, and more to Pokémon GO!",
-            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=en",
-            "date": "December 12, 2022"
         }
     ]
 }
