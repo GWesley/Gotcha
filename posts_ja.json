@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "エイプリルフール：博士の長い一日",
+            "link": "https://pokemongolive.com/post/april-fools-2023?hl=ja",
+            "date": "2023年3月31日"
+        },
+        {
             "title": "『Pokémon GO』の「リモートレイド」に関する最新情報",
             "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=ja",
             "date": "2023年3月30日"
@@ -148,11 +153,6 @@
             "title": "ホリデーにぴったりな装いで盛り上がりましょう！ホリデーハットをかぶった「イーブイ」と進化形のポケモンたちが『Pokémon GO』に登場！",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=ja",
             "date": "2022年12月20日"
-        },
-        {
-            "title": "2023年1月のコミュニティ・デイ：「ハリマロン」",
-            "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=ja",
-            "date": "2022年12月19日"
         }
     ]
 }
