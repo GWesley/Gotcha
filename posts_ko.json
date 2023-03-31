@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "만우절: 박사의 긴 하루",
+            "link": "https://pokemongolive.com/post/april-fools-2023?hl=ko",
+            "date": "2023년 3월 31일"
+        },
+        {
             "title": "\"Pokémon GO\" 리모트 레이드 업데이트",
             "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=ko",
             "date": "2023년 3월 30일"
@@ -148,11 +153,6 @@
             "title": "연말 시즌을 기념하세요! \"메가얼음귀신\", 색이 다른 \"꽁어름\"이 \"Pokémon GO\"에 찾아옵니다!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=ko",
             "date": "2022년 12월 12일"
-        },
-        {
-            "title": "\"Pokémon GO\"에서 새로운 크기의 포켓몬이 발견되었습니다!",
-            "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=ko",
-            "date": "2022년 12월 8일"
         }
     ]
 }
