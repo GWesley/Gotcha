@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de las Bromas Voladoras de abril: El alboroto de Pidgey",
+            "link": "https://pokemongolive.com/post/april-fools-2023?hl=es",
+            "date": "31 de marzo de 2023"
+        },
+        {
             "title": "Actualizaciones para las incursiones remotas de Pokémon GO",
             "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=es",
             "date": "30 de marzo de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Scatterbug, Spewpa y Vivillon han sido descubiertos en Pokémon GO!",
             "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=es",
             "date": "15 de diciembre de 2022"
-        },
-        {
-            "title": "¡Celebremos esta temporada y démosle la bienvenida a Bergmite variocolor, Mega-Glalie y más a Pokémon GO!",
-            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=es",
-            "date": "12 de diciembre de 2022"
         }
     ]
 }
