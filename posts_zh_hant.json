@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "愚鳥節：波波大騷動",
+            "link": "https://pokemongolive.com/post/april-fools-2023?hl=zh_Hant",
+            "date": "2023年3月31日"
+        },
+        {
             "title": "Pokémon GO遠距團體戰的相關更新",
             "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=zh_Hant",
             "date": "2023年3月30日"
@@ -148,11 +153,6 @@
             "title": "歡慶佳節——歡迎異色冰寶、超級冰鬼護，以及其他寶可夢加入Pokémon GO的行列！",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=zh_Hant",
             "date": "2022年12月12日"
-        },
-        {
-            "title": "Pokémon GO中出現了全新的寶可夢體型！",
-            "link": "https://pokemongolive.com/post/different-sized-pokemon-in-pokemon-go-xxl-xxs?hl=zh_Hant",
-            "date": "2022年12月8日"
         }
     ]
 }
