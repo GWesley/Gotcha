@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Poulet d’avril : Chaos Roucool",
+            "link": "https://pokemongolive.com/post/april-fools-2023?hl=fr",
+            "date": "31 mars 2023"
+        },
+        {
             "title": "Mises à jour des Raids à distance de Pokémon GO",
             "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=fr",
             "date": "30 mars 2023"
@@ -148,11 +153,6 @@
             "title": "Lépidonille, Pérégrain et Prismillon ont été découverts dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=fr",
             "date": "15 décembre 2022"
-        },
-        {
-            "title": "Accueillez la saison en compagnie de Grelaçon chromatique, Méga-Oniglali, et bien d’autres dans Pokémon GO !",
-            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2022?hl=fr",
-            "date": "12 décembre 2022"
         }
     ]
 }
