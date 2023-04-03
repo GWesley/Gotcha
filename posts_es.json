@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Regieleki aterriza en las incursiones élite!",
+            "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=es",
+            "date": "3 de abril de 2023"
+        },
+        {
             "title": "Día de las Bromas Voladoras de abril: El alboroto de Pidgey",
             "link": "https://pokemongolive.com/post/april-fools-2023?hl=es",
             "date": "31 de marzo de 2023"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad de enero 2023: Chespin",
             "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=es",
             "date": "19 de diciembre de 2022"
-        },
-        {
-            "title": "¡Scatterbug, Spewpa y Vivillon han sido descubiertos en Pokémon GO!",
-            "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=es",
-            "date": "15 de diciembre de 2022"
         }
     ]
 }
