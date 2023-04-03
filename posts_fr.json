@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Regieleki débarque dans les Raids d’élite !",
+            "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=fr",
+            "date": "3 avril 2023"
+        },
+        {
             "title": "Poulet d’avril : Chaos Roucool",
             "link": "https://pokemongolive.com/post/april-fools-2023?hl=fr",
             "date": "31 mars 2023"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de janvier : Marisson",
             "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=fr",
             "date": "19 décembre 2022"
-        },
-        {
-            "title": "Lépidonille, Pérégrain et Prismillon ont été découverts dans Pokémon GO !",
-            "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=fr",
-            "date": "15 décembre 2022"
         }
     ]
 }
