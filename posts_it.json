@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "È in arrivo Regieleki nei raid fuoriclasse!",
+            "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=it",
+            "date": "3 aprile 2023"
+        },
+        {
             "title": "Pennuto d’aprile: Trambusto di Pidgey",
             "link": "https://pokemongolive.com/post/april-fools-2023?hl=it",
             "date": "31 marzo 2023"
@@ -148,11 +153,6 @@
             "title": "Community Day di gennaio 2023: Chespin",
             "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=it",
             "date": "19 dicembre 2022"
-        },
-        {
-            "title": "Scatterbug, Spewpa e Vivillon sono stati scoperti in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=it",
-            "date": "15 dicembre 2022"
         }
     ]
 }
