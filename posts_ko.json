@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "트레이너 여러분! 지혜의 히어로 이벤트에서 블랑쉬를 도와주세요!",
+            "link": "https://pokemongolive.com/post/a-mystic-hero?hl=ko",
+            "date": "2023년 4월 5일"
+        },
+        {
             "title": "엘리트 레이드에 \"레지에레키\"가 등장!",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=ko",
             "date": "2023년 4월 3일"
@@ -148,11 +153,6 @@
             "title": "2023년 1월 커뮤니티 데이: \"도치마론\"",
             "link": "https://pokemongolive.com/post/community-january-2023-chespin?hl=ko",
             "date": "2022년 12월 19일"
-        },
-        {
-            "title": "\"Pokémon GO\"에서 \"분이벌레\", \"분떠도리\", \"비비용\"이 출현!",
-            "link": "https://pokemongolive.com/post/vivillon-launch-postcard-feature?hl=ko",
-            "date": "2022년 12월 15일"
         }
     ]
 }
