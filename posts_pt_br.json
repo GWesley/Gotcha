@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Treinadores, ajudem Blanche durante o evento Um herói sábio!",
+            "link": "https://pokemongolive.com/post/a-mystic-hero?hl=pt_BR",
+            "date": "5 de abril de 2023"
+        },
+        {
             "title": "Regieleki chega às Reides de Elite!",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=pt_BR",
             "date": "3 de abril de 2023"
@@ -148,11 +153,6 @@
             "title": "Um novo ano com novas aventuras — celebrem a chegada de 2023 com o Pokémon GO!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=pt_BR",
             "date": "22 de dezembro de 2022"
-        },
-        {
-            "title": "Esta é a época para vestir o seu melhor traje festivo. Eevee e suas evoluções estarão com chapéus festivos no Pokémon GO!",
-            "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=pt_BR",
-            "date": "20 de dezembro de 2022"
         }
     ]
 }
