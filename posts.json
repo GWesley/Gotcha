@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Trainers! Help out Blanche during the A Mystic Hero event!",
+            "link": "https://pokemongolive.com/post/a-mystic-hero?hl=en",
+            "date": "April 5, 2023"
+        },
+        {
             "title": "Regieleki arrives in Elite Raids!",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=en",
             "date": "April 3, 2023"
@@ -148,11 +153,6 @@
             "title": "A new year brings new adventures—celebrate the arrival of 2023 with Pokémon GO!",
             "link": "https://pokemongolive.com/post/new-years-2023?hl=en",
             "date": "December 22, 2022"
-        },
-        {
-            "title": "’Tis the season to wear your festive best—Eevee and its Evolutions will be donning holiday hats in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/winter-holiday-part-2-2022?hl=en",
-            "date": "December 20, 2022"
         }
     ]
 }
