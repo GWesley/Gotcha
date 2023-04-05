@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "トレーナーの皆さん、「智恵のヒーロー」イベントでブランシェを手伝いましょう！",
+            "link": "https://pokemongolive.com/post/a-mystic-hero?hl=ja",
+            "date": "2023年4月5日"
+        },
+        {
             "title": "「エピックレイド」に「レジエレキ」が登場！",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=ja",
             "date": "2023年4月3日"
@@ -148,11 +153,6 @@
             "title": "2023年1月の「コミュニティ・デイ（復刻）」：「ヨーギラス」",
             "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=ja",
             "date": "2023年1月4日"
-        },
-        {
-            "title": "新たな冒険が待ち受けている2023年が到来！『Pokémon GO』で新年を祝いましょう！",
-            "link": "https://pokemongolive.com/post/new-years-2023?hl=ja",
-            "date": "2022年12月22日"
         }
     ]
 }
