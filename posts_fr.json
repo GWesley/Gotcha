@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Le Pokémon fabuleux Shaymin débarque dans l’Étude spéciale gratuite !",
+            "link": "https://pokemongolive.com/post/shaymin-global-special-research?hl=fr",
+            "date": "19 avril 2023"
+        },
+        {
             "title": "Journée Communauté d'avril 2023 : Marcacrin",
             "link": "https://pokemongolive.com/post/community-day-classic-swinub-april-2023?hl=fr",
             "date": "17 avril 2023"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté classique de janvier 2023 : Embrylex",
             "link": "https://pokemongolive.com/post/community-day-classic-Larvitar-january-2023?hl=fr",
             "date": "4 janvier 2023"
-        },
-        {
-            "title": "Merci pour cette année 2022 incroyable, remplie d'événements Pokémon GO !",
-            "link": "https://pokemongolive.com/post/2022-live-events-recap?hl=fr",
-            "date": "3 janvier 2023"
         }
     ]
 }
