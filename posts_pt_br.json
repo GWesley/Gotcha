@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Treinadores, ajudem Spark durante o evento Um herói instintivo!",
+            "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=pt_BR",
+            "date": "24 de abril de 2023"
+        },
+        {
             "title": "Reide de Elite: Regidrago retorna em um evento global de compensação",
             "link": "https://pokemongolive.com/post/elite-raids-regidrago-returns?hl=pt_BR",
             "date": "21 de abril de 2023"
@@ -148,11 +153,6 @@
             "title": "Celebrem o Ano Novo Lunar com o evento Ano Novo Lunar 2023 do Pokémon GO!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=pt_BR",
             "date": "12 de janeiro de 2023"
-        },
-        {
-            "title": "Dia Comunitário de fevereiro de 2023: Noibat",
-            "link": "https://pokemongolive.com/post/communityday-february-2023-noibat?hl=pt_BR",
-            "date": "11 de janeiro de 2023"
         }
     ]
 }
