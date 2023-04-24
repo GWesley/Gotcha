@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "トレーナーの皆さん、「直感のヒーロー」イベントでスパークを助けましょう！",
+            "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=ja",
+            "date": "2023年4月24日"
+        },
+        {
             "title": "エピックレイド：「レジドラゴ」補填グローバルイベントのお知らせ",
             "link": "https://pokemongolive.com/post/elite-raids-regidrago-returns?hl=ja",
             "date": "2023年4月21日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』に「ゲンシカイキ」が登場！",
             "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=ja",
             "date": "2023年1月18日"
-        },
-        {
-            "title": "『Pokémon GO』で、XXSやXXLといった大きさのポケモンがさらに発見されています！",
-            "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=ja",
-            "date": "2023年1月17日"
         }
     ]
 }
