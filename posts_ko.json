@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "“Pokémon Spring Festa 2023에서 “Pokémon GO” 특별 이벤트 개최",
+            "link": "https://pokemongolive.com/post/korean-pokemon-spring-festa-2023?hl=ko",
+            "date": "2023년 4월 26일"
+        },
+        {
             "title": "트레이너 여러분! 직감의 히어로 이벤트에서 스파크를 도와주세요!",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=ko",
             "date": "2023년 4월 24일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO\" 2023 설날 이벤트로 설날을 기념하세요!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=ko",
             "date": "2023년 1월 12일"
-        },
-        {
-            "title": "2023년 2월 커뮤니티 데이: \"음뱃\"",
-            "link": "https://pokemongolive.com/post/communityday-february-2023-noibat?hl=ko",
-            "date": "2023년 1월 11일"
         }
     ]
 }
