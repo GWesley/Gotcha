@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Kleavor makes its Pokémon GO debut during Kleavor Raid Day!",
+            "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=en",
+            "date": "April 28, 2023"
+        },
+        {
             "title": "Trainers! Help out Spark during the An Instinctive Hero event!",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=en",
             "date": "April 24, 2023"
@@ -148,11 +153,6 @@
             "title": "Primal Reversion has been discovered in Pokémon GO!",
             "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=en",
             "date": "January 18, 2023"
-        },
-        {
-            "title": "More XXS and XXL Pokémon have been discovered in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=en",
-            "date": "January 17, 2023"
         }
     ]
 }
