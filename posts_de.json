@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day im Mai 2023: Fynx",
+            "link": "https://pokemongolive.com/post/communityday-may-2023-fennekin?hl=de",
+            "date": "1. Mai 2023"
+        },
+        {
             "title": "Axantor gibt sein Pokémon GO-Debüt bei einem Raid-Tag!",
             "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=de",
             "date": "28. April 2023"
@@ -148,11 +153,6 @@
             "title": "Weitere XXS- und XXL-Pokémon wurden in Pokémon GO entdeckt!",
             "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=de",
             "date": "17. Januar 2023"
-        },
-        {
-            "title": "Feiert das Mondneujahr 2023 mit dem Mondneujahrs-Event in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/lunar-new-year-event-2023?hl=de",
-            "date": "12. Januar 2023"
         }
     ]
 }
