@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Dresseur·euse·s ! Venez en aide à Candela lors de l’événement à venir : Un héroïsme vaillant !",
+            "link": "https://pokemongolive.com/post/a-valorous-hero?hl=fr",
+            "date": "4 mai 2023"
+        },
+        {
             "title": "Dresseurs, dresseuses ! Aidez Spark pendant l'événement \"Un héroïsme intuitif\" !",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=fr",
             "date": "1 mai 2023"
@@ -148,11 +153,6 @@
             "title": "La Primo-Résurgence a été découverte dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=fr",
             "date": "18 janvier 2023"
-        },
-        {
-            "title": "Plus de Pokémon XXS et XXL ont été découverts dans Pokémon GO !",
-            "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=fr",
-            "date": "17 janvier 2023"
         }
     ]
 }
