@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Trainer! Helft Candela beim Event „Ein wagemutiger Held“!",
+            "link": "https://pokemongolive.com/post/a-valorous-hero?hl=de",
+            "date": "4. Mai 2023"
+        },
+        {
             "title": "Trainer! Helft Spark beim Event „Ein intuitiver Held“!",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=de",
             "date": "1. Mai 2023"
@@ -148,11 +153,6 @@
             "title": "Die Protomorphose wurde in Pokémon GO entdeckt!",
             "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=de",
             "date": "18. Januar 2023"
-        },
-        {
-            "title": "Weitere XXS- und XXL-Pokémon wurden in Pokémon GO entdeckt!",
-            "link": "https://pokemongolive.com/post/more-xxs-xxl-pokemon-in-pokemon-go?hl=de",
-            "date": "17. Januar 2023"
         }
     ]
 }
