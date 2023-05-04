@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Treinadorxs! Ajudem Candela durante o próximo evento Um herói de valor!",
+            "link": "https://pokemongolive.com/post/a-valorous-hero?hl=pt_BR",
+            "date": "4 de maio de 2023"
+        },
+        {
             "title": "Treinadores, ajudem Spark durante o evento Um herói instintivo!",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=pt_BR",
             "date": "1 de maio de 2023"
@@ -148,11 +153,6 @@
             "title": "Bzzt! Helioptile e Tapu Koko Brilhante tornarão eletrizante o evento Voltagem estalante. Também detectamos atividade da Equipe GO Rocket",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=pt_BR",
             "date": "20 de janeiro de 2023"
-        },
-        {
-            "title": "Uma Reversão Primitiva foi descoberta no Pokémon GO!",
-            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=pt_BR",
-            "date": "18 de janeiro de 2023"
         }
     ]
 }
