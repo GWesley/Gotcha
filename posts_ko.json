@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "트레이너 여러분! 열정의 히어로 이벤트에서 칸델라를 도와주세요!",
+            "link": "https://pokemongolive.com/post/a-valorous-hero?hl=ko",
+            "date": "2023년 5월 4일"
+        },
+        {
             "title": "트레이너 여러분! 직감의 히어로 이벤트에서 스파크를 도와주세요!",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=ko",
             "date": "2023년 5월 1일"
@@ -148,11 +153,6 @@
             "title": "전기타입 포켓몬 이벤트에서는 \"목도리키텔\"과 \"카푸꼬꼬꼭\"이 전기를 내뿜습니다! GO로켓단 활동도 활발해진 것 같습니다.",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=ko",
             "date": "2023년 1월 20일"
-        },
-        {
-            "title": "\"Pokémon GO\"에서 원시회귀가 등장!",
-            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=ko",
-            "date": "2023년 1월 18일"
         }
     ]
 }
