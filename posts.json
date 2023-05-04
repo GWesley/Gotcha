@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Trainers! Help out Candela during the upcoming A Valorous Hero event!",
+            "link": "https://pokemongolive.com/post/a-valorous-hero?hl=en",
+            "date": "May 4, 2023"
+        },
+        {
             "title": "Trainers! Help out Spark during the An Instinctive Hero event!",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=en",
             "date": "May 1, 2023"
@@ -148,11 +153,6 @@
             "title": "Rayquaza emerges ahead of a Hoenn-sized adventure in Primal Rumblings!",
             "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=en",
             "date": "January 30, 2023"
-        },
-        {
-            "title": "Bzzt! Shiny Helioptile and Shiny Tapu Koko bring the thunder in the Crackling Voltage event; Team GO Rocket activity also detected",
-            "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=en",
-            "date": "January 20, 2023"
         }
     ]
 }
