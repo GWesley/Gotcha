@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Neue Möglichkeit, Bonus-PokéMünzen zu erhalten",
+            "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch?hl=de",
+            "date": "10. Mai 2023"
+        },
+        {
             "title": "Trainer! Helft Candela beim Event „Ein wagemutiger Held“!",
             "link": "https://pokemongolive.com/post/a-valorous-hero?hl=de",
             "date": "4. Mai 2023"
@@ -148,11 +153,6 @@
             "title": "Bzzt! Schillernde Eguana und Schillernde Kapu-Riki lassen es beim Event „Hochspannung“ krachen! Außerdem tritt Team GO Rocket auf den Plan.",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=de",
             "date": "20. Januar 2023"
-        },
-        {
-            "title": "Die Protomorphose wurde in Pokémon GO entdeckt!",
-            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=de",
-            "date": "18. Januar 2023"
         }
     ]
 }
