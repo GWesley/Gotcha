@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Die Termine für die Community Days der nächsten Jahreszeit stehen fest!",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=de",
+            "date": "15. Mai 2023"
+        },
+        {
             "title": "Neue Möglichkeit, Bonus-PokéMünzen zu erhalten",
             "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch?hl=de",
             "date": "10. Mai 2023"
@@ -148,11 +153,6 @@
             "title": "Rayquaza steigt beim Hoenn-Event „Proto-Grollen“ herab!",
             "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=de",
             "date": "30. Januar 2023"
-        },
-        {
-            "title": "Bzzt! Schillernde Eguana und Schillernde Kapu-Riki lassen es beim Event „Hochspannung“ krachen! Außerdem tritt Team GO Rocket auf den Plan.",
-            "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=de",
-            "date": "20. Januar 2023"
         }
     ]
 }
