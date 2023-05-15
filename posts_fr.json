@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=fr",
+            "date": "15 mai 2023"
+        },
+        {
             "title": "Dresseur·euse·s ! Venez en aide à Candela lors de l’événement à venir : Un héroïsme vaillant !",
             "link": "https://pokemongolive.com/post/a-valorous-hero?hl=fr",
             "date": "4 mai 2023"
@@ -148,11 +153,6 @@
             "title": "Bzzt ! Galvaran Chromatique et Tokorico Chromatique font faire des étincelles dans l'événement Voltage crépitant ; des activités de la Team GO Rocket ont également été détectées",
             "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=fr",
             "date": "20 janvier 2023"
-        },
-        {
-            "title": "La Primo-Résurgence a été découverte dans Pokémon GO !",
-            "link": "https://pokemongolive.com/post/primal-reversion-2023?hl=fr",
-            "date": "18 janvier 2023"
         }
     ]
 }
