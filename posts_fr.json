@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ne ratez plus aucun Pokémon avec la Master Ball, bientôt disponible sur Pokémon GO.",
+            "link": "https://pokemongolive.com/post/masterball?hl=fr",
+            "date": "16 mai 2023"
+        },
+        {
             "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
             "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=fr",
             "date": "15 mai 2023"
@@ -148,11 +153,6 @@
             "title": "Rayquaza émerge avant une aventure digne de Hoenn pendant l'événement Primo-grondement !",
             "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=fr",
             "date": "30 janvier 2023"
-        },
-        {
-            "title": "Bzzt ! Galvaran Chromatique et Tokorico Chromatique font faire des étincelles dans l'événement Voltage crépitant ; des activités de la Team GO Rocket ont également été détectées",
-            "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=fr",
-            "date": "20 janvier 2023"
         }
     ]
 }
