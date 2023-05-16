@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "No falles nunca con la Master Ball. ¡Próximamente en Pokémon GO!",
+            "link": "https://pokemongolive.com/post/masterball?hl=es",
+            "date": "16 de mayo de 2023"
+        },
+        {
             "title": "¡Apuntad en el calendario los Días de la Comunidad de la próxima Temporada!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=es",
             "date": "15 de mayo de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Rayquaza emerge antes de la aventura de Hoenn en Temblor Primigenio!",
             "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=es",
             "date": "30 de enero de 2023"
-        },
-        {
-            "title": "¡Bzzt! Helioptile variocolor y Tapu Koko variocolor van como un rayo al evento Voltaje Crepitante. Se ha detectado también movimiento por parte del Team GO Rocket.",
-            "link": "https://pokemongolive.com/post/crackling-voltage-team-go-rocket-takeover?hl=es",
-            "date": "20 de enero de 2023"
         }
     ]
 }
