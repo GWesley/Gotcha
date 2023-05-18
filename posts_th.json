@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "เปิดตัวตีบอสชาโดว์ในระหว่างอีเวนต์ชาโดว์ผงาด!",
+            "link": "https://pokemongolive.com/post/rising-shadows?hl=th",
+            "date": "18 พฤษภาคม 2566"
+        },
+        {
+            "title": "ตีบอสชาโดว์กำลังจะมาใน Pokémon GO แล้ว!",
+            "link": "https://pokemongolive.com/post/shadow-raids?hl=th",
+            "date": "18 พฤษภาคม 2566"
+        },
+        {
             "title": "ไม่ต้องกลัวพลาดอีกต่อไป—มาสเตอร์บอลกำลังจะมาสู่ Pokémon GO เร็ว ๆ นี้แล้ว!",
             "link": "https://pokemongolive.com/post/masterball?hl=th",
             "date": "16 พฤษภาคม 2566"
@@ -143,16 +153,6 @@
             "title": "จับโปเกมอนที่มี \"การ์ดสถานที่\" ที่ Pokémon GO Tour: โฮเอ็น – ลาสเวกัส",
             "link": "https://pokemongolive.com/post/location-card-new-feature?hl=th",
             "date": "6 กุมภาพันธ์ 2566"
-        },
-        {
-            "title": "จดบันทึกวันที่สำหรับคอมมิวนิตี้เดย์ของฤดูกาลหน้าเลย!",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=th",
-            "date": "6 กุมภาพันธ์ 2566"
-        },
-        {
-            "title": "กลิ่นความรักฟุ้งไปหมด–ฉลองอีเวนต์วาเลนไทน์ปี 2023 ของ Pokémon GO และวันวิจัยแบบจำกัดเวลาเลิฟคัส!",
-            "link": "https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=th",
-            "date": "1 กุมภาพันธ์ 2566"
         }
     ]
 }
