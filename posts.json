@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Shadow Raids debut during the Rising Shadows event!",
+            "link": "https://pokemongolive.com/post/rising-shadows?hl=en",
+            "date": "May 18, 2023"
+        },
+        {
+            "title": "Shadow Raids are coming to Pokémon GO!",
+            "link": "https://pokemongolive.com/post/shadow-raids?hl=en",
+            "date": "May 18, 2023"
+        },
+        {
             "title": "Never miss with the Master Ball—coming soon to Pokémon GO!",
             "link": "https://pokemongolive.com/post/masterball?hl=en",
             "date": "May 16, 2023"
@@ -143,16 +153,6 @@
             "title": "Pokémon GO can now connect to Pokémon Scarlet and Pokémon Violet! Catch Roaming Form Gimmighoul and evolve it into Gholdengo!",
             "link": "https://pokemongolive.com/post/gocoin?hl=en",
             "date": "February 27, 2023"
-        },
-        {
-            "title": "Saturday update for Pokémon GO Tour: Hoenn – Las Vegas",
-            "link": "https://pokemongolive.com/post/gotour2023-lasvegas-update?hl=en",
-            "date": "February 18, 2023"
-        },
-        {
-            "title": "Catch Pokémon with Location Cards at Pokémon GO Tour: Hoenn – Las Vegas",
-            "link": "https://pokemongolive.com/post/location-card-new-feature?hl=en",
-            "date": "February 6, 2023"
         }
     ]
 }
