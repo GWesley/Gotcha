@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Les Raids Obcurs commencent pendant l’événement Ombres croissantes !",
+            "link": "https://pokemongolive.com/post/rising-shadows?hl=fr",
+            "date": "18 mai 2023"
+        },
+        {
+            "title": "Les Raids obscurs débarquent dans Pokémon GO !",
+            "link": "https://pokemongolive.com/post/shadow-raids?hl=fr",
+            "date": "18 mai 2023"
+        },
+        {
             "title": "Ne ratez plus aucun Pokémon avec la Master Ball, bientôt disponible sur Pokémon GO.",
             "link": "https://pokemongolive.com/post/masterball?hl=fr",
             "date": "16 mai 2023"
@@ -143,16 +153,6 @@
             "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
             "link": "https://pokemongolive.com/post/cd-savethedate-s10?hl=fr",
             "date": "6 février 2023"
-        },
-        {
-            "title": "Il y a de l'amour dans l'air : célébrez la Saint-Valentin 2023 avec Pokémon GO et la journée d'Étude ciblée de Lovdisc !",
-            "link": "https://pokemongolive.com/post/valentines-day-event-2023-luvdisc-research-day?hl=fr",
-            "date": "1 février 2023"
-        },
-        {
-            "title": "Rayquaza émerge avant une aventure digne de Hoenn pendant l'événement Primo-grondement !",
-            "link": "https://pokemongolive.com/post/primal-rumblings-event?hl=fr",
-            "date": "30 janvier 2023"
         }
     ]
 }
