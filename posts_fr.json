@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté de juin 2023 : Coupenotte",
+            "link": "https://pokemongolive.com/post/communityday-june-2023-axew?hl=fr",
+            "date": "31 mai 2023"
+        },
+        {
             "title": "Ruez-vous vers l’or au cours du prochain événement Journée Recherche Chercheurs d’or !",
             "link": "https://pokemongolive.com/post/gold-research-day-2023?hl=fr",
             "date": "30 mai 2023"
@@ -148,11 +153,6 @@
             "title": "Mise à jour de la « Ligue Combat GO : Rising Heroes »",
             "link": "https://pokemongolive.com/post/go-battle-league-rising-heroes?hl=fr",
             "date": "28 février 2023"
-        },
-        {
-            "title": "Bientôt disponible : Appairage avec Pokémon GO Plus + !",
-            "link": "https://pokemongolive.com/post/pair-with-pokemon-go-plus-plus?hl=fr",
-            "date": "27 février 2023"
         }
     ]
 }
