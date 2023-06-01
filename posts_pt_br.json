@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Uma atualização da Boutique está chegando ao Pokémon GO!",
+            "link": "https://pokemongolive.com/post/style-shop-update-2023?hl=pt_BR",
+            "date": "1 de junho de 2023"
+        },
+        {
             "title": "Dia Comunitário: Axew de junho de 2023",
             "link": "https://pokemongolive.com/post/communityday-june-2023-axew?hl=pt_BR",
             "date": "31 de maio de 2023"
@@ -148,11 +153,6 @@
             "title": "O Festival das Cores está de volta em 2023; Mega Medicham e Bruxish estreiam durante o segundo ano de celebrações coloridas",
             "link": "https://pokemongolive.com/post/festival-of-colors-2023?hl=pt_BR",
             "date": "2 de março de 2023"
-        },
-        {
-            "title": "Aprimorem suas habilidades de captura no evento Mestre da captura!",
-            "link": "https://pokemongolive.com/post/catch-mastery-mar-2023?hl=pt_BR",
-            "date": "28 de fevereiro de 2023"
         }
     ]
 }
