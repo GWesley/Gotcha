@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "A Style Shop update is coming to Pokémon GO!",
+            "link": "https://pokemongolive.com/post/style-shop-update-2023?hl=en",
+            "date": "June 1, 2023"
+        },
+        {
             "title": "June 2023 Community Day: Axew",
             "link": "https://pokemongolive.com/post/communityday-june-2023-axew?hl=en",
             "date": "May 31, 2023"
@@ -148,11 +153,6 @@
             "title": "Our continued commitment to real-world play in Pokémon GO",
             "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=en",
             "date": "March 10, 2023"
-        },
-        {
-            "title": "Regidrago arrives in Elite Raids!",
-            "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=en",
-            "date": "March 6, 2023"
         }
     ]
 }
