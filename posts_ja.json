@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「『Pokémon GO』パートナーリサーチ 」のご案内！",
+            "link": "https://pokemongolive.com/post/202306partnerresearch-jp?hl=ja",
+            "date": "2023年6月5日"
+        },
+        {
             "title": "『Pokémon GO』の「スタイルショップ」にアップデート！",
             "link": "https://pokemongolive.com/post/style-shop-update-2023?hl=ja",
             "date": "2023年6月1日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』のリアルワールドプレイを推進する継続的な取り組みについて",
             "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=ja",
             "date": "2023年3月10日"
-        },
-        {
-            "title": "「エピックレイド」に「レジドラゴ」が登場！",
-            "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=ja",
-            "date": "2023年3月6日"
         }
     ]
 }
