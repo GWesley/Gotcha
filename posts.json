@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO is heading to Summer Game Fest in Los Angeles and bringing new gameplay demos",
+            "link": "https://pokemongolive.com/post/summergamefest2023?hl=en",
+            "date": "June 9, 2023"
+        },
+        {
             "title": "Uxie, Mesprit, and Azelf to appear in a special raid event!",
             "link": "https://pokemongolive.com/post/uxie-mesprit-azelf-raid-event?hl=en",
             "date": "June 8, 2023"
@@ -148,11 +153,6 @@
             "title": "April 2023 Community Day: Togetic",
             "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=en",
             "date": "March 19, 2023"
-        },
-        {
-            "title": "March 2023 Community Day: Slowpoke and Galarian Slowpoke",
-            "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=en",
-            "date": "March 17, 2023"
         }
     ]
 }
