@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de la Comunidad clásico de julio 2023: Squirtle",
+            "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=es",
+            "date": "12 de junio de 2023"
+        },
+        {
             "title": "¡Uxie, Mesprit y Azelf aparecerán en un evento de incursión especial!",
             "link": "https://pokemongolive.com/post/uxie-mesprit-azelf-raid-event?hl=es",
             "date": "8 de junio de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Regidrago vuela hasta las incursiones élite!",
             "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=es",
             "date": "6 de marzo de 2023"
-        },
-        {
-            "title": "¡El Festival de los Colores regresa en 2023! Mega-Medicham y Bruxish podrán vivir por primera vez esta segunda edición del evento más colorido que existe",
-            "link": "https://pokemongolive.com/post/festival-of-colors-2023?hl=es",
-            "date": "2 de marzo de 2023"
         }
     ]
 }
