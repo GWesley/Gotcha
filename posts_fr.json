@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté classique de juillet 2023 : Carapuce",
+            "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=fr",
+            "date": "12 juin 2023"
+        },
+        {
             "title": "Créhelf, Créfollet et Créfadet apparaîtront au cours d’un événement de raid spécial !",
             "link": "https://pokemongolive.com/post/uxie-mesprit-azelf-raid-event?hl=fr",
             "date": "8 juin 2023"
@@ -148,11 +153,6 @@
             "title": "Regidrago débarque dans les Raids d’élite !",
             "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=fr",
             "date": "6 mars 2023"
-        },
-        {
-            "title": "La Fête des couleurs revient en 2023 ! Méga-Charmina et Denticrisse feront leurs débuts pendant la seconde inauguration de ce festival coloré !",
-            "link": "https://pokemongolive.com/post/festival-of-colors-2023?hl=fr",
-            "date": "2 mars 2023"
         }
     ]
 }
