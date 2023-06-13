@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Beim Event „Wie Tag und Nacht“ erwarten euch zu jeder Tageszeit sensationelle Pokémon!",
+            "link": "https://pokemongolive.com/post/solstice-horizons?hl=de",
+            "date": "13. Juni 2023"
+        },
+        {
             "title": "Community Day Classic im Juli 2023: Schiggy",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=de",
             "date": "12. Juni 2023"
@@ -12,6 +17,11 @@
         {
             "title": "Selfe, Vesprit und Tobutz erscheinen bei einem besonderen Raid-Event!",
             "link": "https://pokemongolive.com/post/uxie-mesprit-azelf-raid-event?hl=de",
+            "date": "8. Juni 2023"
+        },
+        {
+            "title": "Ihr möchtet etwas Neues sehen? Dann geht diesen Sommer mit Pokémon GO raus!",
+            "link": "https://pokemongolive.com/post/go-out-summer-2023?hl=de",
             "date": "8. Juni 2023"
         },
         {
@@ -143,16 +153,6 @@
             "title": "Community Day im März 2023: Flegmon und Galar-Flegmon",
             "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=de",
             "date": "17. März 2023"
-        },
-        {
-            "title": "Helft Prof. Willow bei einem neuen Event und bekämpft Team GO Rocket",
-            "link": "https://pokemongolive.com/post/lets-go-event-team-go-rocket-takeover?hl=de",
-            "date": "14. März 2023"
-        },
-        {
-            "title": "Geplante Verbesserungen der Live-Events von Pokémon GO im Jahr 2023",
-            "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=de",
-            "date": "10. März 2023"
         }
     ]
 }
