@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "À l’occasion de l’événement Horizons solstice, vivez une journée (ou une soirée) parfaite dans l'univers Pokémon !",
+            "link": "https://pokemongolive.com/post/solstice-horizons?hl=fr",
+            "date": "13 juin 2023"
+        },
+        {
             "title": "Journée Communauté classique de juillet 2023 : Carapuce",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=fr",
             "date": "12 juin 2023"
@@ -12,6 +17,11 @@
         {
             "title": "Créhelf, Créfollet et Créfadet apparaîtront au cours d’un événement de raid spécial !",
             "link": "https://pokemongolive.com/post/uxie-mesprit-azelf-raid-event?hl=fr",
+            "date": "8 juin 2023"
+        },
+        {
+            "title": "Envie de sortir cet été ? Jouez à Pokémon GO !",
+            "link": "https://pokemongolive.com/post/go-out-summer-2023?hl=fr",
             "date": "8 juin 2023"
         },
         {
@@ -143,16 +153,6 @@
             "title": "Le professeur Willow a besoin d'aide pour un nouvel événement ; une activité de la Team GO Rocket a aussi été détectée",
             "link": "https://pokemongolive.com/post/lets-go-event-team-go-rocket-takeover?hl=fr",
             "date": "14 mars 2023"
-        },
-        {
-            "title": "Notre engagement continu en faveur du jeu dans le monde réel dans Pokémon GO",
-            "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=fr",
-            "date": "10 mars 2023"
-        },
-        {
-            "title": "Regidrago débarque dans les Raids d’élite !",
-            "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=fr",
-            "date": "6 mars 2023"
         }
     ]
 }
