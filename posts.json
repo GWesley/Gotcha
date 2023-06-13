@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Spend the perfect day—or evening—with Pokémon during the Solstice Horizons event!",
+            "link": "https://pokemongolive.com/post/solstice-horizons?hl=en",
+            "date": "June 13, 2023"
+        },
+        {
             "title": "July 2023 Community Day Classic: Squirtle",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=en",
             "date": "June 12, 2023"
@@ -148,11 +153,6 @@
             "title": "Updates to Pokémon GO’s Remote Raids",
             "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=en",
             "date": "March 30, 2023"
-        },
-        {
-            "title": "Spring into Spring with Pokémon adorned with cherry blossoms and more!",
-            "link": "https://pokemongolive.com/post/spring-into-spring-2023?hl=en",
-            "date": "March 29, 2023"
         }
     ]
 }
