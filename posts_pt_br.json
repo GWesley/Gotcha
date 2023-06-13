@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Tenham um dia perfeito, ou noite, com Pokémon durante o evento Horizontes do solstício!",
+            "link": "https://pokemongolive.com/post/solstice-horizons?hl=pt_BR",
+            "date": "13 de junho de 2023"
+        },
+        {
             "title": "Dia Comunitário Clássico de julho de 2023: Squirtle",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=pt_BR",
             "date": "12 de junho de 2023"
@@ -148,11 +153,6 @@
             "title": "Nosso compromisso contínuo em jogar no mundo real com o Pokémon GO",
             "link": "https://pokemongolive.com/post/real-world-play-update-2023?hl=pt_BR",
             "date": "10 de março de 2023"
-        },
-        {
-            "title": "Regidrago chega às Reides de Elite!",
-            "link": "https://pokemongolive.com/post/elite-raids-regidrago?hl=pt_BR",
-            "date": "6 de março de 2023"
         }
     ]
 }
