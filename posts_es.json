@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Nuevo método para obtener más Pokémonedas",
+            "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch-2?hl=es",
+            "date": "14 de junio de 2023"
+        },
+        {
             "title": "¡Pasa el día —o la tarde— ideal con Pokémon durante el evento Solsticio en el Horizonte!",
             "link": "https://pokemongolive.com/post/solstice-horizons?hl=es",
             "date": "13 de junio de 2023"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad de marzo de 2023: Slowpoke y Slowpoke de Galar",
             "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=es",
             "date": "17 de marzo de 2023"
-        },
-        {
-            "title": "El Profesor Willow necesita vuestra ayuda en un nuevo evento. También hemos detectado actividad del Team GO Rocket.",
-            "link": "https://pokemongolive.com/post/lets-go-event-team-go-rocket-takeover?hl=es",
-            "date": "14 de marzo de 2023"
         }
     ]
 }
