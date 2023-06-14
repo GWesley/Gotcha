@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Une nouvelle manière d’obtenir des PokéPièces bonus",
+            "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch-2?hl=fr",
+            "date": "14 juin 2023"
+        },
+        {
             "title": "À l’occasion de l’événement Horizons solstice, vivez une journée (ou une soirée) parfaite dans l'univers Pokémon !",
             "link": "https://pokemongolive.com/post/solstice-horizons?hl=fr",
             "date": "13 juin 2023"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté du mois de mars 2023 : Ramoloss et Ramoloss de Galar",
             "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=fr",
             "date": "17 mars 2023"
-        },
-        {
-            "title": "Le professeur Willow a besoin d'aide pour un nouvel événement ; une activité de la Team GO Rocket a aussi été détectée",
-            "link": "https://pokemongolive.com/post/lets-go-event-team-go-rocket-takeover?hl=fr",
-            "date": "14 mars 2023"
         }
     ]
 }
