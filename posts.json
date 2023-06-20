@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO and Amazon Prime Gaming team up once again to bring exciting rewards to Amazon Prime members!!",
+            "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-promotion-2023?hl=en",
+            "date": "June 20, 2023"
+        },
+        {
             "title": "New way to get bonus PokéCoins",
             "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch-2?hl=en",
             "date": "June 14, 2023"
@@ -148,11 +153,6 @@
             "title": "Regieleki arrives in Elite Raids!",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=en",
             "date": "April 3, 2023"
-        },
-        {
-            "title": "April Fowl’s Day: Pidgey Pandemonium",
-            "link": "https://pokemongolive.com/post/april-fools-2023?hl=en",
-            "date": "March 31, 2023"
         }
     ]
 }
