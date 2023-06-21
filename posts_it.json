@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "MegaRayquaza arriva in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/mega-rayquaza-arrives-go-fest-2023?hl=it",
+            "date": "21 giugno 2023"
+        },
+        {
             "title": "Pokémon GO e Prime Gaming di Amazon si uniscono di nuovo per offrire fantastiche ricompense ai membri di Amazon Prime!!",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-promotion-2023?hl=it",
             "date": "20 giugno 2023"
@@ -148,11 +153,6 @@
             "title": "Community Day di aprile 2023: Togetic",
             "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=it",
             "date": "19 marzo 2023"
-        },
-        {
-            "title": "Community Day di marzo 2023: Slowpoke e Slowpoke di Galar",
-            "link": "https://pokemongolive.com/post/communityday-mar23-slowpoke?hl=it",
-            "date": "17 marzo 2023"
         }
     ]
 }
