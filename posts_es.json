@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Mega-Rayquaza llega a Pokémon GO!",
+            "link": "https://pokemongolive.com/post/mega-rayquaza-arrives-go-fest-2023?hl=es",
+            "date": "21 de junio de 2023"
+        },
+        {
             "title": "¡¡Pokémon GO y Amazon Prime Gaming se unen de nuevo para dar emocionantes premios a los miembros de Amazon Prime!!",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-promotion-2023?hl=es",
             "date": "20 de junio de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Florece la primavera y algunos Pokémon se adornan con flores de cerezo!",
             "link": "https://pokemongolive.com/post/spring-into-spring-2023?hl=es",
             "date": "29 de marzo de 2023"
-        },
-        {
-            "title": "Día de la Comunidad de abril de 2023: Togetic",
-            "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=es",
-            "date": "19 de marzo de 2023"
         }
     ]
 }
