@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Dive into darkness or let your flame blaze in the new Dark Flames event!",
+            "link": "https://pokemongolive.com/post/dark-flames-2023?hl=en",
+            "date": "June 22, 2023"
+        },
+        {
             "title": "Mega Rayquaza arrives in Pokémon GO!",
             "link": "https://pokemongolive.com/post/mega-rayquaza-arrives-go-fest-2023?hl=en",
             "date": "June 21, 2023"
@@ -148,11 +153,6 @@
             "title": "April 2023 Community Day Classic: Swinub",
             "link": "https://pokemongolive.com/post/community-day-classic-swinub-april-2023?hl=en",
             "date": "April 17, 2023"
-        },
-        {
-            "title": "Sustainability Week 2023: Bounsweet, Drilbur, and more!",
-            "link": "https://pokemongolive.com/post/sustainability-week-2023?hl=en",
-            "date": "April 14, 2023"
         }
     ]
 }
