@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "新イベント「闇に揺らめく炎」で、闇に飛び込むか炎を燃えあがらせよう！",
+            "link": "https://pokemongolive.com/post/dark-flames-2023?hl=ja",
+            "date": "2023年6月22日"
+        },
+        {
             "title": "「メガレックウザ」が『Pokémon GO』に登場！",
             "link": "https://pokemongolive.com/post/mega-rayquaza-arrives-go-fest-2023?hl=ja",
             "date": "2023年6月21日"
@@ -148,11 +153,6 @@
             "title": "エイプリルフール：博士の長い一日",
             "link": "https://pokemongolive.com/post/april-fools-2023?hl=ja",
             "date": "2023年3月31日"
-        },
-        {
-            "title": "『Pokémon GO』の「リモートレイド」に関する最新情報",
-            "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=ja",
-            "date": "2023年3月30日"
         }
     ]
 }
