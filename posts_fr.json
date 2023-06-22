@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Plongez dans les ténèbres ou dansez sous les flammes avec le nouvel événement Flammes ténébreuses.",
+            "link": "https://pokemongolive.com/post/dark-flames-2023?hl=fr",
+            "date": "22 juin 2023"
+        },
+        {
             "title": "Méga-Rayquaza arrive dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/mega-rayquaza-arrives-go-fest-2023?hl=fr",
             "date": "21 juin 2023"
@@ -148,11 +153,6 @@
             "title": "Mises à jour des Raids à distance de Pokémon GO",
             "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=fr",
             "date": "30 mars 2023"
-        },
-        {
-            "title": "Effervescence printanière avec des Pokémon ornés de fleurs de cerisier et bien plus encore !",
-            "link": "https://pokemongolive.com/post/spring-into-spring-2023?hl=fr",
-            "date": "29 mars 2023"
         }
     ]
 }
