@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "새로운 \"어둠속 불꽃\" 이벤트에서 어둠에 뛰어들거나, 불꽃을 일으키세요!",
+            "link": "https://pokemongolive.com/post/dark-flames-2023?hl=ko",
+            "date": "2023년 6월 22일"
+        },
+        {
             "title": "\"메가레쿠쟈\"가 \"Pokémon GO\"에 등장했습니다!",
             "link": "https://pokemongolive.com/post/mega-rayquaza-arrives-go-fest-2023?hl=ko",
             "date": "2023년 6월 21일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO\" 리모트 레이드 업데이트",
             "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=ko",
             "date": "2023년 3월 30일"
-        },
-        {
-            "title": "벚꽃 장식을 한 포켓몬 등과 함께 봄을 맞이하세요!",
-            "link": "https://pokemongolive.com/post/spring-into-spring-2023?hl=ko",
-            "date": "2023년 3월 29일"
         }
     ]
 }
