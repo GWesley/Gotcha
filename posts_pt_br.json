@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O Arraiá do Pokémon GO chegou ao Brasil!",
+            "link": "https://pokemongolive.com/post/festa-junina-2023?hl=pt_BR",
+            "date": "23 de junho de 2023"
+        },
+        {
             "title": "Mergulhem na escuridão ou deixem as chamas tomarem conta do novo evento Chamas sombrias!",
             "link": "https://pokemongolive.com/post/dark-flames-2023?hl=pt_BR",
             "date": "22 de junho de 2023"
@@ -148,11 +153,6 @@
             "title": "Aproveitem o Evento de Páscoa com Pokémon enfeitados com flores de cerejeiras e muito mais!",
             "link": "https://pokemongolive.com/post/spring-into-spring-2023?hl=pt_BR",
             "date": "29 de março de 2023"
-        },
-        {
-            "title": "Dia Comunitário de abril de 2023: Togetic",
-            "link": "https://pokemongolive.com/post/communityday-april-2023-togetic?hl=pt_BR",
-            "date": "19 de março de 2023"
         }
     ]
 }
