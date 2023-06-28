@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Arrea! ¡Prepara a tus Pokémon para el Fin de Semana de Combates GO: Yakón!",
+            "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=es",
+            "date": "28 de junio de 2023"
+        },
+        {
             "title": "Campfire, la aplicación social de Niantic, ya está disponible en todo el mundo con la nueva función En equipo",
             "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=es",
             "date": "27 de junio de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Regieleki aterriza en las incursiones élite!",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=es",
             "date": "3 de abril de 2023"
-        },
-        {
-            "title": "Día de las Bromas Voladoras de abril: El alboroto de Pidgey",
-            "link": "https://pokemongolive.com/post/april-fools-2023?hl=es",
-            "date": "31 de marzo de 2023"
         }
     ]
 }
