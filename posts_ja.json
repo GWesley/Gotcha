@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Nianticのソーシャルアプリ「Campfire」が、新機能「レイドグループ」を実装して全世界に登場",
+            "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=ja",
+            "date": "2023年6月27日"
+        },
+        {
             "title": "新イベント「闇に揺らめく炎」で、闇に飛び込むか炎を燃えあがらせよう！",
             "link": "https://pokemongolive.com/post/dark-flames-2023?hl=ja",
             "date": "2023年6月22日"
@@ -148,11 +153,6 @@
             "title": "「エピックレイド」に「レジエレキ」が登場！",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=ja",
             "date": "2023年4月3日"
-        },
-        {
-            "title": "エイプリルフール：博士の長い一日",
-            "link": "https://pokemongolive.com/post/april-fools-2023?hl=ja",
-            "date": "2023年3月31日"
         }
     ]
 }
