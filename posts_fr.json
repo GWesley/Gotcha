@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Campfire, l’application sociale de Niantic, est maintenant disponible dans le monde entier avec la nouvelle fonctionnalité Faire équipe",
+            "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=fr",
+            "date": "27 juin 2023"
+        },
+        {
             "title": "Plongez dans les ténèbres ou dansez sous les flammes avec le nouvel événement Flammes ténébreuses.",
             "link": "https://pokemongolive.com/post/dark-flames-2023?hl=fr",
             "date": "22 juin 2023"
@@ -148,11 +153,6 @@
             "title": "Poulet d’avril : Chaos Roucool",
             "link": "https://pokemongolive.com/post/april-fools-2023?hl=fr",
             "date": "31 mars 2023"
-        },
-        {
-            "title": "Mises à jour des Raids à distance de Pokémon GO",
-            "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=fr",
-            "date": "30 mars 2023"
         }
     ]
 }
