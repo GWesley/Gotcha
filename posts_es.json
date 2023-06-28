@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Campfire, la aplicación social de Niantic, ya está disponible en todo el mundo con la nueva función En equipo",
+            "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=es",
+            "date": "27 de junio de 2023"
+        },
+        {
             "title": "¡Sumérgete de lleno en la oscuridad o deja que tu luz interior lo ilumine todo en el nuevo evento Llamas Oscuras!",
             "link": "https://pokemongolive.com/post/dark-flames-2023?hl=es",
             "date": "22 de junio de 2023"
@@ -148,11 +153,6 @@
             "title": "Día de las Bromas Voladoras de abril: El alboroto de Pidgey",
             "link": "https://pokemongolive.com/post/april-fools-2023?hl=es",
             "date": "31 de marzo de 2023"
-        },
-        {
-            "title": "Actualizaciones para las incursiones remotas de Pokémon GO",
-            "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=es",
-            "date": "30 de marzo de 2023"
         }
     ]
 }
