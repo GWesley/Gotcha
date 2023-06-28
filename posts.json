@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Campfire, Niantic’s social app, is now available worldwide with the new Team Up feature",
+            "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=en",
+            "date": "June 27, 2023"
+        },
+        {
             "title": "Dive into darkness or let your flame blaze in the new Dark Flames event!",
             "link": "https://pokemongolive.com/post/dark-flames-2023?hl=en",
             "date": "June 22, 2023"
@@ -148,11 +153,6 @@
             "title": "The Mythical Pokémon Shaymin arrives in free Special Research!",
             "link": "https://pokemongolive.com/post/shaymin-global-special-research?hl=en",
             "date": "April 19, 2023"
-        },
-        {
-            "title": "April 2023 Community Day Classic: Swinub",
-            "link": "https://pokemongolive.com/post/community-day-classic-swinub-april-2023?hl=en",
-            "date": "April 17, 2023"
         }
     ]
 }
