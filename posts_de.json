@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Yeehaw! Macht eure Pokémon bereit für das GO-Kampfwochenende: Turner!",
+            "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=de",
+            "date": "28. Juni 2023"
+        },
+        {
             "title": "Campfire ist jetzt weltweit verfügbar und enthält das neue Feature „Team bilden“!",
             "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=de",
             "date": "27. Juni 2023"
@@ -148,11 +153,6 @@
             "title": "Regieleki erscheint bei Top-Raids!",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=de",
             "date": "3. April 2023"
-        },
-        {
-            "title": "Beflügelter 1. April: Taubsi-Turbulenzen",
-            "link": "https://pokemongolive.com/post/april-fools-2023?hl=de",
-            "date": "31. März 2023"
         }
     ]
 }
