@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "咿哈！準備好迎接「GO對戰週末：菊老大」！",
+            "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=zh_Hant",
+            "date": "2023年6月28日"
+        },
+        {
             "title": "Niantic社交應用程式Campfire即將在全球推出全新團體戰小組功能",
             "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=zh_Hant",
             "date": "2023年6月27日"
@@ -148,11 +153,6 @@
             "title": "愚鳥節：波波大騷動",
             "link": "https://pokemongolive.com/post/april-fools-2023?hl=zh_Hant",
             "date": "2023年3月31日"
-        },
-        {
-            "title": "Pokémon GO遠距團體戰的相關更新",
-            "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=zh_Hant",
-            "date": "2023年3月30日"
         }
     ]
 }
