@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO souffle ses sept bougies, il faut le fêter !",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=fr",
+            "date": "3 juillet 2023"
+        },
+        {
             "title": "Attrapez votre chapeau de cowboy et préparez vos Pokémon au Week-end Combat GO : Bardane !",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=fr",
             "date": "28 juin 2023"
@@ -148,11 +153,6 @@
             "title": "Dresseur·se ! Aide Blanche pendant l'événement Un héroïsme mystique !",
             "link": "https://pokemongolive.com/post/a-mystic-hero?hl=fr",
             "date": "5 avril 2023"
-        },
-        {
-            "title": "Regieleki débarque dans les Raids d’élite !",
-            "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=fr",
-            "date": "3 avril 2023"
         }
     ]
 }
