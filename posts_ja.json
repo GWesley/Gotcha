@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』が輝かしい7周年を迎えます！一緒に盛り上がりましょう！",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=ja",
+            "date": "2023年7月3日"
+        },
+        {
             "title": "「GOバトルウィークエンド：ヤーコン」に向けてポケモンと一緒に準備しよう！",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=ja",
             "date": "2023年6月28日"
@@ -148,11 +153,6 @@
             "title": "「『Pokémon GO』 パートナーリサーチ」のご案内！",
             "link": "https://pokemongolive.com/post/202303partnerresearch-jp?hl=ja",
             "date": "2023年4月9日"
-        },
-        {
-            "title": "トレーナーの皆さん、「智恵のヒーロー」イベントでブランシェを手伝いましょう！",
-            "link": "https://pokemongolive.com/post/a-mystic-hero?hl=ja",
-            "date": "2023年4月5日"
         }
     ]
 }
