@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO wird sieben Jahre alt – das muss gefeiert werden!",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=de",
+            "date": "3. Juli 2023"
+        },
+        {
             "title": "Yeehaw! Macht eure Pokémon bereit für das GO-Kampfwochenende: Turner!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=de",
             "date": "28. Juni 2023"
@@ -148,11 +153,6 @@
             "title": "Trainer! Helft Blanche beim Event „Ein weiser Held“!",
             "link": "https://pokemongolive.com/post/a-mystic-hero?hl=de",
             "date": "5. April 2023"
-        },
-        {
-            "title": "Regieleki erscheint bei Top-Raids!",
-            "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=de",
-            "date": "3. April 2023"
         }
     ]
 }
