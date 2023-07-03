@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO即將迎來精彩的7週年紀念日，準備一起歡慶吧！",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=zh_Hant",
+            "date": "2023年7月3日"
+        },
+        {
             "title": "咿哈！準備好迎接「GO對戰週末：菊老大」！",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=zh_Hant",
             "date": "2023年6月28日"
@@ -148,11 +153,6 @@
             "title": "雷吉艾勒奇降臨菁英團體戰！",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=zh_Hant",
             "date": "2023年4月3日"
-        },
-        {
-            "title": "愚鳥節：波波大騷動",
-            "link": "https://pokemongolive.com/post/april-fools-2023?hl=zh_Hant",
-            "date": "2023年3月31日"
         }
     ]
 }
