@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO กำลังฉลองครบรอบ 7 ปีอันแจ่มจรัส และตอนนี้ก็ได้เวลาปาร์ตี้กันแล้ว!",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=th",
+            "date": "3 กรกฎาคม 2566"
+        },
+        {
             "title": "ยี้ฮ่าห์! เตรียมโปเกมอนให้พร้อมสำหรับโกแบตเทิลสุดสัปดาห์: ยาคอน!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=th",
             "date": "28 มิถุนายน 2566"
@@ -148,11 +153,6 @@
             "title": "เมษานกโง่: ป็อปโปะสุดโกลาหล",
             "link": "https://pokemongolive.com/post/april-fools-2023?hl=th",
             "date": "31 มีนาคม 2566"
-        },
-        {
-            "title": "อัปเดตเกี่ยวกับตีบอสระยะไกลของ Pokémon GO",
-            "link": "https://pokemongolive.com/post/remote-raid-passes-update-2023?hl=th",
-            "date": "30 มีนาคม 2566"
         }
     ]
 }
