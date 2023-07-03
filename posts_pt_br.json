@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O Pokémon GO está comemorando sete anos estelares, e é hora de festejar!",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=pt_BR",
+            "date": "3 de julho de 2023"
+        },
+        {
             "title": "Irra! Preparem seus Pokémon para o Fim de semana de batalhas GO: Clay!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=pt_BR",
             "date": "28 de junho de 2023"
@@ -148,11 +153,6 @@
             "title": "Regieleki chega às Reides de Elite!",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=pt_BR",
             "date": "3 de abril de 2023"
-        },
-        {
-            "title": "Penando no Dia da Mentira: Pandemônio de Pidgey",
-            "link": "https://pokemongolive.com/post/april-fools-2023?hl=pt_BR",
-            "date": "31 de março de 2023"
         }
     ]
 }
