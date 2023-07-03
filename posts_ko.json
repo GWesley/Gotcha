@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\"가 빛나는 7주년을 맞이합니다! 함께 기념하세요!",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=ko",
+            "date": "2023년 7월 3일"
+        },
+        {
             "title": "\"GO배틀 위켄드: 야콘\"에 대비해서 포켓몬을 준비하세요!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=ko",
             "date": "2023년 6월 28일"
@@ -148,11 +153,6 @@
             "title": "트레이너 여러분! 지혜의 히어로 이벤트에서 블랑쉬를 도와주세요!",
             "link": "https://pokemongolive.com/post/a-mystic-hero?hl=ko",
             "date": "2023년 4월 5일"
-        },
-        {
-            "title": "엘리트 레이드에 \"레지에레키\"가 등장!",
-            "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=ko",
-            "date": "2023년 4월 3일"
         }
     ]
 }
