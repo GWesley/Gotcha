@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Alles Gute zum 7. Geburtstag, Pokémon GO!",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=de",
+            "date": "6. Juli 2023"
+        },
+        {
             "title": "Auf euch wartet eine neue Art des Wettstreits: PokéStop-Showcases!",
             "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=de",
             "date": "5. Juli 2023"
@@ -148,11 +153,6 @@
             "title": "Das Mysteriöse Pokémon Shaymin erscheint in einer kostenlosen Spezialforschung!",
             "link": "https://pokemongolive.com/post/shaymin-global-special-research?hl=de",
             "date": "19. April 2023"
-        },
-        {
-            "title": "Community Day Classic im April 2023: Quiekel",
-            "link": "https://pokemongolive.com/post/community-day-classic-swinub-april-2023?hl=de",
-            "date": "17. April 2023"
         }
     ]
 }
