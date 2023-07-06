@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Happy 7th anniversary to Pokémon GO!",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=en",
+            "date": "July 6, 2023"
+        },
+        {
             "title": "Introducing a new way to compete—PokéStop Showcases!",
             "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=en",
             "date": "July 5, 2023"
@@ -148,11 +153,6 @@
             "title": "May 2023 Community Day: Fennekin",
             "link": "https://pokemongolive.com/post/communityday-may-2023-fennekin?hl=en",
             "date": "May 1, 2023"
-        },
-        {
-            "title": "Kleavor makes its Pokémon GO debut during Kleavor Raid Day!",
-            "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=en",
-            "date": "April 28, 2023"
         }
     ]
 }
