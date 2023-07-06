@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』が7周年を迎えます！",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=ja",
+            "date": "2023年7月6日"
+        },
+        {
             "title": "他のトレーナーとポケモンを見せ合える新要素「ポケストップおひろめ」が登場！",
             "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=ja",
             "date": "2023年7月5日"
@@ -148,11 +153,6 @@
             "title": "2023年4月の「コミュニティ・デイ（復刻）」：「ウリムー」",
             "link": "https://pokemongolive.com/post/community-day-classic-swinub-april-2023?hl=ja",
             "date": "2023年4月17日"
-        },
-        {
-            "title": "「サステナビリティウィーク2023」：「アマカジ」「モグリュー」などが登場！",
-            "link": "https://pokemongolive.com/post/sustainability-week-2023?hl=ja",
-            "date": "2023年4月14日"
         }
     ]
 }
