@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Introducing a new way to compete—PokéStop Showcases!",
+            "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=en",
+            "date": "July 5, 2023"
+        },
+        {
             "title": "Pokémon GO is celebrating seven stellar years, and it’s time to party!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=en",
             "date": "July 3, 2023"
@@ -148,11 +153,6 @@
             "title": "Kleavor makes its Pokémon GO debut during Kleavor Raid Day!",
             "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=en",
             "date": "April 28, 2023"
-        },
-        {
-            "title": "Tea up for adventure with Pokémon GO and Kung Fu Tea!",
-            "link": "https://pokemongolive.com/post/kung-fu-tea-partnership-2023?hl=en",
-            "date": "April 24, 2023"
         }
     ]
 }
