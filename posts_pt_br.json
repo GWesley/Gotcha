@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Apresentamos uma nova maneira de competir: a Vitrine de Poképarada!",
+            "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=pt_BR",
+            "date": "5 de julho de 2023"
+        },
+        {
             "title": "O Pokémon GO está comemorando sete anos estelares, e é hora de festejar!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=pt_BR",
             "date": "3 de julho de 2023"
@@ -12,6 +17,11 @@
         {
             "title": "Irra! Preparem seus Pokémon para o Fim de semana de batalhas GO: Clay!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=pt_BR",
+            "date": "28 de junho de 2023"
+        },
+        {
+            "title": "Atualização do Programa Embaixadores da Comunidade",
+            "link": "https://pokemongolive.com/post/community-ambassador-program-relaunch?hl=pt_BR",
             "date": "28 de junho de 2023"
         },
         {
@@ -143,16 +153,6 @@
             "title": "Semana da sustentabilidade de 2023: Bounsweet, Drilbur e muito mais!",
             "link": "https://pokemongolive.com/post/sustainability-week-2023?hl=pt_BR",
             "date": "14 de abril de 2023"
-        },
-        {
-            "title": "Treinadores, ajudem Blanche durante o evento Um herói sábio!",
-            "link": "https://pokemongolive.com/post/a-mystic-hero?hl=pt_BR",
-            "date": "5 de abril de 2023"
-        },
-        {
-            "title": "Regieleki chega às Reides de Elite!",
-            "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=pt_BR",
-            "date": "3 de abril de 2023"
         }
     ]
 }
