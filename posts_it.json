@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Arriva un nuovo modo di sfidare i vostri amici: il concorso al Pokéstop!",
+            "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=it",
+            "date": "5 luglio 2023"
+        },
+        {
             "title": "Pokémon GO festeggia sette anni stellari ed è ora di fare festa!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=it",
             "date": "3 luglio 2023"
@@ -12,6 +17,11 @@
         {
             "title": "Yee-haw! Preparate i Pokémon per il weekend Lotte GO dedicato a Rafan.",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=it",
+            "date": "28 giugno 2023"
+        },
+        {
+            "title": "Aggiornamento del Community Ambassador Program",
+            "link": "https://pokemongolive.com/post/community-ambassador-program-relaunch?hl=it",
             "date": "28 giugno 2023"
         },
         {
@@ -143,16 +153,6 @@
             "title": "Settimana della sostenibilità 2023: Bounsweet, Drilbur e molto altro!",
             "link": "https://pokemongolive.com/post/sustainability-week-2023?hl=it",
             "date": "14 aprile 2023"
-        },
-        {
-            "title": "Allenatori e Allenatrici, aiutate Blanche durante l’evento Saggezza dell’eroe!",
-            "link": "https://pokemongolive.com/post/a-mystic-hero?hl=it",
-            "date": "5 aprile 2023"
-        },
-        {
-            "title": "È in arrivo Regieleki nei raid fuoriclasse!",
-            "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=it",
-            "date": "3 aprile 2023"
         }
     ]
 }
