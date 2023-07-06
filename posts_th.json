@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ขอแนะนำวิธีการแข่งขันแบบใหม่—งานโชว์ตัวเสาโปเกสต็อป!",
+            "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=th",
+            "date": "5 กรกฎาคม 2566"
+        },
+        {
             "title": "Pokémon GO กำลังฉลองครบรอบ 7 ปีอันแจ่มจรัส และตอนนี้ก็ได้เวลาปาร์ตี้กันแล้ว!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=th",
             "date": "3 กรกฎาคม 2566"
@@ -148,11 +153,6 @@
             "title": "เรจิเอเลคิมาแล้วในตีบอสเอลีต!",
             "link": "https://pokemongolive.com/post/elite-raids-regieleki?hl=th",
             "date": "3 เมษายน 2566"
-        },
-        {
-            "title": "เมษานกโง่: ป็อปโปะสุดโกลาหล",
-            "link": "https://pokemongolive.com/post/april-fools-2023?hl=th",
-            "date": "31 มีนาคม 2566"
         }
     ]
 }
