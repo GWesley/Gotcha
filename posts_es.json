@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Feliz séptimo aniversario, Pokémon GO!",
+            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=es",
+            "date": "6 de julio de 2023"
+        },
+        {
             "title": "Presentamos una nueva forma de competir: ¡Exhibición de Poképarada!",
             "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=es",
             "date": "5 de julio de 2023"
@@ -148,11 +153,6 @@
             "title": "¡El Pokémon singular Shaymin llega en una investigación especial gratuita!",
             "link": "https://pokemongolive.com/post/shaymin-global-special-research?hl=es",
             "date": "19 de abril de 2023"
-        },
-        {
-            "title": "Día de la Comunidad clásico de abril de 2023: Swinub",
-            "link": "https://pokemongolive.com/post/community-day-classic-swinub-april-2023?hl=es",
-            "date": "17 de abril de 2023"
         }
     ]
 }
