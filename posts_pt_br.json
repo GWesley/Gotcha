@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Celebrem o próximo lançamento do Pokémon GO Plus + com o evento Tirando um cochilo",
-            "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=pt_BR",
-            "date": "6 de julho de 2023"
-        },
-        {
             "title": "Feliz aniversário de sete anos, Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=pt_BR",
             "date": "6 de julho de 2023"
@@ -153,6 +148,11 @@
             "title": "O Pokémon Mítico Shaymin aparecerá na pesquisa especial gratuita!",
             "link": "https://pokemongolive.com/post/shaymin-global-special-research?hl=pt_BR",
             "date": "19 de abril de 2023"
+        },
+        {
+            "title": "Dia Comunitário Clássico com Swinub, abril de 2023",
+            "link": "https://pokemongolive.com/post/community-day-classic-swinub-april-2023?hl=pt_BR",
+            "date": "17 de abril de 2023"
         }
     ]
 }
