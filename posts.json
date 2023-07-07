@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Celebrate the upcoming release of Pokémon GO Plus + with the Catching Some Z’s event",
-            "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=en",
-            "date": "July 6, 2023"
-        },
-        {
             "title": "Happy 7th anniversary to Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=en",
             "date": "July 6, 2023"
@@ -152,6 +147,11 @@
         {
             "title": "Trainers! Help out Spark during the An Instinctive Hero event!",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=en",
+            "date": "May 1, 2023"
+        },
+        {
+            "title": "May 2023 Community Day: Fennekin",
+            "link": "https://pokemongolive.com/post/communityday-may-2023-fennekin?hl=en",
             "date": "May 1, 2023"
         }
     ]
