@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "「Pokémon GO Plus +コラボイベント」で間近に迫った「Pokémon GO Plus +」の発売をお祝いしましょう！",
-            "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=ja",
-            "date": "2023年7月6日"
-        },
-        {
             "title": "『Pokémon GO』が7周年を迎えます！",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=ja",
             "date": "2023年7月6日"
@@ -153,6 +148,11 @@
             "title": "無料の「スペシャルリサーチ」で幻のポケモンの「シェイミ」と出会おう！",
             "link": "https://pokemongolive.com/post/shaymin-global-special-research?hl=ja",
             "date": "2023年4月19日"
+        },
+        {
+            "title": "2023年4月の「コミュニティ・デイ（復刻）」：「ウリムー」",
+            "link": "https://pokemongolive.com/post/community-day-classic-swinub-april-2023?hl=ja",
+            "date": "2023年4月17日"
         }
     ]
 }
