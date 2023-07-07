@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "ฉลองการเปิดตัว Pokémon GO Plus + ที่กำลังจะมาถึงกับอีเวนต์ตามจับหลับฝันดี",
-            "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=th",
-            "date": "6 กรกฎาคม 2566"
-        },
-        {
             "title": "สุขสันต์ครบรอบ 7 ปี Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=th",
             "date": "6 กรกฎาคม 2566"
@@ -153,6 +148,11 @@
             "title": "สัปดาห์คุ้มครองโลก 2023: อมาคาจิ, โมกุริว และอีกมากมาย!",
             "link": "https://pokemongolive.com/post/sustainability-week-2023?hl=th",
             "date": "14 เมษายน 2566"
+        },
+        {
+            "title": "เทรนเนอร์ทุกท่าน! ไปช่วยเหลือบลองช์ในระหว่างอีเวนต์ฮีโร่ลึกลับกันเถอะ!",
+            "link": "https://pokemongolive.com/post/a-mystic-hero?hl=th",
+            "date": "5 เมษายน 2566"
         }
     ]
 }
