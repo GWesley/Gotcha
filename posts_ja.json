@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』の「アドベンチャーウィーク」は、カセキがテーマのイベントです！",
+            "link": "https://pokemongolive.com/post/adventure-week-2023?hl=ja",
+            "date": "2023年7月12日"
+        },
+        {
             "title": "Amazonプライム会員向けの無料の「パートナーリサーチ」が登場",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-day-2023?hl=ja",
             "date": "2023年7月11日"
@@ -148,11 +153,6 @@
             "title": "「バサギリ」の「レイド・デイ」で「バサギリ」が『Pokémon GO』に初登場！",
             "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=ja",
             "date": "2023年4月28日"
-        },
-        {
-            "title": "エピックレイド：「レジドラゴ」補填グローバルイベントのお知らせ",
-            "link": "https://pokemongolive.com/post/elite-raids-regidrago-returns?hl=ja",
-            "date": "2023年4月21日"
         }
     ]
 }
