@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Semaine Aventure Pokémon GO est de retour avec un nouvel événement axé sur les fossiles !",
+            "link": "https://pokemongolive.com/post/adventure-week-2023?hl=fr",
+            "date": "12 juillet 2023"
+        },
+        {
             "title": "Recherche de partenaire gratuite et limitée pour les membres Amazon Prime",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-day-2023?hl=fr",
             "date": "11 juillet 2023"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de mai 2023 : Feunnec",
             "link": "https://pokemongolive.com/post/communityday-may-2023-fennekin?hl=fr",
             "date": "1 mai 2023"
-        },
-        {
-            "title": "Hachécateur fait ses débuts dans Pokémon GO lors de la Journée de Raids Hachécateur !",
-            "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=fr",
-            "date": "28 avril 2023"
         }
     ]
 }
