@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Settimana dellʼavventura di Pokémon GO torna per un altro evento incentrato su Pokémon Fossile!",
+            "link": "https://pokemongolive.com/post/adventure-week-2023?hl=it",
+            "date": "12 luglio 2023"
+        },
+        {
             "title": "È disponibile gratuitamente una ricerca mirata compagni per i membri di Amazon Prime",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-day-2023?hl=it",
             "date": "11 luglio 2023"
@@ -148,11 +153,6 @@
             "title": "Kleavor fa il suo debutto in Pokémon GO durante il giorno di raid dedicato!",
             "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=it",
             "date": "28 aprile 2023"
-        },
-        {
-            "title": "Raid fuoriclasse: Regidrago ritorna in un evento di recupero globale",
-            "link": "https://pokemongolive.com/post/elite-raids-regidrago-returns?hl=it",
-            "date": "21 aprile 2023"
         }
     ]
 }
