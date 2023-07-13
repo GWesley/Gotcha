@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "全新的Pokémon GO活動「孵化日」登場。為新活動拉開序幕的寶可夢是「利歐路」！",
+            "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=zh_Hant",
+            "date": "2023年7月13日"
+        },
+        {
             "title": "以化石為主題的驚奇冒險週震撼回歸Pokémon GO！",
             "link": "https://pokemongolive.com/post/adventure-week-2023?hl=zh_Hant",
             "date": "2023年7月12日"
@@ -148,11 +153,6 @@
             "title": "「劈斧螳螂」將於劈斧螳螂團體戰日在《Pokémon GO》首度登場！",
             "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=zh_Hant",
             "date": "2023年4月28日"
-        },
-        {
-            "title": "菁英團體戰：「雷吉鐸拉戈」全球補償活動",
-            "link": "https://pokemongolive.com/post/elite-raids-regidrago-returns?hl=zh_Hant",
-            "date": "2023年4月21日"
         }
     ]
 }
