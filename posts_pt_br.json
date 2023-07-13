@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Riolu será a primeira estrela de um novo evento do Pokémon GO: Dia de chocar!",
+            "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=pt_BR",
+            "date": "13 de julho de 2023"
+        },
+        {
             "title": "A Semana Aventura do Pokémon GO está de volta com outro evento focado em fósseis!",
             "link": "https://pokemongolive.com/post/adventure-week-2023?hl=pt_BR",
             "date": "12 de julho de 2023"
@@ -148,11 +153,6 @@
             "title": "Dia Comunitário de maio de 2023 com Fennekin",
             "link": "https://pokemongolive.com/post/communityday-may-2023-fennekin?hl=pt_BR",
             "date": "1 de maio de 2023"
-        },
-        {
-            "title": "Kleavor faz sua estreia no Pokémon GO durante o dia de Reides desse Pokémon!",
-            "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=pt_BR",
-            "date": "28 de abril de 2023"
         }
     ]
 }
