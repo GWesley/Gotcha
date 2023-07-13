@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "새로운 \"Pokémon GO\" 이벤트 \"부화데이\"가 개최합니다. 첫 번째 포켓몬은 \"리오르\"입니다!",
+            "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=ko",
+            "date": "2023년 7월 13일"
+        },
+        {
             "title": "\"Pokémon GO\" 어드벤처 위크는 화석 중심의 이벤트입니다!",
             "link": "https://pokemongolive.com/post/adventure-week-2023?hl=ko",
             "date": "2023년 7월 12일"
@@ -148,11 +153,6 @@
             "title": "\"사마자르\" 레이드 데이에서 \"사마자르\"가 \"Pokémon GO\"에 처음으로 등장합니다!",
             "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=ko",
             "date": "2023년 4월 28일"
-        },
-        {
-            "title": "“Pokémon Spring Festa 2023에서 “Pokémon GO” 특별 이벤트 개최",
-            "link": "https://pokemongolive.com/post/korean-pokemon-spring-festa-2023?hl=ko",
-            "date": "2023년 4월 26일"
         }
     ]
 }
