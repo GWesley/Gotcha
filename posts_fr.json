@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Riolu est le premier Pokémon à l’affiche de notre nouvel événement dans Pokémon GO : la Journée Éclosion !",
+            "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=fr",
+            "date": "13 juillet 2023"
+        },
+        {
             "title": "La Semaine Aventure Pokémon GO est de retour avec un nouvel événement axé sur les fossiles !",
             "link": "https://pokemongolive.com/post/adventure-week-2023?hl=fr",
             "date": "12 juillet 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Dresseurs, dresseuses ! Aidez Spark pendant l'événement \"Un héroïsme intuitif\" !",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=fr",
-            "date": "1 mai 2023"
-        },
-        {
-            "title": "Journée Communauté de mai 2023 : Feunnec",
-            "link": "https://pokemongolive.com/post/communityday-may-2023-fennekin?hl=fr",
             "date": "1 mai 2023"
         }
     ]
