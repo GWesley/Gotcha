@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Riolu weiht ein neues Pokémon GO-Event ein: den Schlüpftag!",
+            "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=de",
+            "date": "13. Juli 2023"
+        },
+        {
             "title": "Die Abenteuerwoche in Pokémon GO kehrt mit einem weiteren Event rund um Fossile zurück!",
             "link": "https://pokemongolive.com/post/adventure-week-2023?hl=de",
             "date": "12. Juli 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Trainer! Helft Spark beim Event „Ein intuitiver Held“!",
             "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=de",
-            "date": "1. Mai 2023"
-        },
-        {
-            "title": "Community Day im Mai 2023: Fynx",
-            "link": "https://pokemongolive.com/post/communityday-may-2023-fennekin?hl=de",
             "date": "1. Mai 2023"
         }
     ]
