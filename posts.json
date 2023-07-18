@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "July 2023 Community Day Classic: Squirtle makeup event",
+            "link": "https://pokemongolive.com/post/community-day-classic-squirtle-makeup-2023?hl=en",
+            "date": "July 18, 2023"
+        },
+        {
             "title": "Riolu is the first star of a new Pokémon GO event—Hatch Day!",
             "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=en",
             "date": "July 13, 2023"
@@ -148,11 +153,6 @@
             "title": "Shadow Raids are coming to Pokémon GO!",
             "link": "https://pokemongolive.com/post/shadow-raids?hl=en",
             "date": "May 18, 2023"
-        },
-        {
-            "title": "Never miss with the Master Ball—coming soon to Pokémon GO!",
-            "link": "https://pokemongolive.com/post/masterball?hl=en",
-            "date": "May 16, 2023"
         }
     ]
 }
