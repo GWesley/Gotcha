@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Descubra o mundo de uma maneira totalmente nova com as Rotas!",
+            "link": "https://pokemongolive.com/post/routeslanding?hl=pt_BR",
+            "date": "20 de julho de 2023"
+        },
+        {
             "title": "Comemore o lançamento das Rotas com o evento Explorar novas trilhas!",
             "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=pt_BR",
             "date": "20 de julho de 2023"
@@ -148,11 +153,6 @@
             "title": "Guardem as datas dos Dias Comunitários da próxima temporada!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=pt_BR",
             "date": "15 de maio de 2023"
-        },
-        {
-            "title": "Treinadorxs! Ajudem Candela durante o próximo evento Um herói de valor!",
-            "link": "https://pokemongolive.com/post/a-valorous-hero?hl=pt_BR",
-            "date": "4 de maio de 2023"
         }
     ]
 }
