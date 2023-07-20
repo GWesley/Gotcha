@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Festeggiamo il lancio di Percorsi con l’evento Nuovi sentieri!",
+            "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=it",
+            "date": "20 luglio 2023"
+        },
+        {
             "title": "Evento di recupero del Community Day Classico di luglio 2023: Squirtle",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-makeup-2023?hl=it",
             "date": "18 luglio 2023"
@@ -148,11 +153,6 @@
             "title": "Allenatori ed Allenatrici! Aiutate Candela durante il prossimo evento Coraggio dell’eroe!",
             "link": "https://pokemongolive.com/post/a-valorous-hero?hl=it",
             "date": "4 maggio 2023"
-        },
-        {
-            "title": "Allenatori e Allenatrici, aiutate Scintilla durante l’evento Istinto dell’eroe!",
-            "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=it",
-            "date": "1 maggio 2023"
         }
     ]
 }
