@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Scopri il mondo in un modo tutto nuovo con Percorsi!",
+            "link": "https://pokemongolive.com/post/routeslanding?hl=it",
+            "date": "20 luglio 2023"
+        },
+        {
             "title": "Festeggiamo il lancio di Percorsi con l’evento Nuovi sentieri!",
             "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=it",
             "date": "20 luglio 2023"
@@ -148,11 +153,6 @@
             "title": "Segnatevi le date dei Community Day della prossima stagione!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=it",
             "date": "15 maggio 2023"
-        },
-        {
-            "title": "Allenatori ed Allenatrici! Aiutate Candela durante il prossimo evento Coraggio dell’eroe!",
-            "link": "https://pokemongolive.com/post/a-valorous-hero?hl=it",
-            "date": "4 maggio 2023"
         }
     ]
 }
