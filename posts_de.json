@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Entdeckt die Welt auf neue Weise mit Routen!",
+            "link": "https://pokemongolive.com/post/routeslanding?hl=de",
+            "date": "20. Juli 2023"
+        },
+        {
             "title": "Wir feiern das Routenfeature mit dem Event „Neue Wege“!",
             "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=de",
             "date": "20. Juli 2023"
@@ -148,11 +153,6 @@
             "title": "Bald gibt es den Meisterball auch in Pokémon GO!",
             "link": "https://pokemongolive.com/post/masterball?hl=de",
             "date": "16. Mai 2023"
-        },
-        {
-            "title": "Die Termine für die Community Days der nächsten Jahreszeit stehen fest!",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=de",
-            "date": "15. Mai 2023"
         }
     ]
 }
