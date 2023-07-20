@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Découvrez le monde sous un autre angle avec Routes !",
+            "link": "https://pokemongolive.com/post/routeslanding?hl=fr",
+            "date": "20 juillet 2023"
+        },
+        {
             "title": "Célébrez le lancement de Routes avec l’événement Sortez des sentiers battus !",
             "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=fr",
             "date": "20 juillet 2023"
@@ -148,11 +153,6 @@
             "title": "Ne ratez plus aucun Pokémon avec la Master Ball, bientôt disponible sur Pokémon GO.",
             "link": "https://pokemongolive.com/post/masterball?hl=fr",
             "date": "16 mai 2023"
-        },
-        {
-            "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=fr",
-            "date": "15 mai 2023"
         }
     ]
 }
