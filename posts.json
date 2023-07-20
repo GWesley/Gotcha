@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Discover the world in an all-new way with Routes!",
+            "link": "https://pokemongolive.com/post/routeslanding?hl=en",
+            "date": "July 20, 2023"
+        },
+        {
             "title": "Celebrate the launch of Routes with the Blaze New Trails event!",
             "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=en",
             "date": "July 20, 2023"
@@ -148,11 +153,6 @@
             "title": "New way to get bonus PokéCoins",
             "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch?hl=en",
             "date": "May 24, 2023"
-        },
-        {
-            "title": "Shadow Raids debut during the Rising Shadows event!",
-            "link": "https://pokemongolive.com/post/rising-shadows?hl=en",
-            "date": "May 18, 2023"
         }
     ]
 }
