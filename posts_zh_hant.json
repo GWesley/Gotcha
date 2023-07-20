@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "路線，探索世界的全新方式！",
+            "link": "https://pokemongolive.com/post/routeslanding?hl=zh_Hant",
+            "date": "2023年7月20日"
+        },
+        {
             "title": "參與開拓新路活動，慶祝新推出的「路線」！",
             "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=zh_Hant",
             "date": "2023年7月20日"
@@ -148,11 +153,6 @@
             "title": "訓練家！在「武勇英雄」活動期間助坎迪拉一臂之力吧！",
             "link": "https://pokemongolive.com/post/a-valorous-hero?hl=zh_Hant",
             "date": "2023年5月4日"
-        },
-        {
-            "title": "訓練家！在「靈犀英雄」活動期間助史帕克一臂之力吧！",
-            "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=zh_Hant",
-            "date": "2023年5月1日"
         }
     ]
 }
