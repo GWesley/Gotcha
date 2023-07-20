@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ฉลองการเปิดตัว \"เส้นทาง\" กับอีเวนต์สู่เส้นทางใหม่อันโชติช่วง!",
+            "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=th",
+            "date": "20 กรกฎาคม 2566"
+        },
+        {
             "title": "ริโอลุเป็นดาวดวงแรกของอีเวนต์ใหม่ใน Pokémon GO —วันฟักไข่!",
             "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=th",
             "date": "13 กรกฎาคม 2566"
@@ -148,11 +153,6 @@
             "title": "บาซากิริเปิดตัวใน Pokémon GO ในช่วงวันตีบอสบาซากิริ",
             "link": "https://pokemongolive.com/post/kleavor-raid-day?hl=th",
             "date": "28 เมษายน 2566"
-        },
-        {
-            "title": "ตีบอสเอลีต: เรจิดราโกกลับมาอีกครั้งในอีเวนต์ชดเชยทั่วโลก",
-            "link": "https://pokemongolive.com/post/elite-raids-regidrago-returns?hl=th",
-            "date": "21 เมษายน 2566"
         }
     ]
 }
