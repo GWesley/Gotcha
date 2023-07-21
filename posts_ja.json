@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』に「公式ルート」が登場！",
+            "link": "https://pokemongolive.com/post/official-route-japan?hl=ja",
+            "date": "2023年7月20日"
+        },
+        {
             "title": "「ルート」を使って、まったく新しい方法で世界を発見しよう！",
             "link": "https://pokemongolive.com/post/routeslanding?hl=ja",
             "date": "2023年7月20日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』にまもなく登場する「マスターボール」をお見逃しなく！",
             "link": "https://pokemongolive.com/post/masterball?hl=ja",
             "date": "2023年5月16日"
-        },
-        {
-            "title": "次のシーズンで開催される「コミュニティ・デイ」の日程をお知らせします！",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=ja",
-            "date": "2023年5月15日"
         }
     ]
 }
