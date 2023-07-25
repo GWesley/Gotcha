@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"요정 정원 프로젝트\"에서 마법같은 체험을! \"Pokémon GO Fest 2023\" 현장 이벤트에서 만날 수 있는 포켓몬이 등장합니다!",
+            "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=ko",
+            "date": "2023년 7월 25일"
+        },
+        {
             "title": "\"루트\"와 함께 완전히 새로운 방법으로 세계를 탐색해 봐요!",
             "link": "https://pokemongolive.com/post/routeslanding?hl=ko",
             "date": "2023년 7월 20일"
@@ -13,6 +18,11 @@
             "title": "\"새로운 길잡이\" 이벤트와 함께 \"루트\" 시작을 축하해주세요!",
             "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=ko",
             "date": "2023년 7월 20일"
+        },
+        {
+            "title": "2023년 7월 커뮤니티 데이(복각): \"꼬부기\" 보상 이벤트",
+            "link": "https://pokemongolive.com/post/community-day-classic-squirtle-makeup-2023?hl=ko",
+            "date": "2023년 7월 18일"
         },
         {
             "title": "새로운 \"Pokémon GO\" 이벤트 \"부화데이\"가 개최합니다. 첫 번째 포켓몬은 \"리오르\"입니다!",
@@ -143,16 +153,6 @@
             "title": "다음 시즌의 커뮤니티 데이 일정을 안내합니다!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=ko",
             "date": "2023년 5월 15일"
-        },
-        {
-            "title": "트레이너 여러분! 열정의 히어로 이벤트에서 칸델라를 도와주세요!",
-            "link": "https://pokemongolive.com/post/a-valorous-hero?hl=ko",
-            "date": "2023년 5월 4일"
-        },
-        {
-            "title": "트레이너 여러분! 직감의 히어로 이벤트에서 스파크를 도와주세요!",
-            "link": "https://pokemongolive.com/post/an-instinctive-hero?hl=ko",
-            "date": "2023년 5월 1일"
         }
     ]
 }
