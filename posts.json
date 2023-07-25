@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Get ready to be enchanted during the Glittering Garden event, featuring Pokémon from GO Fest 2023!",
+            "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=en",
+            "date": "July 25, 2023"
+        },
+        {
             "title": "Discover the world in an all-new way with Routes!",
             "link": "https://pokemongolive.com/post/routeslanding?hl=en",
             "date": "July 20, 2023"
@@ -148,11 +153,6 @@
             "title": "Dive into Water Festival: Beach Week!",
             "link": "https://pokemongolive.com/post/water-festival-2023?hl=en",
             "date": "May 30, 2023"
-        },
-        {
-            "title": "New way to get bonus PokéCoins",
-            "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch?hl=en",
-            "date": "May 24, 2023"
         }
     ]
 }
