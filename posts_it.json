@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Arriva Prato scintillante, l’evento che vi incanterà con i Pokémon del Festival di Pokémon GO 2023!",
+            "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=it",
+            "date": "25 luglio 2023"
+        },
+        {
             "title": "Accendi i fuochi d'artificio: è il 7° anniversario di Pokémon GO!",
             "link": "https://pokemongolive.com/post/7th-anniversary-celebrations?hl=it",
             "date": "25 luglio 2023"
@@ -148,11 +153,6 @@
             "title": "Raid ombra in arrivo su Pokémon GO!",
             "link": "https://pokemongolive.com/post/shadow-raids?hl=it",
             "date": "18 maggio 2023"
-        },
-        {
-            "title": "Non perderti la Master Ball: in arrivo su Pokémon GO!",
-            "link": "https://pokemongolive.com/post/masterball?hl=it",
-            "date": "16 maggio 2023"
         }
     ]
 }
