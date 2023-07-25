@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Zeit zu feiern – Pokémon GO wird 7 Jahre alt!",
+            "link": "https://pokemongolive.com/post/7th-anniversary-celebrations?hl=de",
+            "date": "25. Juli 2023"
+        },
+        {
             "title": "Entdeckt die Welt auf neue Weise mit Routen!",
             "link": "https://pokemongolive.com/post/routeslanding?hl=de",
             "date": "20. Juli 2023"
@@ -148,11 +153,6 @@
             "title": "Bald gibt es in Pokémon GO Crypto-Raids!",
             "link": "https://pokemongolive.com/post/shadow-raids?hl=de",
             "date": "18. Mai 2023"
-        },
-        {
-            "title": "Bald gibt es den Meisterball auch in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/masterball?hl=de",
-            "date": "16. Mai 2023"
         }
     ]
 }
