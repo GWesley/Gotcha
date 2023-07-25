@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Accendi i fuochi d'artificio: è il 7° anniversario di Pokémon GO!",
+            "link": "https://pokemongolive.com/post/7th-anniversary-celebrations?hl=it",
+            "date": "25 luglio 2023"
+        },
+        {
             "title": "Scopri il mondo in un modo tutto nuovo con Percorsi!",
             "link": "https://pokemongolive.com/post/routeslanding?hl=it",
             "date": "20 luglio 2023"
@@ -148,11 +153,6 @@
             "title": "Non perderti la Master Ball: in arrivo su Pokémon GO!",
             "link": "https://pokemongolive.com/post/masterball?hl=it",
             "date": "16 maggio 2023"
-        },
-        {
-            "title": "Segnatevi le date dei Community Day della prossima stagione!",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s11?hl=it",
-            "date": "15 maggio 2023"
         }
     ]
 }
