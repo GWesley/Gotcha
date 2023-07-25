@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「妖精の庭プロジェクト」で魔法のような体験を！「Pokémon GO Fest 2023」リアルイベントで出会えるポケモンが登場します！",
+            "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=ja",
+            "date": "2023年7月25日"
+        },
+        {
             "title": "『Pokémon GO』に「公式ルート」が登場！",
             "link": "https://pokemongolive.com/post/official-route-japan?hl=ja",
             "date": "2023年7月20日"
@@ -20,7 +25,7 @@
             "date": "2023年7月20日"
         },
         {
-            "title": "2023年7月の「コミュニティ・デイ」：「ゼニガメ」補填イベント",
+            "title": "2023年7月の「コミュニティ・デイ（復刻）」：「ゼニガメ」補填イベント",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-makeup-2023?hl=ja",
             "date": "2023年7月18日"
         },
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』に「シャドウレイド」が登場！",
             "link": "https://pokemongolive.com/post/shadow-raids?hl=ja",
             "date": "2023年5月18日"
-        },
-        {
-            "title": "『Pokémon GO』にまもなく登場する「マスターボール」をお見逃しなく！",
-            "link": "https://pokemongolive.com/post/masterball?hl=ja",
-            "date": "2023年5月16日"
         }
     ]
 }
