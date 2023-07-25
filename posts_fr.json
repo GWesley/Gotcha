@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Anniversaire Pokémon GO: soufflez nos 7 bougies avec nous !",
+            "link": "https://pokemongolive.com/post/7th-anniversary-celebrations?hl=fr",
+            "date": "25 juillet 2023"
+        },
+        {
             "title": "Découvrez le monde sous un autre angle avec Routes !",
             "link": "https://pokemongolive.com/post/routeslanding?hl=fr",
             "date": "20 juillet 2023"
@@ -148,11 +153,6 @@
             "title": "Les Raids obscurs débarquent dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/shadow-raids?hl=fr",
             "date": "18 mai 2023"
-        },
-        {
-            "title": "Ne ratez plus aucun Pokémon avec la Master Ball, bientôt disponible sur Pokémon GO.",
-            "link": "https://pokemongolive.com/post/masterball?hl=fr",
-            "date": "16 mai 2023"
         }
     ]
 }
