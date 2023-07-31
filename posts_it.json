@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day di agosto 2023: Froakie",
+            "link": "https://pokemongolive.com/post/communityday-august-2023-froakie?hl=it",
+            "date": "31 luglio 2023"
+        },
+        {
             "title": "Arriva Prato scintillante, l’evento che vi incanterà con i Pokémon del Festival di Pokémon GO 2023!",
             "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=it",
             "date": "25 luglio 2023"
@@ -95,6 +100,11 @@
             "date": "21 giugno 2023"
         },
         {
+            "title": "Incontra Allenatori e Allenatrici famosi durante il Festival di Pokémon GO 2023 a Londra e New York",
+            "link": "https://pokemongolive.com/post/notable-trainer-meet-greet-go-fest-2023?hl=it",
+            "date": "21 giugno 2023"
+        },
+        {
             "title": "Pokémon GO e Prime Gaming di Amazon si uniscono di nuovo per offrire fantastiche ricompense ai membri di Amazon Prime!!",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-promotion-2023?hl=it",
             "date": "20 giugno 2023"
@@ -143,16 +153,6 @@
             "title": "Tuffatevi nella Settimana in spiaggia del Festival dell’Acqua!",
             "link": "https://pokemongolive.com/post/water-festival-2023?hl=it",
             "date": "30 maggio 2023"
-        },
-        {
-            "title": "Il debutto dei raid ombra avverrà durante l’evento Ascesa delle ombre.",
-            "link": "https://pokemongolive.com/post/rising-shadows?hl=it",
-            "date": "18 maggio 2023"
-        },
-        {
-            "title": "Raid ombra in arrivo su Pokémon GO!",
-            "link": "https://pokemongolive.com/post/shadow-raids?hl=it",
-            "date": "18 maggio 2023"
         }
     ]
 }
