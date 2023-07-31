@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté d’août 2023 : Grenousse",
+            "link": "https://pokemongolive.com/post/communityday-august-2023-froakie?hl=fr",
+            "date": "31 juillet 2023"
+        },
+        {
             "title": "Préparez-vous à vivre un conte de fée avec l’événement Verdure scintillante ! Vous y retrouverez des Pokémon présents à l’occasion du Festival GO 2023.",
             "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=fr",
             "date": "25 juillet 2023"
@@ -95,6 +100,11 @@
             "date": "21 juin 2023"
         },
         {
+            "title": "Rencontrez des Dresseur·euse·s connu·e·s à Londres et à New York, lors du Festival Pokémon GO 2023",
+            "link": "https://pokemongolive.com/post/notable-trainer-meet-greet-go-fest-2023?hl=fr",
+            "date": "21 juin 2023"
+        },
+        {
             "title": "Pokémon GO et Amazon Prime Gaming s’associent à nouveau pour offrir des récompenses exceptionnelles aux membres Amazon Prime !",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-promotion-2023?hl=fr",
             "date": "20 juin 2023"
@@ -143,16 +153,6 @@
             "title": "Mise à jour de la « Ligue Combat GO : Gemmes cachées »",
             "link": "https://pokemongolive.com/post/go-battle-league-hidden-gems?hl=fr",
             "date": "30 mai 2023"
-        },
-        {
-            "title": "Plongez dans le Festival Aquatique : semaine de la plage !",
-            "link": "https://pokemongolive.com/post/water-festival-2023?hl=fr",
-            "date": "30 mai 2023"
-        },
-        {
-            "title": "Les Raids Obcurs commencent pendant l’événement Ombres croissantes !",
-            "link": "https://pokemongolive.com/post/rising-shadows?hl=fr",
-            "date": "18 mai 2023"
         }
     ]
 }
