@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』で「ポケモンワールドチャンピオンシップス2023」の開催をお祝いしましょう！",
+            "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=ja",
+            "date": "2023年8月7日"
+        },
+        {
             "title": "「『Pokémon GO』パートナーリサーチ 」のご案内！",
             "link": "https://pokemongolive.com/post/202306partnerresearch-jp?hl=ja",
             "date": "2023年7月31日"
@@ -148,11 +153,6 @@
             "title": "「ウォーターフェスティバル：ビーチウィーク」に飛び込もう！",
             "link": "https://pokemongolive.com/post/water-festival-2023?hl=ja",
             "date": "2023年5月30日"
-        },
-        {
-            "title": "ボーナスポケコインを獲得できる新たな方法",
-            "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch?hl=ja",
-            "date": "2023年5月24日"
         }
     ]
 }
