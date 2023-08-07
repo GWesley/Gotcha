@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wir feiern die Pokémon-Weltmeisterschaften 2023 in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=de",
+            "date": "7. August 2023"
+        },
+        {
             "title": "Community Day im August 2023: Froxy",
             "link": "https://pokemongolive.com/post/communityday-august-2023-froakie?hl=de",
             "date": "31. Juli 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Update zu GO-Kampfliga: Verborgene Edelsteine",
             "link": "https://pokemongolive.com/post/go-battle-league-hidden-gems?hl=de",
-            "date": "30. Mai 2023"
-        },
-        {
-            "title": "Taucht ins Wasserfestival: Strandwoche ein!",
-            "link": "https://pokemongolive.com/post/water-festival-2023?hl=de",
             "date": "30. Mai 2023"
         }
     ]
