@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebre o Campeonato Mundial do Pokémon GO de 2023!",
+            "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=pt_BR",
+            "date": "7 de agosto de 2023"
+        },
+        {
             "title": "Dia Comunitário de agosto de 2023: Froakie",
             "link": "https://pokemongolive.com/post/communityday-august-2023-froakie?hl=pt_BR",
             "date": "31 de julho de 2023"
@@ -148,11 +153,6 @@
             "title": "Mergulhe de cabeça no Festival Aquático: Semana na Praia!",
             "link": "https://pokemongolive.com/post/water-festival-2023?hl=pt_BR",
             "date": "30 de maio de 2023"
-        },
-        {
-            "title": "Reides das Sombras estreiam durante o evento Sombras em ascensão!",
-            "link": "https://pokemongolive.com/post/rising-shadows?hl=pt_BR",
-            "date": "18 de maio de 2023"
         }
     ]
 }
