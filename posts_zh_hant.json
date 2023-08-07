@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "在Pokémon GO歡慶2023 Pokémon World Championships！",
+            "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=zh_Hant",
+            "date": "2023年8月7日"
+        },
+        {
             "title": "2023年8月社群日：呱呱泡蛙",
             "link": "https://pokemongolive.com/post/communityday-august-2023-froakie?hl=zh_Hant",
             "date": "2023年7月31日"
@@ -147,11 +152,6 @@
         {
             "title": "暗影團體戰在「暗影崛起」活動期間首度登場！",
             "link": "https://pokemongolive.com/post/rising-shadows?hl=zh_Hant",
-            "date": "2023年5月18日"
-        },
-        {
-            "title": "暗影團體戰即將在Pokémon GO登場！",
-            "link": "https://pokemongolive.com/post/shadow-raids?hl=zh_Hant",
             "date": "2023年5月18日"
         }
     ]
