@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Los Pokémon descubiertos originalmente en la región de Paldea han empezado a aparecer en Pokémon GO!",
+            "link": "https://pokemongolive.com/post/paldea-region-pokemon-announcement?hl=es",
+            "date": "8 de agosto de 2023"
+        },
+        {
             "title": "¡Celebra el Campeonato Mundial de Pokémon 2023 en Pokémon GO!",
             "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=es",
             "date": "7 de agosto de 2023"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad de junio de 2023: Axew",
             "link": "https://pokemongolive.com/post/communityday-june-2023-axew?hl=es",
             "date": "31 de mayo de 2023"
-        },
-        {
-            "title": "¡En el evento Buscando Oro del próximo Día de Investigación sí que es oro todo lo que reluce!",
-            "link": "https://pokemongolive.com/post/gold-research-day-2023?hl=es",
-            "date": "30 de mayo de 2023"
         }
     ]
 }
