@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Des Pokémon originaires de la région de Paldea arrivent dans Pokémon GO !",
+            "link": "https://pokemongolive.com/post/paldea-region-pokemon-announcement?hl=fr",
+            "date": "8 août 2023"
+        },
+        {
             "title": "Célébrez les Championnats du Monde Pokémon 2023 dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=fr",
             "date": "7 août 2023"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de juin 2023 : Coupenotte",
             "link": "https://pokemongolive.com/post/communityday-june-2023-axew?hl=fr",
             "date": "31 mai 2023"
-        },
-        {
-            "title": "Ruez-vous vers l’or au cours du prochain événement Journée Recherche Chercheurs d’or !",
-            "link": "https://pokemongolive.com/post/gold-research-day-2023?hl=fr",
-            "date": "30 mai 2023"
         }
     ]
 }
