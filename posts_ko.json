@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "팔데아지방에서 처음 발견된 포켓몬들이 \"Pokémon GO\"로 찾아옵니다!",
+            "link": "https://pokemongolive.com/post/paldea-region-pokemon-announcement?hl=ko",
+            "date": "2023년 8월 8일"
+        },
+        {
             "title": "\"Pokémon GO\"에서 포켓몬 월드챔피언십2023 개최를 기념하세요!",
             "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=ko",
             "date": "2023년 8월 7일"
@@ -148,11 +153,6 @@
             "title": "보너스 포켓코인을 획득하는 새로운 방법",
             "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch?hl=ko",
             "date": "2023년 5월 24일"
-        },
-        {
-            "title": "\"라이징 섀도우\" 이벤트에서 그림자 레이드가 처음으로 등장합니다!",
-            "link": "https://pokemongolive.com/post/rising-shadows?hl=ko",
-            "date": "2023년 5월 18일"
         }
     ]
 }
