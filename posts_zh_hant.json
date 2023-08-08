@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "來自帕底亞地區的寶可夢即將於Pokémon GO登場！",
+            "link": "https://pokemongolive.com/post/paldea-region-pokemon-announcement?hl=zh_Hant",
+            "date": "2023年8月8日"
+        },
+        {
             "title": "在Pokémon GO歡慶2023 Pokémon World Championships！",
             "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=zh_Hant",
             "date": "2023年8月7日"
@@ -148,11 +153,6 @@
             "title": "一起歡慶「潑水節：沙灘週」吧！",
             "link": "https://pokemongolive.com/post/water-festival-2023?hl=zh_Hant",
             "date": "2023年5月30日"
-        },
-        {
-            "title": "暗影團體戰在「暗影崛起」活動期間首度登場！",
-            "link": "https://pokemongolive.com/post/rising-shadows?hl=zh_Hant",
-            "date": "2023年5月18日"
         }
     ]
 }
