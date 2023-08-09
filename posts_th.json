@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ฉลอง Pokémon World Championships: คู่มือพื้นฐานสำหรับแบตเทิล Pokémon GO",
+            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-basics?hl=th",
+            "date": "9 สิงหาคม 2566"
+        },
+        {
             "title": "โปเกมอนที่ค้นพบครั้งแรกในภูมิภาคพัลเดียกำลังจะมาใน Pokémon GO แล้ว!",
             "link": "https://pokemongolive.com/post/paldea-region-pokemon-announcement?hl=th",
             "date": "8 สิงหาคม 2566"
@@ -148,11 +153,6 @@
             "title": "ดำดิ่งเข้าไปในเทศกาลสายน้ำ: สัปดาห์ชายหาด!",
             "link": "https://pokemongolive.com/post/water-festival-2023?hl=th",
             "date": "30 พฤษภาคม 2566"
-        },
-        {
-            "title": "เปิดตัวตีบอสชาโดว์ในระหว่างอีเวนต์ชาโดว์ผงาด!",
-            "link": "https://pokemongolive.com/post/rising-shadows?hl=th",
-            "date": "18 พฤษภาคม 2566"
         }
     ]
 }
