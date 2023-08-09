@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Uma celebração do Campeonato Mundial de Pokémon GO: um guia básico para as batalhas do Pokémon GO",
+            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-basics?hl=pt_BR",
+            "date": "9 de agosto de 2023"
+        },
+        {
             "title": "Receba um código para uma Pesquisa temporária exclusiva durante a transmissão dos Campeonatos Mundiais do Pokémon GO 2023 na Twitch",
             "link": "https://pokemongolive.com/post/world-championship-twitch-timed-research-2023?hl=pt_BR",
             "date": "8 de agosto de 2023"
@@ -148,11 +153,6 @@
             "title": "Dia Comunitário: Axew de junho de 2023",
             "link": "https://pokemongolive.com/post/communityday-june-2023-axew?hl=pt_BR",
             "date": "31 de maio de 2023"
-        },
-        {
-            "title": "Tudo que reluz é ouro no próximo evento do Dia de Pesquisa \"Em busca de ouro\"!",
-            "link": "https://pokemongolive.com/post/gold-research-day-2023?hl=pt_BR",
-            "date": "30 de maio de 2023"
         }
     ]
 }
