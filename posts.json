@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "A Pokémon GO World Championships Celebration: Advanced Tactics",
+            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-advanced?hl=en",
+            "date": "August 11, 2023"
+        },
+        {
             "title": "A Pokémon GO World Championships Celebration: Our Favorite Picks!",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-event-picks?hl=en",
             "date": "August 10, 2023"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO is heading to Summer Game Fest in Los Angeles and bringing new gameplay demos",
             "link": "https://pokemongolive.com/post/summergamefest2023?hl=en",
             "date": "June 9, 2023"
-        },
-        {
-            "title": "Uxie, Mesprit, and Azelf to appear in a special raid event!",
-            "link": "https://pokemongolive.com/post/uxie-mesprit-azelf-raid-event?hl=en",
-            "date": "June 8, 2023"
         }
     ]
 }
