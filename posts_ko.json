@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "발 밑을 조심하면서 \"Pokémon GO Fest 2023: 뉴욕\"의 포켓몬이 등장하는 \"독 늪 프로젝트\"를 준비하세요!",
+            "link": "https://pokemongolive.com/post/go-fest-2023-noxious-swamp?hl=ko",
+            "date": "2023년 8월 14일"
+        },
+        {
             "title": "팔데아지방에서 처음 발견된 포켓몬들이 \"Pokémon GO\"로 찾아옵니다!",
             "link": "https://pokemongolive.com/post/paldea-region-pokemon-announcement?hl=ko",
             "date": "2023년 8월 8일"
@@ -148,11 +153,6 @@
             "title": "워터 페스티벌: 비치 위크에 뛰어드세요!",
             "link": "https://pokemongolive.com/post/water-festival-2023?hl=ko",
             "date": "2023년 5월 30일"
-        },
-        {
-            "title": "보너스 포켓코인을 획득하는 새로운 방법",
-            "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch?hl=ko",
-            "date": "2023년 5월 24일"
         }
     ]
 }
