@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Watch your step and get ready for the Noxious Swamp event, featuring Pokémon from Pokémon GO Fest 2023: New York City!",
+            "link": "https://pokemongolive.com/post/go-fest-2023-noxious-swamp?hl=en",
+            "date": "August 14, 2023"
+        },
+        {
             "title": "A Pokémon GO World Championships Celebration: Advanced Tactics",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-advanced?hl=en",
             "date": "August 11, 2023"
@@ -148,11 +153,6 @@
             "title": "July 2023 Community Day Classic: Squirtle",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=en",
             "date": "June 12, 2023"
-        },
-        {
-            "title": "Pokémon GO is heading to Summer Game Fest in Los Angeles and bringing new gameplay demos",
-            "link": "https://pokemongolive.com/post/summergamefest2023?hl=en",
-            "date": "June 9, 2023"
         }
     ]
 }
