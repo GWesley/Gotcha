@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Attention où vous marchez ! Préparez-vous pour l’événement Marécage toxique, qui mettra à l’honneur des Pokémon du Festival Pokémon GO 2023 : New York.",
+            "link": "https://pokemongolive.com/post/go-fest-2023-noxious-swamp?hl=fr",
+            "date": "14 août 2023"
+        },
+        {
             "title": "Célébration des Championnats du Monde Pokémon GO : nos choix préférés !",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-event-picks?hl=fr",
             "date": "10 août 2023"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté classique de juillet 2023 : Carapuce",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=fr",
             "date": "12 juin 2023"
-        },
-        {
-            "title": "Créhelf, Créfollet et Créfadet apparaîtront au cours d’un événement de raid spécial !",
-            "link": "https://pokemongolive.com/post/uxie-mesprit-azelf-raid-event?hl=fr",
-            "date": "8 juin 2023"
         }
     ]
 }
