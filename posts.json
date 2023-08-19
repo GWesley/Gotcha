@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Fest: New York City - Verizon Outage",
+            "link": "https://pokemongolive.com/post/gofest2023-nyc-verizon-update?hl=en",
+            "date": "August 19, 2023"
+        },
+        {
             "title": "Celebrate with notable Trainers in Brazil during Pokémon GO Fest 2023: Global!",
             "link": "https://pokemongolive.com/post/notable-trainers-go-fest-global2023?hl=en",
             "date": "August 18, 2023"
@@ -148,11 +153,6 @@
             "title": "New way to get bonus PokéCoins",
             "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch-2?hl=en",
             "date": "June 14, 2023"
-        },
-        {
-            "title": "Spend the perfect day—or evening—with Pokémon during the Solstice Horizons event!",
-            "link": "https://pokemongolive.com/post/solstice-horizons?hl=en",
-            "date": "June 13, 2023"
         }
     ]
 }
