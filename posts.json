@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Save the dates for next Season’s Community Days!",
+            "link": "https://pokemongolive.com/post/season-savethedate-s12?hl=en",
+            "date": "August 21, 2023"
+        },
+        {
             "title": "Pokémon GO Fest: New York City - Verizon Outage",
             "link": "https://pokemongolive.com/post/gofest2023-nyc-verizon-update?hl=en",
             "date": "August 19, 2023"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO and Amazon Prime Gaming team up once again to bring exciting rewards to Amazon Prime members!!",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-promotion-2023?hl=en",
             "date": "June 20, 2023"
-        },
-        {
-            "title": "New way to get bonus PokéCoins",
-            "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch-2?hl=en",
-            "date": "June 14, 2023"
         }
     ]
 }
