@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "次のシーズンで開催される「コミュニティ・デイ」の日程をお知らせします！",
+            "link": "https://pokemongolive.com/post/season-savethedate-s12?hl=ja",
+            "date": "2023年8月21日"
+        },
+        {
             "title": "「Pokémon GO Fest 2023：ニューヨーク」のポケモンたちが出現する「毒の沼プロジェクト」イベントで、足元に気をつけながらポケモンをつかまえよう！",
             "link": "https://pokemongolive.com/post/go-fest-2023-noxious-swamp?hl=ja",
             "date": "2023年8月14日"
@@ -148,11 +153,6 @@
             "title": "「ユクシー」「エムリット」「アグノム」の「リモートレイド」で発生した不具合と、補填について",
             "link": "https://pokemongolive.com/post/uxie-mesprit-azelf-raid-event?hl=ja",
             "date": "2023年6月8日"
-        },
-        {
-            "title": "『Pokémon GO』の「スタイルショップ」にアップデート！",
-            "link": "https://pokemongolive.com/post/style-shop-update-2023?hl=ja",
-            "date": "2023年6月1日"
         }
     ]
 }
