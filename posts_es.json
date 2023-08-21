@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Apuntad en el calendario los Días de la Comunidad de la próxima Temporada!",
+            "link": "https://pokemongolive.com/post/season-savethedate-s12?hl=es",
+            "date": "21 de agosto de 2023"
+        },
+        {
             "title": "Mirad dónde pisáis y preparaos para el evento Ciénaga Nociva, ¡con Pokémon del Festival de Pokémon GO 2023: Nueva York!",
             "link": "https://pokemongolive.com/post/go-fest-2023-noxious-swamp?hl=es",
             "date": "14 de agosto de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Pasa el día —o la tarde— ideal con Pokémon durante el evento Solsticio en el Horizonte!",
             "link": "https://pokemongolive.com/post/solstice-horizons?hl=es",
             "date": "13 de junio de 2023"
-        },
-        {
-            "title": "Día de la Comunidad clásico de julio 2023: Squirtle",
-            "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=es",
-            "date": "12 de junio de 2023"
         }
     ]
 }
