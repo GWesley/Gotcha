@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
+            "link": "https://pokemongolive.com/post/season-savethedate-s12?hl=fr",
+            "date": "21 août 2023"
+        },
+        {
             "title": "Attention où vous marchez ! Préparez-vous pour l’événement Marécage toxique, qui mettra à l’honneur des Pokémon du Festival Pokémon GO 2023 : New York.",
             "link": "https://pokemongolive.com/post/go-fest-2023-noxious-swamp?hl=fr",
             "date": "14 août 2023"
@@ -148,11 +153,6 @@
             "title": "À l’occasion de l’événement Horizons solstice, vivez une journée (ou une soirée) parfaite dans l'univers Pokémon !",
             "link": "https://pokemongolive.com/post/solstice-horizons?hl=fr",
             "date": "13 juin 2023"
-        },
-        {
-            "title": "Journée Communauté classique de juillet 2023 : Carapuce",
-            "link": "https://pokemongolive.com/post/community-day-classic-squirtle-july-2023?hl=fr",
-            "date": "12 juin 2023"
         }
     ]
 }
