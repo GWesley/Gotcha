@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Rencontrez-vous au Festival Pokémon GO 2023 : Monde entier !",
+            "link": "https://pokemongolive.com/post/go-fest-2023-community-meetups?hl=fr",
+            "date": "24 août 2023"
+        },
+        {
             "title": "Détails du Pokémon GO Fest 2023 révélés : Ultra Bonus, horaires des habitats, etc.",
             "link": "https://pokemongolive.com/post/go-fest-2023-ultra-unlock?hl=fr",
             "date": "22 août 2023"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO et Amazon Prime Gaming s’associent à nouveau pour offrir des récompenses exceptionnelles aux membres Amazon Prime !",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-promotion-2023?hl=fr",
             "date": "20 juin 2023"
-        },
-        {
-            "title": "Une nouvelle manière d’obtenir des PokéPièces bonus",
-            "link": "https://pokemongolive.com/post/pokemon-go-web-store-global-launch-2?hl=fr",
-            "date": "14 juin 2023"
         }
     ]
 }
