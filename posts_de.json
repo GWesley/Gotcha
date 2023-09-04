@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Day im September 2023: Mabula",
+            "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=de",
+            "date": "4. September 2023"
+        },
+        {
             "title": "Community Day Classic im September 2023: Glumanda",
             "link": "https://pokemongolive.com/post/community-day-classic-charmander-september-2023?hl=de",
             "date": "30. August 2023"
@@ -148,11 +153,6 @@
             "title": "Änderung am Community Ambassador Programm",
             "link": "https://pokemongolive.com/post/community-ambassador-program-relaunch?hl=de",
             "date": "28. Juni 2023"
-        },
-        {
-            "title": "Campfire ist jetzt weltweit verfügbar und enthält das neue Feature „Team bilden“!",
-            "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=de",
-            "date": "27. Juni 2023"
         }
     ]
 }
