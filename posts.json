@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "September 2023 Community Day: Grubbin",
+            "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=en",
+            "date": "September 4, 2023"
+        },
+        {
             "title": "September 2023 Community Day Classic: Charmander",
             "link": "https://pokemongolive.com/post/community-day-classic-charmander-september-2023?hl=en",
             "date": "August 30, 2023"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO is celebrating seven stellar years, and it’s time to party!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=en",
             "date": "July 3, 2023"
-        },
-        {
-            "title": "Yeehaw! Get your Pokémon ready for GO Battle Weekend: Clay!",
-            "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=en",
-            "date": "June 28, 2023"
         }
     ]
 }
