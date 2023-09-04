@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté de septembre 2023 : Larvibule",
+            "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=fr",
+            "date": "4 septembre 2023"
+        },
+        {
             "title": "Journée Communauté classique de septembre 2023 : Salamèche",
             "link": "https://pokemongolive.com/post/community-day-classic-charmander-september-2023?hl=fr",
             "date": "30 août 2023"
@@ -148,11 +153,6 @@
             "title": "Mise à jour du programme Ambassadeur de Communauté",
             "link": "https://pokemongolive.com/post/community-ambassador-program-relaunch?hl=fr",
             "date": "28 juin 2023"
-        },
-        {
-            "title": "Campfire, l’application sociale de Niantic, est maintenant disponible dans le monde entier avec la nouvelle fonctionnalité Faire équipe",
-            "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=fr",
-            "date": "27 juin 2023"
         }
     ]
 }
