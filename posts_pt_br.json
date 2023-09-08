@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrem Oddish com um Dia de Pesquisa!",
+            "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=pt_BR",
+            "date": "7 de setembro de 2023"
+        },
+        {
             "title": "Dia Comunitário de setembro de 2023: Grubbin",
             "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=pt_BR",
             "date": "4 de setembro de 2023"
@@ -148,11 +153,6 @@
             "title": "Atualização do Programa Embaixadores da Comunidade",
             "link": "https://pokemongolive.com/post/community-ambassador-program-relaunch?hl=pt_BR",
             "date": "28 de junho de 2023"
-        },
-        {
-            "title": "O Campfire, o aplicativo social da Niantic, já está disponível no mundo todo com o novo recurso Modo Equipe",
-            "link": "https://pokemongolive.com/post/campfire-global-launch-team-up-feature?hl=pt_BR",
-            "date": "27 de junho de 2023"
         }
     ]
 }
