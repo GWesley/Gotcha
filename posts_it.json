@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L’evento Psicomania è tornato!",
+            "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=it",
+            "date": "12 settembre 2023"
+        },
+        {
             "title": "Festeggiate Oddish con una Giornata di ricerca!",
             "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=it",
             "date": "7 settembre 2023"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO festeggia sette anni stellari ed è ora di fare festa!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=it",
             "date": "3 luglio 2023"
-        },
-        {
-            "title": "Yee-haw! Preparate i Pokémon per il weekend Lotte GO dedicato a Rafan.",
-            "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=it",
-            "date": "28 giugno 2023"
         }
     ]
 }
