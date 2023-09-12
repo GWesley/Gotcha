@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "The Psychic Spectacular Event is Back!",
+            "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=en",
+            "date": "September 12, 2023"
+        },
+        {
             "title": "Celebrate Oddish with a Research Day!",
             "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=en",
             "date": "September 7, 2023"
@@ -148,11 +153,6 @@
             "title": "Happy 7th anniversary to Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=en",
             "date": "July 6, 2023"
-        },
-        {
-            "title": "Introducing a new way to compete—PokéStop Showcases!",
-            "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=en",
-            "date": "July 5, 2023"
         }
     ]
 }
