@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O evento Espetáculo Psíquico voltou!",
+            "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=pt_BR",
+            "date": "12 de setembro de 2023"
+        },
+        {
             "title": "Celebrem Oddish com um Dia de Pesquisa!",
             "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=pt_BR",
             "date": "7 de setembro de 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Irra! Preparem seus Pokémon para o Fim de semana de batalhas GO: Clay!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=pt_BR",
-            "date": "28 de junho de 2023"
-        },
-        {
-            "title": "Atualização do Programa Embaixadores da Comunidade",
-            "link": "https://pokemongolive.com/post/community-ambassador-program-relaunch?hl=pt_BR",
             "date": "28 de junho de 2023"
         }
     ]
