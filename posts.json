@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Hindi language support for Pokémon GO! Celebrate with special events!",
+            "link": "https://pokemongolive.com/post/hindi-availability-september-2023?hl=en",
+            "date": "September 15, 2023"
+        },
+        {
             "title": "The Psychic Spectacular Event is Back!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=en",
             "date": "September 12, 2023"
@@ -148,11 +153,6 @@
             "title": "Celebrate the upcoming release of Pokémon GO Plus + with the Catching Some Z’s event",
             "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=en",
             "date": "July 7, 2023"
-        },
-        {
-            "title": "Happy 7th anniversary to Pokémon GO!",
-            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=en",
-            "date": "July 6, 2023"
         }
     ]
 }
