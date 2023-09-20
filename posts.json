@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Celebrate Hatch Day with Azurill!",
+            "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=en",
+            "date": "September 20, 2023"
+        },
+        {
+            "title": "Adventure Awaits during the Out to Play Event!",
+            "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=en",
+            "date": "September 20, 2023"
+        },
+        {
             "title": "Hindi language support for Pokémon GO! Celebrate with special events!",
             "link": "https://pokemongolive.com/post/hindi-availability-september-2023?hl=en",
             "date": "September 15, 2023"
@@ -143,16 +153,6 @@
             "title": "Free Limited Partner Research available for Amazon Prime members",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-day-2023?hl=en",
             "date": "July 11, 2023"
-        },
-        {
-            "title": "July 2023 Community Day: Poliwag",
-            "link": "https://pokemongolive.com/post/communityday-july-2023-poliwag?hl=en",
-            "date": "July 10, 2023"
-        },
-        {
-            "title": "Celebrate the upcoming release of Pokémon GO Plus + with the Catching Some Z’s event",
-            "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=en",
-            "date": "July 7, 2023"
         }
     ]
 }
