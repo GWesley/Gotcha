@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Comemore o Dia de chocar com Azurill!",
+            "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=pt_BR",
+            "date": "20 de setembro de 2023"
+        },
+        {
+            "title": "A aventura espera vocês no evento Sair para jogar!",
+            "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=pt_BR",
+            "date": "20 de setembro de 2023"
+        },
+        {
             "title": "O evento Espetáculo Psíquico voltou!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=pt_BR",
             "date": "12 de setembro de 2023"
@@ -143,16 +153,6 @@
             "title": "Apresentamos uma nova maneira de competir: a Vitrine de Poképarada!",
             "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=pt_BR",
             "date": "5 de julho de 2023"
-        },
-        {
-            "title": "O Pokémon GO está comemorando sete anos estelares, e é hora de festejar!",
-            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=pt_BR",
-            "date": "3 de julho de 2023"
-        },
-        {
-            "title": "Irra! Preparem seus Pokémon para o Fim de semana de batalhas GO: Clay!",
-            "link": "https://pokemongolive.com/post/go-battle-weekend-clay?hl=pt_BR",
-            "date": "28 de junho de 2023"
         }
     ]
 }
