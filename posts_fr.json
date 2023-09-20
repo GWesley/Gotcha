@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Célébrez la Journée Éclosion d’Azurill !",
+            "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=fr",
+            "date": "20 septembre 2023"
+        },
+        {
+            "title": "L’aventure vous attend avec l’événement Jeu aventureux !",
+            "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=fr",
+            "date": "20 septembre 2023"
+        },
+        {
             "title": "La Fantasmagorie Psy fait son grand retour !",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=fr",
             "date": "12 septembre 2023"
@@ -143,16 +153,6 @@
             "title": "Joyeux 7ᵉ anniversaire Pokémon GO !",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=fr",
             "date": "6 juillet 2023"
-        },
-        {
-            "title": "Affrontez les autres Dresseurs d’une nouvelle manière avec les Épreuves PokéStop !",
-            "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=fr",
-            "date": "5 juillet 2023"
-        },
-        {
-            "title": "Pokémon GO souffle ses sept bougies, il faut le fêter !",
-            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary?hl=fr",
-            "date": "3 juillet 2023"
         }
     ]
 }
