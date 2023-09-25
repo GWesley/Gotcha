@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté d’octobre 2023 : Charpenti",
+            "link": "https://pokemongolive.com/post/communityday-october-2023-timburr?hl=fr",
+            "date": "25 septembre 2023"
+        },
+        {
             "title": "Célébrez la Journée Éclosion d’Azurill !",
             "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=fr",
             "date": "20 septembre 2023"
@@ -148,11 +153,6 @@
             "title": "Célébrez la sortie prochaine de Pokémon GO Plus + avec l’événement Un petit roupillon.",
             "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=fr",
             "date": "7 juillet 2023"
-        },
-        {
-            "title": "Joyeux 7ᵉ anniversaire Pokémon GO !",
-            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=fr",
-            "date": "6 juillet 2023"
         }
     ]
 }
