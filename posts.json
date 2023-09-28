@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Battle like the Top Champion of Paldea!",
+            "link": "https://pokemongolive.com/post/go-battle-weekend-geeta?hl=en",
+            "date": "September 28, 2023"
+        },
+        {
             "title": "October 2023 Community Day: Timburr",
             "link": "https://pokemongolive.com/post/communityday-october-2023-timburr?hl=en",
             "date": "September 25, 2023"
@@ -148,11 +153,6 @@
             "title": "Riolu is the first star of a new Pokémon GO event—Hatch Day!",
             "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=en",
             "date": "July 13, 2023"
-        },
-        {
-            "title": "Pokémon GO Adventure Week returns for another Fossil-centric event!",
-            "link": "https://pokemongolive.com/post/adventure-week-2023?hl=en",
-            "date": "July 12, 2023"
         }
     ]
 }
