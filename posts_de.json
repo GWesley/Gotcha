@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Kämpft wie die Top-Champ aus Paldea!",
+            "link": "https://pokemongolive.com/post/go-battle-weekend-geeta?hl=de",
+            "date": "28. September 2023"
+        },
+        {
             "title": "Community Day im Oktober 2023: Praktibalk",
             "link": "https://pokemongolive.com/post/communityday-october-2023-timburr?hl=de",
             "date": "25. September 2023"
@@ -148,11 +153,6 @@
             "title": "Community Day im Juli 2023: Quapsel",
             "link": "https://pokemongolive.com/post/communityday-july-2023-poliwag?hl=de",
             "date": "10. Juli 2023"
-        },
-        {
-            "title": "Feiert das bevorstehende Release von Pokémon GO Plus + mit dem Event „Eine Mütze voll Schlaf“!",
-            "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=de",
-            "date": "7. Juli 2023"
         }
     ]
 }
