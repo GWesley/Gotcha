@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Come one, come all, and experience an October of delights with Pokémon GO’s Ticket of Treats!",
+            "link": "https://pokemongolive.com/post/ticket-of-treats?hl=en",
+            "date": "September 29, 2023"
+        },
+        {
             "title": "Celebrate the release of Detective Pikachu Returns!",
             "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=en",
             "date": "September 29, 2023"
@@ -148,11 +153,6 @@
             "title": "Celebrate the launch of Routes with the Blaze New Trails event!",
             "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=en",
             "date": "July 20, 2023"
-        },
-        {
-            "title": "July 2023 Community Day Classic: Squirtle makeup event",
-            "link": "https://pokemongolive.com/post/community-day-classic-squirtle-makeup-2023?hl=en",
-            "date": "July 18, 2023"
         }
     ]
 }
