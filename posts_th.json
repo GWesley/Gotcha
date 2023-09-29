@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ขอเชิญชวนทุกท่านมาสัมผัสเดือนตุลาคมที่เต็มไปด้วยความสุขใจกับบัตรผลิดอกออกขนมใน Pokémon GO!",
+            "link": "https://pokemongolive.com/post/ticket-of-treats?hl=th",
+            "date": "29 กันยายน 2566"
+        },
+        {
             "title": "ฉลองการเปิดตัวของ Detective Pikachu Returns!",
             "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=th",
             "date": "29 กันยายน 2566"
@@ -148,11 +153,6 @@
             "title": "ฉลองการเปิดตัว Pokémon GO Plus + ที่กำลังจะมาถึงกับอีเวนต์ตามจับหลับฝันดี",
             "link": "https://pokemongolive.com/post/pokemon-sleep-pokemon-go-plus-plus-event?hl=th",
             "date": "7 กรกฎาคม 2566"
-        },
-        {
-            "title": "สุขสันต์ครบรอบ 7 ปี Pokémon GO!",
-            "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=th",
-            "date": "6 กรกฎาคม 2566"
         }
     ]
 }
