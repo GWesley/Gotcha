@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate the release of Detective Pikachu Returns!",
+            "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=en",
+            "date": "September 29, 2023"
+        },
+        {
             "title": "Battle like the Top Champion of Paldea!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-geeta?hl=en",
             "date": "September 28, 2023"
@@ -148,11 +153,6 @@
             "title": "July 2023 Community Day Classic: Squirtle makeup event",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-makeup-2023?hl=en",
             "date": "July 18, 2023"
-        },
-        {
-            "title": "Riolu is the first star of a new Pokémon GO event—Hatch Day!",
-            "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=en",
-            "date": "July 13, 2023"
         }
     ]
 }
