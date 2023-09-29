@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Celebramos el estreno de Detective Pikachu: El regreso!",
+            "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=es",
+            "date": "29 de septiembre de 2023"
+        },
+        {
             "title": "¡Combatid como la supercampeona de Paldea!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-geeta?hl=es",
             "date": "28 de septiembre de 2023"
@@ -148,11 +153,6 @@
             "title": "Investigación de socio limitada y gratuita para los miembros de Amazon Prime",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-day-2023?hl=es",
             "date": "11 de julio de 2023"
-        },
-        {
-            "title": "Día de la Comunidad de julio de 2023: Poliwag",
-            "link": "https://pokemongolive.com/post/communityday-july-2023-poliwag?hl=es",
-            "date": "10 de julio de 2023"
         }
     ]
 }
