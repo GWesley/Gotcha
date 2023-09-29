@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Che aspettate? Venite e vivete le avventure di ottobre con un Biglietto dolcetto di Pokémon GO!",
+            "link": "https://pokemongolive.com/post/ticket-of-treats?hl=it",
+            "date": "29 settembre 2023"
+        },
+        {
             "title": "Festeggiate l’uscita di “Detective Pikachu: il ritorno”!",
             "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=it",
             "date": "29 settembre 2023"
@@ -148,11 +153,6 @@
             "title": "La Settimana dellʼavventura di Pokémon GO torna per un altro evento incentrato su Pokémon Fossile!",
             "link": "https://pokemongolive.com/post/adventure-week-2023?hl=it",
             "date": "12 luglio 2023"
-        },
-        {
-            "title": "È disponibile gratuitamente una ricerca mirata compagni per i membri di Amazon Prime",
-            "link": "https://pokemongolive.com/post/pokemon-go-prime-day-2023?hl=it",
-            "date": "11 luglio 2023"
         }
     ]
 }
