@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Rejoignez-nous et vivez un mois d’octobre excitant avec l’événement Pokémon GO Des bonbons à foison !",
+            "link": "https://pokemongolive.com/post/ticket-of-treats?hl=fr",
+            "date": "29 septembre 2023"
+        },
+        {
             "title": "Célébrez la sortie du jeu Le retour de Détective Pikachu !",
             "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=fr",
             "date": "29 septembre 2023"
@@ -148,11 +153,6 @@
             "title": "La Semaine Aventure Pokémon GO est de retour avec un nouvel événement axé sur les fossiles !",
             "link": "https://pokemongolive.com/post/adventure-week-2023?hl=fr",
             "date": "12 juillet 2023"
-        },
-        {
-            "title": "Recherche de partenaire gratuite et limitée pour les membres Amazon Prime",
-            "link": "https://pokemongolive.com/post/pokemon-go-prime-day-2023?hl=fr",
-            "date": "11 juillet 2023"
         }
     ]
 }
