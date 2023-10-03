@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "El Festival de la Cosecha está a la vuelta de la esquina",
+            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=es",
+            "date": "3 de octubre de 2023"
+        },
+        {
             "title": "¡Vamos, venid todos a disfrutar de un octubre magnífico con Entrada o trato de Pokémon GO!",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=es",
             "date": "29 de septiembre de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Riolu es la primera estrella de un nuevo evento de Pokémon GO: el Día de Eclosiones!",
             "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=es",
             "date": "13 de julio de 2023"
-        },
-        {
-            "title": "¡Regresa la Semana de Aventuras a Pokémon GO con otro evento dedicado a los fósiles!",
-            "link": "https://pokemongolive.com/post/adventure-week-2023?hl=es",
-            "date": "12 de julio de 2023"
         }
     ]
 }
