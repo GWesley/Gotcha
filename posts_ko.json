@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"수확 축제\"가 곧 개최!",
+            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=ko",
+            "date": "2023년 10월 3일"
+        },
+        {
             "title": "\"Pokémon GO\"의 \"결실의 가을 패스\"로 한자리에 모여 즐거운 10월을 맞이하세요!",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=ko",
             "date": "2023년 9월 29일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO\" 7주년을 축하합니다!",
             "link": "https://pokemongolive.com/post/pokemongo-7th-anniversary-art?hl=ko",
             "date": "2023년 7월 6일"
-        },
-        {
-            "title": "다른 트레이너와 포켓몬을 서로 소개하는 새로운 요소 \"포켓스톱 쇼케이스\"를 소개합니다!",
-            "link": "https://pokemongolive.com/post/pokestop-showcase-new-feature?hl=ko",
-            "date": "2023년 7월 5일"
         }
     ]
 }
