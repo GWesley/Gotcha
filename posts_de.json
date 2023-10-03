@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Freut euch aufs Erntefest",
+            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=de",
+            "date": "3. Oktober 2023"
+        },
+        {
             "title": "Mit „Schaurig-schönes Ticket“ in Pokémon GO wartet ein Oktober voller Überraschungen auf euch!",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=de",
             "date": "29. September 2023"
@@ -148,11 +153,6 @@
             "title": "Riolu weiht ein neues Pokémon GO-Event ein: den Schlüpftag!",
             "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=de",
             "date": "13. Juli 2023"
-        },
-        {
-            "title": "Die Abenteuerwoche in Pokémon GO kehrt mit einem weiteren Event rund um Fossile zurück!",
-            "link": "https://pokemongolive.com/post/adventure-week-2023?hl=de",
-            "date": "12. Juli 2023"
         }
     ]
 }
