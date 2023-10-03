@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "The Harvest Festival is Just Around the Corner",
+            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=en",
+            "date": "October 3, 2023"
+        },
+        {
             "title": "Come one, come all, and experience an October of delights with Pokémon GO’s Ticket of Treats!",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=en",
             "date": "September 29, 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Discover the world in an all-new way with Routes!",
             "link": "https://pokemongolive.com/post/routeslanding?hl=en",
-            "date": "July 20, 2023"
-        },
-        {
-            "title": "Celebrate the launch of Routes with the Blaze New Trails event!",
-            "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=en",
             "date": "July 20, 2023"
         }
     ]
