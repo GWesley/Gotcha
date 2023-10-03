@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Il Festival del raccolto è proprio dietro l’angolo",
+            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=it",
+            "date": "3 ottobre 2023"
+        },
+        {
             "title": "Che aspettate? Venite e vivete le avventure di ottobre con un Biglietto dolcetto di Pokémon GO!",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=it",
             "date": "29 settembre 2023"
@@ -148,11 +153,6 @@
             "title": "Riolu è la prima star di un nuovo evento Pokémon GO: giornata di cattura!",
             "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=it",
             "date": "13 luglio 2023"
-        },
-        {
-            "title": "La Settimana dellʼavventura di Pokémon GO torna per un altro evento incentrato su Pokémon Fossile!",
-            "link": "https://pokemongolive.com/post/adventure-week-2023?hl=it",
-            "date": "12 luglio 2023"
         }
     ]
 }
