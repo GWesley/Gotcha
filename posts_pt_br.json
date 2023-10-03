@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O Festival da colheita está chegando",
+            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=pt_BR",
+            "date": "3 de outubro de 2023"
+        },
+        {
             "title": "Venham todos experienciar um outubro de delícias com o Ingresso de gostosuras do Pokémon GO!",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=pt_BR",
             "date": "29 de setembro de 2023"
@@ -148,11 +153,6 @@
             "title": "A Semana Aventura do Pokémon GO está de volta com outro evento focado em fósseis!",
             "link": "https://pokemongolive.com/post/adventure-week-2023?hl=pt_BR",
             "date": "12 de julho de 2023"
-        },
-        {
-            "title": "Pesquisa de parceiros gratuita e limitada disponível para membros do Amazon Prime",
-            "link": "https://pokemongolive.com/post/pokemon-go-prime-day-2023?hl=pt_BR",
-            "date": "11 de julho de 2023"
         }
     ]
 }
