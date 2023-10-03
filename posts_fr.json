@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L’événement Harvest Festival est bientôt là",
+            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=fr",
+            "date": "3 octobre 2023"
+        },
+        {
             "title": "Rejoignez-nous et vivez un mois d’octobre excitant avec l’événement Pokémon GO Des bonbons à foison !",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=fr",
             "date": "29 septembre 2023"
@@ -148,11 +153,6 @@
             "title": "Riolu est le premier Pokémon à l’affiche de notre nouvel événement dans Pokémon GO : la Journée Éclosion !",
             "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=fr",
             "date": "13 juillet 2023"
-        },
-        {
-            "title": "La Semaine Aventure Pokémon GO est de retour avec un nouvel événement axé sur les fossiles !",
-            "link": "https://pokemongolive.com/post/adventure-week-2023?hl=fr",
-            "date": "12 juillet 2023"
         }
     ]
 }
