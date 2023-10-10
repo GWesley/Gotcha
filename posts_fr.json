@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Participez à un événement éphémère au centre commercial Val d'Europe de Paris!",
+            "link": "https://pokemongolive.com/post/france?hl=fr",
+            "date": "10 octobre 2023"
+        },
+        {
             "title": "L’événement Harvest Festival est bientôt là",
             "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=fr",
             "date": "3 octobre 2023"
@@ -148,11 +153,6 @@
             "title": "Événement de rattrapage pour la Journée Communauté classique de Carapuce de juillet 2023",
             "link": "https://pokemongolive.com/post/community-day-classic-squirtle-makeup-2023?hl=fr",
             "date": "18 juillet 2023"
-        },
-        {
-            "title": "Riolu est le premier Pokémon à l’affiche de notre nouvel événement dans Pokémon GO : la Journée Éclosion !",
-            "link": "https://pokemongolive.com/post/riolu-hatch-day?hl=fr",
-            "date": "13 juillet 2023"
         }
     ]
 }
