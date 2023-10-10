@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Participez à un événement éphémère au centre commercial Val d'Europe de Paris!",
-            "link": "https://pokemongolive.com/post/france?hl=en",
-            "date": "October 10, 2023"
-        },
-        {
             "title": "The Harvest Festival is Just Around the Corner",
             "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=en",
             "date": "October 3, 2023"
@@ -153,6 +148,11 @@
             "title": "Get ready to be enchanted during the Glittering Garden event, featuring Pokémon from GO Fest 2023!",
             "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=en",
             "date": "July 25, 2023"
+        },
+        {
+            "title": "Discover the world in an all-new way with Routes!",
+            "link": "https://pokemongolive.com/post/routeslanding?hl=en",
+            "date": "July 20, 2023"
         }
     ]
 }
