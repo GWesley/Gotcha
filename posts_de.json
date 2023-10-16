@@ -5,12 +5,17 @@
     ],
     "posts": [
         {
+            "title": "Community Day im November 2023: Felino und Paldea-Felino",
+            "link": "https://pokemongolive.com/post/communityday-november-2023-wooper?hl=de",
+            "date": "16. Oktober 2023"
+        },
+        {
             "title": "Lasst die Party mit „Team-Play“ überall steigen!",
             "link": "https://pokemongolive.com/post/partyplay?hl=de",
             "date": "16. Oktober 2023"
         },
         {
-            "title": "Feiert den Beginn des Halloween-Abenteuers mit Gruff während Teil II des Halloween 2023-Events in Pokémon GO!",
+            "title": "Feiert den Beginn des Halloween-Abenteuers mit Gruff während Teil I des Halloween 2023-Events in Pokémon GO!",
             "link": "https://pokemongolive.com/post/halloween-part-1-2023?hl=de",
             "date": "13. Oktober 2023"
         },
@@ -148,11 +153,6 @@
             "title": "Zeit zu feiern – Pokémon GO wird 7 Jahre alt!",
             "link": "https://pokemongolive.com/post/7th-anniversary-celebrations?hl=de",
             "date": "25. Juli 2023"
-        },
-        {
-            "title": "Entdeckt die Welt auf neue Weise mit Routen!",
-            "link": "https://pokemongolive.com/post/routeslanding?hl=de",
-            "date": "20. Juli 2023"
         }
     ]
 }
