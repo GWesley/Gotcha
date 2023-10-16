@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Jouez où que vous soyez avec le Jeu en équipe.",
+            "link": "https://pokemongolive.com/post/partyplay?hl=fr",
+            "date": "16 octobre 2023"
+        },
+        {
             "title": "Célébrez le début d’une aventure d’Halloween avec Toutombe lors de l’événement Pokémon GO Halloween 2023 – 1re partie !",
             "link": "https://pokemongolive.com/post/halloween-part-1-2023?hl=fr",
             "date": "13 octobre 2023"
@@ -148,11 +153,6 @@
             "title": "Anniversaire Pokémon GO: soufflez nos 7 bougies avec nous !",
             "link": "https://pokemongolive.com/post/7th-anniversary-celebrations?hl=fr",
             "date": "25 juillet 2023"
-        },
-        {
-            "title": "Découvrez le monde sous un autre angle avec Routes !",
-            "link": "https://pokemongolive.com/post/routeslanding?hl=fr",
-            "date": "20 juillet 2023"
         }
     ]
 }
