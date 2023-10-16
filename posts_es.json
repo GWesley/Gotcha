@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de la Comunidad de noviembre de 2023: Wooper y Wooper de Paldea",
+            "link": "https://pokemongolive.com/post/communityday-november-2023-wooper?hl=es",
+            "date": "16 de octubre de 2023"
+        },
+        {
             "title": "¡Pásalo bien con tus amigos con el Juego en equipo!",
             "link": "https://pokemongolive.com/post/partyplay?hl=es",
             "date": "16 de octubre de 2023"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO celebra su 7.º aniversario: ¡únete a la fiesta!",
             "link": "https://pokemongolive.com/post/7th-anniversary-celebrations?hl=es",
             "date": "25 de julio de 2023"
-        },
-        {
-            "title": "¡Descubre el mundo de una forma totalmente nueva con Rutas!",
-            "link": "https://pokemongolive.com/post/routeslanding?hl=es",
-            "date": "20 de julio de 2023"
         }
     ]
 }
