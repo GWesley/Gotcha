@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Gioca ovunque con Gioco in gruppo!",
+            "link": "https://pokemongolive.com/post/partyplay?hl=it",
+            "date": "16 ottobre 2023"
+        },
+        {
             "title": "Festeggiate l’inizio dell’avventura di Halloween con Greavard durante Pokémon GO Halloween 2023 Parte 1!",
             "link": "https://pokemongolive.com/post/halloween-part-1-2023?hl=it",
             "date": "13 ottobre 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Scopri il mondo in un modo tutto nuovo con Percorsi!",
             "link": "https://pokemongolive.com/post/routeslanding?hl=it",
-            "date": "20 luglio 2023"
-        },
-        {
-            "title": "Festeggiamo il lancio di Percorsi con l’evento Nuovi sentieri!",
-            "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=it",
             "date": "20 luglio 2023"
         }
     ]
