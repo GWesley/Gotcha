@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「チームコラボ」でどこでもフレンドと協力しよう！",
+            "link": "https://pokemongolive.com/post/partyplay?hl=ja",
+            "date": "2023年10月16日"
+        },
+        {
             "title": "「Pokémon GO ハロウィン2023パートI」で「ボチ」と一緒にハロウィンの冒険を始めよう！",
             "link": "https://pokemongolive.com/post/halloween-part-1-2023?hl=ja",
             "date": "2023年10月13日"
@@ -147,11 +152,6 @@
         {
             "title": "「ルート」を使って、まったく新しい方法で世界を発見しよう！",
             "link": "https://pokemongolive.com/post/routeslanding?hl=ja",
-            "date": "2023年7月20日"
-        },
-        {
-            "title": "「新たな道しるべ」イベントで「ルート」の開始をお祝いしよう！",
-            "link": "https://pokemongolive.com/post/routes-new-feature-blaze-new-trails?hl=ja",
             "date": "2023年7月20日"
         }
     ]
