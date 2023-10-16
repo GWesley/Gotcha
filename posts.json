@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Party Everywhere You GO with Party Play!",
+            "link": "https://pokemongolive.com/post/partyplay?hl=en",
+            "date": "October 16, 2023"
+        },
+        {
             "title": "Celebrate the beginning of a Halloween adventure with Greavard during Pokémon GO Halloween 2023 Part I!",
             "link": "https://pokemongolive.com/post/halloween-part-1-2023?hl=en",
             "date": "October 13, 2023"
@@ -148,11 +153,6 @@
             "title": "Celebrate the 2023 Pokémon World Championships in Pokémon GO!",
             "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=en",
             "date": "August 7, 2023"
-        },
-        {
-            "title": "August 2023 Community Day: Froakie",
-            "link": "https://pokemongolive.com/post/communityday-august-2023-froakie?hl=en",
-            "date": "July 31, 2023"
         }
     ]
 }
