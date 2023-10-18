@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Pour Halloween, Pokémon GO organise un véritable défilé de Jeu en équipe avec des Pokémon déguisés et une toute nouvelle façon de jouer avec vos ami·e·s !",
+            "link": "https://pokemongolive.com/post/halloween-part-2-2023?hl=fr",
+            "date": "18 octobre 2023"
+        },
+        {
+            "title": "Pour Halloween, des ombres inquiétantes rôdent. La Team GO Rocket est de retour, Giovanni s’associe à Regigigas Obscur, et Lugia Obscur arrive dans les Raids Obscurs !",
+            "link": "https://pokemongolive.com/post/halloween-team-go-rocket-takeover-2023?hl=fr",
+            "date": "18 octobre 2023"
+        },
+        {
             "title": "Obtenez un accès anticipé à la Perruque Toutombe grâce à la Recherche de partenaire Amazon Prime !",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-Halloween-Research?hl=fr",
             "date": "16 octobre 2023"
@@ -143,16 +153,6 @@
             "title": "Des Pokémon originaires de la région de Paldea arrivent dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/paldea-region-pokemon-announcement?hl=fr",
             "date": "8 août 2023"
-        },
-        {
-            "title": "Célébrez les Championnats du Monde Pokémon 2023 dans Pokémon GO !",
-            "link": "https://pokemongolive.com/post/world-championships-event-2023?hl=fr",
-            "date": "7 août 2023"
-        },
-        {
-            "title": "Journée Communauté d’août 2023 : Grenousse",
-            "link": "https://pokemongolive.com/post/communityday-august-2023-froakie?hl=fr",
-            "date": "31 juillet 2023"
         }
     ]
 }
