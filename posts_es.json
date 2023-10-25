@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Tadbulb debuta en Pokémon GO de forma deslumbrante durante el Festival de las Luces!",
+            "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=es",
+            "date": "25 de octubre de 2023"
+        },
+        {
             "title": "¡Gracias por asistir al Safari urbano de Pokémon GO: Barcelona!",
             "link": "https://pokemongolive.com/post/city-safari-barcelona-recap?hl=es",
             "date": "20 de octubre de 2023"
@@ -148,11 +153,6 @@
             "title": "Celebración del Campeonato Mundial de Pokémon GO: una guía básica sobre los combates de Pokémon GO",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-basics?hl=es",
             "date": "9 de agosto de 2023"
-        },
-        {
-            "title": "Conseguid códigos para una Investigación temporal exclusiva durante la retransmisión del Campeonato Mundial de Pokémon GO 2023 en Twitch",
-            "link": "https://pokemongolive.com/post/world-championship-twitch-timed-research-2023?hl=es",
-            "date": "8 de agosto de 2023"
         }
     ]
 }
