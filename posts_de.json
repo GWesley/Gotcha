@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Blipp gibt beim Lichtfestival sein strahlendes Debüt!",
+            "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=de",
+            "date": "25. Oktober 2023"
+        },
+        {
             "title": "Danke, dass Du Teil der Pokémon GO City Safari: Barcelona warst!",
             "link": "https://pokemongolive.com/post/city-safari-barcelona-recap?hl=de",
             "date": "20. Oktober 2023"
@@ -148,11 +153,6 @@
             "title": "Special zu den Pokémon GO-Weltmeisterschaften: Einsteigerleitfaden für Pokémon GO-Kämpfe",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-basics?hl=de",
             "date": "9. August 2023"
-        },
-        {
-            "title": "Codes für exklusive Befristete Forschungen bei der Twitch-Übertragung der Pokémon GO-Weltmeisterschaften 2023",
-            "link": "https://pokemongolive.com/post/world-championship-twitch-timed-research-2023?hl=de",
-            "date": "8. August 2023"
         }
     ]
 }
