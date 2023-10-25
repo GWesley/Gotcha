@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Têtampoule fera une première apparition lumineuse lors de la Fête des lumières !",
+            "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=fr",
+            "date": "25 octobre 2023"
+        },
+        {
             "title": "Merci d’avoir participé à Pokémon GO City Safari : Barcelone !",
             "link": "https://pokemongolive.com/post/city-safari-barcelona-recap?hl=fr",
             "date": "20 octobre 2023"
@@ -148,11 +153,6 @@
             "title": "Célébration des Championnats du Monde Pokémon GO : nos choix préférés !",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-event-picks?hl=fr",
             "date": "10 août 2023"
-        },
-        {
-            "title": "Célébration des Championnats du Monde de Pokémon GO : guide de base des combats Pokémon GO",
-            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-basics?hl=fr",
-            "date": "9 août 2023"
         }
     ]
 }
