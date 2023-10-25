@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "빛의 페스티벌에 \"빈나두\"가 처음으로 눈부시게 등장!",
+            "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=ko",
+            "date": "2023년 10월 25일"
+        },
+        {
             "title": "\"Día de Muertos 2023\": 꽃장식을 단 \"탕구리\"와 \"텅구리\"가 등장! 새로운 보너스, \"향로\", \"루어모듈\"과 함께 즐겨 보세요!",
             "link": "https://pokemongolive.com/post/dia-de-muertos-2023?hl=ko",
             "date": "2023년 10월 20일"
@@ -148,11 +153,6 @@
             "title": "\"요정 정원 프로젝트\"에서 마법같은 체험을! \"Pokémon GO Fest 2023\" 현장 이벤트에서 만날 수 있는 포켓몬이 등장합니다!",
             "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=ko",
             "date": "2023년 7월 25일"
-        },
-        {
-            "title": "\"루트\"와 함께 완전히 새로운 방법으로 세계를 탐색해 봐요!",
-            "link": "https://pokemongolive.com/post/routeslanding?hl=ko",
-            "date": "2023년 7월 20일"
         }
     ]
 }
