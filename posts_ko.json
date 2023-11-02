@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\"에 \"메가한카리아스\"가 첫 등장!",
+            "link": "https://pokemongolive.com/post/mega-garchomp-raid-day-2023?hl=ko",
+            "date": "2023년 11월 2일"
+        },
+        {
             "title": "빛의 페스티벌에 \"빈나두\"가 처음으로 눈부시게 등장!",
             "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=ko",
             "date": "2023년 10월 25일"
@@ -15,7 +20,7 @@
             "date": "2023년 10월 20일"
         },
         {
-            "title": "올해 \"Pokémon GO\" 핼러윈은 팀 플레이로 즐기세요! \"팀 플레이는 프렌드와 함게 플레이할 수 있는 새로운 기능입니다. 또, 핼러읜 위상을 입은 포켓몬도 등장합니다!",
+            "title": "올해 \"Pokémon GO\" 핼러윈은 팀 플레이로 즐기세요! \"팀 플레이는 프렌드와 함께 플레이할 수 있는 새로운 기능입니다. 또, 핼러윈 의상을 입은 포켓몬도 등장합니다!",
             "link": "https://pokemongolive.com/post/halloween-part-2-2023?hl=ko",
             "date": "2023년 10월 18일"
         },
@@ -148,11 +153,6 @@
             "title": "2023년 8월 커뮤니티 데이: \"개구마르\"",
             "link": "https://pokemongolive.com/post/communityday-august-2023-froakie?hl=ko",
             "date": "2023년 7월 31일"
-        },
-        {
-            "title": "\"요정 정원 프로젝트\"에서 마법같은 체험을! \"Pokémon GO Fest 2023\" 현장 이벤트에서 만날 수 있는 포켓몬이 등장합니다!",
-            "link": "https://pokemongolive.com/post/go-fest-2023-glittering-garden?hl=ko",
-            "date": "2023년 7월 25일"
         }
     ]
 }
