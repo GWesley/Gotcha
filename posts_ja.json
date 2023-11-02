@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』に「メガガブリアス」が初登場！",
+            "link": "https://pokemongolive.com/post/mega-garchomp-raid-day-2023?hl=ja",
+            "date": "2023年11月2日"
+        },
+        {
             "title": "「光のフェスティバル」で「ズピカ」が輝かしくデビュー！",
             "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=ja",
             "date": "2023年10月25日"
@@ -148,11 +153,6 @@
             "title": "「ポケモンワールドチャンピオンシップス2023」開催記念：『Pokémon GO』バトルの基本ガイド",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-basics?hl=ja",
             "date": "2023年8月9日"
-        },
-        {
-            "title": "『Pokémon GO』に、パルデア地方で発見されたポケモンが登場！",
-            "link": "https://pokemongolive.com/post/paldea-region-pokemon-announcement?hl=ja",
-            "date": "2023年8月8日"
         }
     ]
 }
