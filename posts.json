@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mega Garchomp makes its earthshaking debut in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/mega-garchomp-raid-day-2023?hl=en",
+            "date": "November 2, 2023"
+        },
+        {
             "title": "Tadbulb Makes Its Illuminating Debut during the Festival of Lights!",
             "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=en",
             "date": "October 25, 2023"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest: New York City - Verizon Outage",
             "link": "https://pokemongolive.com/post/gofest2023-nyc-verizon-update?hl=en",
             "date": "August 19, 2023"
-        },
-        {
-            "title": "Celebrate with notable Trainers in Brazil during Pokémon GO Fest 2023: Global!",
-            "link": "https://pokemongolive.com/post/notable-trainers-go-fest-global2023?hl=en",
-            "date": "August 18, 2023"
         }
     ]
 }
