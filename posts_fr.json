@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté classique de novembre 2023 : Wattouat",
+            "link": "https://pokemongolive.com/post/communityday-classic-mareep?hl=fr",
+            "date": "6 novembre 2023"
+        },
+        {
             "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
             "link": "https://pokemongolive.com/post/cd-savethedate-s13?hl=fr",
             "date": "6 novembre 2023"
@@ -148,11 +153,6 @@
             "title": "Rencontrez-vous au Festival Pokémon GO 2023 : Monde entier !",
             "link": "https://pokemongolive.com/post/go-fest-2023-community-meetups?hl=fr",
             "date": "24 août 2023"
-        },
-        {
-            "title": "Détails du Pokémon GO Fest 2023 révélés : Ultra Bonus, horaires des habitats, etc.",
-            "link": "https://pokemongolive.com/post/go-fest-2023-ultra-unlock?hl=fr",
-            "date": "22 août 2023"
         }
     ]
 }
