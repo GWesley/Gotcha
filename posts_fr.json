@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s13?hl=fr",
+            "date": "6 novembre 2023"
+        },
+        {
+            "title": "Pokémon GO rejoint les évènements Organized Play en Europe",
+            "link": "https://pokemongolive.com/post/eu-local-op-program?hl=fr",
+            "date": "6 novembre 2023"
+        },
+        {
             "title": "Méga-Carchacrok fera trembler Pokémon GO lors de sa première apparition dans le jeu !",
             "link": "https://pokemongolive.com/post/mega-garchomp-raid-day-2023?hl=fr",
             "date": "2 novembre 2023"
@@ -143,16 +153,6 @@
             "title": "Détails du Pokémon GO Fest 2023 révélés : Ultra Bonus, horaires des habitats, etc.",
             "link": "https://pokemongolive.com/post/go-fest-2023-ultra-unlock?hl=fr",
             "date": "22 août 2023"
-        },
-        {
-            "title": "Notez bien les dates des Journées Communauté de la saison prochaine !",
-            "link": "https://pokemongolive.com/post/season-savethedate-s12?hl=fr",
-            "date": "21 août 2023"
-        },
-        {
-            "title": "Attention où vous marchez ! Préparez-vous pour l’événement Marécage toxique, qui mettra à l’honneur des Pokémon du Festival Pokémon GO 2023 : New York.",
-            "link": "https://pokemongolive.com/post/go-fest-2023-noxious-swamp?hl=fr",
-            "date": "14 août 2023"
         }
     ]
 }
