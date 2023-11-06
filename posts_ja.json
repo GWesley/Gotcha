@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "次のシーズンで開催される「コミュニティ・デイ」の日程をお知らせします！",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s13?hl=ja",
+            "date": "2023年11月6日"
+        },
+        {
             "title": "『Pokémon GO』に「メガガブリアス」が初登場！",
             "link": "https://pokemongolive.com/post/mega-garchomp-raid-day-2023?hl=ja",
             "date": "2023年11月2日"
@@ -148,11 +153,6 @@
             "title": "「ポケモンワールドチャンピオンシップス2023」開催記念：私たちのイチオシ！",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-event-picks?hl=ja",
             "date": "2023年8月10日"
-        },
-        {
-            "title": "「ポケモンワールドチャンピオンシップス2023」開催記念：『Pokémon GO』バトルの基本ガイド",
-            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2023-pvp-basics?hl=ja",
-            "date": "2023年8月9日"
         }
     ]
 }
