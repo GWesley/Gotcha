@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Fashion Week returns featuring some snazzy-looking Pokémon!",
+            "link": "https://pokemongolive.com/post/fashion-week-2023?hl=en",
+            "date": "November 8, 2023"
+        },
+        {
             "title": "Catch Pokémon at McDonald’s in Canada this month!",
             "link": "https://pokemongolive.com/post/mcdonalds-canada?hl=en",
             "date": "November 8, 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Embark on an adventure with Pokémon first discovered in the Paldea region!",
             "link": "https://pokemongolive.com/post/paldea-region-launch?hl=en",
-            "date": "August 30, 2023"
-        },
-        {
-            "title": "Ultra Unlock: Paldea! Continue your adventure with even more Pokémon first discovered in the Paldea region!",
-            "link": "https://pokemongolive.com/post/ultra-unlock-paldea?hl=en",
             "date": "August 30, 2023"
         }
     ]
