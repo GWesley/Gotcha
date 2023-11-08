@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La settimana della moda ritorna con dei Pokémon chic!",
+            "link": "https://pokemongolive.com/post/fashion-week-2023?hl=it",
+            "date": "8 novembre 2023"
+        },
+        {
             "title": "Community Day Classico di novembre 2023: Mareep",
             "link": "https://pokemongolive.com/post/communityday-classic-mareep?hl=it",
             "date": "6 novembre 2023"
@@ -148,11 +153,6 @@
             "title": "Partecipa al Pokémon GO Fest 2023: evento globale!",
             "link": "https://pokemongolive.com/post/go-fest-2023-community-meetups?hl=it",
             "date": "24 agosto 2023"
-        },
-        {
-            "title": "Ecco i dettagli del Festival di Pokémon GO 2023: sblocco dell’ultrabonus, orari degli habitat e tanto altro.",
-            "link": "https://pokemongolive.com/post/go-fest-2023-ultra-unlock?hl=it",
-            "date": "22 agosto 2023"
         }
     ]
 }
