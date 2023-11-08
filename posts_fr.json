@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Fashion Week est de retour et certains Pokémon en profitent pour se mettre sur leur 31 !",
+            "link": "https://pokemongolive.com/post/fashion-week-2023?hl=fr",
+            "date": "8 novembre 2023"
+        },
+        {
             "title": "Journée Communauté classique de novembre 2023 : Wattouat",
             "link": "https://pokemongolive.com/post/communityday-classic-mareep?hl=fr",
             "date": "6 novembre 2023"
@@ -148,11 +153,6 @@
             "title": "Ultra Bonus : Paldea ! De nouveaux Pokémon originaires de Paldea viennent s’ajouter à votre aventure.",
             "link": "https://pokemongolive.com/post/ultra-unlock-paldea?hl=fr",
             "date": "30 août 2023"
-        },
-        {
-            "title": "Rencontrez-vous au Festival Pokémon GO 2023 : Monde entier !",
-            "link": "https://pokemongolive.com/post/go-fest-2023-community-meetups?hl=fr",
-            "date": "24 août 2023"
         }
     ]
 }
