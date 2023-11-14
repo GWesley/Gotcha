@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "In arrivo: aggiornamenti sull’accesso al Club Allenatori di Pokémon",
+            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=it",
+            "date": "14 novembre 2023"
+        },
+        {
             "title": "La settimana della moda ritorna con dei Pokémon chic!",
             "link": "https://pokemongolive.com/post/fashion-week-2023?hl=it",
             "date": "8 novembre 2023"
@@ -148,11 +153,6 @@
             "title": "Sblocco dell’ultrabonus: Paldea! Continuate la vostra avventura con tanti altri Pokémon scoperti nella regione di Paldea.",
             "link": "https://pokemongolive.com/post/ultra-unlock-paldea?hl=it",
             "date": "30 agosto 2023"
-        },
-        {
-            "title": "Partecipa al Pokémon GO Fest 2023: evento globale!",
-            "link": "https://pokemongolive.com/post/go-fest-2023-community-meetups?hl=it",
-            "date": "24 agosto 2023"
         }
     ]
 }
