@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ログインにポケモントレーナークラブを利用している皆さんへ",
+            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=ja",
+            "date": "2023年11月14日"
+        },
+        {
             "title": "浅草六区ブロードウェイが浮世絵風ポケモンで一色に染まる 「『ポケモン GO』 浅草ルート八景」 11月25日（土）より開催！",
             "link": "https://pokemongolive.com/post/asakusa-route?hl=ja",
             "date": "2023年11月13日"
@@ -148,11 +153,6 @@
             "title": "「ウルトラアンロック：パルデア」！さらに発見されたパルデア地方のポケモンと一緒に冒険を続けましょう！",
             "link": "https://pokemongolive.com/post/ultra-unlock-paldea?hl=ja",
             "date": "2023年8月30日"
-        },
-        {
-            "title": "「Pokémon GO Fest 2023」の追加情報と、「ウルトラアンロック」、生息地ローテーションについてお知らせ！",
-            "link": "https://pokemongolive.com/post/go-fest-2023-ultra-unlock?hl=ja",
-            "date": "2023年8月22日"
         }
     ]
 }
