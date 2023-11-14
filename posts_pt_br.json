@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Em breve: atualizações no login do Clube de Treinadores de Pokémon",
+            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=pt_BR",
+            "date": "14 de novembro de 2023"
+        },
+        {
             "title": "A Fashion Week retorna com alguns Pokémon com visuais estilosos!",
             "link": "https://pokemongolive.com/post/fashion-week-2023?hl=pt_BR",
             "date": "8 de novembro de 2023"
@@ -148,11 +153,6 @@
             "title": "Detalhes do Festival de Pokémon GO 2023 revelados: Ultrabônus, horas de habitat e muito mais!",
             "link": "https://pokemongolive.com/post/go-fest-2023-ultra-unlock?hl=pt_BR",
             "date": "22 de agosto de 2023"
-        },
-        {
-            "title": "Guardem as datas dos Dias Comunitários da próxima temporada!",
-            "link": "https://pokemongolive.com/post/season-savethedate-s12?hl=pt_BR",
-            "date": "21 de agosto de 2023"
         }
     ]
 }
