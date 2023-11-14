@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Próximamente: Novedades del inicio de sesión del Club de Entrenadores Pokémon",
+            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=es",
+            "date": "14 de noviembre de 2023"
+        },
+        {
             "title": "¡La semana de la moda vuelve con unos Pokémon muy elegantes!",
             "link": "https://pokemongolive.com/post/fashion-week-2023?hl=es",
             "date": "8 de noviembre de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Ultrabonus: Paldea! Continuad vuestra aventura con más Pokémon procedentes de la región de Paldea.",
             "link": "https://pokemongolive.com/post/ultra-unlock-paldea?hl=es",
             "date": "30 de agosto de 2023"
-        },
-        {
-            "title": "¡Reunámonos para el Pokémon GO Fest 2023: Global!",
-            "link": "https://pokemongolive.com/post/go-fest-2023-community-meetups?hl=es",
-            "date": "24 de agosto de 2023"
         }
     ]
 }
