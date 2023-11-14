@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Coming soon: Updates to Pokémon Trainer Club login",
+            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=en",
+            "date": "November 14, 2023"
+        },
+        {
             "title": "Fashion Week returns featuring some snazzy-looking Pokémon!",
             "link": "https://pokemongolive.com/post/fashion-week-2023?hl=en",
             "date": "November 8, 2023"
@@ -147,11 +152,6 @@
         {
             "title": "GO Battle League: Adventures Abound Season Update",
             "link": "https://pokemongolive.com/post/go-battle-league-adventures-abound?hl=en",
-            "date": "August 30, 2023"
-        },
-        {
-            "title": "Embark on an adventure with Pokémon first discovered in the Paldea region!",
-            "link": "https://pokemongolive.com/post/paldea-region-launch?hl=en",
             "date": "August 30, 2023"
         }
     ]
