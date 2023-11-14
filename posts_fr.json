@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Prochainement : mise à jour de la connexion au Club des Dresseurs Pokémon",
+            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=fr",
+            "date": "14 novembre 2023"
+        },
+        {
             "title": "La Fashion Week est de retour et certains Pokémon en profitent pour se mettre sur leur 31 !",
             "link": "https://pokemongolive.com/post/fashion-week-2023?hl=fr",
             "date": "8 novembre 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Préparez-vous à vivre une nouvelle aventure avec les Pokémon originaires de Paldea !",
             "link": "https://pokemongolive.com/post/paldea-region-launch?hl=fr",
-            "date": "30 août 2023"
-        },
-        {
-            "title": "Ultra Bonus : Paldea ! De nouveaux Pokémon originaires de Paldea viennent s’ajouter à votre aventure.",
-            "link": "https://pokemongolive.com/post/ultra-unlock-paldea?hl=fr",
             "date": "30 août 2023"
         }
     ]
