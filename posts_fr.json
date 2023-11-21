@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Il pleut des PokéPièces pour le Black Friday !",
+            "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=fr",
+            "date": "21 novembre 2023"
+        },
+        {
             "title": "Célébrez le Jeu en équipe et les Pokémon originaires de la région de Paldea !",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=fr",
             "date": "16 novembre 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Journée Communauté classique de septembre 2023 : Salamèche",
             "link": "https://pokemongolive.com/post/community-day-classic-charmander-september-2023?hl=fr",
-            "date": "30 août 2023"
-        },
-        {
-            "title": "Mise à jour de la « Ligue Combat GO : Des aventures à foison »",
-            "link": "https://pokemongolive.com/post/go-battle-league-adventures-abound?hl=fr",
             "date": "30 août 2023"
         }
     ]
