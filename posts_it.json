@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "In questo Black Friday piovono Pokémonete!",
+            "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=it",
+            "date": "21 novembre 2023"
+        },
+        {
             "title": "Festeggiate con Gioco in gruppo e con i Pokémon scoperti per la prima volta nella regione di Paldea.",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=it",
             "date": "16 novembre 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Aggiornamento della Stagione Lega Lotte GO: Avventure a più non posso",
             "link": "https://pokemongolive.com/post/go-battle-league-adventures-abound?hl=it",
-            "date": "30 agosto 2023"
-        },
-        {
-            "title": "Partite all’avventura con i Pokémon scoperti per la prima volta nella regione di Paldea.",
-            "link": "https://pokemongolive.com/post/paldea-region-launch?hl=it",
             "date": "30 agosto 2023"
         }
     ]
