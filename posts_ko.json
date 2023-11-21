@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "이번 블랙 프라이데이 때 포켓코인이 쏟아집니다!",
+            "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=ko",
+            "date": "2023년 11월 21일"
+        },
+        {
             "title": "팔데아지방에서 처음 발견된 포켓몬과 팀 플레이로 함께 즐기세요!",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=ko",
             "date": "2023년 11월 16일"
@@ -148,11 +153,6 @@
             "title": "\"울트라 언록: 팔데아\"! 팔데아지방에서 발견된 더 많은 포켓몬과 함께 모험을 계속 하세요!",
             "link": "https://pokemongolive.com/post/ultra-unlock-paldea?hl=ko",
             "date": "2023년 8월 30일"
-        },
-        {
-            "title": "Pokémon GO Fest 2023 상세 내용 공개: 울트라 언록, 서식지 시간 등 여러가지가 준비되었습니다!",
-            "link": "https://pokemongolive.com/post/go-fest-2023-ultra-unlock?hl=ko",
-            "date": "2023년 8월 22일"
         }
     ]
 }
