@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Diesen Black Friday regnet es PokéMünzen!",
+            "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=de",
+            "date": "21. November 2023"
+        },
+        {
             "title": "Feiert mit Team-Play und Pokémon aus der Paldea-Region!",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=de",
             "date": "16. November 2023"
@@ -147,11 +152,6 @@
         {
             "title": "GO-Kampfliga: Informationen zur Saison „Reichlich Abenteuer“",
             "link": "https://pokemongolive.com/post/go-battle-league-adventures-abound?hl=de",
-            "date": "30. August 2023"
-        },
-        {
-            "title": "Zieht mit den Starter-Pokémon der Paldea-Region ins Abenteuer!",
-            "link": "https://pokemongolive.com/post/paldea-region-launch?hl=de",
             "date": "30. August 2023"
         }
     ]
