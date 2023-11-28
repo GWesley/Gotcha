@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Willkommen bei Pokémon GO: Zeitlose Reisen",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=de",
+            "date": "28. November 2023"
+        },
+        {
             "title": "Holt diesen Community Day Verpasstes nach! Pokémon der Community Days in den Jahren 2022 und 2023 kehren zurück, um das Jahresende zu feiern!",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=de",
             "date": "28. November 2023"
@@ -148,11 +153,6 @@
             "title": "Das Psycho-Spektakel ist zurück!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=de",
             "date": "12. September 2023"
-        },
-        {
-            "title": "Ein Forschungstag zu Ehren von Myrapla!",
-            "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=de",
-            "date": "7. September 2023"
         }
     ]
 }
