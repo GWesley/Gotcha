@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Timeless Travels",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=th",
+            "date": "28 พฤศจิกายน 2566"
+        },
+        {
             "title": "จับรวดเดียวกับคอมมิวนิตี้เดย์! โปเกมอนจากคอมมิวนิตี้เดย์ 2022 และ 2023 จะกลับมาอีกครั้งเพื่อฉลองการจับส่งท้ายปี!",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=th",
             "date": "28 พฤศจิกายน 2566"
@@ -148,11 +153,6 @@
             "title": "คอมมิวนิตี้เดย์กันยายน 2023: อโกจิมูชิ",
             "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=th",
             "date": "4 กันยายน 2566"
-        },
-        {
-            "title": "คอมมิวนิตี้เดย์ (รีเทิร์น) กันยายน 2023: ฮิโตคาเงะ",
-            "link": "https://pokemongolive.com/post/community-day-classic-charmander-september-2023?hl=th",
-            "date": "30 สิงหาคม 2566"
         }
     ]
 }
