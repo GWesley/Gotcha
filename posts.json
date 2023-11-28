@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Timeless Travels",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=en",
+            "date": "November 28, 2023"
+        },
+        {
             "title": "Catch up with Community Day! Pokémon from 2022 and 2023 Community Days are returning for a year-end catch celebration!",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=en",
             "date": "November 28, 2023"
@@ -148,11 +153,6 @@
             "title": "Adventure Awaits during the Out to Play Event!",
             "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=en",
             "date": "September 20, 2023"
-        },
-        {
-            "title": "Hindi language support for Pokémon GO! Celebrate with special events!",
-            "link": "https://pokemongolive.com/post/hindi-availability-september-2023?hl=en",
-            "date": "September 15, 2023"
         }
     ]
 }
