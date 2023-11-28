@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「Pokémon GO：時を超えた旅」へようこそ",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=ja",
+            "date": "2023年11月28日"
+        },
+        {
             "title": "「コミュニティ・デイ」でこれまでに登場したポケモンをつかまえましょう！2022年と2023年の「コミュニティ・デイ」で登場したポケモンたちが、12月の「コミュニティ・デイ」に帰ってきます！",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=ja",
             "date": "2023年11月28日"
@@ -148,11 +153,6 @@
             "title": "「エスパーウィーク」イベントが再び開催されます！",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=ja",
             "date": "2023年9月12日"
-        },
-        {
-            "title": "リサーチデイで「ナゾノクサ」をつかまえよう！",
-            "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=ja",
-            "date": "2023年9月7日"
         }
     ]
 }
