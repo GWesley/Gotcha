@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "歡迎來到「Pokémon GO：超越時間的旅程」",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=zh_Hant",
+            "date": "2023年11月28日"
+        },
+        {
             "title": "快來參加年底的慶祝活動吧！2022年與2023年社群日的主角寶可夢都回來了！",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=zh_Hant",
             "date": "2023年11月28日"
@@ -148,11 +153,6 @@
             "title": "2023年9月社群日：強顎雞母蟲",
             "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=zh_Hant",
             "date": "2023年9月4日"
-        },
-        {
-            "title": "2023年9月經典社群日：小火龍",
-            "link": "https://pokemongolive.com/post/community-day-classic-charmander-september-2023?hl=zh_Hant",
-            "date": "2023年8月30日"
         }
     ]
 }
