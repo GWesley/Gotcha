@@ -5,6 +5,21 @@
     ],
     "posts": [
         {
+            "title": "¡Poneos al día con el Día de la Comunidad! ¡Los Pokémon de los Días de la Comunidad de 2022 y 2023 vuelven para celebrar la recta final del año recordando!",
+            "link": "https://pokemongolive.com/post/community-day-december-2023?hl=es",
+            "date": "28 de noviembre de 2023"
+        },
+        {
+            "title": "Liga Combates GO: novedades sobre Viajes atemporales",
+            "link": "https://pokemongolive.com/post/go-battle-league-timeless-travels?hl=es",
+            "date": "28 de noviembre de 2023"
+        },
+        {
+            "title": "¡Atentos a la nueva temporada con el debut de Samurott de Hisui en un evento de día de incursiones!",
+            "link": "https://pokemongolive.com/post/hisuian-samurott-raid-day-event?hl=es",
+            "date": "28 de noviembre de 2023"
+        },
+        {
             "title": "¡Este Black Friday caerán Pokémonedas del cielo!",
             "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=es",
             "date": "21 de noviembre de 2023"
@@ -138,21 +153,6 @@
             "title": "¡Conmemora a Oddish con un Día de Investigación!",
             "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=es",
             "date": "7 de septiembre de 2023"
-        },
-        {
-            "title": "Día de la Comunidad de septiembre de 2023: Grubbin",
-            "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=es",
-            "date": "4 de septiembre de 2023"
-        },
-        {
-            "title": "Día de la Comunidad clásico de septiembre de 2023: Charmander",
-            "link": "https://pokemongolive.com/post/community-day-classic-charmander-september-2023?hl=es",
-            "date": "30 de agosto de 2023"
-        },
-        {
-            "title": "Liga Combates GO: actualización sobre la temporada Aventuras por Doquier",
-            "link": "https://pokemongolive.com/post/go-battle-league-adventures-abound?hl=es",
-            "date": "30 de agosto de 2023"
         }
     ]
 }
