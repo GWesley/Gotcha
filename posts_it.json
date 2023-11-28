@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Benvenuti in Pokémon GO: Viaggi senza tempo",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=it",
+            "date": "28 novembre 2023"
+        },
+        {
             "title": "Recuperate i Community Day! I Pokémon dei Community Day del 2022 e 2023 stanno ritornando per festeggiare la cattura di fine anno.",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=it",
             "date": "28 novembre 2023"
@@ -148,11 +153,6 @@
             "title": "L’evento Psicomania è tornato!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=it",
             "date": "12 settembre 2023"
-        },
-        {
-            "title": "Festeggiate Oddish con una Giornata di ricerca!",
-            "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=it",
-            "date": "7 settembre 2023"
         }
     ]
 }
