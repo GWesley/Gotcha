@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Os damos la bienvenida a Pokémon GO: Viajes atemporales",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=es",
+            "date": "28 de noviembre de 2023"
+        },
+        {
             "title": "¡Poneos al día con el Día de la Comunidad! ¡Los Pokémon de los Días de la Comunidad de 2022 y 2023 vuelven para celebrar la recta final del año recordando!",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=es",
             "date": "28 de noviembre de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Vuelve el evento Psicoespectáculo!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=es",
             "date": "12 de septiembre de 2023"
-        },
-        {
-            "title": "¡Conmemora a Oddish con un Día de Investigación!",
-            "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=es",
-            "date": "7 de septiembre de 2023"
         }
     ]
 }
