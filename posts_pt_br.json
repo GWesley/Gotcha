@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Boas-vindas ao Pokémon GO: Viagens atemporais",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=pt_BR",
+            "date": "28 de novembro de 2023"
+        },
+        {
             "title": "Revisite os Dias Comunitários! Os Dias Comunitários de 2022 e 2023 do Pokémon estão de volta para uma comemoração de fim de ano cheia de capturas!",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=pt_BR",
             "date": "28 de novembro de 2023"
@@ -148,11 +153,6 @@
             "title": "Celebrem Oddish com um Dia de Pesquisa!",
             "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=pt_BR",
             "date": "7 de setembro de 2023"
-        },
-        {
-            "title": "Dia Comunitário de setembro de 2023: Grubbin",
-            "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=pt_BR",
-            "date": "4 de setembro de 2023"
         }
     ]
 }
