@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO: 시간을 초월한 여행\"에 오신 걸 환영합니다",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=ko",
+            "date": "2023년 11월 28일"
+        },
+        {
             "title": "커뮤니티 데이에서 지금까지 등장했던 포켓몬을 잡으세요! 2022년과 2023년 커뮤니티 데이에 등장했던 포켓몬이 12월 커뮤니티 데이에서 돌아옵니다!",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=ko",
             "date": "2023년 11월 28일"
@@ -148,11 +153,6 @@
             "title": "2023년 9월 커뮤니티 데이: \"턱지충이\"",
             "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=ko",
             "date": "2023년 9월 4일"
-        },
-        {
-            "title": "2023년 9월 커뮤니티 데이(복각): \"파이리\"",
-            "link": "https://pokemongolive.com/post/community-day-classic-charmander-september-2023?hl=ko",
-            "date": "2023년 8월 30일"
         }
     ]
 }
