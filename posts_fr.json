@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bienvenue dans Pokémon GO : Voyages hors du temps",
+            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=fr",
+            "date": "28 novembre 2023"
+        },
+        {
             "title": "Offrez-vous une séance de rattrapage ! Les Pokémon des Journées Communauté de 2022 et 2023 reviennent pour une célébration de fin d’année.",
             "link": "https://pokemongolive.com/post/community-day-december-2023?hl=fr",
             "date": "28 novembre 2023"
@@ -148,11 +153,6 @@
             "title": "L’aventure vous attend avec l’événement Jeu aventureux !",
             "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=fr",
             "date": "20 septembre 2023"
-        },
-        {
-            "title": "La Fantasmagorie Psy fait son grand retour !",
-            "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=fr",
-            "date": "12 septembre 2023"
         }
     ]
 }
