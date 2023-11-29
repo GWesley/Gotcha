@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bring on the holiday gameplay",
+            "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=es",
+            "date": "29 de noviembre de 2023"
+        },
+        {
             "title": "Os damos la bienvenida a Pokémon GO: Viajes atemporales",
             "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=es",
             "date": "28 de noviembre de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Más aventuras durante el evento Explorar Jugando!",
             "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=es",
             "date": "20 de septiembre de 2023"
-        },
-        {
-            "title": "¡Vuelve el evento Psicoespectáculo!",
-            "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=es",
-            "date": "12 de septiembre de 2023"
         }
     ]
 }
