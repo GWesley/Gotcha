@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bring on the holiday gameplay",
+            "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=fr",
+            "date": "29 novembre 2023"
+        },
+        {
             "title": "Bienvenue dans Pokémon GO : Voyages hors du temps",
             "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=fr",
             "date": "28 novembre 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Célébrez la Journée Éclosion d’Azurill !",
             "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=fr",
-            "date": "20 septembre 2023"
-        },
-        {
-            "title": "L’aventure vous attend avec l’événement Jeu aventureux !",
-            "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=fr",
             "date": "20 septembre 2023"
         }
     ]
