@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bring on the holiday gameplay",
+            "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=it",
+            "date": "29 novembre 2023"
+        },
+        {
             "title": "Benvenuti in Pokémon GO: Viaggi senza tempo",
             "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=it",
             "date": "28 novembre 2023"
@@ -148,11 +153,6 @@
             "title": "Un’avventura vi aspetta con A spasso, che spasso.",
             "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=it",
             "date": "20 settembre 2023"
-        },
-        {
-            "title": "L’evento Psicomania è tornato!",
-            "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=it",
-            "date": "12 settembre 2023"
         }
     ]
 }
