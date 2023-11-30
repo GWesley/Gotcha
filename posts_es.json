@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Preparaos para los viajes de diciembre con Operación eclosión de Pokémon GO!",
+            "link": "https://pokemongolive.com/post/eggspedition-access-december-ticket-2023?hl=es",
+            "date": "30 de noviembre de 2023"
+        },
+        {
             "title": "¡Celebra la llegada de Mateo, una cara nueva que se une a Pokémon GO durante el evento En Ruta!",
             "link": "https://pokemongolive.com/post/along-the-routes-2023?hl=es",
             "date": "30 de noviembre de 2023"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad de octubre de 2023: Timburr",
             "link": "https://pokemongolive.com/post/communityday-october-2023-timburr?hl=es",
             "date": "25 de septiembre de 2023"
-        },
-        {
-            "title": "¡Celebramos el Día de Eclosiones de Azurill!",
-            "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=es",
-            "date": "20 de septiembre de 2023"
         }
     ]
 }
