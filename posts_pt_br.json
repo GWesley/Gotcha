@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrem Mateo, um novo rosto ingressando no Pokémon GO com o evento No caminho das Rotas!",
+            "link": "https://pokemongolive.com/post/along-the-routes-2023?hl=pt_BR",
+            "date": "30 de novembro de 2023"
+        },
+        {
             "title": "Boas-vindas ao Pokémon GO: Viagens atemporais",
             "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=pt_BR",
             "date": "28 de novembro de 2023"
@@ -20,7 +25,7 @@
             "date": "28 de novembro de 2023"
         },
         {
-            "title": "Não perca a nova Temporada, com a estreia do Hisuian Samurott no evento \"Dia de Reides\".",
+            "title": "Não percam a nova Temporada, com a estreia do Samurott de Hisui no evento \"Dia de Reides\".",
             "link": "https://pokemongolive.com/post/hisuian-samurott-raid-day-event?hl=pt_BR",
             "date": "28 de novembro de 2023"
         },
@@ -148,11 +153,6 @@
             "title": "O evento Espetáculo Psíquico voltou!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2023?hl=pt_BR",
             "date": "12 de setembro de 2023"
-        },
-        {
-            "title": "Celebrem Oddish com um Dia de Pesquisa!",
-            "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=pt_BR",
-            "date": "7 de setembro de 2023"
         }
     ]
 }
