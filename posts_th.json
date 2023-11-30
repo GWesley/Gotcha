@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "เฉลิมฉลองมาเตโอ ตัวละครหน้าใหม่ที่จะเข้าร่วม Pokémon GO ในอีเวนต์ไปตามเส้นทาง!",
+            "link": "https://pokemongolive.com/post/along-the-routes-2023?hl=th",
+            "date": "30 พฤศจิกายน 2566"
+        },
+        {
             "title": "Welcome to Pokémon GO: Timeless Travels",
             "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=th",
             "date": "28 พฤศจิกายน 2566"
@@ -148,11 +153,6 @@
             "title": "เฉลิมฉลองนาโซโนะคุสะด้วยวันวิจัย!",
             "link": "https://pokemongolive.com/post/oddish-research-day-2023?hl=th",
             "date": "7 กันยายน 2566"
-        },
-        {
-            "title": "คอมมิวนิตี้เดย์กันยายน 2023: อโกจิมูชิ",
-            "link": "https://pokemongolive.com/post/communityday-september-2023-grubbin?hl=th",
-            "date": "4 กันยายน 2566"
         }
     ]
 }
