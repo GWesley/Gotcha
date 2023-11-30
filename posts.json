@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate Mateo, a new face joining Pokémon GO, with the Along the Routes event!",
+            "link": "https://pokemongolive.com/post/along-the-routes-2023?hl=en",
+            "date": "November 30, 2023"
+        },
+        {
             "title": "Bring on the holiday gameplay",
             "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=en",
             "date": "November 29, 2023"
@@ -148,11 +153,6 @@
             "title": "October 2023 Community Day: Timburr",
             "link": "https://pokemongolive.com/post/communityday-october-2023-timburr?hl=en",
             "date": "September 25, 2023"
-        },
-        {
-            "title": "Celebrate Hatch Day with Azurill!",
-            "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=en",
-            "date": "September 20, 2023"
         }
     ]
 }
