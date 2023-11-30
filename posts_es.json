@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Celebra la llegada de Mateo, una cara nueva que se une a Pokémon GO durante el evento En Ruta!",
+            "link": "https://pokemongolive.com/post/along-the-routes-2023?hl=es",
+            "date": "30 de noviembre de 2023"
+        },
+        {
             "title": "Que comience la diversión navideña",
             "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=es",
             "date": "29 de noviembre de 2023"
@@ -147,11 +152,6 @@
         {
             "title": "¡Celebramos el Día de Eclosiones de Azurill!",
             "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=es",
-            "date": "20 de septiembre de 2023"
-        },
-        {
-            "title": "¡Más aventuras durante el evento Explorar Jugando!",
-            "link": "https://pokemongolive.com/post/out-to-play-september-2023?hl=es",
             "date": "20 de septiembre de 2023"
         }
     ]
