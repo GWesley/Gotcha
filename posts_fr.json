@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Faites un saut dans le passé pendant l’événement Au-delà du temps, et faites équipe pour redécouvrir les Pokémon de Kanto !",
+            "link": "https://pokemongolive.com/post/adamant-time-kanto-event?hl=fr",
+            "date": "1 décembre 2023"
+        },
+        {
             "title": "Préparez-vous pour les voyages de décembre avec la Marche Œuf-phorique de Pokémon GO !",
             "link": "https://pokemongolive.com/post/eggspedition-access-december-ticket-2023?hl=fr",
             "date": "30 novembre 2023"
@@ -148,11 +153,6 @@
             "title": "Célébrez la sortie du jeu Le retour de Détective Pikachu !",
             "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=fr",
             "date": "29 septembre 2023"
-        },
-        {
-            "title": "Combattez comme la Maîtresse en chef de Paldea !",
-            "link": "https://pokemongolive.com/post/go-battle-weekend-geeta?hl=fr",
-            "date": "28 septembre 2023"
         }
     ]
 }
