@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Capturad Pokémon Hielo durante Objetivo de Captura!",
+            "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=es",
+            "date": "4 de diciembre de 2023"
+        },
+        {
             "title": "¡Llegad a tiempo para el evento Una era imperecedera y celebradlo en equipo con un regreso de Kanto!",
             "link": "https://pokemongolive.com/post/adamant-time-kanto-event?hl=es",
             "date": "1 de diciembre de 2023"
@@ -148,11 +153,6 @@
             "title": "¡Celebramos el estreno de Detective Pikachu: El regreso!",
             "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=es",
             "date": "29 de septiembre de 2023"
-        },
-        {
-            "title": "¡Combatid como la supercampeona de Paldea!",
-            "link": "https://pokemongolive.com/post/go-battle-weekend-geeta?hl=es",
-            "date": "28 de septiembre de 2023"
         }
     ]
 }
