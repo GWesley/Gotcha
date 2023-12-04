@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Attrapez des Pokémon de type Glace lors de l’événement Maîtrise de capture !",
+            "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=fr",
+            "date": "4 décembre 2023"
+        },
+        {
             "title": "Faites un saut dans le passé pendant l’événement Au-delà du temps, et faites équipe pour redécouvrir les Pokémon de Kanto !",
             "link": "https://pokemongolive.com/post/adamant-time-kanto-event?hl=fr",
             "date": "1 décembre 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Rejoignez-nous et vivez un mois d’octobre excitant avec l’événement Pokémon GO Des bonbons à foison !",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=fr",
-            "date": "29 septembre 2023"
-        },
-        {
-            "title": "Célébrez la sortie du jeu Le retour de Détective Pikachu !",
-            "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=fr",
             "date": "29 septembre 2023"
         }
     ]
