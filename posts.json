@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Catch some icy Pokémon during Catch Mastery!",
+            "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=en",
+            "date": "December 4, 2023"
+        },
+        {
             "title": "Catch up in time for the Adamant Time event, and party up in a Kanto comeback!",
             "link": "https://pokemongolive.com/post/adamant-time-kanto-event?hl=en",
             "date": "December 1, 2023"
@@ -147,11 +152,6 @@
         {
             "title": "Come one, come all, and experience an October of delights with Pokémon GO’s Ticket of Treats!",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=en",
-            "date": "September 29, 2023"
-        },
-        {
-            "title": "Celebrate the release of Detective Pikachu Returns!",
-            "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=en",
             "date": "September 29, 2023"
         }
     ]
