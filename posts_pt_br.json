@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Peguem alguns Pokémon gelados durante o evento Mestre da captura!",
+            "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=pt_BR",
+            "date": "4 de dezembro de 2023"
+        },
+        {
             "title": "Cheguem a tempo para o evento É hora de ser firme e divirtam-se no retorno de Kanto!",
             "link": "https://pokemongolive.com/post/adamant-time-kanto-event?hl=pt_BR",
             "date": "1 de dezembro de 2023"
@@ -148,11 +153,6 @@
             "title": "Dia Comunitário de outubro de 2023: Timburr",
             "link": "https://pokemongolive.com/post/communityday-october-2023-timburr?hl=pt_BR",
             "date": "25 de setembro de 2023"
-        },
-        {
-            "title": "Comemore o Dia de chocar com Azurill!",
-            "link": "https://pokemongolive.com/post/azurill-hatch-day?hl=pt_BR",
-            "date": "20 de setembro de 2023"
         }
     ]
 }
