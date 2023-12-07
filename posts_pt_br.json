@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "As férias estão chegando e trazendo maior capacidade de armazenamento de Pokémon e de itens.",
+            "link": "https://pokemongolive.com/post/december-storage-increase?hl=pt_BR",
+            "date": "7 de dezembro de 2023"
+        },
+        {
             "title": "Peguem alguns Pokémon gelados durante o evento Mestre da captura!",
             "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=pt_BR",
             "date": "4 de dezembro de 2023"
@@ -148,11 +153,6 @@
             "title": "Batalhe como o principal Campeão de Paldea!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-geeta?hl=pt_BR",
             "date": "28 de setembro de 2023"
-        },
-        {
-            "title": "Dia Comunitário de outubro de 2023: Timburr",
-            "link": "https://pokemongolive.com/post/communityday-october-2023-timburr?hl=pt_BR",
-            "date": "25 de setembro de 2023"
         }
     ]
 }
