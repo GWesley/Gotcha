@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Disfruta de las fiestas con un aumento de almacenamiento de objetos y Pokémon!",
+            "link": "https://pokemongolive.com/post/december-storage-increase?hl=es",
+            "date": "7 de diciembre de 2023"
+        },
+        {
             "title": "¡Capturad Pokémon Hielo durante Objetivo de Captura!",
             "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=es",
             "date": "4 de diciembre de 2023"
@@ -147,11 +152,6 @@
         {
             "title": "¡Vamos, venid todos a disfrutar de un octubre magnífico con Entrada o trato de Pokémon GO!",
             "link": "https://pokemongolive.com/post/ticket-of-treats?hl=es",
-            "date": "29 de septiembre de 2023"
-        },
-        {
-            "title": "¡Celebramos el estreno de Detective Pikachu: El regreso!",
-            "link": "https://pokemongolive.com/post/detective-pikachu-returns-event?hl=es",
             "date": "29 de septiembre de 2023"
         }
     ]
