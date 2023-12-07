@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Préparez les fêtes de fin d’année avec les extensions du stockage de Pokémon et d’objets !",
+            "link": "https://pokemongolive.com/post/december-storage-increase?hl=fr",
+            "date": "7 décembre 2023"
+        },
+        {
             "title": "Attrapez des Pokémon de type Glace lors de l’événement Maîtrise de capture !",
             "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=fr",
             "date": "4 décembre 2023"
@@ -148,11 +153,6 @@
             "title": "L’événement Harvest Festival est bientôt là",
             "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=fr",
             "date": "3 octobre 2023"
-        },
-        {
-            "title": "Rejoignez-nous et vivez un mois d’octobre excitant avec l’événement Pokémon GO Des bonbons à foison !",
-            "link": "https://pokemongolive.com/post/ticket-of-treats?hl=fr",
-            "date": "29 septembre 2023"
         }
     ]
 }
