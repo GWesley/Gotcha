@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Get ready for the holidays with Pokémon and item storage increases!",
+            "link": "https://pokemongolive.com/post/december-storage-increase?hl=en",
+            "date": "December 7, 2023"
+        },
+        {
             "title": "Catch some icy Pokémon during Catch Mastery!",
             "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=en",
             "date": "December 4, 2023"
@@ -148,11 +153,6 @@
             "title": "The Harvest Festival is Just Around the Corner",
             "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=en",
             "date": "October 3, 2023"
-        },
-        {
-            "title": "Come one, come all, and experience an October of delights with Pokémon GO’s Ticket of Treats!",
-            "link": "https://pokemongolive.com/post/ticket-of-treats?hl=en",
-            "date": "September 29, 2023"
         }
     ]
 }
