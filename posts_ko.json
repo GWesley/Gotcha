@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "홀리데이 시즌을 기념하세요! \"터벅고래\", \"우락고래\" 등이 \"Pokémon GO\"에 등장!",
+            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=ko",
+            "date": "2023년 12월 12일"
+        },
+        {
             "title": "포켓몬과 도구 보관소 확장으로 연휴에 대비하세요!",
             "link": "https://pokemongolive.com/post/december-storage-increase?hl=ko",
             "date": "2023년 12월 7일"
@@ -148,11 +153,6 @@
             "title": "팔데아지방 최고의 챔피언처럼 배틀하세요!",
             "link": "https://pokemongolive.com/post/go-battle-weekend-geeta?hl=ko",
             "date": "2023년 9월 28일"
-        },
-        {
-            "title": "2023년 10월 커뮤니티 데이: \"으랏차\"",
-            "link": "https://pokemongolive.com/post/communityday-october-2023-timburr?hl=ko",
-            "date": "2023년 9월 25일"
         }
     ]
 }
