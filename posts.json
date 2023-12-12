@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate the season—Cetoddle, Cetitan, and more are coming to Pokémon GO!",
+            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=en",
+            "date": "December 12, 2023"
+        },
+        {
             "title": "Get ready for the holidays with Pokémon and item storage increases!",
             "link": "https://pokemongolive.com/post/december-storage-increase?hl=en",
             "date": "December 7, 2023"
@@ -148,11 +153,6 @@
             "title": "Prepare for an Incense Day that brings the stings, featuring Skorupi and both Bug-type and Poison-type Pokémon!",
             "link": "https://pokemongolive.com/post/incense-day-skorupi-2023?hl=en",
             "date": "October 13, 2023"
-        },
-        {
-            "title": "The Harvest Festival is Just Around the Corner",
-            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=en",
-            "date": "October 3, 2023"
         }
     ]
 }
