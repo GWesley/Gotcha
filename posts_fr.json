@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Fêtez cette période de l’année avec l’arrivée sur Pokémon GO de Piétacé, de Balbalèze et de bien d’autres Pokémon !",
+            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=fr",
+            "date": "12 décembre 2023"
+        },
+        {
             "title": "Préparez les fêtes de fin d’année avec les extensions du stockage de Pokémon et d’objets !",
             "link": "https://pokemongolive.com/post/december-storage-increase?hl=fr",
             "date": "7 décembre 2023"
@@ -148,11 +153,6 @@
             "title": "Participez à un événement éphémère au centre commercial Val d'Europe de Paris!",
             "link": "https://pokemongolive.com/post/evenement-ephemere?hl=fr",
             "date": "10 octobre 2023"
-        },
-        {
-            "title": "L’événement Harvest Festival est bientôt là",
-            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=fr",
-            "date": "3 octobre 2023"
         }
     ]
 }
