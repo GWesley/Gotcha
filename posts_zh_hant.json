@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "連結並驗證寶可夢訓練家俱樂部帳號，可獲得1個超級孵化器和1,000個星星沙子",
+            "link": "https://pokemongolive.com/post/PTC-login-update-rewards?hl=zh_Hant",
+            "date": "2023年12月14日"
+        },
+        {
             "title": "冬日奇蹟將持續在Pokémon GO中的「冬日假期 Part 2」展開！",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2023?hl=zh_Hant",
             "date": "2023年12月14日"
@@ -148,11 +153,6 @@
             "title": "準備迎接「刺」激的薰香日，主角是「鉗尾蠍」以及蟲屬性和毒屬性寶可夢！",
             "link": "https://pokemongolive.com/post/incense-day-skorupi-2023?hl=zh_Hant",
             "date": "2023年10月13日"
-        },
-        {
-            "title": "「豐收節」即將登場",
-            "link": "https://pokemongolive.com/post/harvest-festival-2023?hl=zh_Hant",
-            "date": "2023年10月3日"
         }
     ]
 }
