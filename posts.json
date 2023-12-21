@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate the start of 2024 with a grand event!",
+            "link": "https://pokemongolive.com/post/new-year-2024?hl=en",
+            "date": "December 21, 2023"
+        },
+        {
             "title": "January 2024 Community Day: Rowlet",
             "link": "https://pokemongolive.com/post/communityday-january-2024-rowlet?hl=en",
             "date": "December 18, 2023"
@@ -148,11 +153,6 @@
             "title": "Día de Muertos 2023: Celebrate with Cubone and Marowak wearing cempasúchil crowns, new bonuses, Incenses and Lure Modules!",
             "link": "https://pokemongolive.com/post/dia-de-muertos-2023?hl=en",
             "date": "October 20, 2023"
-        },
-        {
-            "title": "It’s a Party Play parade in Pokémon GO this Halloween, with Pokémon wearing costumes and a brand new way to play with your friends!",
-            "link": "https://pokemongolive.com/post/halloween-part-2-2023?hl=en",
-            "date": "October 18, 2023"
         }
     ]
 }
