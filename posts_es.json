@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de la Comunidad clásico de enero 2024: Porygon",
+            "link": "https://pokemongolive.com/post/communityday-classic-porygon?hl=es",
+            "date": "2 de enero de 2024"
+        },
+        {
             "title": "¡Preparaos para la llegada de Lycanroc Forma Crepuscular durante Una odisea lustrosa!",
             "link": "https://pokemongolive.com/post/lustrous-odyssey-2024?hl=es",
             "date": "2 de enero de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Tadbulb debuta en Pokémon GO de forma deslumbrante durante el Festival de las Luces!",
             "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=es",
             "date": "25 de octubre de 2023"
-        },
-        {
-            "title": "¡Gracias por asistir al Safari urbano de Pokémon GO: Barcelona!",
-            "link": "https://pokemongolive.com/post/city-safari-barcelona-recap?hl=es",
-            "date": "20 de octubre de 2023"
         }
     ]
 }
