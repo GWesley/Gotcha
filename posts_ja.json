@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "FENDI x FRGMT x POKÉMONコレクションから、着せ替えアイテムが『Pokémon GO』に登場！",
+            "link": "https://pokemongolive.com/post/FENDIxFRGMTxPOKEMON?hl=ja",
+            "date": "2024年1月4日"
+        },
+        {
             "title": "「Pokémon GO Tour：シンオウ地方」への旅に先立ち、「バクフーン（ヒスイのすがた）」が「レイド・デイ」イベントに初登場！",
             "link": "https://pokemongolive.com/post/hisuian-typhlosion-raid-day-event?hl=ja",
             "date": "2024年1月3日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』に「メガガブリアス」が初登場！",
             "link": "https://pokemongolive.com/post/mega-garchomp-raid-day-2023?hl=ja",
             "date": "2023年11月2日"
-        },
-        {
-            "title": "「光のフェスティバル」で「ズピカ」が輝かしくデビュー！",
-            "link": "https://pokemongolive.com/post/festival-of-lights-2023?hl=ja",
-            "date": "2023年10月25日"
         }
     ]
 }
