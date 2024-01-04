@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les objets d’avatar de la collection FENDI × FRGMT × POKÉMON arrivent sur Pokémon GO !",
+            "link": "https://pokemongolive.com/post/FENDIxFRGMTxPOKEMON?hl=fr",
+            "date": "4 janvier 2024"
+        },
+        {
             "title": "Typhlosion de Hisui fait ses débuts dans un événement Journée de Raids. Il sera votre prochain guide pour vous rendre au Circuit Pokémon GO : Sinnoh !",
             "link": "https://pokemongolive.com/post/hisuian-typhlosion-raid-day-event?hl=fr",
             "date": "3 janvier 2024"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO rejoint les évènements Organized Play en Europe",
             "link": "https://pokemongolive.com/post/eu-local-op-program?hl=fr",
             "date": "6 novembre 2023"
-        },
-        {
-            "title": "Méga-Carchacrok fera trembler Pokémon GO lors de sa première apparition dans le jeu !",
-            "link": "https://pokemongolive.com/post/mega-garchomp-raid-day-2023?hl=fr",
-            "date": "2 novembre 2023"
         }
     ]
 }
