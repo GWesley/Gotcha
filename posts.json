@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Prepare yourself for a Battle Week event featuring the debut of the Rage Monkey Pokémon, Annihilape!",
+            "link": "https://pokemongolive.com/post/raging-battles-2024?hl=en",
+            "date": "January 11, 2024"
+        },
+        {
             "title": "The Origin Formes of Dialga and Palkia have emerged in Pokémon GO, bringing almighty Adventure Effects!",
             "link": "https://pokemongolive.com/post/origin-forme-adventure-effects-dialga-palkia?hl=en",
             "date": "January 10, 2024"
@@ -148,11 +153,6 @@
             "title": "Coming soon: Updates to Pokémon Trainer Club login",
             "link": "https://pokemongolive.com/post/PTC-login-updates?hl=en",
             "date": "November 14, 2023"
-        },
-        {
-            "title": "Fashion Week returns featuring some snazzy-looking Pokémon!",
-            "link": "https://pokemongolive.com/post/fashion-week-2023?hl=en",
-            "date": "November 8, 2023"
         }
     ]
 }
