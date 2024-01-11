@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Prepárate para un evento de semana de combates con el debut del Pokémon Mono Furia, Annihilape!",
+            "link": "https://pokemongolive.com/post/raging-battles-2024?hl=es",
+            "date": "11 de enero de 2024"
+        },
+        {
             "title": "En Pokémon GO han surgido las Formas Origen de Dialga y Palkia, ¡con poderosos Efectos aventura!",
             "link": "https://pokemongolive.com/post/origin-forme-adventure-effects-dialga-palkia?hl=es",
             "date": "10 de enero de 2024"
@@ -148,11 +153,6 @@
             "title": "Próximamente: Novedades del inicio de sesión del Club de Entrenadores Pokémon",
             "link": "https://pokemongolive.com/post/PTC-login-updates?hl=es",
             "date": "14 de noviembre de 2023"
-        },
-        {
-            "title": "¡La semana de la moda vuelve con unos Pokémon muy elegantes!",
-            "link": "https://pokemongolive.com/post/fashion-week-2023?hl=es",
-            "date": "8 de noviembre de 2023"
         }
     ]
 }
