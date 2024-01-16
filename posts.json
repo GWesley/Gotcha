@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Team GO Rocket returns, Shadow Kyogre joins Giovanni, and Shadow Ho-Oh makes its Shadow Raid debut!",
+            "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=en",
+            "date": "January 16, 2024"
+        },
+        {
             "title": "Prepare yourself for a Battle Week event featuring the debut of the Rage Monkey Pokémon, Annihilape!",
             "link": "https://pokemongolive.com/post/raging-battles-2024?hl=en",
             "date": "January 11, 2024"
@@ -148,11 +153,6 @@
             "title": "Celebrate with Party Play and Pokémon first discovered in the Paldea region!",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=en",
             "date": "November 16, 2023"
-        },
-        {
-            "title": "Coming soon: Updates to Pokémon Trainer Club login",
-            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=en",
-            "date": "November 14, 2023"
         }
     ]
 }
