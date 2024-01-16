@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Team GO Rocket revient, Kyogre Obscur rejoint Giovanni et Ho-Oh Obscur débarque dans les Raids Obscurs !",
+            "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=fr",
+            "date": "16 janvier 2024"
+        },
+        {
             "title": "Préparez-vous à célébrer l’arrivée de Courrousinge, le Pokémon Singe Furax, à l’occasion de la prochaine Semaine Combat !",
             "link": "https://pokemongolive.com/post/raging-battles-2024?hl=fr",
             "date": "11 janvier 2024"
@@ -148,11 +153,6 @@
             "title": "Célébrez le Jeu en équipe et les Pokémon originaires de la région de Paldea !",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=fr",
             "date": "16 novembre 2023"
-        },
-        {
-            "title": "Prochainement : mise à jour de la connexion au Club des Dresseurs Pokémon",
-            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=fr",
-            "date": "14 novembre 2023"
         }
     ]
 }
