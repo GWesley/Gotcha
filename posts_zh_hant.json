@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO官方路線即將在台南登場！",
+            "link": "https://pokemongolive.com/post/official-route-tainan?hl=zh_Hant",
+            "date": "2024年1月19日"
+        },
+        {
             "title": "GO火箭隊回來了！「暗影蓋歐卡」加入了阪木的陣營，「暗影鳳王」也將在暗影團體戰首度登場！",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=zh_Hant",
             "date": "2024年1月16日"
@@ -148,11 +153,6 @@
             "title": "進行小隊合作，並與來自帕底亞地區的寶可夢一同慶祝吧！",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=zh_Hant",
             "date": "2023年11月16日"
-        },
-        {
-            "title": "即將登場：寶可夢訓練家俱樂部登入更新",
-            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=zh_Hant",
-            "date": "2023年11月14日"
         }
     ]
 }
