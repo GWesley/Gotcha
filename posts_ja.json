@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Pokémon GO官方路線即將在台南登場！",
-            "link": "https://pokemongolive.com/post/official-route-tainan?hl=ja",
-            "date": "2024年1月19日"
-        },
-        {
             "title": "GOロケット団が再び姿を現し、サカキが「シャドウカイオーガ」を従えているほか、「シャドウホウオウ」が「シャドウレイド」に初登場します！",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=ja",
             "date": "2024年1月16日"
@@ -153,6 +148,11 @@
             "title": "「チームコラボ」やパルデア地方で発見されたポケモンとの出会いを楽しもう！",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=ja",
             "date": "2023年11月16日"
+        },
+        {
+            "title": "ログインにポケモントレーナークラブを利用している皆さんへ",
+            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=ja",
+            "date": "2023年11月14日"
         }
     ]
 }
