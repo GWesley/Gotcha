@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Partecipate all’avventura ispirata a Sinnoh durante l’evento Destinazione Sinnoh.",
+            "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=it",
+            "date": "23 gennaio 2024"
+        },
+        {
             "title": "Il Team GO Rocket sta tornando, Kyogre Ombra si unisce a Giovanni e Ho-Oh Ombra fa il suo debutto nei raid Ombra.",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=it",
             "date": "16 gennaio 2024"
@@ -148,11 +153,6 @@
             "title": "In questo Black Friday piovono Pokémonete!",
             "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=it",
             "date": "21 novembre 2023"
-        },
-        {
-            "title": "Festeggiate con Gioco in gruppo e con i Pokémon scoperti per la prima volta nella regione di Paldea.",
-            "link": "https://pokemongolive.com/post/season12-finale-2023?hl=it",
-            "date": "16 novembre 2023"
         }
     ]
 }
