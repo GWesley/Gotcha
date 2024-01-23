@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Embarquez pour une aventure inspirée de la région de Sinnoh à l’occasion de l’événement En route pour Sinnoh !",
+            "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=fr",
+            "date": "23 janvier 2024"
+        },
+        {
             "title": "La Team GO Rocket revient, Kyogre Obscur rejoint Giovanni et Ho-Oh Obscur débarque dans les Raids Obscurs !",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=fr",
             "date": "16 janvier 2024"
@@ -148,11 +153,6 @@
             "title": "Il pleut des PokéPièces pour le Black Friday !",
             "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=fr",
             "date": "21 novembre 2023"
-        },
-        {
-            "title": "Célébrez le Jeu en équipe et les Pokémon originaires de la région de Paldea !",
-            "link": "https://pokemongolive.com/post/season12-finale-2023?hl=fr",
-            "date": "16 novembre 2023"
         }
     ]
 }
