@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Embarquem em uma aventura inspirada em Sinnoh no evento Caminho para Sinnoh.",
+            "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=pt_BR",
+            "date": "23 de janeiro de 2024"
+        },
+        {
             "title": "A Equipe GO Rocket está de volta. Kyogre Sombroso se junta a Giovanni, e Ho-Oh Sombroso estreia no Reide Sombroso.",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=pt_BR",
             "date": "16 de janeiro de 2024"
@@ -148,11 +153,6 @@
             "title": "Está chovendo Pokémoedas nesta Black Friday!",
             "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=pt_BR",
             "date": "21 de novembro de 2023"
-        },
-        {
-            "title": "Comemore com Jogo em Grupo e Pokémon descobertos pela primeira vez na região de Paldea!",
-            "link": "https://pokemongolive.com/post/season12-finale-2023?hl=pt_BR",
-            "date": "16 de novembro de 2023"
         }
     ]
 }
