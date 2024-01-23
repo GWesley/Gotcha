@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Embarcaos en una aventura inspirada en Sinnoh durante el evento Camino a Sinnoh!",
+            "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=es",
+            "date": "23 de enero de 2024"
+        },
+        {
             "title": "Vuelve el Team GO Rocket, ¡Kyogre oscuro se une a Giovanni y Ho-Oh oscuro hace su debut en las incursiones oscuras!",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=es",
             "date": "16 de enero de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Este Black Friday caerán Pokémonedas del cielo!",
             "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=es",
             "date": "21 de noviembre de 2023"
-        },
-        {
-            "title": "¡Celebrad con Juego en equipo y los Pokémon descubiertos originalmente en la región de Paldea!",
-            "link": "https://pokemongolive.com/post/season12-finale-2023?hl=es",
-            "date": "16 de noviembre de 2023"
         }
     ]
 }
