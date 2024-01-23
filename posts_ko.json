@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"신오로의 길\" 이벤트에서 신오지방이 테마인 모험으로 떠나세요!",
+            "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=ko",
+            "date": "2024년 1월 23일"
+        },
+        {
             "title": "GO로켓단이 돌아오고, 비주기가 \"그림자 가이오가\"를 데리고 있으며, \"그림자 칠색조\"가 그림자 레이드에 처음 등장합니다!",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=ko",
             "date": "2024년 1월 16일"
@@ -148,11 +153,6 @@
             "title": "팔데아지방에서 처음 발견된 포켓몬과 팀 플레이로 함께 즐기세요!",
             "link": "https://pokemongolive.com/post/season12-finale-2023?hl=ko",
             "date": "2023년 11월 16일"
-        },
-        {
-            "title": "준비 중: Pokémon Trainer Club 로그인 관련 최신 정보",
-            "link": "https://pokemongolive.com/post/PTC-login-updates?hl=ko",
-            "date": "2023년 11월 14일"
         }
     ]
 }
