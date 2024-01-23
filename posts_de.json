@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Begebt euch beim Event „Der Weg nach Sinnoh“ auf ein Sinnoh-Abenteuer!",
+            "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=de",
+            "date": "23. Januar 2024"
+        },
+        {
             "title": "Team GO Rocket kehrt zurück, Giovanni setzt Crypto-Kyogre ein und Crypto-Ho-Oh erscheint in Crypto-Raids!",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=de",
             "date": "16. Januar 2024"
@@ -148,11 +153,6 @@
             "title": "Diesen Black Friday regnet es PokéMünzen!",
             "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=de",
             "date": "21. November 2023"
-        },
-        {
-            "title": "Feiert mit Team-Play und Pokémon aus der Paldea-Region!",
-            "link": "https://pokemongolive.com/post/season12-finale-2023?hl=de",
-            "date": "16. November 2023"
         }
     ]
 }
