@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Célébrez le Nouvel An lunaire avec l’événement Pokémon GO 2024 : « Nouvel An lunaire » !",
+            "link": "https://pokemongolive.com/post/lunar-new-year-event-2024?hl=fr",
+            "date": "25 janvier 2024"
+        },
+        {
             "title": "Embarquez pour une aventure inspirée de la région de Sinnoh à l’occasion de l’événement En route pour Sinnoh !",
             "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=fr",
             "date": "23 janvier 2024"
@@ -148,11 +153,6 @@
             "title": "Restez à l’affût pour la nouvelle Saison dans laquelle Clamiral de Hisui fera son entrée lors d’une Journée de Raids.",
             "link": "https://pokemongolive.com/post/hisuian-samurott-raid-day-event?hl=fr",
             "date": "28 novembre 2023"
-        },
-        {
-            "title": "Il pleut des PokéPièces pour le Black Friday !",
-            "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=fr",
-            "date": "21 novembre 2023"
         }
     ]
 }
