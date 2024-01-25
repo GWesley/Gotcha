@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Feiert das Mondneujahr 2024 mit dem Mondneujahr-Event in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/lunar-new-year-event-2024?hl=de",
+            "date": "25. Januar 2024"
+        },
+        {
             "title": "Begebt euch beim Event „Der Weg nach Sinnoh“ auf ein Sinnoh-Abenteuer!",
             "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=de",
             "date": "23. Januar 2024"
@@ -148,11 +153,6 @@
             "title": "Bald beginnt die neue Jahreszeit – begrüßt sie mit einem Raid-Tag, bei dem Hisui-Admurai im Mittelpunkt steht!",
             "link": "https://pokemongolive.com/post/hisuian-samurott-raid-day-event?hl=de",
             "date": "28. November 2023"
-        },
-        {
-            "title": "Diesen Black Friday regnet es PokéMünzen!",
-            "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=de",
-            "date": "21. November 2023"
         }
     ]
 }
