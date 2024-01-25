@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate the Lunar New Year with Pokémon GO’s 2024 Lunar New Year event!",
+            "link": "https://pokemongolive.com/post/lunar-new-year-event-2024?hl=en",
+            "date": "January 25, 2024"
+        },
+        {
             "title": "Embark on a Sinnoh-inspired adventure during the Road to Sinnoh event!",
             "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=en",
             "date": "January 23, 2024"
@@ -148,11 +153,6 @@
             "title": "Stay sharp for the new Season with Hisuian Samurott’s debut in a Raid Day event!",
             "link": "https://pokemongolive.com/post/hisuian-samurott-raid-day-event?hl=en",
             "date": "November 28, 2023"
-        },
-        {
-            "title": "It’s raining PokéCoins this Black Friday!",
-            "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=en",
-            "date": "November 21, 2023"
         }
     ]
 }
