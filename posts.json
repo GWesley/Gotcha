@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Testing visual changes to the Pokémon GO experience",
+            "link": "https://pokemongolive.com/post/visual-testing-2024?hl=en",
+            "date": "January 25, 2024"
+        },
+        {
             "title": "Celebrate the Lunar New Year with Pokémon GO’s 2024 Lunar New Year event!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2024?hl=en",
             "date": "January 25, 2024"
@@ -147,11 +152,6 @@
         {
             "title": "GO Battle League: Timeless Travels Update",
             "link": "https://pokemongolive.com/post/go-battle-league-timeless-travels?hl=en",
-            "date": "November 28, 2023"
-        },
-        {
-            "title": "Stay sharp for the new Season with Hisuian Samurott’s debut in a Raid Day event!",
-            "link": "https://pokemongolive.com/post/hisuian-samurott-raid-day-event?hl=en",
             "date": "November 28, 2023"
         }
     ]
