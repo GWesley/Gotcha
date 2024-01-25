@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ฉลองวันตรุษจีนด้วยอีเวนต์วันตรุษจีนปี 2024 กับ Pokémon GO!",
+            "link": "https://pokemongolive.com/post/lunar-new-year-event-2024?hl=th",
+            "date": "25 มกราคม 2567"
+        },
+        {
             "title": "ออกเดินทางสู่การผจญภัยที่ได้รับแรงบันดาลใจจากชินโอในอีเวนต์เส้นทางสู่ชินโอ!",
             "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=th",
             "date": "23 มกราคม 2567"
@@ -148,11 +153,6 @@
             "title": "แบล็คฟรายเดย์นี้ ฝนจะตกเป็นโปเกคอยน์!",
             "link": "https://pokemongolive.com/post/web-store-Black-Friday-2023?hl=th",
             "date": "21 พฤศจิกายน 2566"
-        },
-        {
-            "title": "เฉลิมฉลองกับการเล่นแบบปาร์ตี้และโปเกมอนที่ค้นพบครั้งแรกในภูมิภาคพัลเดีย!",
-            "link": "https://pokemongolive.com/post/season12-finale-2023?hl=th",
-            "date": "16 พฤศจิกายน 2566"
         }
     ]
 }
