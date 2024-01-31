@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Community Ambassador Program Update",
+            "link": "https://pokemongolive.com/post/community-ambassador-program-relaunch?hl=en",
+            "date": "January 30, 2024"
+        },
+        {
             "title": "It’s fight or flight as Hisuian Decidueye makes its debut in a Raid Day event ahead of Pokémon GO Tour: Sinnoh!",
             "link": "https://pokemongolive.com/post/hisuian-decidueye-raid-day-event?hl=en",
             "date": "January 30, 2024"
@@ -148,11 +153,6 @@
             "title": "Bring on the holiday gameplay",
             "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=en",
             "date": "November 29, 2023"
-        },
-        {
-            "title": "Welcome to Pokémon GO: Timeless Travels",
-            "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=en",
-            "date": "November 28, 2023"
         }
     ]
 }
