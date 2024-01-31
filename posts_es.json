@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Actualización sobre el programa de Embajadores de la comunidad",
-            "link": "https://pokemongolive.com/post/community-ambassador-program-relaunch?hl=es",
-            "date": "30 de enero de 2024"
-        },
-        {
             "title": "¡Lucha o huye cuando Decidueye de Hisui debute en un evento de día de incursiones antes del Tour de Pokémon GO: Sinnoh!",
             "link": "https://pokemongolive.com/post/hisuian-decidueye-raid-day-event?hl=es",
             "date": "30 de enero de 2024"
@@ -152,6 +147,11 @@
         {
             "title": "Os damos la bienvenida a Pokémon GO: Viajes atemporales",
             "link": "https://pokemongolive.com/post/welcome-to-timeless-travels?hl=es",
+            "date": "28 de noviembre de 2023"
+        },
+        {
+            "title": "¡Poneos al día con el Día de la Comunidad! ¡Los Pokémon de los Días de la Comunidad de 2022 y 2023 vuelven para celebrar la recta final del año recordando!",
+            "link": "https://pokemongolive.com/post/community-day-december-2023?hl=es",
             "date": "28 de noviembre de 2023"
         }
     ]
