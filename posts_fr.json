@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Tenez-vous au courant de l'actualité locale !",
+            "link": "https://pokemongolive.com/post/socialmedia-launch-france?hl=fr",
+            "date": "2 février 2024"
+        },
+        {
             "title": "Amovénus Forme Avatar débarque dans les Raids d’élite !",
             "link": "https://pokemongolive.com/post/elite-raids-incarnate-enamorus?hl=fr",
             "date": "1 février 2024"
@@ -148,11 +153,6 @@
             "title": "Fêtez l’arrivée de Mateo dans Pokémon GO lors de l’événement Sur les Routes !",
             "link": "https://pokemongolive.com/post/along-the-routes-2023?hl=fr",
             "date": "30 novembre 2023"
-        },
-        {
-            "title": "Le jeu des vacances",
-            "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=fr",
-            "date": "29 novembre 2023"
         }
     ]
 }
