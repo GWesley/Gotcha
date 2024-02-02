@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡No te pierdas las últimas noticias locales!",
+            "link": "https://pokemongolive.com/post/socialmedia-launch-spain?hl=es",
+            "date": "2 de febrero de 2024"
+        },
+        {
             "title": "¡Enamorus Forma Avatar llega a las incursiones élite!",
             "link": "https://pokemongolive.com/post/elite-raids-incarnate-enamorus?hl=es",
             "date": "1 de febrero de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Celebra la llegada de Mateo, una cara nueva que se une a Pokémon GO durante el evento En Ruta!",
             "link": "https://pokemongolive.com/post/along-the-routes-2023?hl=es",
             "date": "30 de noviembre de 2023"
-        },
-        {
-            "title": "Que comience la diversión navideña",
-            "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=es",
-            "date": "29 de noviembre de 2023"
         }
     ]
 }
