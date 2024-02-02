@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Non perderti le ultime novità locali!",
+            "link": "https://pokemongolive.com/post/socialmedia-launch-italy?hl=it",
+            "date": "2 febbraio 2024"
+        },
+        {
             "title": "Enamorus in Forma Incarnazione fa il suo debutto nei raid fuoriclasse!",
             "link": "https://pokemongolive.com/post/elite-raids-incarnate-enamorus?hl=it",
             "date": "1 febbraio 2024"
@@ -148,11 +153,6 @@
             "title": "Festeggiamo Mateo, un nuovo volto in arrivo in Pokémon GO, con l’evento Lungo i percorsi!",
             "link": "https://pokemongolive.com/post/along-the-routes-2023?hl=it",
             "date": "30 novembre 2023"
-        },
-        {
-            "title": "Che il divertimento natalizio abbia inizio",
-            "link": "https://pokemongolive.com/post/europe-holiday-gameplay?hl=it",
-            "date": "29 novembre 2023"
         }
     ]
 }
