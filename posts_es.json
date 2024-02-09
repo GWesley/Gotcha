@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Actualización del canje de códigos de oferta en Android",
+            "link": "https://pokemongolive.com/post/android-offer-code-update?hl=es",
+            "date": "9 de febrero de 2024"
+        },
+        {
             "title": "¡Preparaos para el Tour de Pokémon GO: Sinnoh con Amazon Prime Gaming!",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-february?hl=es",
             "date": "9 de febrero de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Capturad Pokémon Hielo durante Objetivo de Captura!",
             "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=es",
             "date": "4 de diciembre de 2023"
-        },
-        {
-            "title": "¡Llegad a tiempo para el evento Una era imperecedera y celebradlo en equipo con un regreso de Kanto!",
-            "link": "https://pokemongolive.com/post/adamant-time-kanto-event?hl=es",
-            "date": "1 de diciembre de 2023"
         }
     ]
 }
