@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Update to Android Offer Code Redemption",
+            "link": "https://pokemongolive.com/post/android-offer-code-update?hl=en",
+            "date": "February 9, 2024"
+        },
+        {
             "title": "Get Ready for Pokémon GO Tour: Sinnoh with Amazon Prime Gaming!",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-february?hl=en",
             "date": "February 9, 2024"
@@ -148,11 +153,6 @@
             "title": "Get ready for the holidays with Pokémon and item storage increases!",
             "link": "https://pokemongolive.com/post/december-storage-increase?hl=en",
             "date": "December 7, 2023"
-        },
-        {
-            "title": "Catch some icy Pokémon during Catch Mastery!",
-            "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=en",
-            "date": "December 4, 2023"
         }
     ]
 }
