@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Saturday update for Pokémon GO Tour: Sinnoh – Los Angeles",
+            "link": "https://pokemongolive.com/post/gotour2024-losangeles-update?hl=en",
+            "date": "February 17, 2024"
+        },
+        {
             "title": "Update to Android Offer Code Redemption",
             "link": "https://pokemongolive.com/post/android-offer-code-update?hl=en",
             "date": "February 9, 2024"
@@ -148,11 +153,6 @@
             "title": "Celebrate the season—Cetoddle, Cetitan, and more are coming to Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=en",
             "date": "December 12, 2023"
-        },
-        {
-            "title": "Get ready for the holidays with Pokémon and item storage increases!",
-            "link": "https://pokemongolive.com/post/december-storage-increase?hl=en",
-            "date": "December 7, 2023"
         }
     ]
 }
