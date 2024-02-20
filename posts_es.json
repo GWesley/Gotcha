@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Apúntate con tus amigos al Tour de Pokémon GO: Global 2024!",
+            "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=es",
+            "date": "20 de febrero de 2024"
+        },
+        {
             "title": "Actualización del canje de códigos de oferta en Android",
             "link": "https://pokemongolive.com/post/android-offer-code-update?hl=es",
             "date": "9 de febrero de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Disfruta de las fiestas con un aumento de almacenamiento de objetos y Pokémon!",
             "link": "https://pokemongolive.com/post/december-storage-increase?hl=es",
             "date": "7 de diciembre de 2023"
-        },
-        {
-            "title": "¡Capturad Pokémon Hielo durante Objetivo de Captura!",
-            "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=es",
-            "date": "4 de diciembre de 2023"
         }
     ]
 }
