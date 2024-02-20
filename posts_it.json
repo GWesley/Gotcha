@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Partecipa al tour di Pokémon GO: globale 2024 con i tuoi amici!",
+            "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=it",
+            "date": "20 febbraio 2024"
+        },
+        {
             "title": "Aggiornamento per il riscatto del codice dell’offerta Android",
             "link": "https://pokemongolive.com/post/android-offer-code-update?hl=it",
             "date": "9 febbraio 2024"
@@ -148,11 +153,6 @@
             "title": "Preparatevi per le vacanze con ampliamenti nello Spazio Pokémon e nella Borsa.",
             "link": "https://pokemongolive.com/post/december-storage-increase?hl=it",
             "date": "7 dicembre 2023"
-        },
-        {
-            "title": "Catturate alcuni Pokémon di tipo Ghiaccio durante Obiettivo cattura!",
-            "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=it",
-            "date": "4 dicembre 2023"
         }
     ]
 }
