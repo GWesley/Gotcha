@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Nimm mit deinen Freund*innen bei der Pokémon GO Tour: Global 2024 teil!",
+            "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=de",
+            "date": "20. Februar 2024"
+        },
+        {
             "title": "Änderung bei der Einlösung von Angebotscodes unter Android",
             "link": "https://pokemongolive.com/post/android-offer-code-update?hl=de",
             "date": "9. Februar 2024"
@@ -148,11 +153,6 @@
             "title": "Fangt Eis-Pokémon beim Fangkunst-Event!",
             "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=de",
             "date": "4. Dezember 2023"
-        },
-        {
-            "title": "Holt beim Event „Adamante Zeit“ Verpasstes nach und erlebt gemeinsam weitere Kanto-Abenteuer!",
-            "link": "https://pokemongolive.com/post/adamant-time-kanto-event?hl=de",
-            "date": "1. Dezember 2023"
         }
     ]
 }
