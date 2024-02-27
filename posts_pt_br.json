@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebre o lançamento da série \"Pokémon: Horizontes\" com um novo evento!",
+            "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=pt_BR",
+            "date": "27 de fevereiro de 2024"
+        },
+        {
             "title": "Atualização sobre o resgate de códigos de oferta no Android",
             "link": "https://pokemongolive.com/post/android-offer-code-update?hl=pt_BR",
             "date": "9 de fevereiro de 2024"
@@ -148,11 +153,6 @@
             "title": "As férias estão chegando e trazendo maior capacidade de armazenamento de Pokémon e de itens.",
             "link": "https://pokemongolive.com/post/december-storage-increase?hl=pt_BR",
             "date": "7 de dezembro de 2023"
-        },
-        {
-            "title": "Peguem alguns Pokémon gelados durante o evento Mestre da captura!",
-            "link": "https://pokemongolive.com/post/catch-mastery-ice-2023?hl=pt_BR",
-            "date": "4 de dezembro de 2023"
         }
     ]
 }
