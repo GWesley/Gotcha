@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Festeggia il rilascio della serie Orizzonti Pokémon con un nuovo evento.",
+            "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=it",
+            "date": "27 febbraio 2024"
+        },
+        {
             "title": "Partecipa al tour di Pokémon GO: globale 2024 con i tuoi amici!",
             "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=it",
             "date": "20 febbraio 2024"
@@ -148,11 +153,6 @@
             "title": "Festeggiate questa stagione: Cetoddle, Cetitan e tanti altri stanno arrivando in Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=it",
             "date": "12 dicembre 2023"
-        },
-        {
-            "title": "Preparatevi per le vacanze con ampliamenti nello Spazio Pokémon e nella Borsa.",
-            "link": "https://pokemongolive.com/post/december-storage-increase?hl=it",
-            "date": "7 dicembre 2023"
         }
     ]
 }
