@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\" 새로운 시즌 \"월드 오브 원더즈\"에 오신 것을 환영합니다",
+            "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=ko",
+            "date": "2024년 2월 28일"
+        },
+        {
             "title": "세계 각 나라에서 방송되는 TV애니메이션 「포켓몬스터」와의 콜라보 이벤트 개최",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=ko",
             "date": "2024년 2월 27일"
@@ -148,11 +153,6 @@
             "title": "홀리데이 시즌을 기념하세요! \"터벅고래\", \"우락고래\" 등이 \"Pokémon GO\"에 등장!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=ko",
             "date": "2023년 12월 12일"
-        },
-        {
-            "title": "포켓몬과 도구 보관소 확장으로 연휴에 대비하세요!",
-            "link": "https://pokemongolive.com/post/december-storage-increase?hl=ko",
-            "date": "2023년 12월 7일"
         }
     ]
 }
