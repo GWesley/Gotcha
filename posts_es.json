@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bienvenidos a Pokémon GO: Un mundo Maravilloso",
+            "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=es",
+            "date": "28 de febrero de 2024"
+        },
+        {
             "title": "¡Celebrad el estreno de la serie Horizontes Pokémon con un nuevo evento!",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=es",
             "date": "27 de febrero de 2024"
@@ -147,11 +152,6 @@
         {
             "title": "¡Preparaos para el evento Paraíso Invernal de este año y la llegada de Wyrdeer a Pokémon GO durante el día de incursiones de Wyrdeer!",
             "link": "https://pokemongolive.com/post/winter-wonderland-wyrdeer-raid-2023?hl=es",
-            "date": "12 de diciembre de 2023"
-        },
-        {
-            "title": "¡Para celebrar la temporada, Cetoddle, Cetitan y muchos más Pokémon llegan a Pokémon GO!",
-            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=es",
             "date": "12 de diciembre de 2023"
         }
     ]
