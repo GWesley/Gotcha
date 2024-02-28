@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Informations concernant la Ligue Combat GO : Monde Merveilleux",
+            "link": "https://pokemongolive.com/post/go-battle-league-world-of-wonders?hl=fr",
+            "date": "28 février 2024"
+        },
+        {
             "title": "Bienvenue dans Pokémon GO : Monde Merveilleux",
             "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=fr",
             "date": "28 février 2024"
@@ -148,11 +153,6 @@
             "title": "De nouveaux objets d’avatar inspirés de l’extension Le trésor enfoui de la Zone Zéro Volume 2 : Le Disque Indigo débarquent très prochainement !",
             "link": "https://pokemongolive.com/post/area-zero-indigo-disc-nintendo-switch-outfit?hl=fr",
             "date": "13 décembre 2023"
-        },
-        {
-            "title": "Habillez-vous chaudement pour l’événement Hiver merveilleux de cette année ainsi que pour la première apparition de Cerbyllin dans Pokémon GO, à l’occasion de la Journée de Raids Cerbyllin !",
-            "link": "https://pokemongolive.com/post/winter-wonderland-wyrdeer-raid-2023?hl=fr",
-            "date": "12 décembre 2023"
         }
     ]
 }
