@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Willkommen bei Pokémon GO: Welt voller Wunder",
+            "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=de",
+            "date": "28. Februar 2024"
+        },
+        {
             "title": "Event zur Veröffentlichung von „Pokémon Horizonte: Die Serie“",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=de",
             "date": "27. Februar 2024"
@@ -148,11 +153,6 @@
             "title": "Zur Feier der Jahreszeit erscheinen Flaniwal, Kolowal und weitere Pokémon in Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=de",
             "date": "12. Dezember 2023"
-        },
-        {
-            "title": "Bereitet euch mit Kapazitätserhöhungen für die Pokémon-Box und den Item-Beutel auf die Feiertage vor!",
-            "link": "https://pokemongolive.com/post/december-storage-increase?hl=de",
-            "date": "7. Dezember 2023"
         }
     ]
 }
