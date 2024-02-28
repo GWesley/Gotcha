@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: World of Wonders",
+            "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=en",
+            "date": "February 28, 2024"
+        },
+        {
             "title": "Celebrate the release of Pokémon Horizons: The Series with a new event!",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=en",
             "date": "February 27, 2024"
@@ -148,11 +153,6 @@
             "title": "New avatar items inspired by The Hidden Treasure of Area Zero Part 2: The Indigo Disk are coming soon!",
             "link": "https://pokemongolive.com/post/area-zero-indigo-disc-nintendo-switch-outfit?hl=en",
             "date": "December 13, 2023"
-        },
-        {
-            "title": "Bundle up for this year’s Winter Wonderland event and Wyrdeer’s Pokémon GO debut during Wyrdeer Raid Day!",
-            "link": "https://pokemongolive.com/post/winter-wonderland-wyrdeer-raid-2023?hl=en",
-            "date": "December 12, 2023"
         }
     ]
 }
