@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Apresentamos o Pokémon GO: Mundo das Maravilhas",
+            "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=pt_BR",
+            "date": "28 de fevereiro de 2024"
+        },
+        {
             "title": "Celebre o lançamento da série \"Pokémon: Horizontes\" com um novo evento!",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=pt_BR",
             "date": "27 de fevereiro de 2024"
@@ -148,11 +153,6 @@
             "title": "Para a celebração da temporada, Cetoddle, Cetitan e muito mais estão chegando ao Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=pt_BR",
             "date": "12 de dezembro de 2023"
-        },
-        {
-            "title": "As férias estão chegando e trazendo maior capacidade de armazenamento de Pokémon e de itens.",
-            "link": "https://pokemongolive.com/post/december-storage-increase?hl=pt_BR",
-            "date": "7 de dezembro de 2023"
         }
     ]
 }
