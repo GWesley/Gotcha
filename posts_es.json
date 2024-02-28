@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Captura Pokémon de tipo Eléctrico durante el evento Día de investigación electrizante!",
+            "link": "https://pokemongolive.com/post/charged-up-research-day-2024?hl=es",
+            "date": "28 de febrero de 2024"
+        },
+        {
             "title": "Novedades de la Liga Combates GO: Un Mundo Maravilloso",
             "link": "https://pokemongolive.com/post/go-battle-league-world-of-wonders?hl=es",
             "date": "28 de febrero de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Continúa la belleza del invierno con Fiestas Invernales (2.ª parte) de Pokémon GO!",
             "link": "https://pokemongolive.com/post/winter-holiday-part-2-2023?hl=es",
             "date": "14 de diciembre de 2023"
-        },
-        {
-            "title": "¡Pronto llegarán los nuevos artículos para el avatar inspirados en El tesoro oculto del Área Cero parte 2: El disco índigo!",
-            "link": "https://pokemongolive.com/post/area-zero-indigo-disc-nintendo-switch-outfit?hl=es",
-            "date": "13 de diciembre de 2023"
         }
     ]
 }
