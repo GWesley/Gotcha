@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "歡迎來到「Pokémon GO：驚奇多多的世界」",
+            "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=zh_Hant",
+            "date": "2024年2月28日"
+        },
+        {
             "title": "在全新活動中慶祝《寶可夢地平線：系列》開播！",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=zh_Hant",
             "date": "2024年2月27日"
@@ -147,11 +152,6 @@
         {
             "title": "「詭角鹿」將在「詭角鹿團體戰日」於Pokémon GO首度登場！把自己穿得暖暖的，享受「冬日仙境」的活動樂趣吧！",
             "link": "https://pokemongolive.com/post/winter-wonderland-wyrdeer-raid-2023?hl=zh_Hant",
-            "date": "2023年12月12日"
-        },
-        {
-            "title": "歡慶佳節——「走鯨」、「浩大鯨」，以及更多寶可夢即將在Pokémon GO登場！",
-            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=zh_Hant",
             "date": "2023年12月12日"
         }
     ]
