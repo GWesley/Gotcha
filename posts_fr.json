@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bienvenue dans Pokémon GO : Monde Merveilleux",
+            "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=fr",
+            "date": "28 février 2024"
+        },
+        {
             "title": "Célébrez la sortie de La série : Pokémon, les horizons lors d’un nouvel évènement !",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=fr",
             "date": "27 février 2024"
@@ -147,11 +152,6 @@
         {
             "title": "Habillez-vous chaudement pour l’événement Hiver merveilleux de cette année ainsi que pour la première apparition de Cerbyllin dans Pokémon GO, à l’occasion de la Journée de Raids Cerbyllin !",
             "link": "https://pokemongolive.com/post/winter-wonderland-wyrdeer-raid-2023?hl=fr",
-            "date": "12 décembre 2023"
-        },
-        {
-            "title": "Fêtez cette période de l’année avec l’arrivée sur Pokémon GO de Piétacé, de Balbalèze et de bien d’autres Pokémon !",
-            "link": "https://pokemongolive.com/post/winter-holiday-part-1-2023?hl=fr",
             "date": "12 décembre 2023"
         }
     ]
