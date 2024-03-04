@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Make Friends and Evolve Your Skills with Local Pokémon GO Events in Oceania",
+            "link": "https://pokemongolive.com/post/oc-local-op-program?hl=en",
+            "date": "March 4, 2024"
+        },
+        {
             "title": "Spectacular Showcase updates await at a PokéStop near you—plus a clever Pikachu debuts, too!",
             "link": "https://pokemongolive.com/post/pokestop-showcase-updates-pikachu-2024?hl=en",
             "date": "February 29, 2024"
@@ -148,11 +153,6 @@
             "title": "Prepare for January’s travels with Pokémon GO’s Eggs-pedition Access!",
             "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=en",
             "date": "December 29, 2023"
-        },
-        {
-            "title": "Celebrate the start of 2024 with a grand event!",
-            "link": "https://pokemongolive.com/post/new-year-2024?hl=en",
-            "date": "December 21, 2023"
         }
     ]
 }
