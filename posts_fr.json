@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les éléments vont se déchaîner ! Primo-Kyogre et Primo-Groudon seront présents dans le monde entier pour de nouvelles Journées de Raids.",
+            "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=fr",
+            "date": "4 mars 2024"
+        },
+        {
             "title": "Rendez-vous à un PokéStop proche de vous pour découvrir d’incroyables nouveautés concernant les Épreuves et rencontrer un nouveau Pikachu particulièrement intelligent !",
             "link": "https://pokemongolive.com/post/pokestop-showcase-updates-pikachu-2024?hl=fr",
             "date": "29 février 2024"
@@ -148,11 +153,6 @@
             "title": "Célébrez l’arrivée de 2024 avec un événement génial !",
             "link": "https://pokemongolive.com/post/new-year-2024?hl=fr",
             "date": "21 décembre 2023"
-        },
-        {
-            "title": "Journée Communauté de janvier 2024 : Brindibou",
-            "link": "https://pokemongolive.com/post/communityday-january-2024-rowlet?hl=fr",
-            "date": "18 décembre 2023"
         }
     ]
 }
