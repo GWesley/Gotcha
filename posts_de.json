@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wetterwoche",
+            "link": "https://pokemongolive.com/post/weather-week-2024?hl=de",
+            "date": "6. März 2024"
+        },
+        {
             "title": "Proto-Kyogre und Proto-Groudon entfesseln bei den nächsten weltweiten Raid-Tagen die Elemente!",
             "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=de",
             "date": "4. März 2024"
@@ -148,11 +153,6 @@
             "title": "Wir läuten 2024 mit einem gigantischen Event ein!",
             "link": "https://pokemongolive.com/post/new-year-2024?hl=de",
             "date": "21. Dezember 2023"
-        },
-        {
-            "title": "Community Day im Januar 2024: Bauz",
-            "link": "https://pokemongolive.com/post/communityday-january-2024-rowlet?hl=de",
-            "date": "18. Dezember 2023"
         }
     ]
 }
