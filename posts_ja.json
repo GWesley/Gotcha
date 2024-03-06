@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ウェザーウィーク",
+            "link": "https://pokemongolive.com/post/weather-week-2024?hl=ja",
+            "date": "2024年3月6日"
+        },
+        {
             "title": "新しい「レイド・デイ」イベントで、「ゲンシカイオーガ」や「ゲンシグラードン」がやってきます",
             "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=ja",
             "date": "2024年3月4日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』のイベントで2024年の幕開けをお祝いしよう！",
             "link": "https://pokemongolive.com/post/new-year-2024?hl=ja",
             "date": "2023年12月21日"
-        },
-        {
-            "title": "2024年1月の「コミュニティ・デイ」：「モクロー」",
-            "link": "https://pokemongolive.com/post/communityday-january-2024-rowlet?hl=ja",
-            "date": "2023年12月18日"
         }
     ]
 }
