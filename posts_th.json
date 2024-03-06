@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "สัปดาห์สภาพอากาศ",
+            "link": "https://pokemongolive.com/post/weather-week-2024?hl=th",
+            "date": "6 มีนาคม 2567"
+        },
+        {
             "title": "ไคออกาต้นกำเนิดและกราดอนต้นกำเนิดปลดปล่อยพลังแห่งท้องทะเลและผืนดินทั่วโลกในอีเวนต์วันตีบอสใหม่!",
             "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=th",
             "date": "4 มีนาคม 2567"
@@ -148,11 +153,6 @@
             "title": "คอมมิวนิตี้เดย์เดือนมกราคม 2024: โมคุโร",
             "link": "https://pokemongolive.com/post/communityday-january-2024-rowlet?hl=th",
             "date": "18 ธันวาคม 2566"
-        },
-        {
-            "title": "ปลดล็อกไอเท็มอวาตาร์สุดอบอุ่นสบายก่อนใคร!",
-            "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-holiday-sweater?hl=th",
-            "date": "15 ธันวาคม 2566"
         }
     ]
 }
