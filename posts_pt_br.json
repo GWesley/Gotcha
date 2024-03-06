@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Semana climática",
+            "link": "https://pokemongolive.com/post/weather-week-2024?hl=pt_BR",
+            "date": "6 de março de 2024"
+        },
+        {
             "title": "Kyogre Primitivo e Groudon Primitivo liberam os elementos em todo mundo para os novos eventos do dia de Reides!",
             "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=pt_BR",
             "date": "4 de março de 2024"
@@ -148,11 +153,6 @@
             "title": "Comemore o início de 2024 com um grande evento!",
             "link": "https://pokemongolive.com/post/new-year-2024?hl=pt_BR",
             "date": "21 de dezembro de 2023"
-        },
-        {
-            "title": "Dia Comunitário de janeiro de 2024: Rowlet",
-            "link": "https://pokemongolive.com/post/communityday-january-2024-rowlet?hl=pt_BR",
-            "date": "18 de dezembro de 2023"
         }
     ]
 }
