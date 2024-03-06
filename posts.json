@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Weather Week",
+            "link": "https://pokemongolive.com/post/weather-week-2024?hl=en",
+            "date": "March 6, 2024"
+        },
+        {
             "title": "Primal Kyogre and Primal Groudon unleash the elements worldwide for new Raid Day events!",
             "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=en",
             "date": "March 4, 2024"
@@ -147,11 +152,6 @@
         {
             "title": "January 2024 Community Day Classic: Porygon",
             "link": "https://pokemongolive.com/post/communityday-classic-porygon?hl=en",
-            "date": "January 2, 2024"
-        },
-        {
-            "title": "Prepare for the debut of Dusk Form Lycanroc during Lustrous Odyssey!",
-            "link": "https://pokemongolive.com/post/lustrous-odyssey-2024?hl=en",
             "date": "January 2, 2024"
         }
     ]
