@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Semana Meteorológica",
+            "link": "https://pokemongolive.com/post/weather-week-2024?hl=es",
+            "date": "6 de marzo de 2024"
+        },
+        {
             "title": "¡Kyogre Primigenio y Groudon Primigenio desatan la furia de los elementos en todo el mundo con motivo de los eventos del día de incursiones!",
             "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=es",
             "date": "4 de marzo de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Preparaos para las aventuras de enero con la Operación eclosión de Pokémon GO!",
             "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=es",
             "date": "29 de diciembre de 2023"
-        },
-        {
-            "title": "¡Celebra el 2024 con un evento por todo lo alto!",
-            "link": "https://pokemongolive.com/post/new-year-2024?hl=es",
-            "date": "21 de diciembre de 2023"
         }
     ]
 }
