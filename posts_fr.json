@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Semaine météo",
+            "link": "https://pokemongolive.com/post/weather-week-2024?hl=fr",
+            "date": "6 mars 2024"
+        },
+        {
             "title": "Les éléments vont se déchaîner ! Primo-Kyogre et Primo-Groudon seront présents dans le monde entier pour de nouvelles Journées de Raids.",
             "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=fr",
             "date": "4 mars 2024"
@@ -148,11 +153,6 @@
             "title": "Préparez-vous pour les voyages de janvier avec la Marche Œuf-phorique de Pokémon GO !",
             "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=fr",
             "date": "29 décembre 2023"
-        },
-        {
-            "title": "Célébrez l’arrivée de 2024 avec un événement génial !",
-            "link": "https://pokemongolive.com/post/new-year-2024?hl=fr",
-            "date": "21 décembre 2023"
         }
     ]
 }
