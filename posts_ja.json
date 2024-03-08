@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「PJCS2024」で日本一を目指そう！",
+            "link": "https://pokemongolive.com/post/pjcs2024?hl=ja",
+            "date": "2024年3月7日"
+        },
+        {
             "title": "「『Pokémon GO』 パートナーリサーチ」のご案内！",
             "link": "https://pokemongolive.com/post/202403partnerresearch-jp?hl=ja",
             "date": "2024年3月7日"
@@ -148,11 +153,6 @@
             "title": "「ルガルガン（たそがれのすがた）」が初登場する「輝く冒険旅行」イベント開催！",
             "link": "https://pokemongolive.com/post/lustrous-odyssey-2024?hl=ja",
             "date": "2024年1月2日"
-        },
-        {
-            "title": "『Pokémon GO』の「ふかアクセス」で1月も冒険を続けましょう！",
-            "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=ja",
-            "date": "2023年12月29日"
         }
     ]
 }
