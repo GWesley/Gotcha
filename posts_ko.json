@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "신록 원더",
+            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=ko",
+            "date": "2024년 3월 11일"
+        },
+        {
             "title": "웨더 위크",
             "link": "https://pokemongolive.com/post/weather-week-2024?hl=ko",
             "date": "2024년 3월 6일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO\" 부화 정기권으로 1월도 모험을 계속하세요!",
             "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=ko",
             "date": "2023년 12월 29일"
-        },
-        {
-            "title": "\"Pokémon GO\" 이벤트와 함께 2024년의 시작을 기념하세요!",
-            "link": "https://pokemongolive.com/post/new-year-2024?hl=ko",
-            "date": "2023년 12월 21일"
         }
     ]
 }
