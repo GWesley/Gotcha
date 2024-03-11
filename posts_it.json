@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Meraviglie rigogliose",
+            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=it",
+            "date": "11 marzo 2024"
+        },
+        {
             "title": "Settimana del clima",
             "link": "https://pokemongolive.com/post/weather-week-2024?hl=it",
             "date": "6 marzo 2024"
@@ -148,11 +153,6 @@
             "title": "Preparatevi al debutto di Lycanroc in Forma Crepuscolo durante Splendiavventura!",
             "link": "https://pokemongolive.com/post/lustrous-odyssey-2024?hl=it",
             "date": "2 gennaio 2024"
-        },
-        {
-            "title": "Preparatevi per i viaggi di gennaio con l’Accesso giruovago di Pokémon GO!",
-            "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=it",
-            "date": "29 dicembre 2023"
         }
     ]
 }
