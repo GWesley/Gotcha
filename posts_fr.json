@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Merveilles verdoyantes",
+            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=fr",
+            "date": "11 mars 2024"
+        },
+        {
             "title": "Semaine météo",
             "link": "https://pokemongolive.com/post/weather-week-2024?hl=fr",
             "date": "6 mars 2024"
@@ -148,11 +153,6 @@
             "title": "Préparez-vous à l’arrivée de Lougaroc Forme Crépusculaire pendant l’événement Odyssée perlée !",
             "link": "https://pokemongolive.com/post/lustrous-odyssey-2024?hl=fr",
             "date": "2 janvier 2024"
-        },
-        {
-            "title": "Préparez-vous pour les voyages de janvier avec la Marche Œuf-phorique de Pokémon GO !",
-            "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=fr",
-            "date": "29 décembre 2023"
         }
     ]
 }
