@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Maravillas naturales",
+            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=es",
+            "date": "11 de marzo de 2024"
+        },
+        {
             "title": "Semana Meteorológica",
             "link": "https://pokemongolive.com/post/weather-week-2024?hl=es",
             "date": "6 de marzo de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Preparaos para la llegada de Lycanroc Forma Crepuscular durante Una odisea lustrosa!",
             "link": "https://pokemongolive.com/post/lustrous-odyssey-2024?hl=es",
             "date": "2 de enero de 2024"
-        },
-        {
-            "title": "¡Preparaos para las aventuras de enero con la Operación eclosión de Pokémon GO!",
-            "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=es",
-            "date": "29 de diciembre de 2023"
         }
     ]
 }
