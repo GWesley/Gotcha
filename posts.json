@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Verdant Wonders",
+            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=en",
+            "date": "March 11, 2024"
+        },
+        {
             "title": "Weather Week",
             "link": "https://pokemongolive.com/post/weather-week-2024?hl=en",
             "date": "March 6, 2024"
@@ -148,11 +153,6 @@
             "title": "Hisuian Typhlosion debuts in a Raid Day event—your next guide on the road to Pokémon GO Tour: Sinnoh!",
             "link": "https://pokemongolive.com/post/hisuian-typhlosion-raid-day-event?hl=en",
             "date": "January 3, 2024"
-        },
-        {
-            "title": "January 2024 Community Day Classic: Porygon",
-            "link": "https://pokemongolive.com/post/communityday-classic-porygon?hl=en",
-            "date": "January 2, 2024"
         }
     ]
 }
