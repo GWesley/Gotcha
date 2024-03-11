@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Maravilhas Verdejantes",
+            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=pt_BR",
+            "date": "11 de março de 2024"
+        },
+        {
             "title": "Semana climática",
             "link": "https://pokemongolive.com/post/weather-week-2024?hl=pt_BR",
             "date": "6 de março de 2024"
@@ -148,11 +153,6 @@
             "title": "Preparem-se para as viagens de janeiro com o Acesso Chocante do Pokémon GO!",
             "link": "https://pokemongolive.com/post/eggspedition-access-january-ticket-2024?hl=pt_BR",
             "date": "29 de dezembro de 2023"
-        },
-        {
-            "title": "Comemore o início de 2024 com um grande evento!",
-            "link": "https://pokemongolive.com/post/new-year-2024?hl=pt_BR",
-            "date": "21 de dezembro de 2023"
         }
     ]
 }
