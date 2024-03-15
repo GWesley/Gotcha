@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Catch Pokémon at a McDonald’s restaurant near you!",
+            "link": "https://pokemongolive.com/post/mcdonalds-india?hl=en",
+            "date": "March 15, 2024"
+        },
+        {
             "title": "Protect the world from Team GO Rocket and Giovanni—and rescue Shadow Groudon and Shadow Mewtwo during World of Wonders: Taken Over!",
             "link": "https://pokemongolive.com/post/world-taken-over-by-TGR?hl=en",
             "date": "March 13, 2024"
@@ -147,11 +152,6 @@
         {
             "title": "The Dazzling Dream Event Shines Ahead in Pokémon GO!",
             "link": "https://pokemongolive.com/post/dazzling-dream-2024?hl=en",
-            "date": "January 4, 2024"
-        },
-        {
-            "title": "Avatar items from the FENDI x FRGMT x POKÉMON collection are coming to Pokémon GO!",
-            "link": "https://pokemongolive.com/post/FENDIxFRGMTxPOKEMON?hl=en",
             "date": "January 4, 2024"
         }
     ]
