@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté classique d’avril 2024 : Draby",
+            "link": "https://pokemongolive.com/post/communityday-classic-bagon?hl=fr",
+            "date": "19 mars 2024"
+        },
+        {
             "title": "Protégez le monde de la Team GO Rocket et de Giovanni pendant l’événement Monde Merveilleux : Offensive ! Il vous faudra également sauver Groudon Obscur et Mewtwo Obscur.",
             "link": "https://pokemongolive.com/post/world-taken-over-by-TGR?hl=fr",
             "date": "13 mars 2024"
@@ -148,11 +153,6 @@
             "title": "Typhlosion de Hisui fait ses débuts dans un événement Journée de Raids. Il sera votre prochain guide pour vous rendre au Circuit Pokémon GO : Sinnoh !",
             "link": "https://pokemongolive.com/post/hisuian-typhlosion-raid-day-event?hl=fr",
             "date": "3 janvier 2024"
-        },
-        {
-            "title": "Journée Communauté classique de janvier 2024 : Porygon",
-            "link": "https://pokemongolive.com/post/communityday-classic-porygon?hl=fr",
-            "date": "2 janvier 2024"
         }
     ]
 }
