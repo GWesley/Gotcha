@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Día de la Comunidad clásico de abril de 2024: Bagon",
+            "link": "https://pokemongolive.com/post/communityday-classic-bagon?hl=es",
+            "date": "19 de marzo de 2024"
+        },
+        {
             "title": "¡Proteged el mundo del Team GO Rocket y de Giovanni, y rescatad a Groudon y Mewtwo oscuros durante Un Mundo Maravilloso: Toma de control!",
             "link": "https://pokemongolive.com/post/world-taken-over-by-TGR?hl=es",
             "date": "13 de marzo de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Llega Typhlosion de Hisui por primera vez durante el evento del día de incursiones! Será vuestra guía para el Tour de Pokémon GO: Sinnoh.",
             "link": "https://pokemongolive.com/post/hisuian-typhlosion-raid-day-event?hl=es",
             "date": "3 de enero de 2024"
-        },
-        {
-            "title": "Día de la Comunidad clásico de enero 2024: Porygon",
-            "link": "https://pokemongolive.com/post/communityday-classic-porygon?hl=es",
-            "date": "2 de enero de 2024"
         }
     ]
 }
