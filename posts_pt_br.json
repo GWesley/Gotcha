@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pequenas e Grandes Surpresas",
+            "link": "https://pokemongolive.com/post/sizeable-surprises-2024?hl=pt_BR",
+            "date": "21 de março de 2024"
+        },
+        {
             "title": "Dia Comunitário Clássico de abril de 2024: Bagon",
             "link": "https://pokemongolive.com/post/communityday-classic-bagon?hl=pt_BR",
             "date": "19 de março de 2024"
@@ -148,11 +153,6 @@
             "title": "Typhlosion de Hisui estreia em um evento do dia de Reides. Esse Pokémon é o seu próximo guia na jornada do Pokémon GO Tour: Sinnoh.",
             "link": "https://pokemongolive.com/post/hisuian-typhlosion-raid-day-event?hl=pt_BR",
             "date": "3 de janeiro de 2024"
-        },
-        {
-            "title": "Dia Comunitário Clássico de janeiro de 2024: Porygon",
-            "link": "https://pokemongolive.com/post/communityday-classic-porygon?hl=pt_BR",
-            "date": "2 de janeiro de 2024"
         }
     ]
 }
