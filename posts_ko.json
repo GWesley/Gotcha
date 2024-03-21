@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "사이즈 서프라이즈",
+            "link": "https://pokemongolive.com/post/sizeable-surprises-2024?hl=ko",
+            "date": "2024년 3월 21일"
+        },
+        {
             "title": "2024년 4월 커뮤니티 데이(복각): 아공이",
             "link": "https://pokemongolive.com/post/communityday-classic-bagon?hl=ko",
             "date": "2024년 3월 19일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO Tour: 신오지방\"으로 떠나는 여행 전에 \"블레이범(히스이의 모습)\"이 레이드 데이 이벤트에 처음으로 등장합니다!",
             "link": "https://pokemongolive.com/post/hisuian-typhlosion-raid-day-event?hl=ko",
             "date": "2024년 1월 3일"
-        },
-        {
-            "title": "2024년 1월 커뮤니티 데이(복각): 폴리곤",
-            "link": "https://pokemongolive.com/post/communityday-classic-porygon?hl=ko",
-            "date": "2024년 1월 2일"
         }
     ]
 }
