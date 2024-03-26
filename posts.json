@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Join us for the London Games Festival 2024!",
+            "link": "https://pokemongolive.com/post/london-games-festival?hl=en",
+            "date": "March 26, 2024"
+        },
+        {
             "title": "Our Top 7 Madrid Highlights for Your Pokémon GO Fest Summer",
             "link": "https://pokemongolive.com/post/go-fest-madrid-summer?hl=en",
             "date": "March 22, 2024"
@@ -148,11 +153,6 @@
             "title": "Team GO Rocket returns, Shadow Kyogre joins Giovanni, and Shadow Ho-Oh makes its Shadow Raid debut!",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=en",
             "date": "January 16, 2024"
-        },
-        {
-            "title": "Prepare yourself for a Battle Week event featuring the debut of the Rage Monkey Pokémon, Annihilape!",
-            "link": "https://pokemongolive.com/post/raging-battles-2024?hl=en",
-            "date": "January 11, 2024"
         }
     ]
 }
