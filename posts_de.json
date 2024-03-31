@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Eine fabelhafte Gelegenheit",
+            "link": "https://pokemongolive.com/post/an-excellent-opportunity-2024?hl=de",
+            "date": "31. März 2024"
+        },
+        {
             "title": "Mit Teil 2 des Wundertickets setzen wir unsere Reise durch die Welt voller Wunder fort – freut euch auf Evoli und seine wundersamen Entwicklungen!",
             "link": "https://pokemongolive.com/post/the-wonder-ticket-part-2-eevee-evolutions?hl=de",
             "date": "28. März 2024"
@@ -148,11 +153,6 @@
             "title": "Community Day im Februar 2024: Chaneira",
             "link": "https://pokemongolive.com/post/communityday-february-2024-chansey?hl=de",
             "date": "9. Januar 2024"
-        },
-        {
-            "title": "Das Event „Feenhafte Träume“ bringt Freude in die Welt von Pokémon GO!",
-            "link": "https://pokemongolive.com/post/dazzling-dream-2024?hl=de",
-            "date": "4. Januar 2024"
         }
     ]
 }
