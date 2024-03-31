@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Una oportunidad excelente",
+            "link": "https://pokemongolive.com/post/an-excellent-opportunity-2024?hl=es",
+            "date": "31 de marzo de 2024"
+        },
+        {
             "title": "¡Continuad vuestro viaje por Un Mundo Maravilloso con la entrada Maravilla parte 2, y disfrutad de cosas fabulosas con Eevee y amigos!",
             "link": "https://pokemongolive.com/post/the-wonder-ticket-part-2-eevee-evolutions?hl=es",
             "date": "28 de marzo de 2024"
@@ -148,11 +153,6 @@
             "title": "En Pokémon GO han surgido las Formas Origen de Dialga y Palkia, ¡con poderosos Efectos aventura!",
             "link": "https://pokemongolive.com/post/origin-forme-adventure-effects-dialga-palkia?hl=es",
             "date": "10 de enero de 2024"
-        },
-        {
-            "title": "Día de la Comunidad de febrero de 2024: Chansey",
-            "link": "https://pokemongolive.com/post/communityday-february-2024-chansey?hl=es",
-            "date": "9 de enero de 2024"
         }
     ]
 }
