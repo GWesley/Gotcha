@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bacomania",
+            "link": "https://pokemongolive.com/post/bug-out-2024?hl=it",
+            "date": "3 aprile 2024"
+        },
+        {
             "title": "Non perdetevi i Campionati Internazionali Europei Pokémon 2024!",
             "link": "https://pokemongolive.com/post/euic-2024?hl=it",
             "date": "2 aprile 2024"
@@ -148,11 +153,6 @@
             "title": "Il Team GO Rocket sta tornando, Kyogre Ombra si unisce a Giovanni e Ho-Oh Ombra fa il suo debutto nei raid Ombra.",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=it",
             "date": "16 gennaio 2024"
-        },
-        {
-            "title": "Preparatevi per una settimana di Lotte che prevede il debutto del Pokémon Irascimmia, Annihilape!",
-            "link": "https://pokemongolive.com/post/raging-battles-2024?hl=it",
-            "date": "11 gennaio 2024"
         }
     ]
 }
