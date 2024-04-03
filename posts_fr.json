@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Insectomania",
+            "link": "https://pokemongolive.com/post/bug-out-2024?hl=fr",
+            "date": "3 avril 2024"
+        },
+        {
             "title": "Assistez Championnats Internationaux Pokémon GO d’Europe 2024 !",
             "link": "https://pokemongolive.com/post/euic-2024?hl=fr",
             "date": "2 avril 2024"
@@ -148,11 +153,6 @@
             "title": "La Team GO Rocket revient, Kyogre Obscur rejoint Giovanni et Ho-Oh Obscur débarque dans les Raids Obscurs !",
             "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=fr",
             "date": "16 janvier 2024"
-        },
-        {
-            "title": "Préparez-vous à célébrer l’arrivée de Courrousinge, le Pokémon Singe Furax, à l’occasion de la prochaine Semaine Combat !",
-            "link": "https://pokemongolive.com/post/raging-battles-2024?hl=fr",
-            "date": "11 janvier 2024"
         }
     ]
 }
