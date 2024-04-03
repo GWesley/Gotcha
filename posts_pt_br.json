@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Caça aos Insetos",
+            "link": "https://pokemongolive.com/post/bug-out-2024?hl=pt_BR",
+            "date": "3 de abril de 2024"
+        },
+        {
             "title": "Uma Oportunidade Excelente",
             "link": "https://pokemongolive.com/post/an-excellent-opportunity-2024?hl=pt_BR",
             "date": "31 de março de 2024"
@@ -148,11 +153,6 @@
             "title": "Eventos Locais de Pokémon GO estão chegando à América Latina",
             "link": "https://pokemongolive.com/post/latam-local-op-program?hl=pt_BR",
             "date": "8 de janeiro de 2024"
-        },
-        {
-            "title": "O evento Sonho deslumbrante brilha no Pokémon GO!",
-            "link": "https://pokemongolive.com/post/dazzling-dream-2024?hl=pt_BR",
-            "date": "4 de janeiro de 2024"
         }
     ]
 }
