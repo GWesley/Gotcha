@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "蟲屬性寶可夢活動",
+            "link": "https://pokemongolive.com/post/bug-out-2024?hl=zh_Hant",
+            "date": "2024年4月3日"
+        },
+        {
             "title": "Excellent的一天",
             "link": "https://pokemongolive.com/post/an-excellent-opportunity-2024?hl=zh_Hant",
             "date": "2024年3月31日"
@@ -148,11 +153,6 @@
             "title": "「帝牙盧卡（起源形態）」和「帕路奇亞（起源形態）」，將帶著強大的冒險效果出現在Pokémon GO！",
             "link": "https://pokemongolive.com/post/origin-forme-adventure-effects-dialga-palkia?hl=zh_Hant",
             "date": "2024年1月10日"
-        },
-        {
-            "title": "2024年2月社群日：吉利蛋",
-            "link": "https://pokemongolive.com/post/communityday-february-2024-chansey?hl=zh_Hant",
-            "date": "2024年1月9日"
         }
     ]
 }
