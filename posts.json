@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bug Out",
+            "link": "https://pokemongolive.com/post/bug-out-2024?hl=en",
+            "date": "April 3, 2024"
+        },
+        {
             "title": "Tune in to the 2024 Pokémon Europe International Championships!",
             "link": "https://pokemongolive.com/post/euic-2024?hl=en",
             "date": "April 2, 2024"
@@ -148,11 +153,6 @@
             "title": "Prepare for February’s travels with Pokémon GO’s Eggs-pedition Access!",
             "link": "https://pokemongolive.com/post/eggspedition-access-february-ticket-2024?hl=en",
             "date": "January 29, 2024"
-        },
-        {
-            "title": "Testing visual changes to the Pokémon GO experience",
-            "link": "https://pokemongolive.com/post/visual-testing-2024?hl=en",
-            "date": "January 25, 2024"
         }
     ]
 }
