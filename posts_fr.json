@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "En 2024, redécouvrez Pokémon GO",
+            "link": "https://pokemongolive.com/post/rediscovergo?hl=fr",
+            "date": "15 avril 2024"
+        },
+        {
             "title": "ALERTE : anomalie détectée en provenance de l’Ultra-Dimension. Necrozma arrive.",
             "link": "https://pokemongolive.com/post/necrozma-arrival-gofest-2024?hl=fr",
             "date": "10 avril 2024"
@@ -148,11 +153,6 @@
             "title": "Fuir ou attaquer, telle est la question : Archéduc de Hisui fait son entrée dans Pokémon GO lors d’une Journée de Raids, en amont du Circuit Pokémon GO : Sinnoh !",
             "link": "https://pokemongolive.com/post/hisuian-decidueye-raid-day-event?hl=fr",
             "date": "30 janvier 2024"
-        },
-        {
-            "title": "Préparez-vous pour les voyages de février avec la Marche Œuf-phorique de Pokémon GO !",
-            "link": "https://pokemongolive.com/post/eggspedition-access-february-ticket-2024?hl=fr",
-            "date": "29 janvier 2024"
         }
     ]
 }
