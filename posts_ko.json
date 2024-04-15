@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\"의 재발견!",
+            "link": "https://pokemongolive.com/post/rediscovergo?hl=ko",
+            "date": "2024년 4월 15일"
+        },
+        {
             "title": "경고: 울트라스페이스의 이상 현상 탐지. 전설의 포켓몬 \"네크로즈마\" 접근 중.",
             "link": "https://pokemongolive.com/post/necrozma-arrival-gofest-2024?hl=ko",
             "date": "2024년 4월 10일"
@@ -148,11 +153,6 @@
             "title": "\"신오로의 길\" 이벤트에서 신오지방이 테마인 모험으로 떠나세요!",
             "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=ko",
             "date": "2024년 1월 23일"
-        },
-        {
-            "title": "GO로켓단이 돌아오고, 비주기가 \"그림자 가이오가\"를 데리고 있으며, \"그림자 칠색조\"가 그림자 레이드에 처음 등장합니다!",
-            "link": "https://pokemongolive.com/post/taken-treasures-team-go-rocket-takeover-2024?hl=ko",
-            "date": "2024년 1월 16일"
         }
     ]
 }
