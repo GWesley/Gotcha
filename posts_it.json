@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Alla riscoperta di Pokémon GO 2024",
+            "link": "https://pokemongolive.com/post/rediscovergo?hl=it",
+            "date": "15 aprile 2024"
+        },
+        {
             "title": "ATTENZIONE: rilevata anomalia in entrata proveniente dall’Ultramondo. Necrozma sta arrivando.",
             "link": "https://pokemongolive.com/post/necrozma-arrival-gofest-2024?hl=it",
             "date": "10 aprile 2024"
@@ -148,11 +153,6 @@
             "title": "Potete combattere o fuggire con Decidueye di Hisui che debutta all’evento del giorno di raid prima del Tour di Pokémon GO di Sinnoh.",
             "link": "https://pokemongolive.com/post/hisuian-decidueye-raid-day-event?hl=it",
             "date": "30 gennaio 2024"
-        },
-        {
-            "title": "Preparatevi per i viaggi di febbraio con l’Accesso giruovago di Pokémon GO!",
-            "link": "https://pokemongolive.com/post/eggspedition-access-february-ticket-2024?hl=it",
-            "date": "29 gennaio 2024"
         }
     ]
 }
