@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "重新發現《Pokémon GO》",
+            "link": "https://pokemongolive.com/post/rediscovergo?hl=zh_Hant",
+            "date": "2024年4月15日"
+        },
+        {
             "title": "注意：偵測到來自究極空間的異常入侵，傳說的寶可夢「奈克洛茲瑪」即將現身。",
             "link": "https://pokemongolive.com/post/necrozma-arrival-gofest-2024?hl=zh_Hant",
             "date": "2024年4月10日"
@@ -148,11 +153,6 @@
             "title": "在「前往神奧之路」活動期間內，啟程踏上神奧主題的冒險！",
             "link": "https://pokemongolive.com/post/road-to-sinnoh-event?hl=zh_Hant",
             "date": "2024年1月23日"
-        },
-        {
-            "title": "Pokémon GO官方路線即將在台南登場！",
-            "link": "https://pokemongolive.com/post/official-route-tainan?hl=zh_Hant",
-            "date": "2024年1月19日"
         }
     ]
 }
