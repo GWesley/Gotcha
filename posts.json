@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Get out and explore with your buddy during Sustainability Week!",
+            "link": "https://pokemongolive.com/post/sustainability-week-2024?hl=en",
+            "date": "April 16, 2024"
+        },
+        {
             "title": "Rediscover Pokémon GO 2024",
             "link": "https://pokemongolive.com/post/rediscovergo?hl=en",
             "date": "April 15, 2024"
@@ -148,11 +153,6 @@
             "title": "Get Pokémon GO Tips from ItsAXN, TrainerTips, Soph_Toph, and SpeediestChief2 during a GO Battle Day Stream",
             "link": "https://pokemongolive.com/post/go-battle-day-broadcast-2024?hl=en",
             "date": "February 7, 2024"
-        },
-        {
-            "title": "Save the dates for next Season’s Community Days!",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s14?hl=en",
-            "date": "February 5, 2024"
         }
     ]
 }
