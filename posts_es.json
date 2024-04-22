@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Durante el evento Redescubre Kanto, podréis encontrar Pokémon descubiertos en Kanto en los diferentes biomas!",
+            "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=es",
+            "date": "22 de abril de 2024"
+        },
+        {
             "title": "¡No te pierdas el Día de Eclosiones con Cleffa!",
             "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=es",
             "date": "18 de abril de 2024"
@@ -148,11 +153,6 @@
             "title": "¡No te pierdas las últimas noticias locales!",
             "link": "https://pokemongolive.com/post/socialmedia-launch-spain?hl=es",
             "date": "2 de febrero de 2024"
-        },
-        {
-            "title": "¡Enamorus Forma Avatar llega a las incursiones élite!",
-            "link": "https://pokemongolive.com/post/elite-raids-incarnate-enamorus?hl=es",
-            "date": "1 de febrero de 2024"
         }
     ]
 }
