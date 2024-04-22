@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Search biomes for Pokémon first discovered in Kanto during the Rediscover Kanto event!",
+            "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=en",
+            "date": "April 22, 2024"
+        },
+        {
             "title": "Join us for DreamHack Melbourne 2024!",
             "link": "https://pokemongolive.com/post/dreamhack-melbourne-2024?hl=en",
             "date": "April 22, 2024"
@@ -147,11 +152,6 @@
         {
             "title": "Update to Android Offer Code Redemption",
             "link": "https://pokemongolive.com/post/android-offer-code-update?hl=en",
-            "date": "February 9, 2024"
-        },
-        {
-            "title": "Get Ready for Pokémon GO Tour: Sinnoh with Amazon Prime Gaming!",
-            "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-february?hl=en",
             "date": "February 9, 2024"
         }
     ]
