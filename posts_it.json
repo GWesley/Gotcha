@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Cercate nei biomi i Pokémon scoperti per la prima volta nella regione di Kanto durante l’evento Alla riscoperta di Kanto!",
+            "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=it",
+            "date": "22 aprile 2024"
+        },
+        {
             "title": "Preparati alla giornata di cattura con Cleffa.",
             "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=it",
             "date": "18 aprile 2024"
@@ -148,11 +153,6 @@
             "title": "Non perderti le ultime novità locali!",
             "link": "https://pokemongolive.com/post/socialmedia-launch-italy?hl=it",
             "date": "2 febbraio 2024"
-        },
-        {
-            "title": "Enamorus in Forma Incarnazione fa il suo debutto nei raid fuoriclasse!",
-            "link": "https://pokemongolive.com/post/elite-raids-incarnate-enamorus?hl=it",
-            "date": "1 febbraio 2024"
         }
     ]
 }
