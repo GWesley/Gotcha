@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Parcourez les biomes à la recherche de Pokémon rencontrés pour la première fois à Kanto lors de l’événement Redécouvrez Kanto !",
+            "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=fr",
+            "date": "22 avril 2024"
+        },
+        {
             "title": "La Journée Éclosion de Mélo vous attend !",
             "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=fr",
             "date": "18 avril 2024"
@@ -148,11 +153,6 @@
             "title": "Tenez-vous au courant de l'actualité locale !",
             "link": "https://pokemongolive.com/post/socialmedia-launch-france?hl=fr",
             "date": "2 février 2024"
-        },
-        {
-            "title": "Amovénus Forme Avatar débarque dans les Raids d’élite !",
-            "link": "https://pokemongolive.com/post/elite-raids-incarnate-enamorus?hl=fr",
-            "date": "1 février 2024"
         }
     ]
 }
