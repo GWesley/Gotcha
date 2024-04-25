@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Preparati per un evento a tema lotta in Pokémon GO: Settimana dei rivali.",
+            "link": "https://pokemongolive.com/post/rivals-week-2024?hl=it",
+            "date": "25 aprile 2024"
+        },
+        {
             "title": "Cercate nei biomi i Pokémon scoperti per la prima volta nella regione di Kanto durante l’evento Alla riscoperta di Kanto!",
             "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=it",
             "date": "22 aprile 2024"
@@ -148,11 +153,6 @@
             "title": "Mano alle agende: ecco le date dei Community Day della prossima stagione!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s14?hl=it",
             "date": "5 febbraio 2024"
-        },
-        {
-            "title": "Non perderti le ultime novità locali!",
-            "link": "https://pokemongolive.com/post/socialmedia-launch-italy?hl=it",
-            "date": "2 febbraio 2024"
         }
     ]
 }
