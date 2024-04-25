@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Diancie hace una entrada estelar en la investigación especial disponible para todos los Entrenadores!",
+            "link": "https://pokemongolive.com/post/diancie-global-special-research?hl=es",
+            "date": "25 de abril de 2024"
+        },
+        {
             "title": "¡Preparaos para un evento dedicado a los combates en la Semana de los Rivales de Pokémon GO!",
             "link": "https://pokemongolive.com/post/rivals-week-2024?hl=es",
             "date": "25 de abril de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Preparaos para el Tour de Pokémon GO: Sinnoh con Amazon Prime Gaming!",
             "link": "https://pokemongolive.com/post/pokemon-go-prime-gaming-february?hl=es",
             "date": "9 de febrero de 2024"
-        },
-        {
-            "title": "¡Apuntad en el calendario los Días de la Comunidad de la próxima Temporada!",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s14?hl=es",
-            "date": "5 de febrero de 2024"
         }
     ]
 }
