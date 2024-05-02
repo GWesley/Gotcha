@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les Pokémon de type Vol fondent sur les Dresseur·euse·s à l’occasion de la Journée Étude Prendre son envol !",
+            "link": "https://pokemongolive.com/post/flock-together-research-day-2024?hl=fr",
+            "date": "2 mai 2024"
+        },
+        {
             "title": "Le Ticket merveilleux : partie 3 fait son arrivée. Laissez Vémini vous accompagner jusqu’au grand final de la saison Monde Merveilleux !",
             "link": "https://pokemongolive.com/post/the-wonder-ticket-part-3-poipole?hl=fr",
             "date": "29 avril 2024"
@@ -148,11 +153,6 @@
             "title": "Circuit Pokémon GO : Mondial 2024 arrive en France!",
             "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=fr",
             "date": "20 février 2024"
-        },
-        {
-            "title": "Mise à jour concernant l’utilisation des codes d’offre pour Android",
-            "link": "https://pokemongolive.com/post/android-offer-code-update?hl=fr",
-            "date": "9 février 2024"
         }
     ]
 }
