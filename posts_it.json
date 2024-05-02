@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Nella ricerca magistrale ritorna la Master Ball!",
+            "link": "https://pokemongolive.com/post/catching-wonders-2024?hl=it",
+            "date": "2 maggio 2024"
+        },
+        {
             "title": "Il Pokémon di tipo Volante arriva per la giornata di ricerca svolazzante.",
             "link": "https://pokemongolive.com/post/flock-together-research-day-2024?hl=it",
             "date": "2 maggio 2024"
@@ -148,11 +153,6 @@
             "title": "Festeggia il rilascio della serie Orizzonti Pokémon con un nuovo evento.",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=it",
             "date": "27 febbraio 2024"
-        },
-        {
-            "title": "Partecipa al tour di Pokémon GO: globale 2024 con i tuoi amici!",
-            "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=it",
-            "date": "20 febbraio 2024"
         }
     ]
 }
