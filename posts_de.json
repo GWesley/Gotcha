@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Eine Meisterwerk-Forschung für den Meisterball!",
+            "link": "https://pokemongolive.com/post/catching-wonders-2024?hl=de",
+            "date": "2. Mai 2024"
+        },
+        {
             "title": "Flug-Pokémon ziehen zum Forschungstag Flugformation!",
             "link": "https://pokemongolive.com/post/flock-together-research-day-2024?hl=de",
             "date": "2. Mai 2024"
@@ -148,11 +153,6 @@
             "title": "Event zur Veröffentlichung von „Pokémon Horizonte: Die Serie“",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=de",
             "date": "27. Februar 2024"
-        },
-        {
-            "title": "Nimm mit deinen Freund*innen bei der Pokémon GO Tour: Global 2024 teil!",
-            "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=de",
-            "date": "20. Februar 2024"
         }
     ]
 }
