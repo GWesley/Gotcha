@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Master Ball fait son grand retour dans une Étude magistrale !",
+            "link": "https://pokemongolive.com/post/catching-wonders-2024?hl=fr",
+            "date": "2 mai 2024"
+        },
+        {
             "title": "Les Pokémon de type Vol fondent sur les Dresseur·euse·s à l’occasion de la Journée Étude Prendre son envol !",
             "link": "https://pokemongolive.com/post/flock-together-research-day-2024?hl=fr",
             "date": "2 mai 2024"
@@ -148,11 +153,6 @@
             "title": "Célébrez la sortie de La série : Pokémon, les horizons lors d’un nouvel évènement !",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=fr",
             "date": "27 février 2024"
-        },
-        {
-            "title": "Circuit Pokémon GO : Mondial 2024 arrive en France!",
-            "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=fr",
-            "date": "20 février 2024"
         }
     ]
 }
