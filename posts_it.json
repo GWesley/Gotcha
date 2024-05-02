@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Il Pokémon di tipo Volante arriva per la giornata di ricerca svolazzante.",
+            "link": "https://pokemongolive.com/post/flock-together-research-day-2024?hl=it",
+            "date": "2 maggio 2024"
+        },
+        {
             "title": "Il Biglietto meraviglia parte 3 è ora disponibile con un altro Poipole per accompagnare la vostra fase finale del Mondo di meraviglie.",
             "link": "https://pokemongolive.com/post/the-wonder-ticket-part-3-poipole?hl=it",
             "date": "29 aprile 2024"
@@ -148,11 +153,6 @@
             "title": "Partecipa al tour di Pokémon GO: globale 2024 con i tuoi amici!",
             "link": "https://pokemongolive.com/post/go-tour-global-2024?hl=it",
             "date": "20 febbraio 2024"
-        },
-        {
-            "title": "Aggiornamento per il riscatto del codice dell’offerta Android",
-            "link": "https://pokemongolive.com/post/android-offer-code-update?hl=it",
-            "date": "9 febbraio 2024"
         }
     ]
 }
