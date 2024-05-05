@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Celebremos la llegada del soporte en español latinoamericano a Pokémon GO con un evento especial!",
+            "link": "https://pokemongolive.com/post/pokemon-go-espanol-latam?hl=es",
+            "date": "5 de mayo de 2024"
+        },
+        {
             "title": "¡Vuelve la Master Ball en una Investigación magistral!",
             "link": "https://pokemongolive.com/post/catching-wonders-2024?hl=es",
             "date": "2 de mayo de 2024"
@@ -148,11 +153,6 @@
             "title": "Bienvenidos a Pokémon GO: Un mundo Maravilloso",
             "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=es",
             "date": "28 de febrero de 2024"
-        },
-        {
-            "title": "¡Celebrad el estreno de la serie Horizontes Pokémon con un nuevo evento!",
-            "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=es",
-            "date": "27 de febrero de 2024"
         }
     ]
 }
