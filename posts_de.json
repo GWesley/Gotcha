@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Der Frühling ist da: Zeit, rauszugehen!",
+            "link": "https://pokemongolive.com/post/spring-changes-everything?hl=de",
+            "date": "6. Mai 2024"
+        },
+        {
             "title": "Eine Meisterwerk-Forschung für den Meisterball!",
             "link": "https://pokemongolive.com/post/catching-wonders-2024?hl=de",
             "date": "2. Mai 2024"
@@ -148,11 +153,6 @@
             "title": "Willkommen bei Pokémon GO: Welt voller Wunder",
             "link": "https://pokemongolive.com/post/welcome-to-world-of-wonders?hl=de",
             "date": "28. Februar 2024"
-        },
-        {
-            "title": "Event zur Veröffentlichung von „Pokémon Horizonte: Die Serie“",
-            "link": "https://pokemongolive.com/post/pokemon-horizons-anime-celebration?hl=de",
-            "date": "27. Februar 2024"
         }
     ]
 }
