@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Save the dates for next Season’s Community Days!",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s15?hl=en",
+            "date": "May 20, 2024"
+        },
+        {
             "title": "Get ready for a spiky Incense Day, featuring Ferroseed!",
             "link": "https://pokemongolive.com/post/incense-day-ferroseed-2024?hl=en",
             "date": "May 16, 2024"
@@ -148,11 +153,6 @@
             "title": "Catch Pokémon at a McDonald’s restaurant near you!",
             "link": "https://pokemongolive.com/post/mcdonalds-india?hl=en",
             "date": "March 15, 2024"
-        },
-        {
-            "title": "Protect the world from Team GO Rocket and Giovanni—and rescue Shadow Groudon and Shadow Mewtwo during World of Wonders: Taken Over!",
-            "link": "https://pokemongolive.com/post/world-taken-over-by-TGR?hl=en",
-            "date": "March 13, 2024"
         }
     ]
 }
