@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Levez le pied et détendez-vous avec l’événement Sable sommeillant !",
+            "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=fr",
+            "date": "28 mai 2024"
+        },
+        {
             "title": "Mise à jour de la Ligue Combat GO : Sous un même ciel",
             "link": "https://pokemongolive.com/post/go-battle-league-shared-skies?hl=fr",
             "date": "28 mai 2024"
@@ -148,11 +153,6 @@
             "title": "Merveilles verdoyantes",
             "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=fr",
             "date": "11 mars 2024"
-        },
-        {
-            "title": "Semaine météo",
-            "link": "https://pokemongolive.com/post/weather-week-2024?hl=fr",
-            "date": "6 mars 2024"
         }
     ]
 }
