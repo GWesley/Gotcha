@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Relajaos y disfrutad durante el evento Arenas estivales!",
+            "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=es",
+            "date": "28 de mayo de 2024"
+        },
+        {
             "title": "Novedades sobre la Liga Combates GO: Bajo el Mismo Cielo",
             "link": "https://pokemongolive.com/post/go-battle-league-shared-skies?hl=es",
             "date": "28 de mayo de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Proteged el mundo del Team GO Rocket y de Giovanni, y rescatad a Groudon y Mewtwo oscuros durante Un Mundo Maravilloso: Toma de control!",
             "link": "https://pokemongolive.com/post/world-taken-over-by-TGR?hl=es",
             "date": "13 de marzo de 2024"
-        },
-        {
-            "title": "Maravillas naturales",
-            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=es",
-            "date": "11 de marzo de 2024"
         }
     ]
 }
