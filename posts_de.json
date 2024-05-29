@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Shared Skies",
+            "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=de",
+            "date": "29. Mai 2024"
+        },
+        {
             "title": "Zeit für etwas Entspannung mit dem Event „Schlummernder Sand“!",
             "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=de",
             "date": "28. Mai 2024"
@@ -148,11 +153,6 @@
             "title": "Beschützt die Welt vor Team GO Rocket und Giovanni und rettet Crypto-Groudon und Crypto-Mewtu während des Events „Welt voller Wunder: Übernahme“!",
             "link": "https://pokemongolive.com/post/world-taken-over-by-TGR?hl=de",
             "date": "13. März 2024"
-        },
-        {
-            "title": "Blühendes Wunder",
-            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=de",
-            "date": "11. März 2024"
         }
     ]
 }
