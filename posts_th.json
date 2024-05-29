@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Shared Skies",
+            "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=th",
+            "date": "29 พฤษภาคม 2567"
+        },
+        {
             "title": "ผ่อนคลายสบาย ๆ ระหว่างอีเวนต์งีบบนเม็ดทราย!",
             "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=th",
             "date": "28 พฤษภาคม 2567"
@@ -148,11 +153,6 @@
             "title": "สัปดาห์สภาพอากาศ",
             "link": "https://pokemongolive.com/post/weather-week-2024?hl=th",
             "date": "6 มีนาคม 2567"
-        },
-        {
-            "title": "ไคออกาต้นกำเนิดและกราดอนต้นกำเนิดปลดปล่อยพลังแห่งท้องทะเลและผืนดินทั่วโลกในอีเวนต์วันตีบอสใหม่!",
-            "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=th",
-            "date": "4 มีนาคม 2567"
         }
     ]
 }
