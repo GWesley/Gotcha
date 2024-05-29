@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Shared Skies",
+            "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=en",
+            "date": "May 29, 2024"
+        },
+        {
             "title": "Kick back and relax during the Slumbering Sands event!",
             "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=en",
             "date": "May 28, 2024"
@@ -148,11 +153,6 @@
             "title": "Continue your journey through World of Wonders with the Wonder Ticket Part 2, and experience wonders with Eevee and friends!",
             "link": "https://pokemongolive.com/post/the-wonder-ticket-part-2-eevee-evolutions?hl=en",
             "date": "March 28, 2024"
-        },
-        {
-            "title": "Our Top 7 Madrid Highlights for Your Pokémon GO Fest Summer",
-            "link": "https://pokemongolive.com/post/go-fest-madrid-summer?hl=en",
-            "date": "March 22, 2024"
         }
     ]
 }
