@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Shared Skies",
+            "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=ko",
+            "date": "2024년 5월 29일"
+        },
+        {
             "title": "\"초여름의 선잠\" 이벤트에서 야유롭게 쉬세요!",
             "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=ko",
             "date": "2024년 5월 28일"
@@ -148,11 +153,6 @@
             "title": "웨더 위크",
             "link": "https://pokemongolive.com/post/weather-week-2024?hl=ko",
             "date": "2024년 3월 6일"
-        },
-        {
-            "title": "새로운 레이드 데이 이벤트에 \"원시가이오가\"와 \"원시그란돈\"이 옵니다!",
-            "link": "https://pokemongolive.com/post/kyogre-groudon-primal-raid-day-event?hl=ko",
-            "date": "2024년 3월 4일"
         }
     ]
 }
