@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Shared Skies",
+            "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=pt_BR",
+            "date": "29 de maio de 2024"
+        },
+        {
             "title": "Relaxem e aproveitem o evento Areias Relaxantes!",
             "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=pt_BR",
             "date": "28 de maio de 2024"
@@ -148,11 +153,6 @@
             "title": "Maravilhas Verdejantes",
             "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=pt_BR",
             "date": "11 de março de 2024"
-        },
-        {
-            "title": "Semana climática",
-            "link": "https://pokemongolive.com/post/weather-week-2024?hl=pt_BR",
-            "date": "6 de março de 2024"
         }
     ]
 }
