@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Shared Skies",
+            "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=fr",
+            "date": "29 mai 2024"
+        },
+        {
             "title": "Levez le pied et détendez-vous avec l’événement Sable sommeillant !",
             "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=fr",
             "date": "28 mai 2024"
@@ -148,11 +153,6 @@
             "title": "Protégez le monde de la Team GO Rocket et de Giovanni pendant l’événement Monde Merveilleux : Offensive ! Il vous faudra également sauver Groudon Obscur et Mewtwo Obscur.",
             "link": "https://pokemongolive.com/post/world-taken-over-by-TGR?hl=fr",
             "date": "13 mars 2024"
-        },
-        {
-            "title": "Merveilles verdoyantes",
-            "link": "https://pokemongolive.com/post/verdant-wonders-2024?hl=fr",
-            "date": "11 mars 2024"
         }
     ]
 }
