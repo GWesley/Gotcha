@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Sigue el Campeonato Internacional Pokémon de Norteamérica 2024 y recibe una investigación temporal especial!",
+            "link": "https://pokemongolive.com/post/naic-2024?hl=es",
+            "date": "6 de junio de 2024"
+        },
+        {
             "title": "¡Preparaos para explorar durante el evento Pasos de fuego!",
             "link": "https://pokemongolive.com/post/scorching-steps-2024?hl=es",
             "date": "5 de junio de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Sintoniza con el Campeonato Internacional Pokémon de Europa 2024!",
             "link": "https://pokemongolive.com/post/euic-2024?hl=es",
             "date": "2 de abril de 2024"
-        },
-        {
-            "title": "Una oportunidad excelente",
-            "link": "https://pokemongolive.com/post/an-excellent-opportunity-2024?hl=es",
-            "date": "31 de marzo de 2024"
         }
     ]
 }
