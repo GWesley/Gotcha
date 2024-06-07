@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Join us at Armageddon Expo Auckland Winter 2024!",
+            "link": "https://pokemongolive.com/post/armageddon-auckland-2024?hl=en",
+            "date": "June 7, 2024"
+        },
+        {
             "title": "Hit the beach with Pokémon from Pokémon GO Fest 2024: Madrid!",
             "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=en",
             "date": "June 6, 2024"
@@ -148,11 +153,6 @@
             "title": "Rediscover Pokémon GO 2024",
             "link": "https://pokemongolive.com/post/rediscovergo?hl=en",
             "date": "April 17, 2024"
-        },
-        {
-            "title": "Get out and explore with your buddy during Sustainability Week!",
-            "link": "https://pokemongolive.com/post/sustainability-week-2024?hl=en",
-            "date": "April 16, 2024"
         }
     ]
 }
