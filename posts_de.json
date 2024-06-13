@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ein Pokémon GO Sommermärchen kommt nach Deutschland!",
+            "link": "https://pokemongolive.com/post/summer-fairytale?hl=de",
+            "date": "13. Juni 2024"
+        },
+        {
             "title": "Sieh dir die nordamerikanischen Pokémon-Internationalmeisterschaften 2024 an und nimm an einer besonderen Befristeten Forschung teil!",
             "link": "https://pokemongolive.com/post/naic-2024?hl=de",
             "date": "6. Juni 2024"
@@ -148,11 +153,6 @@
             "title": "Schaltet bei den europäischen Pokémon-Internationalmeisterschaften 2024 ein!",
             "link": "https://pokemongolive.com/post/euic-2024?hl=de",
             "date": "2. April 2024"
-        },
-        {
-            "title": "Eine fabelhafte Gelegenheit",
-            "link": "https://pokemongolive.com/post/an-excellent-opportunity-2024?hl=de",
-            "date": "31. März 2024"
         }
     ]
 }
