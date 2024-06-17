@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "Seid bei der Party zum 8. Jubiläum von Pokémon GO dabei!",
+            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=de",
+            "date": "17. Juni 2024"
+        },
+        {
             "title": "Ein Pokémon GO Sommermärchen kommt nach Deutschland!",
             "link": "https://pokemongolive.com/post/summer-fairytale?hl=de",
             "date": "13. Juni 2024"
+        },
+        {
+            "title": "Strandfeeling mit den Pokémon des Pokémon GO Fest 2024: Madrid",
+            "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=de",
+            "date": "6. Juni 2024"
         },
         {
             "title": "Sieh dir die nordamerikanischen Pokémon-Internationalmeisterschaften 2024 an und nimm an einer besonderen Befristeten Forschung teil!",
@@ -143,16 +153,6 @@
             "title": "Raid-Tag mit Mega-Skaraborn",
             "link": "https://pokemongolive.com/post/mega-heracross-raid-day-2024?hl=de",
             "date": "3. April 2024"
-        },
-        {
-            "title": "Käferkrabbelei",
-            "link": "https://pokemongolive.com/post/bug-out-2024?hl=de",
-            "date": "3. April 2024"
-        },
-        {
-            "title": "Schaltet bei den europäischen Pokémon-Internationalmeisterschaften 2024 ein!",
-            "link": "https://pokemongolive.com/post/euic-2024?hl=de",
-            "date": "2. April 2024"
         }
     ]
 }
