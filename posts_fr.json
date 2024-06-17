@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Célébrez la Fashion Week et la Fête de la musique avec Pokémon GO",
+            "link": "https://pokemongolive.com/post/fetedelamusique?hl=fr",
+            "date": "16 juin 2024"
+        },
+        {
             "title": "Foulez le sable avec les Pokémon du Festival Pokémon GO : Madrid !",
             "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=fr",
             "date": "6 juin 2024"
@@ -147,11 +152,6 @@
         {
             "title": "Journée de Raids Méga-Scarhino",
             "link": "https://pokemongolive.com/post/mega-heracross-raid-day-2024?hl=fr",
-            "date": "3 avril 2024"
-        },
-        {
-            "title": "Insectomania",
-            "link": "https://pokemongolive.com/post/bug-out-2024?hl=fr",
             "date": "3 avril 2024"
         }
     ]
