@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO festeggia otto anni: divertiti insieme a noi!",
+            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=it",
+            "date": "18 giugno 2024"
+        },
+        {
             "title": "Andate in spiaggia con i Pokémon del Festival di Pokémon GO 2024: Madrid!",
             "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=it",
             "date": "6 giugno 2024"
@@ -148,11 +153,6 @@
             "title": "Bacomania",
             "link": "https://pokemongolive.com/post/bug-out-2024?hl=it",
             "date": "3 aprile 2024"
-        },
-        {
-            "title": "Non perdetevi i Campionati Internazionali Europei Pokémon 2024!",
-            "link": "https://pokemongolive.com/post/euic-2024?hl=it",
-            "date": "2 aprile 2024"
         }
     ]
 }
