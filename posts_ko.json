@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\" 8주년을 함께 축하해 주세요!",
+            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=ko",
+            "date": "2024년 6월 18일"
+        },
+        {
             "title": "\"Pokémon GO Fest 2024: 마드리드\"의 포켓몬과 함께 해변으로 떠나요!",
             "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=ko",
             "date": "2024년 6월 6일"
@@ -148,11 +153,6 @@
             "title": "\"원더 티켓 파트2\"와 함께 \"월드 오브 원더즈\" 모험을 계속하세요. 이브이와 그 진화형의 포켓몬도 등장합니다.",
             "link": "https://pokemongolive.com/post/the-wonder-ticket-part-2-eevee-evolutions?hl=ko",
             "date": "2024년 3월 28일"
-        },
-        {
-            "title": "사이즈 서프라이즈",
-            "link": "https://pokemongolive.com/post/sizeable-surprises-2024?hl=ko",
-            "date": "2024년 3월 21일"
         }
     ]
 }
