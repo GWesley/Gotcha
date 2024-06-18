@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "『Pokémon GO』の8周年を、みんなで一緒にお祝いしましょう！",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=ja",
-            "date": "2024年6月17日"
-        },
-        {
             "title": "「『Pokémon GO』 パートナーリサーチ」のご案内！",
             "link": "https://pokemongolive.com/post/202406partnerresearch-jp?hl=ja",
             "date": "2024年6月13日"
@@ -153,6 +148,11 @@
             "title": "むしタイプポケモンのイベント",
             "link": "https://pokemongolive.com/post/bug-out-2024?hl=ja",
             "date": "2024年4月3日"
+        },
+        {
+            "title": "エクセレントな一日",
+            "link": "https://pokemongolive.com/post/an-excellent-opportunity-2024?hl=ja",
+            "date": "2024年3月31日"
         }
     ]
 }
