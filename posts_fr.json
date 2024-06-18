@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO fête ses 8 ans. Soyez de la partie !",
+            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=fr",
+            "date": "18 juin 2024"
+        },
+        {
             "title": "Célébrez la Fashion Week et la Fête de la musique avec Pokémon GO",
             "link": "https://pokemongolive.com/post/fetedelamusique?hl=fr",
             "date": "16 juin 2024"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté d’avril 2024 : Chétiflor",
             "link": "https://pokemongolive.com/post/communityday-april-2024-bellsprout?hl=fr",
             "date": "9 avril 2024"
-        },
-        {
-            "title": "Journée de Raids Méga-Scarhino",
-            "link": "https://pokemongolive.com/post/mega-heracross-raid-day-2024?hl=fr",
-            "date": "3 avril 2024"
         }
     ]
 }
