@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Pokémon GO is celebrating eight years—join us for the fun!",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=en",
-            "date": "June 17, 2024"
-        },
-        {
             "title": "Celebrate the release of Pokémon Horizons: The Series in India and Indonesia with a special event!",
             "link": "https://pokemongolive.com/post/pokemon-horizons-anime-202406?hl=en",
             "date": "June 14, 2024"
@@ -153,6 +148,11 @@
             "title": "Join us for DreamHack Melbourne 2024!",
             "link": "https://pokemongolive.com/post/dreamhack-melbourne-2024?hl=en",
             "date": "April 22, 2024"
+        },
+        {
+            "title": "Look forward to Hatch Day with Cleffa!",
+            "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=en",
+            "date": "April 18, 2024"
         }
     ]
 }
