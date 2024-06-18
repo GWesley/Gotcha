@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Pokémon GO celebra su octavo aniversario: uníos a la fiesta!",
+            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=es",
+            "date": "18 de junio de 2024"
+        },
+        {
             "title": "¡A la playa con los Pokémon del Festival de Pokémon GO 2024: Madrid!",
             "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=es",
             "date": "6 de junio de 2024"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad de abril 2024: Bellsprout",
             "link": "https://pokemongolive.com/post/communityday-april-2024-bellsprout?hl=es",
             "date": "9 de abril de 2024"
-        },
-        {
-            "title": "Día de incursiones de Mega-Heracross",
-            "link": "https://pokemongolive.com/post/mega-heracross-raid-day-2024?hl=es",
-            "date": "3 de abril de 2024"
         }
     ]
 }
