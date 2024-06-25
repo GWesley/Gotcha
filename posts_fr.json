@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Participez aux événements de célébration du Festival Pokémon GO 2024 pour obtenir des récompenses en jeu, telles que de l’Énergie fusion pour Necrozma et bien plus encore !",
+            "link": "https://pokemongolive.com/post/gofest-celebration?hl=fr",
+            "date": "25 juin 2024"
+        },
+        {
             "title": "Les Ultra-Chimères débarquent pour l’événement En provenance de l’Ultra-Dimension, avant le début du Festival Pokémon GO 2024 : Mondial !",
             "link": "https://pokemongolive.com/post/inbound-from-ultra-space-2024?hl=fr",
             "date": "25 juin 2024"
@@ -148,11 +153,6 @@
             "title": "Parcourez les biomes à la recherche de Pokémon rencontrés pour la première fois à Kanto lors de l’événement Redécouvrez Kanto !",
             "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=fr",
             "date": "22 avril 2024"
-        },
-        {
-            "title": "La Journée Éclosion de Mélo vous attend !",
-            "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=fr",
-            "date": "18 avril 2024"
         }
     ]
 }
