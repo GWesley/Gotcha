@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Venez participer aux rencontres de Communauté, à l’occasion du Festival Pokémon GO : Mondial !",
+            "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=fr",
+            "date": "26 juin 2024"
+        },
+        {
             "title": "Participez aux événements de célébration du Festival Pokémon GO 2024 pour obtenir des récompenses en jeu, telles que de l’Énergie fusion pour Necrozma et bien plus encore !",
             "link": "https://pokemongolive.com/post/gofest-celebration?hl=fr",
             "date": "25 juin 2024"
@@ -148,11 +153,6 @@
             "title": "Préparez-vous pour un événement belliqueux dans Pokémon GO : la Semaine des rivaux !",
             "link": "https://pokemongolive.com/post/rivals-week-2024?hl=fr",
             "date": "25 avril 2024"
-        },
-        {
-            "title": "Parcourez les biomes à la recherche de Pokémon rencontrés pour la première fois à Kanto lors de l’événement Redécouvrez Kanto !",
-            "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=fr",
-            "date": "22 avril 2024"
         }
     ]
 }
