@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Partecipate agli Incontri della community di Pokémon GO per il Festival di Pokémon GO 2024: evento globale.",
+            "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=it",
+            "date": "26 giugno 2024"
+        },
+        {
             "title": "Partecipate agli eventi celebrativi del Festival di Pokémon GO 2024 per ricevere ricompense di gioco come l’energia fusione di Necrozma e tanto altro.",
             "link": "https://pokemongolive.com/post/gofest-celebration?hl=it",
             "date": "25 giugno 2024"
@@ -148,11 +153,6 @@
             "title": "Preparati alla giornata di cattura con Cleffa.",
             "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=it",
             "date": "18 aprile 2024"
-        },
-        {
-            "title": "Alla riscoperta di Pokémon GO 2024",
-            "link": "https://pokemongolive.com/post/rediscovergo?hl=it",
-            "date": "17 aprile 2024"
         }
     ]
 }
