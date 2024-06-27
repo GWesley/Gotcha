@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「ウォーターパラダイス」イベントで「Pokémon GO Fest 2024：ニューヨーク」に登場するポケモンと出会おう",
+            "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=ja",
+            "date": "2024年6月27日"
+        },
+        {
             "title": "「Pokémon GO Fest 2024：グローバル」で『Pokémon GO』コミュニティのミートアップに参加しよう",
             "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=ja",
             "date": "2024年6月26日"
@@ -42,6 +47,11 @@
         {
             "title": "「Pokémon GO Fest 2024：マドリード」で登場するポケモンを探しにビーチへ行こう",
             "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=ja",
+            "date": "2024年6月6日"
+        },
+        {
+            "title": "マドリードとニューヨークの「Pokémon GO Fest 2024」会場で著名なトレーナーと交流しよう",
+            "link": "https://pokemongolive.com/post/notable-trainer-meet-greet-go-fest-2024?hl=ja",
             "date": "2024年6月6日"
         },
         {
@@ -143,16 +153,6 @@
             "title": "「カントー地方ふたたび」イベントで、バイオームを探索してカントー地方で最初に見つかったポケモンを探そう",
             "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=ja",
             "date": "2024年4月22日"
-        },
-        {
-            "title": "タマゴから「ピィ」がかえる「ふかの日」開催",
-            "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=ja",
-            "date": "2024年4月18日"
-        },
-        {
-            "title": "「『Pokémon GO』 を再発見！」のアップデートが登場",
-            "link": "https://pokemongolive.com/post/rediscovergo?hl=ja",
-            "date": "2024年4月17日"
         }
     ]
 }
