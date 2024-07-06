@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "สุขสันต์ครบรอบ 8 ปี Pokémon GO!",
+            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=th",
+            "date": "6 กรกฎาคม 2567"
+        },
+        {
             "title": "เพลิดเพลินกับสวรรค์ทางน้ำที่จะมีโปเกมอนเด่นจาก Pokémon GO Fest 2024: นครนิวยอร์ก!",
             "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=th",
             "date": "27 มิถุนายน 2567"
@@ -148,11 +153,6 @@
             "title": "ตั้งตารอวันฟักไข่กับปี!",
             "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=th",
             "date": "18 เมษายน 2567"
-        },
-        {
-            "title": "ค้นพบ Pokémon GO 2024 อีกครั้ง",
-            "link": "https://pokemongolive.com/post/rediscovergo?hl=th",
-            "date": "17 เมษายน 2567"
         }
     ]
 }
