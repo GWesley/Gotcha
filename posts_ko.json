@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\" 8주년을 축하해 주세요!",
+            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=ko",
+            "date": "2024년 7월 6일"
+        },
+        {
             "title": "\"워터 파라다이스\" 이벤트에서 \"Pokémon GO Fest 2024: 뉴욕\"에 등장하는 포켓몬과 만나세요",
             "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=ko",
             "date": "2024년 6월 27일"
@@ -148,11 +153,6 @@
             "title": "\"또다시 관동지방\" 이벤트에서 바이옴을 찾아 관동지방에서 첫 번째로 발견된 포켓몬을 찾아보세요!",
             "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=ko",
             "date": "2024년 4월 22일"
-        },
-        {
-            "title": "알에서 \"삐\"가 부화하는 \"부화데이\" 개최!",
-            "link": "https://pokemongolive.com/post/cleffa-hatch-day?hl=ko",
-            "date": "2024년 4월 18일"
         }
     ]
 }
