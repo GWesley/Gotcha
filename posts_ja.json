@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』が8周年を迎えます",
+            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=ja",
+            "date": "2024年7月6日"
+        },
+        {
             "title": "「ウォーターパラダイス」イベントで「Pokémon GO Fest 2024：ニューヨーク」に登場するポケモンと出会おう",
             "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=ja",
             "date": "2024年6月27日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』でバトルに注目する「ライバルイベント」が開催されます",
             "link": "https://pokemongolive.com/post/rivals-week-2024?hl=ja",
             "date": "2024年4月25日"
-        },
-        {
-            "title": "「カントー地方ふたたび」イベントで、バイオームを探索してカントー地方で最初に見つかったポケモンを探そう",
-            "link": "https://pokemongolive.com/post/rediscover-kanto-2024?hl=ja",
-            "date": "2024年4月22日"
         }
     ]
 }
