@@ -5,9 +5,24 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Fest 2024 details revealed: Ultra Unlock, habitat times, and more!",
+            "link": "https://pokemongolive.com/post/go-fest-2024-ultra-unlock-challenges?hl=ru",
+            "date": "8 июля 2024 г."
+        },
+        {
             "title": "Join Pokémon GO Community Meetups for Pokémon GO Fest 2024: Global!",
             "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=ru",
             "date": "26 июня 2024 г."
+        },
+        {
+            "title": "Meet notable Trainers during Pokémon GO Fest 2024 in Madrid and New York City",
+            "link": "https://pokemongolive.com/post/notable-trainer-meet-greet-go-fest-2024?hl=ru",
+            "date": "6 июня 2024 г."
+        },
+        {
+            "title": "Get out of the stands and explore during the Stadium Sights event, featuring Pokémon from Pokémon GO Fest 2024: Sendai!",
+            "link": "https://pokemongolive.com/post/go-fest-2024-stadium-sights?hl=ru",
+            "date": "27 мая 2024 г."
         },
         {
             "title": "Party Everywhere You GO with Party Play!",
@@ -138,21 +153,6 @@
             "title": "Представляем вам Книгу открыток!",
             "link": "https://pokemongolive.com/post/postcardbook?hl=ru",
             "date": "9 декабря 2021 г."
-        },
-        {
-            "title": "Усиливайте Покестопы, чтобы получать более ценные награды и создать новую AR-среду",
-            "link": "https://pokemongolive.com/post/power-up-pokestop-announcement?hl=ru",
-            "date": "8 декабря 2021 г."
-        },
-        {
-            "title": "Тур Pokémon GO продолжается! Следующая остановка — Джото!",
-            "link": "https://pokemongolive.com/post/pokemongotour-johto?hl=ru",
-            "date": "7 декабря 2021 г."
-        },
-        {
-            "title": "Сошествие драконов: в Pokémon GO дебютирует Драддигон!",
-            "link": "https://pokemongolive.com/post/dragonspiral-descent-2021?hl=ru",
-            "date": "6 декабря 2021 г."
         }
     ]
 }
