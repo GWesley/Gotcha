@@ -5,9 +5,14 @@
     ],
     "posts": [
         {
+            "title": "¡Aprovechad el poder del sol y la luna con dos nuevos Efectos aventura: Meteoimpacto y Rayo Umbrío!",
+            "link": "https://pokemongolive.com/post/fusion-adventure-effects-necrozma?hl=es",
+            "date": "9 de julio de 2024"
+        },
+        {
             "title": "Detalles revelados del Festival de Pokémon GO 2024: ¡Ultrabonus, horas del hábitat y más!",
             "link": "https://pokemongolive.com/post/go-fest-2024-ultra-unlock-challenges?hl=es",
-            "date": "8 de julio de 2024"
+            "date": "9 de julio de 2024"
         },
         {
             "title": "¡Las personas con entradas para el Festival de Pokémon GO podrán usar antes que nadie los Huevos de 7 km inspirados en el evento!",
@@ -148,11 +153,6 @@
             "title": "La primavera la sangre altera, ¡es hora de salir al aire libre!",
             "link": "https://pokemongolive.com/post/spring-changes-everything?hl=es",
             "date": "6 de mayo de 2024"
-        },
-        {
-            "title": "¡Celebremos la llegada del soporte en español latinoamericano a Pokémon GO con un evento especial!",
-            "link": "https://pokemongolive.com/post/pokemon-go-espanol-latam?hl=es",
-            "date": "5 de mayo de 2024"
         }
     ]
 }
