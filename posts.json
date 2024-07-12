@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Fest 2024: Global is just around the corner!",
+            "link": "https://pokemongolive.com/post/emea-go-fest-global-2024-meetups?hl=en",
+            "date": "July 12, 2024"
+        },
+        {
             "title": "Harness the power of the sun and moon with two new Adventure Effects: Sunsteel Strike and Moongeist Beam!",
             "link": "https://pokemongolive.com/post/fusion-adventure-effects-necrozma?hl=en",
             "date": "July 9, 2024"
@@ -148,11 +153,6 @@
             "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s15?hl=en",
             "date": "May 20, 2024"
-        },
-        {
-            "title": "Get ready for a spiky Incense Day, featuring Ferroseed!",
-            "link": "https://pokemongolive.com/post/incense-day-ferroseed-2024?hl=en",
-            "date": "May 16, 2024"
         }
     ]
 }
