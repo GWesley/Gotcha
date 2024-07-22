@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "En septembre, participez au safari de Pokémon GO pour vous éclater ! Des événements en personne arrivent à Jakarta, en Indonésie, et à Incheon, en Corée du Sud.",
+            "link": "https://pokemongolive.com/post/september-jakarta-incheon?hl=fr",
+            "date": "22 juillet 2024"
+        },
+        {
             "title": "Méga-Lucario déchaîne son aura lors de la Journée de Raids Ultra Bonus !",
             "link": "https://pokemongolive.com/post/mega-lucario-raid-ultra-unlock?hl=fr",
             "date": "16 juillet 2024"
@@ -148,11 +153,6 @@
             "title": "Ne restez pas dans les gradins pendant l’événement Vues sur le stade ! Partez en exploration et découvrez des Pokémon du Festival Pokémon GO 2024 : Sendai.",
             "link": "https://pokemongolive.com/post/go-fest-2024-stadium-sights?hl=fr",
             "date": "27 mai 2024"
-        },
-        {
-            "title": "Notez bien les dates des Journées Communauté de la Saison prochaine !",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s15?hl=fr",
-            "date": "20 mai 2024"
         }
     ]
 }
