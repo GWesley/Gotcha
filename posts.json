@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Get ready to explore your world during Pokémon GO’s Adventure Week!",
+            "link": "https://pokemongolive.com/post/adventure-week-2024?hl=en",
+            "date": "July 24, 2024"
+        },
+        {
             "title": "August 2024 Community Day: Popplio",
             "link": "https://pokemongolive.com/post/communityday-august-2024-popplio?hl=en",
             "date": "July 23, 2024"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Trainers have a chance to win a personalized PokéStop by visiting the new Football Experience at Pokémon GO Fest 2024: Madrid",
             "link": "https://pokemongolive.com/post/madrid-football-experience?hl=en",
             "date": "June 3, 2024"
-        },
-        {
-            "title": "June 2024 Community Day Classic: Cyndaquil",
-            "link": "https://pokemongolive.com/post/communityday-classic-cyndaquil?hl=en",
-            "date": "May 29, 2024"
         }
     ]
 }
