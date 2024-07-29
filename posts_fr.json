@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Méga-Rayquaza est de retour dans un événement de Raid spécial !",
+            "link": "https://pokemongolive.com/post/mega-rayquaza-returns?hl=fr",
+            "date": "29 juillet 2024"
+        },
+        {
             "title": "Ça va secouer ! La Team GO Rocket s’apprête à prendre le contrôle de la Semaine Aventure.",
             "link": "https://pokemongolive.com/post/adventure-week-team-go-rocket?hl=fr",
             "date": "29 juillet 2024"
@@ -147,11 +152,6 @@
         {
             "title": "Journée Communauté de juin 2024 : Mucuscule",
             "link": "https://pokemongolive.com/post/communityday-june-2024-goomy?hl=fr",
-            "date": "29 mai 2024"
-        },
-        {
-            "title": "Welcome to Pokémon GO: Shared Skies",
-            "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=fr",
             "date": "29 mai 2024"
         }
     ]
