@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Mega-Rayquaza regresa en un evento especial de incursiones!",
+            "link": "https://pokemongolive.com/post/mega-rayquaza-returns?hl=es",
+            "date": "29 de julio de 2024"
+        },
+        {
             "title": "¡Preparaos para transitar por terrenos pedregosos durante la toma de control del Team GO Rocket de la Semana de Aventuras!",
             "link": "https://pokemongolive.com/post/adventure-week-team-go-rocket?hl=es",
             "date": "29 de julio de 2024"
@@ -148,11 +153,6 @@
             "title": "Welcome to Pokémon GO: Shared Skies",
             "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=es",
             "date": "29 de mayo de 2024"
-        },
-        {
-            "title": "¡Relajaos y disfrutad durante el evento Arenas estivales!",
-            "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=es",
-            "date": "28 de mayo de 2024"
         }
     ]
 }
