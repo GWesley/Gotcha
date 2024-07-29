@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mega Rayquaza returns in a special raid event!",
+            "link": "https://pokemongolive.com/post/mega-rayquaza-returns?hl=en",
+            "date": "July 29, 2024"
+        },
+        {
             "title": "Prepare for rocky roads ahead as Team GO Rocket takes over Adventure Week!",
             "link": "https://pokemongolive.com/post/adventure-week-team-go-rocket?hl=en",
             "date": "July 29, 2024"
@@ -148,11 +153,6 @@
             "title": "Tune In to the 2024 Pokémon North America International Championships and Get a Special Timed Research!",
             "link": "https://pokemongolive.com/post/naic-2024?hl=en",
             "date": "June 6, 2024"
-        },
-        {
-            "title": "Get prepared to explore during the Scorching Steps event!",
-            "link": "https://pokemongolive.com/post/scorching-steps-2024?hl=en",
-            "date": "June 5, 2024"
         }
     ]
 }
