@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ça va secouer ! La Team GO Rocket s’apprête à prendre le contrôle de la Semaine Aventure.",
+            "link": "https://pokemongolive.com/post/adventure-week-team-go-rocket?hl=fr",
+            "date": "29 juillet 2024"
+        },
+        {
             "title": "Préparez-vous à explorer votre monde lors de la Semaine Aventure sur Pokémon GO !",
             "link": "https://pokemongolive.com/post/adventure-week-2024?hl=fr",
             "date": "24 juillet 2024"
@@ -148,11 +153,6 @@
             "title": "Welcome to Pokémon GO: Shared Skies",
             "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=fr",
             "date": "29 mai 2024"
-        },
-        {
-            "title": "Levez le pied et détendez-vous avec l’événement Sable sommeillant !",
-            "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=fr",
-            "date": "28 mai 2024"
         }
     ]
 }
