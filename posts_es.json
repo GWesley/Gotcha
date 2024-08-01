@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Celebrad el Campeonato Mundial de Pokémon 2024 en Pokémon GO!",
+            "link": "https://pokemongolive.com/post/world-championships-event-2024?hl=es",
+            "date": "1 de agosto de 2024"
+        },
+        {
             "title": "¡Mega-Rayquaza regresa en un evento especial de incursiones!",
             "link": "https://pokemongolive.com/post/mega-rayquaza-returns?hl=es",
             "date": "29 de julio de 2024"
@@ -147,11 +152,6 @@
         {
             "title": "Día de la Comunidad de junio de 2024: Goomy",
             "link": "https://pokemongolive.com/post/communityday-june-2024-goomy?hl=es",
-            "date": "29 de mayo de 2024"
-        },
-        {
-            "title": "Welcome to Pokémon GO: Shared Skies",
-            "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=es",
             "date": "29 de mayo de 2024"
         }
     ]
