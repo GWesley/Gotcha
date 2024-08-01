@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrem o Campeonato Mundial Pokémon 2024 no Pokémon GO!",
+            "link": "https://pokemongolive.com/post/world-championships-event-2024?hl=pt_BR",
+            "date": "1 de agosto de 2024"
+        },
+        {
             "title": "Mega Rayquaza retorna em um evento de Reide especial!",
             "link": "https://pokemongolive.com/post/mega-rayquaza-returns?hl=pt_BR",
             "date": "29 de julho de 2024"
@@ -148,11 +153,6 @@
             "title": "Welcome to Pokémon GO: Shared Skies",
             "link": "https://pokemongolive.com/post/welcome-to-shared-skies?hl=pt_BR",
             "date": "29 de maio de 2024"
-        },
-        {
-            "title": "Relaxem e aproveitem o evento Areias Relaxantes!",
-            "link": "https://pokemongolive.com/post/slumbering-sands-2024?hl=pt_BR",
-            "date": "28 de maio de 2024"
         }
     ]
 }
