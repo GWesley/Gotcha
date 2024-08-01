@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wir feiern die Pokémon-Weltmeisterschaften 2024 in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/world-championships-event-2024?hl=de",
+            "date": "1. August 2024"
+        },
+        {
             "title": "Mega-Rayquaza kehrt zu einem besonderen Raid-Event zurück!",
             "link": "https://pokemongolive.com/post/mega-rayquaza-returns?hl=de",
             "date": "29. Juli 2024"
@@ -147,11 +152,6 @@
         {
             "title": "Community Day Classic im Juni 2024: Feurigel",
             "link": "https://pokemongolive.com/post/communityday-classic-cyndaquil?hl=de",
-            "date": "29. Mai 2024"
-        },
-        {
-            "title": "Community Day im Juni 2024: Viscora",
-            "link": "https://pokemongolive.com/post/communityday-june-2024-goomy?hl=de",
             "date": "29. Mai 2024"
         }
     ]
