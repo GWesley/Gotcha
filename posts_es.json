@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Conoced a nuestros campeones en el Campeonato Mundial de Pokémon GO!",
+            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=es",
+            "date": "14 de agosto de 2024"
+        },
+        {
             "title": "Conseguid códigos para una Investigación temporal exclusiva durante la retransmisión del Campeonato Mundial de Pokémon GO 2024 en Twitch",
             "link": "https://pokemongolive.com/post/world-championship-twitch-timed-research-2024?hl=es",
             "date": "12 de agosto de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Sigue el Campeonato Internacional Pokémon de Norteamérica 2024 y recibe una investigación temporal especial!",
             "link": "https://pokemongolive.com/post/naic-2024?hl=es",
             "date": "6 de junio de 2024"
-        },
-        {
-            "title": "¡Preparaos para explorar durante el evento Pasos de fuego!",
-            "link": "https://pokemongolive.com/post/scorching-steps-2024?hl=es",
-            "date": "5 de junio de 2024"
         }
     ]
 }
