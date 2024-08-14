@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Meet our Champions at Pokémon GO World Championships!",
+            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=en",
+            "date": "August 14, 2024"
+        },
+        {
             "title": "Get codes for exclusive Timed Research during the 2024 Pokémon GO World Championships Twitch broadcast",
             "link": "https://pokemongolive.com/post/world-championship-twitch-timed-research-2024?hl=en",
             "date": "August 12, 2024"
@@ -148,11 +153,6 @@
             "title": "Pokémon GO is celebrating eight years—join us for the fun!",
             "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=en",
             "date": "June 18, 2024"
-        },
-        {
-            "title": "Celebrate the release of Pokémon Horizons: The Series in India and Indonesia with a special event!",
-            "link": "https://pokemongolive.com/post/pokemon-horizons-anime-202406?hl=en",
-            "date": "June 14, 2024"
         }
     ]
 }
