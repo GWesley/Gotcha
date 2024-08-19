@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Une surprise arrive dans Pokémon GO. Et elle a… faim ?!",
+            "link": "https://pokemongolive.com/post/morpeko-charged-for-battle?hl=fr",
+            "date": "18 août 2024"
+        },
+        {
+            "title": "Une surprise arrive dans Pokémon GO. Et elle est de taille !",
+            "link": "https://pokemongolive.com/post/something-big-is-coming?hl=fr",
+            "date": "18 août 2024"
+        },
+        {
             "title": "Rencontrez nos plus grand·e·s joueur·euse·s à l’occasion des Championnats du Monde Pokémon GO !",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=fr",
             "date": "14 août 2024"
@@ -143,16 +153,6 @@
             "title": "Célébrez la Fashion Week et la Fête de la musique avec Pokémon GO",
             "link": "https://pokemongolive.com/post/fetedelamusique?hl=fr",
             "date": "16 juin 2024"
-        },
-        {
-            "title": "Foulez le sable avec les Pokémon du Festival Pokémon GO : Madrid !",
-            "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=fr",
-            "date": "6 juin 2024"
-        },
-        {
-            "title": "Rencontrez des Dresseur·euse·s de renom à Madrid et à New York, lors du Festival Pokémon GO 2024",
-            "link": "https://pokemongolive.com/post/notable-trainer-meet-greet-go-fest-2024?hl=fr",
-            "date": "6 juin 2024"
         }
     ]
 }
