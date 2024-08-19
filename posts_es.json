@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "¡¿Algo hambriento llega a Pokémon GO?!",
+            "link": "https://pokemongolive.com/post/morpeko-charged-for-battle?hl=es",
+            "date": "18 de agosto de 2024"
+        },
+        {
+            "title": "Algo grande llega a Pokémon GO.",
+            "link": "https://pokemongolive.com/post/something-big-is-coming?hl=es",
+            "date": "18 de agosto de 2024"
+        },
+        {
             "title": "¡Conoced a nuestros campeones en el Campeonato Mundial de Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=es",
             "date": "14 de agosto de 2024"
@@ -142,16 +152,6 @@
         {
             "title": "¡A la playa con los Pokémon del Festival de Pokémon GO 2024: Madrid!",
             "link": "https://pokemongolive.com/post/go-fest-2024-spelunkers-cove?hl=es",
-            "date": "6 de junio de 2024"
-        },
-        {
-            "title": "¡Conoce a Entrenadores famosos en el Festival de Pokémon GO 2024 en Madrid y Nueva York!",
-            "link": "https://pokemongolive.com/post/notable-trainer-meet-greet-go-fest-2024?hl=es",
-            "date": "6 de junio de 2024"
-        },
-        {
-            "title": "¡Sigue el Campeonato Internacional Pokémon de Norteamérica 2024 y recibe una investigación temporal especial!",
-            "link": "https://pokemongolive.com/post/naic-2024?hl=es",
             "date": "6 de junio de 2024"
         }
     ]
