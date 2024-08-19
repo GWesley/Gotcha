@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Something hungry is coming to Pokémon GO?!",
+            "link": "https://pokemongolive.com/post/morpeko-charged-for-battle?hl=en",
+            "date": "August 18, 2024"
+        },
+        {
+            "title": "Something big is coming to Pokémon GO.",
+            "link": "https://pokemongolive.com/post/something-big-is-coming?hl=en",
+            "date": "August 18, 2024"
+        },
+        {
             "title": "Meet our Champions at Pokémon GO World Championships!",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=en",
             "date": "August 14, 2024"
@@ -143,16 +153,6 @@
             "title": "July 2024 Community Day: Tynamo",
             "link": "https://pokemongolive.com/post/communityday-july-2024-tynamo?hl=en",
             "date": "June 24, 2024"
-        },
-        {
-            "title": "Mega Rayquaza soars through the skies worldwide during new Elite Raids!",
-            "link": "https://pokemongolive.com/post/mega-rayquaza-elite-raids-2024?hl=en",
-            "date": "June 19, 2024"
-        },
-        {
-            "title": "Pokémon GO is celebrating eight years—join us for the fun!",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=en",
-            "date": "June 18, 2024"
         }
     ]
 }
