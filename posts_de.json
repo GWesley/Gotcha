@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO kommt zur gamescom 2024!",
+            "link": "https://pokemongolive.com/post/gamescom-2024?hl=de",
+            "date": "20. August 2024"
+        },
+        {
             "title": "Globale Herausforderungen während des Events „Vereinter Triumph“",
             "link": "https://pokemongolive.com/post/triumph-together-2024?hl=de",
             "date": "19. August 2024"
@@ -148,11 +153,6 @@
             "title": "Mega-Rayquaza erobert weltweit den Himmel in neuen Top-Raids!",
             "link": "https://pokemongolive.com/post/mega-rayquaza-elite-raids-2024?hl=de",
             "date": "19. Juni 2024"
-        },
-        {
-            "title": "Seid bei der Party zum 8. Jubiläum von Pokémon GO dabei!",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary?hl=de",
-            "date": "18. Juni 2024"
         }
     ]
 }
