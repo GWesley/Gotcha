@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Parte 1 da Fartura Diária de Pokémoeda",
+            "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-1?hl=pt_BR",
+            "date": "30 de agosto de 2024"
+        },
+        {
             "title": "Falinks está em formação para um evento do dia de Reides.",
             "link": "https://pokemongolive.com/post/falinks-raid-day-event?hl=pt_BR",
             "date": "29 de agosto de 2024"
@@ -148,11 +153,6 @@
             "title": "Desfrutem de um Paraíso Aquático com Pokémon do Festival de Pokémon GO 2024: Nova York!",
             "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=pt_BR",
             "date": "27 de junho de 2024"
-        },
-        {
-            "title": "Participem dos encontros da Comunidade Pokémon GO para o Festival de Pokémon GO 2024: Global!",
-            "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=pt_BR",
-            "date": "26 de junho de 2024"
         }
     ]
 }
