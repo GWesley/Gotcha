@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Bonus de PokéPièces quotidien, partie 1",
+            "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-1?hl=fr",
+            "date": "30 août 2024"
+        },
+        {
             "title": "Hexadron se met en formation pour la Journée de Raids !",
             "link": "https://pokemongolive.com/post/falinks-raid-day-event?hl=fr",
             "date": "29 août 2024"
@@ -148,11 +153,6 @@
             "title": "Venez participer aux rencontres de Communauté, à l’occasion du Festival Pokémon GO : Mondial !",
             "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=fr",
             "date": "26 juin 2024"
-        },
-        {
-            "title": "Participez aux événements de célébration du Festival Pokémon GO 2024 pour obtenir des récompenses en jeu, telles que de l’Énergie fusion pour Necrozma et bien plus encore !",
-            "link": "https://pokemongolive.com/post/gofest-celebration?hl=fr",
-            "date": "25 juin 2024"
         }
     ]
 }
