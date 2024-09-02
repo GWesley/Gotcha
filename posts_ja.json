@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「『Pokémon GO』 パートナーリサーチ」のご案内！",
+            "link": "https://pokemongolive.com/post/202409partnerresearch-jp?hl=ja",
+            "date": "2024年9月1日"
+        },
+        {
             "title": "「デイリーポケコインセレクト パート1」",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-1?hl=ja",
             "date": "2024年8月30日"
@@ -148,11 +153,6 @@
             "title": "「Pokémon GO Fest 2024：グローバル」で『Pokémon GO』コミュニティのミートアップに参加しよう",
             "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=ja",
             "date": "2024年6月26日"
-        },
-        {
-            "title": "「ウルトラビースト襲来」イベントで、「Pokémon GO Fest 2024：グローバル」に先だって「ウルトラビースト」が出現",
-            "link": "https://pokemongolive.com/post/inbound-from-ultra-space-2024?hl=ja",
-            "date": "2024年6月25日"
         }
     ]
 }
