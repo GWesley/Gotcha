@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Max Out",
+            "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=en",
+            "date": "September 6, 2024"
+        },
+        {
             "title": "Daily PokéCoin Bounty Part 1",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-1?hl=en",
             "date": "August 30, 2024"
@@ -148,11 +153,6 @@
             "title": "Get rewards at Pokémon GO Fest 2024: New York City with Google Play Points!",
             "link": "https://pokemongolive.com/post/gofest-nyc-googleplay?hl=en",
             "date": "July 2, 2024"
-        },
-        {
-            "title": "Plan your travel for Pokémon GO Fest 2024: New York City",
-            "link": "https://pokemongolive.com/post/go-fest-2024-newyork-transportation?hl=en",
-            "date": "June 27, 2024"
         }
     ]
 }
