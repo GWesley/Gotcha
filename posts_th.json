@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Max Out",
+            "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=th",
+            "date": "6 กันยายน 2567"
+        },
+        {
             "title": "รางวัลโปเกคอยน์ประจำวัน ส่วนที่ 1",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-1?hl=th",
             "date": "30 สิงหาคม 2567"
@@ -148,11 +153,6 @@
             "title": "เตรียมตัวจับโปเกมอนที่มีพื้นหลังพิเศษ ซึ่งจะเปิดตัวก่อน Pokémon GO Fest 2024: ทั่วโลก!",
             "link": "https://pokemongolive.com/post/special-backgrounds?hl=th",
             "date": "25 มิถุนายน 2567"
-        },
-        {
-            "title": "คอมมิวนิตี้เดย์กรกฎาคม 2024: ชิบิชิราซึ",
-            "link": "https://pokemongolive.com/post/communityday-july-2024-tynamo?hl=th",
-            "date": "24 มิถุนายน 2567"
         }
     ]
 }
