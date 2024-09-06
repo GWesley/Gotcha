@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Max Out",
+            "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=pt_BR",
+            "date": "6 de setembro de 2024"
+        },
+        {
             "title": "Celebre as melhorias no mapa para o Brasil com esta empolgante Pesquisa Temporária",
             "link": "https://pokemongolive.com/post/brazil-timed-research?hl=pt_BR",
             "date": "6 de setembro de 2024"
@@ -148,11 +153,6 @@
             "title": "Feliz aniversário de oito anos, Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=pt_BR",
             "date": "6 de julho de 2024"
-        },
-        {
-            "title": "Comemorem com Treinadores notáveis no Brasil durante o Pokémon GO Fest 2024: Global!",
-            "link": "https://pokemongolive.com/post/go-fest-global-2024-brazil?hl=pt_BR",
-            "date": "1 de julho de 2024"
         }
     ]
 }
