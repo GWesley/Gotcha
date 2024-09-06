@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Max Out",
+            "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=ko",
+            "date": "2024년 9월 6일"
+        },
+        {
             "title": "데일리 포켓코인 셀렉트 파트 1",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-1?hl=ko",
             "date": "2024년 8월 30일"
@@ -148,11 +153,6 @@
             "title": "\"Pokémon GO Fest 2024: 글로벌\"에서 \"Pokémon GO\" 커뮤니티 모임에 참가하세요!",
             "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=ko",
             "date": "2024년 6월 26일"
-        },
-        {
-            "title": "\"울트라비스트 습격!\" 이벤트로 \"Pokémon GO Fest 2024: 글로벌\"보다 먼저 울트라비스트가 출현합니다!",
-            "link": "https://pokemongolive.com/post/inbound-from-ultra-space-2024?hl=ko",
-            "date": "2024년 6월 25일"
         }
     ]
 }
