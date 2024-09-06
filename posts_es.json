@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Max Out",
+            "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=es",
+            "date": "6 de septiembre de 2024"
+        },
+        {
             "title": "Recompensa diaria de Pokémonedas (Parte 1)",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-1?hl=es",
             "date": "30 de agosto de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Disfrutad de un paraíso acuático con Pokémon del Festival de Pokémon GO 2024: New York!",
             "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=es",
             "date": "27 de junio de 2024"
-        },
-        {
-            "title": "¡Uníos a los encuentros de la Comunidad de Pokémon GO con motivo del Festival de Pokémon GO 2024: Global!",
-            "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=es",
-            "date": "26 de junio de 2024"
         }
     ]
 }
