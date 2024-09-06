@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Max Out",
+            "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=ja",
+            "date": "2024年9月6日"
+        },
+        {
             "title": "「『Pokémon GO』 パートナーリサーチ」のご案内！",
             "link": "https://pokemongolive.com/post/202409partnerresearch-jp?hl=ja",
             "date": "2024年9月1日"
@@ -148,11 +153,6 @@
             "title": "「ウォーターパラダイス」イベントで「Pokémon GO Fest 2024：ニューヨーク」に登場するポケモンと出会おう",
             "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=ja",
             "date": "2024年6月27日"
-        },
-        {
-            "title": "「Pokémon GO Fest 2024：グローバル」で『Pokémon GO』コミュニティのミートアップに参加しよう",
-            "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=ja",
-            "date": "2024年6月26日"
         }
     ]
 }
