@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡El evento Psicoespectáculo vuelve a Pokémon GO!",
+            "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=es",
+            "date": "9 de septiembre de 2024"
+        },
+        {
             "title": "Welcome to Pokémon GO: Max Out",
             "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=es",
             "date": "6 de septiembre de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Feliz octavo aniversario, Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=es",
             "date": "6 de julio de 2024"
-        },
-        {
-            "title": "¡Disfrutad de un paraíso acuático con Pokémon del Festival de Pokémon GO 2024: New York!",
-            "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=es",
-            "date": "27 de junio de 2024"
         }
     ]
 }
