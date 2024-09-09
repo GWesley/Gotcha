@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O evento Espetáculo Psíquico voltou ao Pokémon GO!",
+            "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=pt_BR",
+            "date": "9 de setembro de 2024"
+        },
+        {
             "title": "Welcome to Pokémon GO: Max Out",
             "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=pt_BR",
             "date": "6 de setembro de 2024"
@@ -148,11 +153,6 @@
             "title": "Quem tiver ingresso para o Festival de GO Global receberá um fabul-ovo acesso antecipado a Ovos de 7 km com tema do evento.",
             "link": "https://pokemongolive.com/post/gofest-2024-early-egg-ticket-access?hl=pt_BR",
             "date": "7 de julho de 2024"
-        },
-        {
-            "title": "Feliz aniversário de oito anos, Pokémon GO!",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=pt_BR",
-            "date": "6 de julho de 2024"
         }
     ]
 }
