@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L’evento Psicomania ritorna in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=it",
+            "date": "9 settembre 2024"
+        },
+        {
             "title": "Welcome to Pokémon GO: Max Out",
             "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=it",
             "date": "6 settembre 2024"
@@ -148,11 +153,6 @@
             "title": "Buon 8° anniversario a Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=it",
             "date": "6 luglio 2024"
-        },
-        {
-            "title": "Divertitevi in un paradiso acquatico con i Pokémon del Festival di Pokémon GO 2024: New York!",
-            "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=it",
-            "date": "27 giugno 2024"
         }
     ]
 }
