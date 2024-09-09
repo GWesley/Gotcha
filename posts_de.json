@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Das Psycho-Spektakel kehrt zurück in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=de",
+            "date": "9. September 2024"
+        },
+        {
             "title": "Welcome to Pokémon GO: Max Out",
             "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=de",
             "date": "6. September 2024"
@@ -148,11 +153,6 @@
             "title": "Ticketinhaber für das Pokémon GO Fest: Global erhalten vorzeitigen Zugang zu 7-km-Eiern mit Event-Pokémon!",
             "link": "https://pokemongolive.com/post/gofest-2024-early-egg-ticket-access?hl=de",
             "date": "7. Juli 2024"
-        },
-        {
-            "title": "Alles Gute zum 8. Geburtstag, Pokémon GO!",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=de",
-            "date": "6. Juli 2024"
         }
     ]
 }
