@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "GO Big with Dynamax!",
+            "link": "https://pokemongolive.com/post/dynamax-pokemon-battles?hl=it",
+            "date": "10 settembre 2024"
+        },
+        {
             "title": "L’evento Psicomania ritorna in Pokémon GO!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=it",
             "date": "9 settembre 2024"
@@ -148,11 +153,6 @@
             "title": "Coloro in possesso di un biglietto dell’evento globale Festival di Pokémon GO riceveranno un fantastico accesso anticipato alle Uova da 7 km ispirate all’evento.",
             "link": "https://pokemongolive.com/post/gofest-2024-early-egg-ticket-access?hl=it",
             "date": "7 luglio 2024"
-        },
-        {
-            "title": "Buon 8° anniversario a Pokémon GO!",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=it",
-            "date": "6 luglio 2024"
         }
     ]
 }
