@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "GO Big with Dynamax!",
+            "link": "https://pokemongolive.com/post/dynamax-pokemon-battles?hl=ja",
+            "date": "2024年9月10日"
+        },
+        {
             "title": "『Pokémon GO』で「エスパーウィーク」イベントが再び開催",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=ja",
             "date": "2024年9月9日"
@@ -148,11 +153,6 @@
             "title": "「Pokémon GO Fest」のチケットをお持ちの方は、イベントに先立って7kmタマゴをかえせます",
             "link": "https://pokemongolive.com/post/gofest-2024-early-egg-ticket-access?hl=ja",
             "date": "2024年7月7日"
-        },
-        {
-            "title": "『Pokémon GO』が8周年を迎えます",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=ja",
-            "date": "2024年7月6日"
         }
     ]
 }
