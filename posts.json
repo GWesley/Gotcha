@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "GO Big with Dynamax!",
+            "link": "https://pokemongolive.com/post/dynamax-pokemon-battles?hl=en",
+            "date": "September 10, 2024"
+        },
+        {
             "title": "The Psychic Spectacular Event returns in Pokémon GO!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=en",
             "date": "September 9, 2024"
@@ -148,11 +153,6 @@
             "title": "Global GO Fest ticket holders get egg-citing early access to event-themed 7 km Eggs!",
             "link": "https://pokemongolive.com/post/gofest-2024-early-egg-ticket-access?hl=en",
             "date": "July 7, 2024"
-        },
-        {
-            "title": "Happy 8th Anniversary to Pokémon GO!",
-            "link": "https://pokemongolive.com/post/pokemongo-8th-anniversary-art?hl=en",
-            "date": "July 6, 2024"
         }
     ]
 }
