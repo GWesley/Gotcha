@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "GO Big with Dynamax!",
+            "link": "https://pokemongolive.com/post/dynamax-pokemon-battles?hl=zh_Hant",
+            "date": "2024年9月10日"
+        },
+        {
             "title": "「超能力週」活動回到《Pokémon GO》啦！",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=zh_Hant",
             "date": "2024年9月9日"
@@ -148,11 +153,6 @@
             "title": "和「Pokémon GO Fest 2024：紐約」出現的寶可夢一同遨遊水上樂園吧！",
             "link": "https://pokemongolive.com/post/go-fest-2024-aquatic-paradise?hl=zh_Hant",
             "date": "2024年6月27日"
-        },
-        {
-            "title": "來參加「Pokémon GO Fest 2024：全球」的Pokémon GO社群見面會吧！",
-            "link": "https://pokemongolive.com/post/go-fest-2024-community-meetups?hl=zh_Hant",
-            "date": "2024年6月26日"
         }
     ]
 }
