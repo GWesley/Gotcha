@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "GO Big with Dynamax!",
+            "link": "https://pokemongolive.com/post/dynamax-pokemon-battles?hl=pt_BR",
+            "date": "10 de setembro de 2024"
+        },
+        {
             "title": "O evento Espetáculo Psíquico voltou ao Pokémon GO!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=pt_BR",
             "date": "9 de setembro de 2024"
@@ -148,11 +153,6 @@
             "title": "Detalhes do Festival de Pokémon GO 2024 revelados: Ultrabônus, horas de habitat e muito mais!",
             "link": "https://pokemongolive.com/post/go-fest-2024-ultra-unlock-challenges?hl=pt_BR",
             "date": "9 de julho de 2024"
-        },
-        {
-            "title": "Quem tiver ingresso para o Festival de GO Global receberá um fabul-ovo acesso antecipado a Ovos de 7 km com tema do evento.",
-            "link": "https://pokemongolive.com/post/gofest-2024-early-egg-ticket-access?hl=pt_BR",
-            "date": "7 de julho de 2024"
         }
     ]
 }
