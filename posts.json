@@ -5,8 +5,13 @@
     ],
     "posts": [
         {
+            "title": "Join Oranguru and Passimian in an upcoming Research Day!",
+            "link": "https://pokemongolive.com/post/research-day-oranguru-and-passimian?hl=en",
+            "date": "September 11, 2024"
+        },
+        {
             "title": "GO Big with Dynamax!",
-            "link": "https://pokemongolive.com/post/dynamax-pokemon-battles?hl=en",
+            "link": "https://pokemongolive.com/post/dynamax-pokemon-battle?hl=en",
             "date": "September 10, 2024"
         },
         {
@@ -148,11 +153,6 @@
             "title": "Pokémon GO Fest 2024 details revealed: Ultra Unlock, habitat times, and more!",
             "link": "https://pokemongolive.com/post/go-fest-2024-ultra-unlock-challenges?hl=en",
             "date": "July 9, 2024"
-        },
-        {
-            "title": "Global GO Fest ticket holders get egg-citing early access to event-themed 7 km Eggs!",
-            "link": "https://pokemongolive.com/post/gofest-2024-early-egg-ticket-access?hl=en",
-            "date": "July 7, 2024"
         }
     ]
 }
