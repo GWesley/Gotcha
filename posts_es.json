@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Conoce las novedades del Incienso de aventura diaria durante el evento Expedición de Galar!",
+            "link": "https://pokemongolive.com/post/galarian-expedition-2024?hl=es",
+            "date": "19 de septiembre de 2024"
+        },
+        {
             "title": "Día de la Comunidad de octubre de 2024: Sewaddle",
             "link": "https://pokemongolive.com/post/communityday-october-2024-sewaddle?hl=es",
             "date": "17 de septiembre de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Tandemaus y sus amigos llegan juntos para Ultrabonus: En compañía!",
             "link": "https://pokemongolive.com/post/ultra-unlock-better-together?hl=es",
             "date": "15 de julio de 2024"
-        },
-        {
-            "title": "¡El Festival de Pokémon GO 2024: Global está a la vuelta de la esquina!",
-            "link": "https://pokemongolive.com/post/emea-go-fest-global-2024-meetups?hl=es",
-            "date": "12 de julio de 2024"
         }
     ]
 }
