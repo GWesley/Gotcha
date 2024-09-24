@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Apresentamos o Compartilhamento com Grupo!",
+            "link": "https://pokemongolive.com/post/partyshare?hl=pt_BR",
+            "date": "24 de setembro de 2024"
+        },
+        {
             "title": "As Batalhas Max continuam com mais Pokémon Dinamax aparecendo como Chefes de Ponto de Energia, incluindo Grookey, Scorbunny, Sobble e Falinks.",
             "link": "https://pokemongolive.com/post/galar-max-battles?hl=pt_BR",
             "date": "23 de setembro de 2024"
@@ -148,11 +153,6 @@
             "title": "Preparem-se para um mês de setembro cheio de diversão no Safári do Pokémon GO, com eventos presenciais em Jacarta, na Indonésia, e em Incheon, na Coreia do Sul.",
             "link": "https://pokemongolive.com/post/september-jakarta-incheon?hl=pt_BR",
             "date": "22 de julho de 2024"
-        },
-        {
-            "title": "Mega Lucario libera sua aura em um evento de dia de Reides de Ultradesbloqueio.",
-            "link": "https://pokemongolive.com/post/mega-lucario-raid-ultra-unlock?hl=pt_BR",
-            "date": "16 de julho de 2024"
         }
     ]
 }
