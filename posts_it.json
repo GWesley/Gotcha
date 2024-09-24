@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ecco la nuova funzionalità Condividi con il gruppo!",
+            "link": "https://pokemongolive.com/post/partyshare?hl=it",
+            "date": "24 settembre 2024"
+        },
+        {
             "title": "Le Lotte Dynamax continuano con altri Pokémon Dynamax che appaiono come boss del punto energetico, tra cui Grookey, Scorbunny, Sobble e Falinks.",
             "link": "https://pokemongolive.com/post/galar-max-battles?hl=it",
             "date": "23 settembre 2024"
@@ -148,11 +153,6 @@
             "title": "Togedemaru fa un elettrizzante debutto cromatico in Sblocco dell’ultrabonus: Forza d’acciaio.",
             "link": "https://pokemongolive.com/post/ultra-unlock-strength-of-steel?hl=it",
             "date": "16 luglio 2024"
-        },
-        {
-            "title": "Espandete i vostri orizzonti sotto i Cieli condivisi con il biglietto Cresciamo insieme.",
-            "link": "https://pokemongolive.com/post/grow-together-ticket?hl=it",
-            "date": "15 luglio 2024"
         }
     ]
 }
