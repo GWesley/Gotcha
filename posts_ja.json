@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「チームシェア」で道具をシェアしよう！",
+            "link": "https://pokemongolive.com/post/partyshare?hl=ja",
+            "date": "2024年9月24日"
+        },
+        {
             "title": "「マックスバトル」で出現する「ダイマックスポケモン」がさらに登場！「ダイマックスサルノリ」「ダイマックスヒバニー」「ダイマックスメッソン」「ダイマックスタイレーツ」がやってきます",
             "link": "https://pokemongolive.com/post/galar-max-battles?hl=ja",
             "date": "2024年9月23日"
@@ -148,11 +153,6 @@
             "title": "「ウルトラアンロック：はがねの定め」イベントで、色違いの「トゲデマル」が電撃デビュー！",
             "link": "https://pokemongolive.com/post/ultra-unlock-strength-of-steel?hl=ja",
             "date": "2024年7月16日"
-        },
-        {
-            "title": "「みんなで成長」チケットで「ひとつながりの空」シーズンをもっと楽しもう",
-            "link": "https://pokemongolive.com/post/grow-together-ticket?hl=ja",
-            "date": "2024年7月15日"
         }
     ]
 }
