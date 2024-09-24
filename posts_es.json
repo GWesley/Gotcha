@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Presentamos la función Compartir en equipo!",
+            "link": "https://pokemongolive.com/post/partyshare?hl=es",
+            "date": "24 de septiembre de 2024"
+        },
+        {
             "title": "¡Continúan los Combates Max con Pokémon Dinamax en los nodos energéticos como Grookey, Scorbunny, Sobble y Falinks!",
             "link": "https://pokemongolive.com/post/galar-max-battles?hl=es",
             "date": "23 de septiembre de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Togedemaru variocolor debuta de forma enérgica en Ultrabonus: Fuerte como el acero!",
             "link": "https://pokemongolive.com/post/ultra-unlock-strength-of-steel?hl=es",
             "date": "16 de julio de 2024"
-        },
-        {
-            "title": "¡Ampliad vuestros horizontes en Bajo el Mismo Cielo con la entrada Creciendo juntos!",
-            "link": "https://pokemongolive.com/post/grow-together-ticket?hl=es",
-            "date": "15 de julio de 2024"
         }
     ]
 }
