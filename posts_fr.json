@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Partagez vos objets grâce la fonctionnalité Partager avec l’Équipe !",
+            "link": "https://pokemongolive.com/post/partyshare?hl=fr",
+            "date": "24 septembre 2024"
+        },
+        {
             "title": "La frénésie des Combats Dynamax perdure, avec l’apparition de nouveaux Boss dans les Sources d’Énergie, dont Ouistempo, Flambino, Larméléon ou encore Hexadron !",
             "link": "https://pokemongolive.com/post/galar-max-battles?hl=fr",
             "date": "23 septembre 2024"
@@ -148,11 +153,6 @@
             "title": "Pour la première fois, Togedemaru pourra apparaître en version chromatique dans l’événement Ultra Bonus : Santé de fer !",
             "link": "https://pokemongolive.com/post/ultra-unlock-strength-of-steel?hl=fr",
             "date": "16 juillet 2024"
-        },
-        {
-            "title": "Élargissez vos horizons pendant la Saison Sous un même ciel, avec le billet Grandir ensemble !",
-            "link": "https://pokemongolive.com/post/grow-together-ticket?hl=fr",
-            "date": "15 juillet 2024"
         }
     ]
 }
