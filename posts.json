@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Introducing item sharing with Party Share!",
+            "link": "https://pokemongolive.com/post/partyshare?hl=en",
+            "date": "September 24, 2024"
+        },
+        {
             "title": "The Max Battles continue with more Dynamax Pokémon appearing as Power Spot Bosses, featuring Grookey, Scorbunny, Sobble, and Falinks!",
             "link": "https://pokemongolive.com/post/galar-max-battles?hl=en",
             "date": "September 23, 2024"
@@ -147,11 +152,6 @@
         {
             "title": "Mega Lucario unleashes its aura in an Ultra Unlock Raid Day event!",
             "link": "https://pokemongolive.com/post/mega-lucario-raid-ultra-unlock?hl=en",
-            "date": "July 16, 2024"
-        },
-        {
-            "title": "Togedemaru makes an electrifying Shiny debut in Ultra Unlock: Strength of Steel!",
-            "link": "https://pokemongolive.com/post/ultra-unlock-strength-of-steel?hl=en",
             "date": "July 16, 2024"
         }
     ]
