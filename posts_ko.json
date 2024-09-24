@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "도구를 공유하는 팀 공유 기능을 소개합니다!",
+            "link": "https://pokemongolive.com/post/partyshare?hl=ko",
+            "date": "2024년 9월 24일"
+        },
+        {
             "title": "맥스배틀에서 출현하는 다이맥스 포켓몬이 더 많이 등장합니다!다이맥스 흥나숭, 다이맥스 염버니, 다이맥스 울머기, 다이맥스 대여르가 찾아옵니다!",
             "link": "https://pokemongolive.com/post/galar-max-battles?hl=ko",
             "date": "2024년 9월 23일"
@@ -148,11 +153,6 @@
             "title": "\"울트라 언록: 강철의 정의\" 이벤트에서 색이 다른 \"토게데마루\"가 데뷔합니다!",
             "link": "https://pokemongolive.com/post/ultra-unlock-strength-of-steel?hl=ko",
             "date": "2024년 7월 16일"
-        },
-        {
-            "title": "\"다함께 성장\" 티켓으로 \"서로 연결된 하늘\" 시즌을 즐기세요!",
-            "link": "https://pokemongolive.com/post/grow-together-ticket?hl=ko",
-            "date": "2024년 7월 15일"
         }
     ]
 }
