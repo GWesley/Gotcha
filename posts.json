@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Electric-type Pokémon spark our interest in the new Magnetic Study event!",
+            "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=en",
+            "date": "October 7, 2024"
+        },
+        {
             "title": "Mega Mawile Raid Day",
             "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=en",
             "date": "October 2, 2024"
@@ -148,11 +153,6 @@
             "title": "Prepare for rocky roads ahead as Team GO Rocket takes over Adventure Week!",
             "link": "https://pokemongolive.com/post/adventure-week-team-go-rocket?hl=en",
             "date": "July 29, 2024"
-        },
-        {
-            "title": "Get ready to explore your world during Pokémon GO’s Adventure Week!",
-            "link": "https://pokemongolive.com/post/adventure-week-2024?hl=en",
-            "date": "July 24, 2024"
         }
     ]
 }
