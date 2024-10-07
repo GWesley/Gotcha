@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Durante il nuovo evento Indagine magnetica, la nostra attenzione sarà catturata da Pokémon di tipo Elettro.",
+            "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=it",
+            "date": "7 ottobre 2024"
+        },
+        {
             "title": "Giorno di raid con MegaMawile",
             "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=it",
             "date": "2 ottobre 2024"
@@ -148,11 +153,6 @@
             "title": "Preparatevi a esplorare il mondo durante la Settimana dellʼavventura di Pokémon GO!",
             "link": "https://pokemongolive.com/post/adventure-week-2024?hl=it",
             "date": "24 luglio 2024"
-        },
-        {
-            "title": "Community Day di agosto 2024: Popplio",
-            "link": "https://pokemongolive.com/post/communityday-august-2024-popplio?hl=it",
-            "date": "23 luglio 2024"
         }
     ]
 }
