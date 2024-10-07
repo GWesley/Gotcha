@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Beim neuen Event „Magnet-Studie“ haben wir Elektro-Pokémon auf dem Radar!",
+            "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=de",
+            "date": "7. Oktober 2024"
+        },
+        {
             "title": "Raid-Tag mit Mega-Flunkifer",
             "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=de",
             "date": "2. Oktober 2024"
@@ -148,11 +153,6 @@
             "title": "Team GO Rocket übernimmt die Abenteuerwoche in Pokémon GO!",
             "link": "https://pokemongolive.com/post/adventure-week-team-go-rocket?hl=de",
             "date": "29. Juli 2024"
-        },
-        {
-            "title": "Bei der Abenteuerwoche in Pokémon GO ist euer Entdeckergeist gefragt!",
-            "link": "https://pokemongolive.com/post/adventure-week-2024?hl=de",
-            "date": "24. Juli 2024"
         }
     ]
 }
