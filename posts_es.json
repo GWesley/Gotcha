@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Los Pokémon de tipo Eléctrico encienden nuestro interés en el nuevo evento Análisis del magnetismo!",
+            "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=es",
+            "date": "7 de octubre de 2024"
+        },
+        {
             "title": "Día de incursiones de Mega-Mawile",
             "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=es",
             "date": "2 de octubre de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Explora el mundo durante la Semana de Aventuras de Pokémon GO!",
             "link": "https://pokemongolive.com/post/adventure-week-2024?hl=es",
             "date": "24 de julio de 2024"
-        },
-        {
-            "title": "Día de la Comunidad de agosto de 2024: Popplio",
-            "link": "https://pokemongolive.com/post/communityday-august-2024-popplio?hl=es",
-            "date": "23 de julio de 2024"
         }
     ]
 }
