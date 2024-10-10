@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mise à jour du système des Combats de Raid et d’Arène",
+            "link": "https://pokemongolive.com/post/battle-systems-update?hl=fr",
+            "date": "10 octobre 2024"
+        },
+        {
             "title": "Journée Recherche Tutafeh et Tutafeh de Galar",
             "link": "https://pokemongolive.com/post/yamask-galarian-yamask-research-day?hl=fr",
             "date": "10 octobre 2024"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté classique d’août 2024 : Terhal",
             "link": "https://pokemongolive.com/post/communityday-classic-beldum?hl=fr",
             "date": "7 août 2024"
-        },
-        {
-            "title": "Célébrez les Championnats du Monde Pokémon 2024 dans Pokémon GO !",
-            "link": "https://pokemongolive.com/post/world-championships-event-2024?hl=fr",
-            "date": "1 août 2024"
         }
     ]
 }
