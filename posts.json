@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Raid and Battle Systems Update",
+            "link": "https://pokemongolive.com/post/battle-systems-update?hl=en",
+            "date": "October 10, 2024"
+        },
+        {
             "title": "Yamask and Galarian Yamask Research Day",
             "link": "https://pokemongolive.com/post/yamask-galarian-yamask-research-day?hl=en",
             "date": "October 10, 2024"
@@ -148,11 +153,6 @@
             "title": "Get codes for exclusive Timed Research during the 2024 Pokémon GO World Championships Twitch broadcast",
             "link": "https://pokemongolive.com/post/world-championship-twitch-timed-research-2024?hl=en",
             "date": "August 12, 2024"
-        },
-        {
-            "title": "Save the dates for next Season’s Community Days!",
-            "link": "https://pokemongolive.com/post/cd-savethedate-s16?hl=en",
-            "date": "August 7, 2024"
         }
     ]
 }
