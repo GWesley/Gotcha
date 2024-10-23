@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Introducing Max Mondays to max out every week with Dynamax!",
+            "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=en",
+            "date": "October 23, 2024"
+        },
+        {
             "title": "Ghostly giants and costumed companions! Gigantamax Gengar and more debut during Pokémon GO’s Halloween 2024 Part II event!",
             "link": "https://pokemongolive.com/post/halloween-part-2-2024?hl=en",
             "date": "October 21, 2024"
@@ -148,11 +153,6 @@
             "title": "September 2024 Community Day: Ponyta & Galarian Ponyta",
             "link": "https://pokemongolive.com/post/communityday-september-2024-ponyta?hl=en",
             "date": "August 21, 2024"
-        },
-        {
-            "title": "Team up to take on Global Challenges during Triumph Together!",
-            "link": "https://pokemongolive.com/post/triumph-together-2024?hl=en",
-            "date": "August 19, 2024"
         }
     ]
 }
