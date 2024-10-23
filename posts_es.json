@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Presentamos los Lunes Max para ir al máximo todas las semanas con Dinamax!",
+            "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=es",
+            "date": "23 de octubre de 2024"
+        },
+        {
             "title": "¡Gigantes fantasmagóricos y compañeros disfrazados! ¡Gengar Gigamax y otros debutan durante el evento Halloween 2024: Parte II!",
             "link": "https://pokemongolive.com/post/halloween-part-2-2024?hl=es",
             "date": "21 de octubre de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Conoced a nuestros campeones en el Campeonato Mundial de Pokémon GO!",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=es",
             "date": "14 de agosto de 2024"
-        },
-        {
-            "title": "Conseguid códigos para una Investigación temporal exclusiva durante la retransmisión del Campeonato Mundial de Pokémon GO 2024 en Twitch",
-            "link": "https://pokemongolive.com/post/world-championship-twitch-timed-research-2024?hl=es",
-            "date": "12 de agosto de 2024"
         }
     ]
 }
