@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Découvrez les Lundis Dynamax pour commencer chaque semaine au max !",
+            "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=fr",
+            "date": "23 octobre 2024"
+        },
+        {
             "title": "Des géants fantomatiques et des compagnons costumés ! Ectoplasma Gigamax et bien d’autres Pokémon arrivent dans Pokémon GO à l’occasion de l’événement Halloween 2024 : 2ᵉ partie.",
             "link": "https://pokemongolive.com/post/halloween-part-2-2024?hl=fr",
             "date": "21 octobre 2024"
@@ -148,11 +153,6 @@
             "title": "Rencontrez nos plus grand·e·s joueur·euse·s à l’occasion des Championnats du Monde Pokémon GO !",
             "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=fr",
             "date": "14 août 2024"
-        },
-        {
-            "title": "Obtenez des codes pour participer à une Étude ponctuelle exclusive pendant la diffusion Twitch des Championnats du Monde Pokémon GO 2024",
-            "link": "https://pokemongolive.com/post/world-championship-twitch-timed-research-2024?hl=fr",
-            "date": "12 août 2024"
         }
     ]
 }
