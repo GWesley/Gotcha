@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Adventures abound during the Harvest Festival event in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=en",
+            "date": "October 24, 2024"
+        },
+        {
             "title": "Introducing Max Mondays to max out every week with Dynamax!",
             "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=en",
             "date": "October 23, 2024"
@@ -148,11 +153,6 @@
             "title": "GO All Out with Pokémon first discovered in the Galar region!",
             "link": "https://pokemongolive.com/post/go-out-galar-region?hl=en",
             "date": "August 27, 2024"
-        },
-        {
-            "title": "September 2024 Community Day: Ponyta & Galarian Ponyta",
-            "link": "https://pokemongolive.com/post/communityday-september-2024-ponyta?hl=en",
-            "date": "August 21, 2024"
         }
     ]
 }
