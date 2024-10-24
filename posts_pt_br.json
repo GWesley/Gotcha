@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Aventuras de Montão durante o evento Festival da Colheita no Pokémon GO!",
+            "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=pt_BR",
+            "date": "24 de outubro de 2024"
+        },
+        {
             "title": "Apresentamos as Segundas Max para maximizar todas as semanas com Dinamax.",
             "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=pt_BR",
             "date": "23 de outubro de 2024"
@@ -148,11 +153,6 @@
             "title": "Use o Modo Equipe em Desafios Globais durante o Triunfo de Equipe.",
             "link": "https://pokemongolive.com/post/triumph-together-2024?hl=pt_BR",
             "date": "19 de agosto de 2024"
-        },
-        {
-            "title": "Algo voraz está chegando ao Pokémon GO?!",
-            "link": "https://pokemongolive.com/post/morpeko-charged-for-battle?hl=pt_BR",
-            "date": "18 de agosto de 2024"
         }
     ]
 }
