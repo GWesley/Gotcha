@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ผจญภัยไร้ที่สิ้นสุดระหว่างอีเวนต์เทศกาลเก็บเกี่ยวใน Pokémon GO!",
+            "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=th",
+            "date": "24 ตุลาคม 2567"
+        },
+        {
             "title": "แนะนำวันจันทร์สุดแมกซ์เพื่อให้คุณได้แมกซ์ทุกสัปดาห์ด้วยไดแมกซ์!",
             "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=th",
             "date": "23 ตุลาคม 2567"
@@ -148,11 +153,6 @@
             "title": "สิ่งใหญ่ยักษ์กำลังจะมาเยือน Pokémon GO",
             "link": "https://pokemongolive.com/post/something-big-is-coming?hl=th",
             "date": "18 สิงหาคม 2567"
-        },
-        {
-            "title": "พบกับแชมเปี้ยนของเราในการแข่งประเภท Pokémon GO ใน Pokémon World Championships!",
-            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=th",
-            "date": "14 สิงหาคม 2567"
         }
     ]
 }
