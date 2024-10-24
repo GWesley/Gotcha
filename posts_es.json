@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Aventuras por doquier en Pokémon GO durante el Festival de la Cosecha!",
+            "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=es",
+            "date": "24 de octubre de 2024"
+        },
+        {
             "title": "¡Presentamos los Lunes Max para ir al máximo todas las semanas con Dinamax!",
             "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=es",
             "date": "23 de octubre de 2024"
@@ -148,11 +153,6 @@
             "title": "Algo grande llega a Pokémon GO.",
             "link": "https://pokemongolive.com/post/something-big-is-coming?hl=es",
             "date": "18 de agosto de 2024"
-        },
-        {
-            "title": "¡Conoced a nuestros campeones en el Campeonato Mundial de Pokémon GO!",
-            "link": "https://pokemongolive.com/post/pokemon-go-world-championship-2024-champions?hl=es",
-            "date": "14 de agosto de 2024"
         }
     ]
 }
