@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Communityupdate 2024",
+            "link": "https://pokemongolive.com/post/2024-community-update?hl=de",
+            "date": "25. Oktober 2024"
+        },
+        {
             "title": "Reichlich Abenteuer während des Ernte-Festivals in Pokémon GO!",
             "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=de",
             "date": "24. Oktober 2024"
@@ -148,11 +153,6 @@
             "title": "Globale Herausforderungen während des Events „Vereinter Triumph“",
             "link": "https://pokemongolive.com/post/triumph-together-2024?hl=de",
             "date": "19. August 2024"
-        },
-        {
-            "title": "Etwas Hungriges erscheint in Pokémon GO?!",
-            "link": "https://pokemongolive.com/post/morpeko-charged-for-battle?hl=de",
-            "date": "18. August 2024"
         }
     ]
 }
