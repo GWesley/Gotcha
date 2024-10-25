@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Actualización de la comunidad 2024",
+            "link": "https://pokemongolive.com/post/2024-community-update?hl=es",
+            "date": "25 de octubre de 2024"
+        },
+        {
             "title": "¡Aventuras por doquier en Pokémon GO durante el Festival de la Cosecha!",
             "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=es",
             "date": "24 de octubre de 2024"
@@ -147,11 +152,6 @@
         {
             "title": "¡¿Algo hambriento llega a Pokémon GO?!",
             "link": "https://pokemongolive.com/post/morpeko-charged-for-battle?hl=es",
-            "date": "18 de agosto de 2024"
-        },
-        {
-            "title": "Algo grande llega a Pokémon GO.",
-            "link": "https://pokemongolive.com/post/something-big-is-coming?hl=es",
             "date": "18 de agosto de 2024"
         }
     ]
