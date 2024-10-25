@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "2024 Community Update",
+            "link": "https://pokemongolive.com/post/2024-community-update?hl=en",
+            "date": "October 25, 2024"
+        },
+        {
             "title": "Adventures abound during the Harvest Festival event in Pokémon GO!",
             "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=en",
             "date": "October 24, 2024"
@@ -147,11 +152,6 @@
         {
             "title": "GO Big with Dynamax Pokémon in new Max Battles!",
             "link": "https://pokemongolive.com/post/go-big-dynamax?hl=en",
-            "date": "August 27, 2024"
-        },
-        {
-            "title": "GO All Out with Pokémon first discovered in the Galar region!",
-            "link": "https://pokemongolive.com/post/go-out-galar-region?hl=en",
             "date": "August 27, 2024"
         }
     ]
