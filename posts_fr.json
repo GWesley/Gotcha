@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Notez bien les dates des Journées Communauté de la Saison prochaine !",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s17?hl=fr",
+            "date": "4 novembre 2024"
+        },
+        {
             "title": "L’événement Bonus de PokéPièces quotidien, partie 3 est arrivé !",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-3?hl=fr",
             "date": "28 octobre 2024"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de septembre 2024 : Ponyta et Ponyta de Galar",
             "link": "https://pokemongolive.com/post/communityday-september-2024-ponyta?hl=fr",
             "date": "21 août 2024"
-        },
-        {
-            "title": "Faites équipe pour relever les Défis globaux lors de l’événement Triomphe collectif !",
-            "link": "https://pokemongolive.com/post/triumph-together-2024?hl=fr",
-            "date": "19 août 2024"
         }
     ]
 }
