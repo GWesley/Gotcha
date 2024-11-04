@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "次のシーズンで開催される「コミュニティ・デイ」の日程をお知らせします",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s17?hl=ja",
+            "date": "2024年11月4日"
+        },
+        {
             "title": "「デイリーポケコインセレクト パート3」",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-3?hl=ja",
             "date": "2024年10月28日"
+        },
+        {
+            "title": "2024年のコミュニティアップデート",
+            "link": "https://pokemongolive.com/post/2024-community-update?hl=ja",
+            "date": "2024年10月25日"
         },
         {
             "title": "『Pokémon GO』の「収穫祭」イベントで冒険しよう！",
@@ -142,16 +152,6 @@
         {
             "title": "「GOバトルリーグ：マックス・アウト」の最新情報",
             "link": "https://pokemongolive.com/post/go-battle-league-max-out?hl=ja",
-            "date": "2024年8月27日"
-        },
-        {
-            "title": "新登場の「マックスバトル」で、「ダイマックスポケモン」に挑める「ビッグにいこう！」イベント開催",
-            "link": "https://pokemongolive.com/post/go-big-dynamax?hl=ja",
-            "date": "2024年8月27日"
-        },
-        {
-            "title": "ガラル地方で発見されたポケモンが登場する「歩いていこう！」イベント開催",
-            "link": "https://pokemongolive.com/post/go-out-galar-region?hl=ja",
             "date": "2024年8月27日"
         }
     ]
