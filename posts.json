@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Save the dates for next Season’s Community Days!",
+            "link": "https://pokemongolive.com/post/cd-savethedate-s17?hl=en",
+            "date": "November 4, 2024"
+        },
+        {
             "title": "Daily PokéCoin Bounty Part 3 is here!",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-3?hl=en",
             "date": "October 28, 2024"
@@ -148,11 +153,6 @@
             "title": "Falinks is in formation for a Raid Day event!",
             "link": "https://pokemongolive.com/post/falinks-raid-day-event?hl=en",
             "date": "August 29, 2024"
-        },
-        {
-            "title": "GO Battle League: Max Out Update",
-            "link": "https://pokemongolive.com/post/go-battle-league-max-out?hl=en",
-            "date": "August 27, 2024"
         }
     ]
 }
