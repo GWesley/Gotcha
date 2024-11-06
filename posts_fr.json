@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pour l’événement Tourbillon souterrain, vous allez devoir puiser au fond de vous-même !",
+            "link": "https://pokemongolive.com/post/simply-groundbreaking-2024?hl=fr",
+            "date": "6 novembre 2024"
+        },
+        {
             "title": "Notez bien les dates des Journées Communauté de la Saison prochaine !",
             "link": "https://pokemongolive.com/post/cd-savethedate-s17?hl=fr",
             "date": "4 novembre 2024"
@@ -148,11 +153,6 @@
             "title": "Donnez tout avec les Pokémon originaires de la région de Galar.",
             "link": "https://pokemongolive.com/post/go-out-galar-region?hl=fr",
             "date": "27 août 2024"
-        },
-        {
-            "title": "Journée Communauté de septembre 2024 : Ponyta et Ponyta de Galar",
-            "link": "https://pokemongolive.com/post/communityday-september-2024-ponyta?hl=fr",
-            "date": "21 août 2024"
         }
     ]
 }
