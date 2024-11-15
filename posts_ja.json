@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "新たな『Pokémon GO』公式パートナーの「ルート」が登場します！",
+            "link": "https://pokemongolive.com/post/202411_gowapartnerofficialroute?hl=ja",
+            "date": "2024年11月14日"
+        },
+        {
             "title": "「ワイルドウィーク」イベントで、「エレズン」と一緒にでんきタイプとどくタイプの刺激的な冒険を楽しもう",
             "link": "https://pokemongolive.com/post/into-the-wild-2024?hl=ja",
             "date": "2024年11月7日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』で「エスパーウィーク」イベントが再び開催",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=ja",
             "date": "2024年9月9日"
-        },
-        {
-            "title": "Welcome to Pokémon GO: Max Out",
-            "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=ja",
-            "date": "2024年9月6日"
         }
     ]
 }
