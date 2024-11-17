@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Get ready for Pokémon GO Wild Area: Global!",
+            "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=en",
+            "date": "November 17, 2024"
+        },
+        {
             "title": "Get ready for Electric- and Poison-type excitement with Toxel during the Into the Wild event!",
             "link": "https://pokemongolive.com/post/into-the-wild-2024?hl=en",
             "date": "November 7, 2024"
@@ -148,11 +153,6 @@
             "title": "The Psychic Spectacular Event returns in Pokémon GO!",
             "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=en",
             "date": "September 9, 2024"
-        },
-        {
-            "title": "Welcome to Pokémon GO: Max Out",
-            "link": "https://pokemongolive.com/post/welcome-to-max-out?hl=en",
-            "date": "September 6, 2024"
         }
     ]
 }
