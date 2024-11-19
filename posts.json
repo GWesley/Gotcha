@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Get ready for Pokémon GO’s Max Out Finale event!",
+            "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=en",
+            "date": "November 19, 2024"
+        },
+        {
             "title": "Get ready for Pokémon GO Wild Area: Global!",
             "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=en",
             "date": "November 17, 2024"
@@ -148,11 +153,6 @@
             "title": "GO Big with Dynamax!",
             "link": "https://pokemongolive.com/post/dynamax-pokemon-battle?hl=en",
             "date": "September 10, 2024"
-        },
-        {
-            "title": "The Psychic Spectacular Event returns in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/psychic-spectacular-2024?hl=en",
-            "date": "September 9, 2024"
         }
     ]
 }
