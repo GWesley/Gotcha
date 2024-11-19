@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Preparaos para el evento Desenlace Al Máximo de Pokémon GO!",
+            "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=es",
+            "date": "19 de noviembre de 2024"
+        },
+        {
             "title": "¡Preparaos para el Área Silvestre de Pokémon GO: Global!",
             "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=es",
             "date": "17 de noviembre de 2024"
@@ -148,11 +153,6 @@
             "title": "Recompensa diaria de Pokémonedas (Parte 1)",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-1?hl=es",
             "date": "30 de agosto de 2024"
-        },
-        {
-            "title": "¡Falinks ya está formando para un evento de día de incursiones!",
-            "link": "https://pokemongolive.com/post/falinks-raid-day-event?hl=es",
-            "date": "29 de agosto de 2024"
         }
     ]
 }
