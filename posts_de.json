@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Das Dyna-Maximum-Finale steht an in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=de",
+            "date": "19. November 2024"
+        },
+        {
             "title": "Macht euch bereit für die Pokémon GO-Naturzone: Global!",
             "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=de",
             "date": "17. November 2024"
@@ -148,11 +153,6 @@
             "title": "Legios hat für den Raid-Tag Formation eingenommen!",
             "link": "https://pokemongolive.com/post/falinks-raid-day-event?hl=de",
             "date": "29. August 2024"
-        },
-        {
-            "title": "Update zu GO-Kampfliga: Dyna-Maximum",
-            "link": "https://pokemongolive.com/post/go-battle-league-max-out?hl=de",
-            "date": "27. August 2024"
         }
     ]
 }
