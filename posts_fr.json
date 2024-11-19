@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "À vos Pokémon : l’événement Finale Au max arrive sur Pokémon GO !",
+            "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=fr",
+            "date": "19 novembre 2024"
+        },
+        {
             "title": "Préparez-vous pour l’événement Terres Sauvages Pokémon GO : Global !",
             "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=fr",
             "date": "17 novembre 2024"
@@ -148,11 +153,6 @@
             "title": "Hexadron se met en formation pour la Journée de Raids !",
             "link": "https://pokemongolive.com/post/falinks-raid-day-event?hl=fr",
             "date": "29 août 2024"
-        },
-        {
-            "title": "Nouveautés concernant la Ligue de Combat GO : Au max",
-            "link": "https://pokemongolive.com/post/go-battle-league-max-out?hl=fr",
-            "date": "27 août 2024"
         }
     ]
 }
