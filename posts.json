@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Double your bonus PokéCoins this Black Friday, and more!",
+            "link": "https://pokemongolive.com/post/black-friday-2024?hl=en",
+            "date": "November 20, 2024"
+        },
+        {
             "title": "Get ready for Pokémon GO’s Max Out Finale event!",
             "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=en",
             "date": "November 19, 2024"
@@ -148,11 +153,6 @@
             "title": "Join Oranguru and Passimian in an upcoming Research Day!",
             "link": "https://pokemongolive.com/post/research-day-oranguru-and-passimian?hl=en",
             "date": "September 11, 2024"
-        },
-        {
-            "title": "GO Big with Dynamax!",
-            "link": "https://pokemongolive.com/post/dynamax-pokemon-battle?hl=en",
-            "date": "September 10, 2024"
         }
     ]
 }
