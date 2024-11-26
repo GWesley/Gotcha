@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Atención, atención! Llega Lapras Gigamax.",
+            "link": "https://pokemongolive.com/post/gigantamax-lapras-max-battle-day?hl=es",
+            "date": "26 de noviembre de 2024"
+        },
+        {
             "title": "¡Necrozma Melena Crepuscular y Necrozma Alas del Alba vuelven en un evento de día de incursiones épico!",
             "link": "https://pokemongolive.com/post/necrozma-fusion-raid-day-2024?hl=es",
             "date": "26 de noviembre de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Uníos a Oranguru y Passimian en el próximo Día de Investigación!",
             "link": "https://pokemongolive.com/post/research-day-oranguru-and-passimian?hl=es",
             "date": "11 de septiembre de 2024"
-        },
-        {
-            "title": "¡Vamos a lo grande con Dinamax!",
-            "link": "https://pokemongolive.com/post/dynamax-pokemon-battle?hl=es",
-            "date": "10 de septiembre de 2024"
         }
     ]
 }
