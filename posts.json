@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Brace yourselves—Gigantamax Lapras is coming.",
+            "link": "https://pokemongolive.com/post/gigantamax-lapras-max-battle-day?hl=en",
+            "date": "November 26, 2024"
+        },
+        {
             "title": "Dusk Mane Necrozma and Dawn Wings Necrozma return in an epic Raid Day event!",
             "link": "https://pokemongolive.com/post/necrozma-fusion-raid-day-2024?hl=en",
             "date": "November 26, 2024"
@@ -148,11 +153,6 @@
             "title": "Discover updates to Daily Adventure Incense during the Galarian Expedition event!",
             "link": "https://pokemongolive.com/post/galarian-expedition-2024?hl=en",
             "date": "September 19, 2024"
-        },
-        {
-            "title": "October 2024 Community Day: Sewaddle",
-            "link": "https://pokemongolive.com/post/communityday-october-2024-sewaddle?hl=en",
-            "date": "September 17, 2024"
         }
     ]
 }
