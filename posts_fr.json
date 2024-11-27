@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "À l’occasion de leur première apparition dans Pokémon GO, Théffroi et Polthégeist vous attendent pour une aventure fantôma-thé-que !",
+            "link": "https://pokemongolive.com/post/just-my-cup-of-tea-2024?hl=fr",
+            "date": "27 novembre 2024"
+        },
+        {
             "title": "Atteignez de nouveaux sommets lors de la Journée Étude Apprentis dragons !",
             "link": "https://pokemongolive.com/post/aspiring-dragons-research-day?hl=fr",
             "date": "26 novembre 2024"
@@ -148,11 +153,6 @@
             "title": "Choisissez votre destinée lors de l’événement Pokémon GO Héros légendaires !",
             "link": "https://pokemongolive.com/post/legendary-heroes-2024?hl=fr",
             "date": "12 septembre 2024"
-        },
-        {
-            "title": "Retrouvez très prochainement Gouroutan et Quartermac pour une Journée Recherche !",
-            "link": "https://pokemongolive.com/post/research-day-oranguru-and-passimian?hl=fr",
-            "date": "11 septembre 2024"
         }
     ]
 }
