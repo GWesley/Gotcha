@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Atteignez de nouveaux sommets lors de la Journée Étude Apprentis dragons !",
+            "link": "https://pokemongolive.com/post/aspiring-dragons-research-day?hl=fr",
+            "date": "26 novembre 2024"
+        },
+        {
             "title": "Attention… Lokhlass Gigamax arrive tel un raz de marée.",
             "link": "https://pokemongolive.com/post/gigantamax-lapras-max-battle-day?hl=fr",
             "date": "26 novembre 2024"
@@ -148,11 +153,6 @@
             "title": "Retrouvez très prochainement Gouroutan et Quartermac pour une Journée Recherche !",
             "link": "https://pokemongolive.com/post/research-day-oranguru-and-passimian?hl=fr",
             "date": "11 septembre 2024"
-        },
-        {
-            "title": "Voyez grand avec le Dynamax !",
-            "link": "https://pokemongolive.com/post/dynamax-pokemon-battle?hl=fr",
-            "date": "10 septembre 2024"
         }
     ]
 }
