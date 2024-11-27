@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "趁著「昇龍調查日」躍昇新高度！",
+            "link": "https://pokemongolive.com/post/aspiring-dragons-research-day?hl=zh_Hant",
+            "date": "2024年11月26日"
+        },
+        {
             "title": "做好萬全準備，迎戰超極巨化的「拉普拉斯」！",
             "link": "https://pokemongolive.com/post/gigantamax-lapras-max-battle-day?hl=zh_Hant",
             "date": "2024年11月26日"
@@ -148,11 +153,6 @@
             "title": "「智揮猩」和「投擲猴」將於即將到來的調查日登場！",
             "link": "https://pokemongolive.com/post/research-day-oranguru-and-passimian?hl=zh_Hant",
             "date": "2024年9月11日"
-        },
-        {
-            "title": "以極巨化「大個GO」！",
-            "link": "https://pokemongolive.com/post/dynamax-pokemon-battle?hl=zh_Hant",
-            "date": "2024年9月10日"
         }
     ]
 }
