@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO Tour: Unova – Los Angeles comes to Rose Bowl Stadium February 21–23",
+            "link": "https://pokemongolive.com/post/gotour-losangeles-2025?hl=en",
+            "date": "November 27, 2024"
+        },
+        {
+            "title": "Pokémon GO Tour: Unova – New Taipei City comes to New Taipei Metropolitan Park February 21–23",
+            "link": "https://pokemongolive.com/post/gotour-newtaipeicity-2025?hl=en",
+            "date": "November 27, 2024"
+        },
+        {
             "title": "Join a ghostly tea party featuring the Pokémon GO debuts of Sinistea and Polteageist!",
             "link": "https://pokemongolive.com/post/just-my-cup-of-tea-2024?hl=en",
             "date": "November 27, 2024"
@@ -143,16 +153,6 @@
             "title": "Team GO Rocket and Giovanni return—give it your all and rescue Shadow Heatran during Galarian Expedition: Taken Over!",
             "link": "https://pokemongolive.com/post/galarian-expedition-taken-over-by-TGR?hl=en",
             "date": "September 25, 2024"
-        },
-        {
-            "title": "Introducing item sharing with Party Share!",
-            "link": "https://pokemongolive.com/post/partyshare?hl=en",
-            "date": "September 24, 2024"
-        },
-        {
-            "title": "The Max Battles continue with more Dynamax Pokémon appearing as Power Spot Bosses, featuring Grookey, Scorbunny, Sobble, and Falinks!",
-            "link": "https://pokemongolive.com/post/galar-max-battles?hl=en",
-            "date": "September 23, 2024"
         }
     ]
 }
