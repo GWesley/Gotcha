@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Le Circuit Pokémon GO : Unys – Los Angeles débarque au Rose Bowl Stadium du 21 au 23 février",
+            "link": "https://pokemongolive.com/post/gotour-losangeles-2025?hl=fr",
+            "date": "27 novembre 2024"
+        },
+        {
+            "title": "Le Circuit Pokémon GO : Unys – Nouveau Taipei se tiendra au New Taipei Metropolitan Park du 21 au 23 février.",
+            "link": "https://pokemongolive.com/post/gotour-newtaipeicity-2025?hl=fr",
+            "date": "27 novembre 2024"
+        },
+        {
             "title": "À l’occasion de leur première apparition dans Pokémon GO, Théffroi et Polthégeist vous attendent pour une aventure fantôma-thé-que !",
             "link": "https://pokemongolive.com/post/just-my-cup-of-tea-2024?hl=fr",
             "date": "27 novembre 2024"
@@ -143,16 +153,6 @@
             "title": "Découvrez les nouveautés de l’événement Expédition à Galar concernant l’Encens d’aventure quotidienne !",
             "link": "https://pokemongolive.com/post/galarian-expedition-2024?hl=fr",
             "date": "19 septembre 2024"
-        },
-        {
-            "title": "Journée Communauté d’octobre 2024 : Larveyette",
-            "link": "https://pokemongolive.com/post/communityday-october-2024-sewaddle?hl=fr",
-            "date": "17 septembre 2024"
-        },
-        {
-            "title": "Choisissez votre destinée lors de l’événement Pokémon GO Héros légendaires !",
-            "link": "https://pokemongolive.com/post/legendary-heroes-2024?hl=fr",
-            "date": "12 septembre 2024"
         }
     ]
 }
