@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Live-testing a new Pokémon GO Web Store program",
+            "link": "https://pokemongolive.com/post/web-store-tests-2024?hl=en",
+            "date": "December 2, 2024"
+        },
+        {
             "title": "Celebrate all during the Young & Wise event in Pokémon GO!",
             "link": "https://pokemongolive.com/post/young-and-wise-2024?hl=en",
             "date": "December 2, 2024"
@@ -148,11 +153,6 @@
             "title": "Electric-type Pokémon spark our interest in the new Magnetic Study event!",
             "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=en",
             "date": "October 7, 2024"
-        },
-        {
-            "title": "Mega Mawile Raid Day",
-            "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=en",
-            "date": "October 2, 2024"
         }
     ]
 }
