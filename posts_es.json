@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Celebradlo todo durante el evento Juventud y sabiduría en Pokémon GO!",
+            "link": "https://pokemongolive.com/post/young-and-wise-2024?hl=es",
+            "date": "2 de diciembre de 2024"
+        },
+        {
             "title": "¡Vuelve Operación eclosión en Pokémon GO: Destino Dual!",
             "link": "https://pokemongolive.com/post/eggs-pedition-access-december-2024?hl=es",
             "date": "29 de noviembre de 2024"
@@ -148,11 +153,6 @@
             "title": "Regresan el Team GO Rocket y Giovanni: ¡dadlo todo para rescatar Heatran oscuros durante la Expedición de Galar: Toma de control!",
             "link": "https://pokemongolive.com/post/galarian-expedition-taken-over-by-TGR?hl=es",
             "date": "25 de septiembre de 2024"
-        },
-        {
-            "title": "¡Presentamos la función Compartir en equipo!",
-            "link": "https://pokemongolive.com/post/partyshare?hl=es",
-            "date": "24 de septiembre de 2024"
         }
     ]
 }
