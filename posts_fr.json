@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Rendez-vous chez Celio pour gagner des récompenses Pokémon GO",
+            "link": "https://pokemongolive.com/post/celio-partnership?hl=fr",
+            "date": "4 décembre 2024"
+        },
+        {
             "title": "Honorez toutes les générations avec l’événement Jeune et sage dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/young-and-wise-2024?hl=fr",
             "date": "2 décembre 2024"
@@ -148,11 +153,6 @@
             "title": "La Team GO Rocket et Giovanni sont de retour… Déjouez leurs mauvais tours et sauvez Heatran Obscur lors de l’Expédition à Galar : Offensive !",
             "link": "https://pokemongolive.com/post/galarian-expedition-taken-over-by-TGR?hl=fr",
             "date": "25 septembre 2024"
-        },
-        {
-            "title": "Partagez vos objets grâce la fonctionnalité Partager avec l’Équipe !",
-            "link": "https://pokemongolive.com/post/partyshare?hl=fr",
-            "date": "24 septembre 2024"
         }
     ]
 }
