@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Wir feiern die Winterzeit mit dem Event „Festtage: Teil 1“ in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/holiday-part1-2024?hl=de",
+            "date": "5. Dezember 2024"
+        },
+        {
             "title": "Pokémon GO feiert die verschiedenen Lebensalter mit dem Event „Jung und Weise“!",
             "link": "https://pokemongolive.com/post/young-and-wise-2024?hl=de",
             "date": "2. Dezember 2024"
@@ -148,11 +153,6 @@
             "title": "Team GO Rocket und Giovanni kehren zurück – rettet Crypto-Heatran während Galar-Expedition: Übernahme!",
             "link": "https://pokemongolive.com/post/galarian-expedition-taken-over-by-TGR?hl=de",
             "date": "25. September 2024"
-        },
-        {
-            "title": "Jetzt neu: Item Sharing mit Team-Beitrag!",
-            "link": "https://pokemongolive.com/post/partyshare?hl=de",
-            "date": "24. September 2024"
         }
     ]
 }
