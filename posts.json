@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate the festive season during the Holiday Part 1 event in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/holiday-part1-2024?hl=en",
+            "date": "December 5, 2024"
+        },
+        {
             "title": "Live-testing a new Pokémon GO Web Store program",
             "link": "https://pokemongolive.com/post/web-store-tests-2024?hl=en",
             "date": "December 2, 2024"
@@ -148,11 +153,6 @@
             "title": "November 2024 Community Day: Mankey",
             "link": "https://pokemongolive.com/post/communityday-november-2024-mankey?hl=en",
             "date": "October 8, 2024"
-        },
-        {
-            "title": "Electric-type Pokémon spark our interest in the new Magnetic Study event!",
-            "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=en",
-            "date": "October 7, 2024"
         }
     ]
 }
