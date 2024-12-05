@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "\"Pokémon GO\"에서 \"연말 홀리데이 파트1\" 이벤트로 연말 분위기를 만끽하세요!",
+            "link": "https://pokemongolive.com/post/holiday-part1-2024?hl=ko",
+            "date": "2024년 12월 5일"
+        },
+        {
             "title": "\"Pokémon GO\"에서 \"젊은이와 장로\" 이벤트를 즐기세요!",
             "link": "https://pokemongolive.com/post/young-and-wise-2024?hl=ko",
             "date": "2024년 12월 2일"
@@ -148,11 +153,6 @@
             "title": "\"메가입치트\" 레이드 데이",
             "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=ko",
             "date": "2024년 10월 2일"
-        },
-        {
-            "title": "데일리 포켓코인 셀렉트 파트 2",
-            "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-2?hl=ko",
-            "date": "2024년 9월 30일"
         }
     ]
 }
