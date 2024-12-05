@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "ร่วมฉลองเทศกาลรื่นเริงในระหว่างอีเวนต์วันหยุดสิ้นปี ส่วนที่ 1 กับ Pokémon GO!",
+            "link": "https://pokemongolive.com/post/holiday-part1-2024?hl=th",
+            "date": "5 ธันวาคม 2567"
+        },
+        {
             "title": "ฉลองทุกสิ่งในระหว่างอีเวนต์เยาว์วัย & ปรีชาใน Pokémon GO!",
             "link": "https://pokemongolive.com/post/young-and-wise-2024?hl=th",
             "date": "2 ธันวาคม 2567"
@@ -148,11 +153,6 @@
             "title": "แก๊งโกร็อกเกตและซากากิกลับมาแล้ว—ทุ่มสุดตัวและช่วยเหลือฮีดรานชาโดว์ระหว่างสำรวจกาลาร์: ยึดครอง!",
             "link": "https://pokemongolive.com/post/galarian-expedition-taken-over-by-TGR?hl=th",
             "date": "25 กันยายน 2567"
-        },
-        {
-            "title": "ขอแนะนำการแบ่งปันไอเท็มด้วย \"ปาร์ตี้แชร์\"!",
-            "link": "https://pokemongolive.com/post/partyshare?hl=th",
-            "date": "24 กันยายน 2567"
         }
     ]
 }
