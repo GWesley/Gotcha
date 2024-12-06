@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Les Pokémon mis à l’honneur lors des Journées Communauté de 2024 reviennent à l’occasion d’un attrap-athon de fin d’année !",
+            "link": "https://pokemongolive.com/post/community-day-december-2024?hl=fr",
+            "date": "6 décembre 2024"
+        },
+        {
             "title": "Célébrez la saison des fêtes dans Pokémon GO avec l’événement Fêtes de fin d’année – 1ʳᵉ partie !",
             "link": "https://pokemongolive.com/post/holiday-part1-2024?hl=fr",
             "date": "5 décembre 2024"
@@ -148,11 +153,6 @@
             "title": "Journée de Raids Méga-Mysdibule",
             "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=fr",
             "date": "2 octobre 2024"
-        },
-        {
-            "title": "Bonus de PokéPièces quotidien, partie 2",
-            "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-2?hl=fr",
-            "date": "30 septembre 2024"
         }
     ]
 }
