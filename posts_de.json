@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Die Feierlichkeiten gehen weiter in Teil 2 des Pokémon GO-Festtags-Events!",
+            "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=de",
+            "date": "11. Dezember 2024"
+        },
+        {
             "title": "Zum Jahresende kehren die Community Day-Pokémon aus 2024 für einen Fang-Marathon zurück!",
             "link": "https://pokemongolive.com/post/community-day-december-2024?hl=de",
             "date": "6. Dezember 2024"
@@ -148,11 +153,6 @@
             "title": "Raid-Tag mit Mega-Flunkifer",
             "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=de",
             "date": "2. Oktober 2024"
-        },
-        {
-            "title": "Tägliche PokéMünz-Prämie, Teil 2",
-            "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-2?hl=de",
-            "date": "30. September 2024"
         }
     ]
 }
