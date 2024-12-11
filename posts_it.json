@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "I festeggiamenti continuano durante la seconda parte dello Speciale Feste di Pokémon GO.",
+            "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=it",
+            "date": "11 dicembre 2024"
+        },
+        {
             "title": "I Pokémon dei Community Day del 2024 ritornano per l'ultima scorpacciata di Pokémon dell'anno.",
             "link": "https://pokemongolive.com/post/community-day-december-2024?hl=it",
             "date": "6 dicembre 2024"
@@ -148,11 +153,6 @@
             "title": "Giorno di raid con MegaMawile",
             "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=it",
             "date": "2 ottobre 2024"
-        },
-        {
-            "title": "Tesoro di Pokémonete giornaliero Parte 2",
-            "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-2?hl=it",
-            "date": "30 settembre 2024"
         }
     ]
 }
