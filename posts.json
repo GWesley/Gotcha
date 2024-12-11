@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "It is easier than ever to join Raid Battles with your friends!",
+            "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=en",
+            "date": "December 10, 2024"
+        },
+        {
             "title": "Pokémon from Community Days in 2024 return for an end-of-the-year catch-a-thon celebration!",
             "link": "https://pokemongolive.com/post/community-day-december-2024?hl=en",
             "date": "December 6, 2024"
@@ -148,11 +153,6 @@
             "title": "Yamask and Galarian Yamask Research Day",
             "link": "https://pokemongolive.com/post/yamask-galarian-yamask-research-day?hl=en",
             "date": "October 10, 2024"
-        },
-        {
-            "title": "Beware both big and small scares with Morpeko and Dynamax Gastly during Pokémon GO Halloween 2024 Part I!",
-            "link": "https://pokemongolive.com/post/halloween-part-1-2024?hl=en",
-            "date": "October 9, 2024"
         }
     ]
 }
