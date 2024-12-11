@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L’aventure continue avec la seconde partie de l’événement des Fêtes Pokémon GO !",
+            "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=fr",
+            "date": "11 décembre 2024"
+        },
+        {
             "title": "Les Pokémon mis à l’honneur lors des Journées Communauté de 2024 reviennent à l’occasion d’un attrap-athon de fin d’année !",
             "link": "https://pokemongolive.com/post/community-day-december-2024?hl=fr",
             "date": "6 décembre 2024"
@@ -148,11 +153,6 @@
             "title": "Attention ! Le nouvel événement Étude magnétique est conducteur de Pokémon de type Électrik.",
             "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=fr",
             "date": "7 octobre 2024"
-        },
-        {
-            "title": "Journée de Raids Méga-Mysdibule",
-            "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=fr",
-            "date": "2 octobre 2024"
         }
     ]
 }
