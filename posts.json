@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "The festivities continue during part two of Pokémon GO’s Holiday event!",
+            "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=en",
+            "date": "December 11, 2024"
+        },
+        {
             "title": "It is easier than ever to join Raid Battles with your friends!",
             "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=en",
             "date": "December 10, 2024"
@@ -147,11 +152,6 @@
         {
             "title": "Pokémon GO Raid and Battle Systems Update",
             "link": "https://pokemongolive.com/post/battle-systems-update?hl=en",
-            "date": "October 10, 2024"
-        },
-        {
-            "title": "Yamask and Galarian Yamask Research Day",
-            "link": "https://pokemongolive.com/post/yamask-galarian-yamask-research-day?hl=en",
             "date": "October 10, 2024"
         }
     ]
