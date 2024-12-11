@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡La fiesta continúa durante la segunda parte del Especial Fiestas de Pokémon GO!",
+            "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=es",
+            "date": "11 de diciembre de 2024"
+        },
+        {
             "title": "¡Los Pokémon de los Días de la Comunidad de 2024 regresan para ponerle un brillante colofón al año!",
             "link": "https://pokemongolive.com/post/community-day-december-2024?hl=es",
             "date": "6 de diciembre de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Los Pokémon de tipo Eléctrico encienden nuestro interés en el nuevo evento Análisis del magnetismo!",
             "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=es",
             "date": "7 de octubre de 2024"
-        },
-        {
-            "title": "Día de incursiones de Mega-Mawile",
-            "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=es",
-            "date": "2 de octubre de 2024"
         }
     ]
 }
