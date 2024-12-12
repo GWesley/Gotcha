@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Visita nuestro stand en GAMERGY MADRID 2024!",
+            "link": "https://pokemongolive.com/post/gamergy-2024?hl=es",
+            "date": "11 de diciembre de 2024"
+        },
+        {
             "title": "¡La fiesta continúa durante la segunda parte del Especial Fiestas de Pokémon GO!",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=es",
             "date": "11 de diciembre de 2024"
@@ -148,11 +153,6 @@
             "title": "Día de la comunidad de noviembre de 2024: Mankey",
             "link": "https://pokemongolive.com/post/communityday-november-2024-mankey?hl=es",
             "date": "8 de octubre de 2024"
-        },
-        {
-            "title": "¡Los Pokémon de tipo Eléctrico encienden nuestro interés en el nuevo evento Análisis del magnetismo!",
-            "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=es",
-            "date": "7 de octubre de 2024"
         }
     ]
 }
