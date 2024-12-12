@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Catch Pokémon at McDonald’s in the United States!",
+            "link": "https://pokemongolive.com/post/mcdonalds-us?hl=en",
+            "date": "December 12, 2024"
+        },
+        {
             "title": "The festivities continue during part two of Pokémon GO’s Holiday event!",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=en",
             "date": "December 11, 2024"
@@ -148,11 +153,6 @@
             "title": "GO Bigger with Gigantamax Pokémon in new Max Battles!",
             "link": "https://pokemongolive.com/post/go-bigger-gigantamax?hl=en",
             "date": "October 14, 2024"
-        },
-        {
-            "title": "Pokémon GO Raid and Battle Systems Update",
-            "link": "https://pokemongolive.com/post/battle-systems-update?hl=en",
-            "date": "October 10, 2024"
         }
     ]
 }
