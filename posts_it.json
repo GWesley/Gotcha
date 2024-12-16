@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Festeggia il 2025 con l'evento di Capodanno di Pokémon GO.",
+            "link": "https://pokemongolive.com/post/new-years-2025?hl=it",
+            "date": "16 dicembre 2024"
+        },
+        {
             "title": "I festeggiamenti continuano durante la seconda parte dello Speciale Feste di Pokémon GO.",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=it",
             "date": "11 dicembre 2024"
@@ -148,11 +153,6 @@
             "title": "Durante il nuovo evento Indagine magnetica, la nostra attenzione sarà catturata da Pokémon di tipo Elettro.",
             "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=it",
             "date": "7 ottobre 2024"
-        },
-        {
-            "title": "Giorno di raid con MegaMawile",
-            "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=it",
-            "date": "2 ottobre 2024"
         }
     ]
 }
