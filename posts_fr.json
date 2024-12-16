@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Célébrez le Nouvel An 2025 avec un événement dans Pokémon GO !",
+            "link": "https://pokemongolive.com/post/new-years-2025?hl=fr",
+            "date": "16 décembre 2024"
+        },
+        {
             "title": "L’aventure continue avec la seconde partie de l’événement des Fêtes Pokémon GO !",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=fr",
             "date": "11 décembre 2024"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de novembre 2024 : Férosinge",
             "link": "https://pokemongolive.com/post/communityday-november-2024-mankey?hl=fr",
             "date": "8 octobre 2024"
-        },
-        {
-            "title": "Attention ! Le nouvel événement Étude magnétique est conducteur de Pokémon de type Électrik.",
-            "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=fr",
-            "date": "7 octobre 2024"
         }
     ]
 }
