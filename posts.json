@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Celebrate with Pokémon GO’s New Year’s 2025 event!",
+            "link": "https://pokemongolive.com/post/new-years-2025?hl=en",
+            "date": "December 16, 2024"
+        },
+        {
             "title": "Catch Pokémon at McDonald’s in the United States!",
             "link": "https://pokemongolive.com/post/mcdonalds-us?hl=en",
             "date": "December 12, 2024"
@@ -148,11 +153,6 @@
             "title": "Pikachu wearing a saree debuts during the Festival of Lights!",
             "link": "https://pokemongolive.com/post/festival-of-lights-2024?hl=en",
             "date": "October 16, 2024"
-        },
-        {
-            "title": "GO Bigger with Gigantamax Pokémon in new Max Battles!",
-            "link": "https://pokemongolive.com/post/go-bigger-gigantamax?hl=en",
-            "date": "October 14, 2024"
         }
     ]
 }
