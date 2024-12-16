@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Feiert mit uns das Neujahrs-Event 2025 in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/new-years-2025?hl=de",
+            "date": "16. Dezember 2024"
+        },
+        {
             "title": "Die Feierlichkeiten gehen weiter in Teil 2 des Pokémon GO-Festtags-Events!",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=de",
             "date": "11. Dezember 2024"
@@ -148,11 +153,6 @@
             "title": "Beim neuen Event „Magnet-Studie“ haben wir Elektro-Pokémon auf dem Radar!",
             "link": "https://pokemongolive.com/post/magnetic-study-2024?hl=de",
             "date": "7. Oktober 2024"
-        },
-        {
-            "title": "Raid-Tag mit Mega-Flunkifer",
-            "link": "https://pokemongolive.com/post/mega-mawile-raid-day-2024?hl=de",
-            "date": "2. Oktober 2024"
         }
     ]
 }
