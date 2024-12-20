@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La Marche Œuf-phorique de janvier est là !",
+            "link": "https://pokemongolive.com/post/eggs-pedition-access-january-2025?hl=fr",
+            "date": "20 décembre 2024"
+        },
+        {
             "title": "Croisez le fer avec Méga-Gallame lors de la prochaine Journée de Raids !",
             "link": "https://pokemongolive.com/post/mega-gallade-raid-day-2025?hl=fr",
             "date": "19 décembre 2024"
@@ -33,6 +38,11 @@
             "title": "L’aventure continue avec la seconde partie de l’événement des Fêtes Pokémon GO !",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=fr",
             "date": "11 décembre 2024"
+        },
+        {
+            "title": "Il est plus facile que jamais de participer à des Combats de Raid entre ami·e·s !",
+            "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=fr",
+            "date": "10 décembre 2024"
         },
         {
             "title": "Les Pokémon mis à l’honneur lors des Journées Communauté de 2024 reviennent à l’occasion d’un attrap-athon de fin d’année !",
@@ -143,16 +153,6 @@
             "title": "Découvrez les Lundis Dynamax pour commencer chaque semaine au max !",
             "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=fr",
             "date": "23 octobre 2024"
-        },
-        {
-            "title": "Des géants fantomatiques et des compagnons costumés ! Ectoplasma Gigamax et bien d’autres Pokémon arrivent dans Pokémon GO à l’occasion de l’événement Halloween 2024 : 2ᵉ partie.",
-            "link": "https://pokemongolive.com/post/halloween-part-2-2024?hl=fr",
-            "date": "21 octobre 2024"
-        },
-        {
-            "title": "Voyez encore plus grand en affrontant des Pokémon Gigamax dans de nouveaux Combats Dynamax !",
-            "link": "https://pokemongolive.com/post/go-bigger-gigantamax?hl=fr",
-            "date": "14 octobre 2024"
         }
     ]
 }
