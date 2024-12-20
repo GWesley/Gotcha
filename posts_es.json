@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Ya está aquí la Operación eclosión: enero!",
+            "link": "https://pokemongolive.com/post/eggs-pedition-access-january-2025?hl=es",
+            "date": "20 de diciembre de 2024"
+        },
+        {
             "title": "¡Mega-Gallade se abre paso el último día de incursiones!",
             "link": "https://pokemongolive.com/post/mega-gallade-raid-day-2025?hl=es",
             "date": "19 de diciembre de 2024"
@@ -38,6 +43,11 @@
             "title": "¡La fiesta continúa durante la segunda parte del Especial Fiestas de Pokémon GO!",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=es",
             "date": "11 de diciembre de 2024"
+        },
+        {
+            "title": "¡Ahora es más fácil que nunca unirse a las incursiones con amigos!",
+            "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=es",
+            "date": "10 de diciembre de 2024"
         },
         {
             "title": "¡Los Pokémon de los Días de la Comunidad de 2024 regresan para ponerle un brillante colofón al año!",
@@ -143,16 +153,6 @@
             "title": "¡Aventuras por doquier en Pokémon GO durante el Festival de la Cosecha!",
             "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=es",
             "date": "24 de octubre de 2024"
-        },
-        {
-            "title": "¡Presentamos los Lunes Max para ir al máximo todas las semanas con Dinamax!",
-            "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=es",
-            "date": "23 de octubre de 2024"
-        },
-        {
-            "title": "¡Gigantes fantasmagóricos y compañeros disfrazados! ¡Gengar Gigamax y otros debutan durante el evento Halloween 2024: Parte II!",
-            "link": "https://pokemongolive.com/post/halloween-part-2-2024?hl=es",
-            "date": "21 de octubre de 2024"
         }
     ]
 }
