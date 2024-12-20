@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "È arrivato Accesso giruovago di gennaio!",
+            "link": "https://pokemongolive.com/post/eggs-pedition-access-january-2025?hl=it",
+            "date": "20 dicembre 2024"
+        },
+        {
             "title": "MegaGallade irrompe sulla scena per il nuovo giorno di raid.",
             "link": "https://pokemongolive.com/post/mega-gallade-raid-day-2025?hl=it",
             "date": "19 dicembre 2024"
@@ -33,6 +38,11 @@
             "title": "I festeggiamenti continuano durante la seconda parte dello Speciale Feste di Pokémon GO.",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=it",
             "date": "11 dicembre 2024"
+        },
+        {
+            "title": "Partecipare ai raid con i tuoi amici non è mai stato così facile.",
+            "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=it",
+            "date": "10 dicembre 2024"
         },
         {
             "title": "I Pokémon dei Community Day del 2024 ritornano per l'ultima scorpacciata di Pokémon dell'anno.",
@@ -143,16 +153,6 @@
             "title": "Giganti spettrali e amici in costume: Gengar Gigamax e altri Pokémon faranno il loro debutto durante l'evento Halloween 2024 Parte II di Pokémon GO.",
             "link": "https://pokemongolive.com/post/halloween-part-2-2024?hl=it",
             "date": "21 ottobre 2024"
-        },
-        {
-            "title": "Alla grandissima con Pokémon Gigamax nelle nuove Lotte Dynamax.",
-            "link": "https://pokemongolive.com/post/go-bigger-gigantamax?hl=it",
-            "date": "14 ottobre 2024"
-        },
-        {
-            "title": "Aggiornamento dei sistemi Lotte Raid e Sfide in Palestra di Pokémon GO",
-            "link": "https://pokemongolive.com/post/battle-systems-update?hl=it",
-            "date": "10 ottobre 2024"
         }
     ]
 }
