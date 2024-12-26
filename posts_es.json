@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Aumento del límite de almacenamiento de Pokémon y de la Bolsa",
+            "link": "https://pokemongolive.com/post/december-2024-storage-increase?hl=es",
+            "date": "26 de diciembre de 2024"
+        },
+        {
             "title": "¡Ya está aquí la Operación eclosión: enero!",
             "link": "https://pokemongolive.com/post/eggs-pedition-access-january-2025?hl=es",
             "date": "20 de diciembre de 2024"
@@ -148,11 +153,6 @@
             "title": "Actualización de la comunidad 2024",
             "link": "https://pokemongolive.com/post/2024-community-update?hl=es",
             "date": "25 de octubre de 2024"
-        },
-        {
-            "title": "¡Aventuras por doquier en Pokémon GO durante el Festival de la Cosecha!",
-            "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=es",
-            "date": "24 de octubre de 2024"
         }
     ]
 }
