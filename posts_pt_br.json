@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "A Fashion Week está de volta ao Pokémon GO.",
+            "link": "https://pokemongolive.com/post/fashion-week-2025?hl=pt_BR",
+            "date": "2 de janeiro de 2025"
+        },
+        {
             "title": "Aumento do limite da Bolsa e do Armazenamento de Pokémon",
             "link": "https://pokemongolive.com/post/december-2024-storage-increase?hl=pt_BR",
             "date": "26 de dezembro de 2024"
@@ -148,11 +153,6 @@
             "title": "Guardem as datas dos Dias Comunitários da próxima Temporada!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s17?hl=pt_BR",
             "date": "4 de novembro de 2024"
-        },
-        {
-            "title": "Gengar Gigamax chega a Pokémon GO...E ao Parque Ibirapuera!",
-            "link": "https://pokemongolive.com/post/halloween-Brazil?hl=pt_BR",
-            "date": "29 de outubro de 2024"
         }
     ]
 }
