@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Die Fashion Week hat ihren nächsten Auftritt in Pokémon GO!",
+            "link": "https://pokemongolive.com/post/fashion-week-2025?hl=de",
+            "date": "2. Januar 2025"
+        },
+        {
             "title": "Kapazitätserhöhung für Pokémon-Box und Item-Beutel",
             "link": "https://pokemongolive.com/post/december-2024-storage-increase?hl=de",
             "date": "26. Dezember 2024"
@@ -148,11 +153,6 @@
             "title": "Reichlich Abenteuer während des Ernte-Festivals in Pokémon GO!",
             "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=de",
             "date": "24. Oktober 2024"
-        },
-        {
-            "title": "Startet mit dem Dyna-Montag dynamaximiert in die Woche!",
-            "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=de",
-            "date": "23. Oktober 2024"
         }
     ]
 }
