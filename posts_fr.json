@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L’événement Fashion Week revient sur Pokémon GO !",
+            "link": "https://pokemongolive.com/post/fashion-week-2025?hl=fr",
+            "date": "2 janvier 2025"
+        },
+        {
             "title": "Extension du stockage de Pokémon et du sac d’objets",
             "link": "https://pokemongolive.com/post/december-2024-storage-increase?hl=fr",
             "date": "26 décembre 2024"
@@ -148,11 +153,6 @@
             "title": "Nouveautés 2024 pour les Communautés",
             "link": "https://pokemongolive.com/post/2024-community-update?hl=fr",
             "date": "25 octobre 2024"
-        },
-        {
-            "title": "Profitez d’aventures à foison dans Pokémon GO durant le Festival des récoltes !",
-            "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=fr",
-            "date": "24 octobre 2024"
         }
     ]
 }
