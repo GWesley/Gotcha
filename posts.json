@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Fashion Week returns to Pokémon GO!",
+            "link": "https://pokemongolive.com/post/fashion-week-2025?hl=en",
+            "date": "January 2, 2025"
+        },
+        {
             "title": "Catch Pokémon at McDonald’s in the United States!",
             "link": "https://pokemongolive.com/post/mcdonalds-us?hl=en",
             "date": "January 1, 2025"
@@ -148,11 +153,6 @@
             "title": "Daily PokéCoin Bounty Part 3 is here!",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-3?hl=en",
             "date": "October 28, 2024"
-        },
-        {
-            "title": "2024 Community Update",
-            "link": "https://pokemongolive.com/post/2024-community-update?hl=en",
-            "date": "October 25, 2024"
         }
     ]
 }
