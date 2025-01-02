@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡La Semana de la Moda regresa a Pokémon GO!",
+            "link": "https://pokemongolive.com/post/fashion-week-2025?hl=es",
+            "date": "2 de enero de 2025"
+        },
+        {
             "title": "Aumento del límite de almacenamiento de Pokémon y de la Bolsa",
             "link": "https://pokemongolive.com/post/december-2024-storage-increase?hl=es",
             "date": "26 de diciembre de 2024"
@@ -148,11 +153,6 @@
             "title": "¡Llega la recompensa diaria de Pokémonedas (Parte 3)!",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-3?hl=es",
             "date": "28 de octubre de 2024"
-        },
-        {
-            "title": "Actualización de la comunidad 2024",
-            "link": "https://pokemongolive.com/post/2024-community-update?hl=es",
-            "date": "25 de octubre de 2024"
         }
     ]
 }
