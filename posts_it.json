@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "La settimana della moda ritorna in Pokémon GO.",
+            "link": "https://pokemongolive.com/post/fashion-week-2025?hl=it",
+            "date": "2 gennaio 2025"
+        },
+        {
             "title": "Aumento del limite per Spazio Pokémon e Borsa",
             "link": "https://pokemongolive.com/post/december-2024-storage-increase?hl=it",
             "date": "26 dicembre 2024"
@@ -148,11 +153,6 @@
             "title": "Avventure a più non posso durante l’evento Festival del raccolto in Pokémon GO!",
             "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=it",
             "date": "24 ottobre 2024"
-        },
-        {
-            "title": "Ecco a voi i Dynalunedì per potenziare al massimo ogni settimana con Dynamax.",
-            "link": "https://pokemongolive.com/post/dynamax-max-mondays?hl=it",
-            "date": "23 ottobre 2024"
         }
     ]
 }
