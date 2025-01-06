@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Notez bien les dates : Festival Pokémon GO 2025",
+            "link": "https://pokemongolive.com/post/save-the-date-go-fest-2025?hl=fr",
+            "date": "6 janvier 2025"
+        },
+        {
             "title": "Réalisez des Défis globaux avec les Dresseur·euse·s du monde entier pour faire entrer Pâtachiot dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/fidough-fetch-2025?hl=fr",
             "date": "2 janvier 2025"
@@ -148,11 +153,6 @@
             "title": "L’événement Bonus de PokéPièces quotidien, partie 3 est arrivé !",
             "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-3?hl=fr",
             "date": "28 octobre 2024"
-        },
-        {
-            "title": "Nouveautés 2024 pour les Communautés",
-            "link": "https://pokemongolive.com/post/2024-community-update?hl=fr",
-            "date": "25 octobre 2024"
         }
     ]
 }
