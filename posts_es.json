@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Apuntad la fecha: Festival de Pokémon GO 2025",
+            "link": "https://pokemongolive.com/post/save-the-date-go-fest-2025?hl=es",
+            "date": "6 de enero de 2025"
+        },
+        {
             "title": "¡Completad desafíos globales con Entrenadores de todos los rincones del mundo para que aparezca Fidough por primera vez!",
             "link": "https://pokemongolive.com/post/fidough-fetch-2025?hl=es",
             "date": "2 de enero de 2025"
@@ -148,11 +153,6 @@
             "title": "Gigamax toma Madrid: ¡Evento Pokémon GO en la Plaza de Callao!",
             "link": "https://pokemongolive.com/post/gmaxmad?hl=es",
             "date": "1 de noviembre de 2024"
-        },
-        {
-            "title": "¡Llega la recompensa diaria de Pokémonedas (Parte 3)!",
-            "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-3?hl=es",
-            "date": "28 de octubre de 2024"
         }
     ]
 }
