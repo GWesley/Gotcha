@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Termine für das Pokémon GO-Fest 2025",
+            "link": "https://pokemongolive.com/post/save-the-date-go-fest-2025?hl=de",
+            "date": "6. Januar 2025"
+        },
+        {
             "title": "An alle Trainer: Meistert die Globalen Herausforderungen, um Hefel freizuschalten!",
             "link": "https://pokemongolive.com/post/fidough-fetch-2025?hl=de",
             "date": "2. Januar 2025"
@@ -148,11 +153,6 @@
             "title": "Communityupdate 2024",
             "link": "https://pokemongolive.com/post/2024-community-update?hl=de",
             "date": "25. Oktober 2024"
-        },
-        {
-            "title": "Reichlich Abenteuer während des Ernte-Festivals in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=de",
-            "date": "24. Oktober 2024"
         }
     ]
 }
