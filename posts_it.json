@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Segnatevi questa data: Festival di Pokémon GO 2025",
+            "link": "https://pokemongolive.com/post/save-the-date-go-fest-2025?hl=it",
+            "date": "6 gennaio 2025"
+        },
+        {
             "title": "Completa le sfide globali con gli Allenatori e le Allenatrici di tutto il mondo per sbloccare il debutto di Fidough.",
             "link": "https://pokemongolive.com/post/fidough-fetch-2025?hl=it",
             "date": "2 gennaio 2025"
@@ -148,11 +153,6 @@
             "title": "Aggiornamento Community 2024",
             "link": "https://pokemongolive.com/post/2024-community-update?hl=it",
             "date": "25 ottobre 2024"
-        },
-        {
-            "title": "Avventure a più non posso durante l’evento Festival del raccolto in Pokémon GO!",
-            "link": "https://pokemongolive.com/post/harvest-festival-2024?hl=it",
-            "date": "24 ottobre 2024"
         }
     ]
 }
