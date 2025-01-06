@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Save the Date: Pokémon GO Fest 2025",
+            "link": "https://pokemongolive.com/post/save-the-date-go-fest-2025?hl=en",
+            "date": "January 6, 2025"
+        },
+        {
             "title": "Complete Global Challenges with Trainers around the world to unlock the debut of Fidough!",
             "link": "https://pokemongolive.com/post/fidough-fetch-2025?hl=en",
             "date": "January 2, 2025"
@@ -148,11 +153,6 @@
             "title": "Save the dates for next Season’s Community Days!",
             "link": "https://pokemongolive.com/post/cd-savethedate-s17?hl=en",
             "date": "November 4, 2024"
-        },
-        {
-            "title": "Daily PokéCoin Bounty Part 3 is here!",
-            "link": "https://pokemongolive.com/post/daily-pokecoin-bounty-ticket-3?hl=en",
-            "date": "October 28, 2024"
         }
     ]
 }
