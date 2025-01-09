@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO stellt die Unterstützung für 32-Bit-Android-Geräte ein",
+            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=de",
+            "date": "9. Januar 2025"
+        },
+        {
             "title": "Testet eure Nerven aus Stahl beim Event „Stählerner Entschluss“",
             "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=de",
             "date": "9. Januar 2025"
@@ -148,11 +153,6 @@
             "title": "Das Dyna-Maximum-Finale steht an in Pokémon GO!",
             "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=de",
             "date": "19. November 2024"
-        },
-        {
-            "title": "Macht euch bereit für die Pokémon GO-Naturzone: Global!",
-            "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=de",
-            "date": "17. November 2024"
         }
     ]
 }
