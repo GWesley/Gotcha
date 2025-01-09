@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO dejará de ser compatible con los dispositivos Android de 32 bits",
+            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=es",
+            "date": "9 de enero de 2025"
+        },
+        {
             "title": "¡Probad vuestra valía durante Un acero resoluto!",
             "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=es",
             "date": "9 de enero de 2025"
@@ -148,11 +153,6 @@
             "title": "¡Este Black Friday duplicad los bonus de Pokémonedas y más!",
             "link": "https://pokemongolive.com/post/black-friday-2024?hl=es",
             "date": "20 de noviembre de 2024"
-        },
-        {
-            "title": "¡Preparaos para el evento Desenlace Al Máximo de Pokémon GO!",
-            "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=es",
-            "date": "19 de noviembre de 2024"
         }
     ]
 }
