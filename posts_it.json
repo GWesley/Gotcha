@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mostra la tua stoffa durante l'evento Volontà d’acciaio.",
+            "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=it",
+            "date": "9 gennaio 2025"
+        },
+        {
             "title": "Articuno Dynamax, Zapdos Dynamax e Moltres Dynamax sono in arrivo durante l'evento Voli leggendari.",
             "link": "https://pokemongolive.com/post/legendary-flight-2025?hl=it",
             "date": "8 gennaio 2025"
@@ -148,11 +153,6 @@
             "title": "Preparati per Terre Selvagge di Pokémon GO (globale)!",
             "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=it",
             "date": "17 novembre 2024"
-        },
-        {
-            "title": "Preparati per emozionanti avventure di tipo Elettro e Veleno con Toxel durante l'evento Nelle Terre Selvagge.",
-            "link": "https://pokemongolive.com/post/into-the-wild-2024?hl=it",
-            "date": "7 novembre 2024"
         }
     ]
 }
