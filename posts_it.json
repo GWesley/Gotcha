@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO interrompe il supporto per i dispositivi Android a 32 bit",
+            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=it",
+            "date": "9 gennaio 2025"
+        },
+        {
             "title": "Mostra la tua stoffa durante l'evento Volontà d’acciaio.",
             "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=it",
             "date": "9 gennaio 2025"
@@ -148,11 +153,6 @@
             "title": "Preparati per l'evento Potenza Max - Epilogo di Pokémon GO.",
             "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=it",
             "date": "19 novembre 2024"
-        },
-        {
-            "title": "Preparati per Terre Selvagge di Pokémon GO (globale)!",
-            "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=it",
-            "date": "17 novembre 2024"
         }
     ]
 }
