@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "『Pokémon GO』は32ビットAndroid端末のサポートを終了します",
+            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=ja",
+            "date": "2025年1月9日"
+        },
+        {
             "title": "「はがねの決意」イベントで実力を試しましょう！",
             "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=ja",
             "date": "2025年1月9日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』の「マックスアウトフィナーレ」イベントがまもなく開催",
             "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=ja",
             "date": "2024年11月19日"
-        },
-        {
-            "title": "「Pokémon GO ワイルドエリア：グローバル」まもなく開催",
-            "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=ja",
-            "date": "2024年11月17日"
         }
     ]
 }
