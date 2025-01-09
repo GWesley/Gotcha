@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Test your mettle during the Steeled Resolve event!",
+            "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=en",
+            "date": "January 9, 2025"
+        },
+        {
             "title": "Dynamax Articuno, Dynamax Zapdos, and Dynamax Moltres arrive during the Legendary Flight event!",
             "link": "https://pokemongolive.com/post/legendary-flight-2025?hl=en",
             "date": "January 8, 2025"
@@ -148,11 +153,6 @@
             "title": "Double your bonus PokéCoins this Black Friday, and more!",
             "link": "https://pokemongolive.com/post/black-friday-2024?hl=en",
             "date": "November 20, 2024"
-        },
-        {
-            "title": "Get ready for Pokémon GO’s Max Out Finale event!",
-            "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=en",
-            "date": "November 19, 2024"
         }
     ]
 }
