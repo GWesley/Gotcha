@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO to discontinue support on 32-bit Android devices",
+            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=en",
+            "date": "January 9, 2025"
+        },
+        {
             "title": "Test your mettle during the Steeled Resolve event!",
             "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=en",
             "date": "January 9, 2025"
@@ -148,11 +153,6 @@
             "title": "GO Battle League: Dual Destiny Update",
             "link": "https://pokemongolive.com/post/go-battle-league-dual-destiny?hl=en",
             "date": "November 26, 2024"
-        },
-        {
-            "title": "Double your bonus PokéCoins this Black Friday, and more!",
-            "link": "https://pokemongolive.com/post/black-friday-2024?hl=en",
-            "date": "November 20, 2024"
         }
     ]
 }
