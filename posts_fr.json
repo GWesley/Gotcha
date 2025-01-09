@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Mettez votre courage à l’épreuve durant l’événement Volonté de fer !",
+            "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=fr",
+            "date": "9 janvier 2025"
+        },
+        {
             "title": "Artikodin Dynamax, Électhor Dynamax et Sulfura Dynamax déploient leurs ailes pour l’événement Vol légendaire !",
             "link": "https://pokemongolive.com/post/legendary-flight-2025?hl=fr",
             "date": "8 janvier 2025"
@@ -148,11 +153,6 @@
             "title": "À vos Pokémon : l’événement Finale Au max arrive sur Pokémon GO !",
             "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=fr",
             "date": "19 novembre 2024"
-        },
-        {
-            "title": "Préparez-vous pour l’événement Terres Sauvages Pokémon GO : Global !",
-            "link": "https://pokemongolive.com/post/get-ready-for-go-wild-area-2024?hl=fr",
-            "date": "17 novembre 2024"
         }
     ]
 }
