@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Festeggia il Capodanno lunare con l’evento del 2025 di Pokémon GO!",
+            "link": "https://pokemongolive.com/post/lunar-new-year-event-2025?hl=it",
+            "date": "13 gennaio 2025"
+        },
+        {
             "title": "Pokémon GO interrompe il supporto per i dispositivi Android a 32 bit",
             "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=it",
             "date": "9 gennaio 2025"
@@ -148,11 +153,6 @@
             "title": "Raddoppia le tue Pokémonete bonus questo Black Friday, e non solo.",
             "link": "https://pokemongolive.com/post/black-friday-2024?hl=it",
             "date": "20 novembre 2024"
-        },
-        {
-            "title": "Preparati per l'evento Potenza Max - Epilogo di Pokémon GO.",
-            "link": "https://pokemongolive.com/post/max-out-finale-2024?hl=it",
-            "date": "19 novembre 2024"
         }
     ]
 }
