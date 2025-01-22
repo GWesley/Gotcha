@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Get ready for Pokémon GO Tour: Unova with the Road to Unova event!",
+            "link": "https://pokemongolive.com/post/road-to-unova-event?hl=en",
+            "date": "January 22, 2025"
+        },
+        {
             "title": "Dynamax Articuno, Dynamax Zapdos, and Dynamax Moltres arrive during the Legendary Flight event!",
             "link": "https://pokemongolive.com/post/legendary-flight-2025?hl=en",
             "date": "January 16, 2025"
@@ -148,11 +153,6 @@
             "title": "Join a ghostly tea party featuring the Pokémon GO debuts of Sinistea and Polteageist!",
             "link": "https://pokemongolive.com/post/just-my-cup-of-tea-2024?hl=en",
             "date": "November 27, 2024"
-        },
-        {
-            "title": "Evolve to new heights during Aspiring Dragons Research Day!",
-            "link": "https://pokemongolive.com/post/aspiring-dragons-research-day?hl=en",
-            "date": "November 26, 2024"
         }
     ]
 }
