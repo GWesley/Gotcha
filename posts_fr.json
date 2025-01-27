@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Il ne faut pas se fier qu’à la taille ! L’événement Petit mais costaud arrive.",
+            "link": "https://pokemongolive.com/post/small-yet-strong-2025?hl=fr",
+            "date": "27 janvier 2025"
+        },
+        {
             "title": "Journée Communauté classique de janvier 2025 : Tarsal",
             "link": "https://pokemongolive.com/post/communitydayclassic-january-2025-ralts?hl=fr",
             "date": "23 janvier 2025"
@@ -148,11 +153,6 @@
             "title": "À l’occasion de leur première apparition dans Pokémon GO, Théffroi et Polthégeist vous attendent pour une aventure fantôma-thé-que !",
             "link": "https://pokemongolive.com/post/just-my-cup-of-tea-2024?hl=fr",
             "date": "27 novembre 2024"
-        },
-        {
-            "title": "Atteignez de nouveaux sommets lors de la Journée Étude Apprentis dragons !",
-            "link": "https://pokemongolive.com/post/aspiring-dragons-research-day?hl=fr",
-            "date": "26 novembre 2024"
         }
     ]
 }
