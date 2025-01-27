@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Es regnet PokéMünzen!",
+            "link": "https://pokemongolive.com/post/pokecoin-sale-2025?hl=de",
+            "date": "27. Januar 2025"
+        },
+        {
             "title": "Beim Event „Klein, aber oho“ regieren die kleinen Kraftprotze!",
             "link": "https://pokemongolive.com/post/small-yet-strong-2025?hl=de",
             "date": "27. Januar 2025"
@@ -148,11 +153,6 @@
             "title": "Eine geistreiche Teeparty mit den Pokémon GO-Debüts von Fatalitee und Mortipot!",
             "link": "https://pokemongolive.com/post/just-my-cup-of-tea-2024?hl=de",
             "date": "27. November 2024"
-        },
-        {
-            "title": "Wir schwingen uns auf in unerahnte Höhen beim Forschungstag: Aufstrebende Drachen!",
-            "link": "https://pokemongolive.com/post/aspiring-dragons-research-day?hl=de",
-            "date": "26. November 2024"
         }
     ]
 }
