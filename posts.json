@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "It’s raining PokéCoins!",
+            "link": "https://pokemongolive.com/post/pokecoin-sale-2025?hl=en",
+            "date": "January 27, 2025"
+        },
+        {
             "title": "Big things come in small packages during the Small Yet Strong event!",
             "link": "https://pokemongolive.com/post/small-yet-strong-2025?hl=en",
             "date": "January 27, 2025"
@@ -148,11 +153,6 @@
             "title": "Eggs-pedition Access is back in Pokémon GO: Dual Destiny!",
             "link": "https://pokemongolive.com/post/eggs-pedition-access-december-2024?hl=en",
             "date": "November 29, 2024"
-        },
-        {
-            "title": "Pokémon GO Tour: Unova – Los Angeles comes to Rose Bowl Stadium February 21–23",
-            "link": "https://pokemongolive.com/post/gotour-losangeles-2025?hl=en",
-            "date": "November 27, 2024"
         }
     ]
 }
