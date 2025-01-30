@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Eggs-pedition Access: February is here!",
+            "link": "https://pokemongolive.com/post/eggs-pedition-access-february-2025?hl=en",
+            "date": "January 30, 2025"
+        },
+        {
             "title": "Hoopa Unbound unleashes its true power in a new Raid Day!",
             "link": "https://pokemongolive.com/post/hoopa-raid-day-2025?hl=en",
             "date": "January 30, 2025"
@@ -148,11 +153,6 @@
             "title": "Celebrate the festive season during the Holiday Part 1 event in Pokémon GO!",
             "link": "https://pokemongolive.com/post/holiday-part1-2024?hl=en",
             "date": "December 5, 2024"
-        },
-        {
-            "title": "Live-testing a new Pokémon GO Web Store program",
-            "link": "https://pokemongolive.com/post/web-store-tests-2024?hl=en",
-            "date": "December 2, 2024"
         }
     ]
 }
