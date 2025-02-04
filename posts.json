@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "An update on Pokémon GO Tour: Unova – Los Angeles",
+            "link": "https://pokemongolive.com/post/gotour-losangeles-update?hl=en",
+            "date": "February 4, 2025"
+        },
+        {
             "title": "Connect with Trainers around the world during the Scattered to the Winds event!",
             "link": "https://pokemongolive.com/post/scattered-to-the-winds-2025?hl=en",
             "date": "February 4, 2025"
@@ -148,11 +153,6 @@
             "title": "The festivities continue during part two of Pokémon GO’s Holiday event!",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=en",
             "date": "December 11, 2024"
-        },
-        {
-            "title": "It is easier than ever to join Raid Battles with your friends!",
-            "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=en",
-            "date": "December 10, 2024"
         }
     ]
 }
