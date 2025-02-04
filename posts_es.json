@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡Contactad con Entrenadores de todo el mundo durante el evento Lo que el viento arrastró!",
+            "link": "https://pokemongolive.com/post/scattered-to-the-winds-2025?hl=es",
+            "date": "4 de febrero de 2025"
+        },
+        {
             "title": "¡Es la hora de estrechar lazos y que reine la armonía con el evento Compañeros de travesía!",
             "link": "https://pokemongolive.com/post/beloved-buddies-2025?hl=es",
             "date": "3 de febrero de 2025"
@@ -148,11 +153,6 @@
             "title": "¡Los Pokémon de los Días de la Comunidad de 2024 regresan para ponerle un brillante colofón al año!",
             "link": "https://pokemongolive.com/post/community-day-december-2024?hl=es",
             "date": "6 de diciembre de 2024"
-        },
-        {
-            "title": "¡Celebrad la temporada de fiestas durante el evento Fiestas de finales de año (parte 1) en Pokémon GO!",
-            "link": "https://pokemongolive.com/post/holiday-part1-2024?hl=es",
-            "date": "5 de diciembre de 2024"
         }
     ]
 }
