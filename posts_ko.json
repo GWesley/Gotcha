@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "다음 시즌의 커뮤니티 데이 일정을 안내합니다",
+            "link": "https://pokemongolive.com/post/savethedate-s18?hl=ko",
+            "date": "2025년 2월 10일"
+        },
+        {
             "title": "\"바람에 띄우는 마음\" 이벤트에서 전 세계 트레이너와 소통하세요!",
             "link": "https://pokemongolive.com/post/scattered-to-the-winds-2025?hl=ko",
             "date": "2025년 2월 4일"
@@ -148,11 +153,6 @@
             "title": "친구리스트에서 프렌드와 함께 \"레이드배틀\"에 참가!",
             "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=ko",
             "date": "2024년 12월 10일"
-        },
-        {
-            "title": "2024년 커뮤니티 데이 포켓몬들이 돌아옵니다!",
-            "link": "https://pokemongolive.com/post/community-day-december-2024?hl=ko",
-            "date": "2024년 12월 6일"
         }
     ]
 }
