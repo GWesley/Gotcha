@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Save the dates for next Season’s Community Days!",
+            "link": "https://pokemongolive.com/post/savethedate-s18?hl=en",
+            "date": "February 10, 2025"
+        },
+        {
             "title": "An update on Pokémon GO Tour: Unova – Los Angeles",
             "link": "https://pokemongolive.com/post/gotour-losangeles-update?hl=en",
             "date": "February 4, 2025"
@@ -148,11 +153,6 @@
             "title": "Celebrate with Pokémon GO’s New Year’s 2025 event!",
             "link": "https://pokemongolive.com/post/new-years-2025?hl=en",
             "date": "December 16, 2024"
-        },
-        {
-            "title": "The festivities continue during part two of Pokémon GO’s Holiday event!",
-            "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=en",
-            "date": "December 11, 2024"
         }
     ]
 }
