@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Notez bien les dates des Journées Communauté de la Saison prochaine !",
+            "link": "https://pokemongolive.com/post/savethedate-s18?hl=fr",
+            "date": "10 février 2025"
+        },
+        {
             "title": "Rencontrez des Dresseur·euse·s du monde entier durant l’événement Brille chenille !",
             "link": "https://pokemongolive.com/post/scattered-to-the-winds-2025?hl=fr",
             "date": "4 février 2025"
@@ -148,11 +153,6 @@
             "title": "Les Pokémon mis à l’honneur lors des Journées Communauté de 2024 reviennent à l’occasion d’un attrap-athon de fin d’année !",
             "link": "https://pokemongolive.com/post/community-day-december-2024?hl=fr",
             "date": "6 décembre 2024"
-        },
-        {
-            "title": "Célébrez la saison des fêtes dans Pokémon GO avec l’événement Fêtes de fin d’année – 1ʳᵉ partie !",
-            "link": "https://pokemongolive.com/post/holiday-part1-2024?hl=fr",
-            "date": "5 décembre 2024"
         }
     ]
 }
