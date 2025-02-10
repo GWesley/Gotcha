@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Guardem as datas dos Dias Comunitários da próxima Temporada!",
+            "link": "https://pokemongolive.com/post/savethedate-s18?hl=pt_BR",
+            "date": "10 de fevereiro de 2025"
+        },
+        {
             "title": "Conecte-se com Treinadoras e Treinadores do mundo todo durante o evento De Vento em Pupa.",
             "link": "https://pokemongolive.com/post/scattered-to-the-winds-2025?hl=pt_BR",
             "date": "4 de fevereiro de 2025"
@@ -148,11 +153,6 @@
             "title": "Participar das Batalhas de Reides com amigas e amigos está mais fácil do que nunca!",
             "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=pt_BR",
             "date": "10 de dezembro de 2024"
-        },
-        {
-            "title": "Os Pokémon dos Dias Comunitários de 2024 voltam para uma maratona de capturas de final de ano!",
-            "link": "https://pokemongolive.com/post/community-day-december-2024?hl=pt_BR",
-            "date": "6 de dezembro de 2024"
         }
     ]
 }
