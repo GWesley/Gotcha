@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO y los centros comerciales de Merlin Properties se unen para ofrecer a los entrenadores españoles un refugio ¡y una celebración de lanzamiento!",
+            "link": "https://pokemongolive.com/post/merlinproperties?hl=es",
+            "date": "11 de febrero de 2025"
+        },
+        {
             "title": "¡Apuntad las fechas de los Días de la Comunidad de la próxima temporada!",
             "link": "https://pokemongolive.com/post/savethedate-s18?hl=es",
             "date": "10 de febrero de 2025"
@@ -148,11 +153,6 @@
             "title": "¡La fiesta continúa durante la segunda parte del Especial Fiestas de Pokémon GO!",
             "link": "https://pokemongolive.com/post/holiday-part2-2024?hl=es",
             "date": "11 de diciembre de 2024"
-        },
-        {
-            "title": "¡Ahora es más fácil que nunca unirse a las incursiones con amigos!",
-            "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=es",
-            "date": "10 de diciembre de 2024"
         }
     ]
 }
