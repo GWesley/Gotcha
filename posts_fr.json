@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Journée Communauté de mars 2025 : Chochodile",
+            "link": "https://pokemongolive.com/post/communityday-march-2025-fuecoco?hl=fr",
+            "date": "11 février 2025"
+        },
+        {
             "title": "Notez bien les dates des Journées Communauté de la Saison prochaine !",
             "link": "https://pokemongolive.com/post/savethedate-s18?hl=fr",
             "date": "10 février 2025"
@@ -148,11 +153,6 @@
             "title": "Il est plus facile que jamais de participer à des Combats de Raid entre ami·e·s !",
             "link": "https://pokemongolive.com/post/raidfromfriendlist?hl=fr",
             "date": "10 décembre 2024"
-        },
-        {
-            "title": "Les Pokémon mis à l’honneur lors des Journées Communauté de 2024 reviennent à l’occasion d’un attrap-athon de fin d’année !",
-            "link": "https://pokemongolive.com/post/community-day-december-2024?hl=fr",
-            "date": "6 décembre 2024"
         }
     ]
 }
