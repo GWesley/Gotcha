@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO and Major League Baseball knock it out of the park with a new partnership!",
+            "link": "https://pokemongolive.com/post/mlb-2025?hl=en",
+            "date": "February 12, 2025"
+        },
+        {
             "title": "Meet notable Trainers and join community meetups during Pokémon GO Tour: Unova!",
             "link": "https://pokemongolive.com/post/go-tour-unova-community-meetups?hl=en",
             "date": "February 12, 2025"
@@ -148,11 +153,6 @@
             "title": "Mega Gallade bursts onto the scene for the latest Raid Day!",
             "link": "https://pokemongolive.com/post/mega-gallade-raid-day-2025?hl=en",
             "date": "December 19, 2024"
-        },
-        {
-            "title": "January 2025 Community Day: Sprigatito",
-            "link": "https://pokemongolive.com/post/communityday-january-2025-sprigatito?hl=en",
-            "date": "December 18, 2024"
         }
     ]
 }
