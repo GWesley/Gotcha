@@ -5,6 +5,16 @@
     ],
     "posts": [
         {
+            "title": "Get ready for Pokémon GO Tour: Unova with the Road to Unova event!",
+            "link": "https://pokemongolive.com/post/fusion-adventure-effects-kyurem?hl=fr",
+            "date": "23 février 2025"
+        },
+        {
+            "title": "Avec le nouveau Passe de Circuit, montez de rang et gagnez des récompenses en accumulant les victoires lors du Circuit GO !",
+            "link": "https://pokemongolive.com/post/tour-pass-2025?hl=fr",
+            "date": "23 février 2025"
+        },
+        {
             "title": "Journée Communauté classique de mars 2025 : Kaiminus",
             "link": "https://pokemongolive.com/post/communitydayclassic-march-2025-totodile?hl=fr",
             "date": "18 février 2025"
@@ -80,11 +90,6 @@
             "date": "16 janvier 2025"
         },
         {
-            "title": "Avec le nouveau Passe de Circuit, montez de rang et gagnez des récompenses en accumulant les victoires lors du Circuit GO !",
-            "link": "https://pokemongolive.com/post/tour-pass-2025?hl=fr",
-            "date": "15 janvier 2025"
-        },
-        {
             "title": "La Team GO Rocket et Giovanni sont de retour… Sauvez Palkia Obscur lors de l’événement Fashion Week : Offensive !",
             "link": "https://pokemongolive.com/post/fashion-week-taken-over-by-TGR?hl=fr",
             "date": "14 janvier 2025"
@@ -148,11 +153,6 @@
             "title": "Journée Communauté de janvier 2025 : Poussacha",
             "link": "https://pokemongolive.com/post/communityday-january-2025-sprigatito?hl=fr",
             "date": "18 décembre 2024"
-        },
-        {
-            "title": "Chaud devant : Élekid et Magby surgissent pour cette nouvelle Journée Éclosion !",
-            "link": "https://pokemongolive.com/post/charged-embers-hatch-day-2024?hl=fr",
-            "date": "16 décembre 2024"
         }
     ]
 }
