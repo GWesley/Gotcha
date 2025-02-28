@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Might and Mastery",
+            "link": "https://pokemongolive.com/post/welcome-to-might-and-mastery?hl=en",
+            "date": "February 28, 2025"
+        },
+        {
             "title": "GO Battle League: Might and Mastery Update",
             "link": "https://pokemongolive.com/post/go-battle-league-might-and-mastery?hl=en",
             "date": "February 28, 2025"
@@ -148,11 +153,6 @@
             "title": "Save the Date: Pokémon GO Fest 2025",
             "link": "https://pokemongolive.com/post/save-the-date-go-fest-2025?hl=en",
             "date": "January 6, 2025"
-        },
-        {
-            "title": "Complete Global Challenges with Trainers around the world to unlock the debut of Fidough!",
-            "link": "https://pokemongolive.com/post/fidough-fetch-2025?hl=en",
-            "date": "January 2, 2025"
         }
     ]
 }
