@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Might and Mastery",
+            "link": "https://pokemongolive.com/post/welcome-to-might-and-mastery?hl=es",
+            "date": "28 de febrero de 2025"
+        },
+        {
             "title": "Novedades de la Liga Combates GO: Fortaleza y Maestría",
             "link": "https://pokemongolive.com/post/go-battle-league-might-and-mastery?hl=es",
             "date": "28 de febrero de 2025"
@@ -148,11 +153,6 @@
             "title": "Aumento del límite de almacenamiento de Pokémon y de la Bolsa",
             "link": "https://pokemongolive.com/post/december-2024-storage-increase?hl=es",
             "date": "26 de diciembre de 2024"
-        },
-        {
-            "title": "¡Ya está aquí la Operación eclosión: enero!",
-            "link": "https://pokemongolive.com/post/eggs-pedition-access-january-2025?hl=es",
-            "date": "20 de diciembre de 2024"
         }
     ]
 }
