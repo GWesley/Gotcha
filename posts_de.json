@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Welcome to Pokémon GO: Might and Mastery",
+            "link": "https://pokemongolive.com/post/welcome-to-might-and-mastery?hl=de",
+            "date": "28. Februar 2025"
+        },
+        {
             "title": "Update zu GO-Kampfliga: Mächtig und meisterhaft",
             "link": "https://pokemongolive.com/post/go-battle-league-might-and-mastery?hl=de",
             "date": "28. Februar 2025"
@@ -148,11 +153,6 @@
             "title": "Der Eierlei Zugang: Januar ist da!",
             "link": "https://pokemongolive.com/post/eggs-pedition-access-january-2025?hl=de",
             "date": "20. Dezember 2024"
-        },
-        {
-            "title": "Mega-Galagladi lässt beim nächsten Raid-Tag die Klingen tanzen!",
-            "link": "https://pokemongolive.com/post/mega-gallade-raid-day-2025?hl=de",
-            "date": "19. Dezember 2024"
         }
     ]
 }
