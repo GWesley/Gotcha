@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "¡En 2025 vuelve el Festival de los Colores a Pokémon GO!",
+            "link": "https://pokemongolive.com/post/festival-of-colors-2025?hl=es",
+            "date": "2 de marzo de 2025"
+        },
+        {
             "title": "¡Os espera un electrizante Fin de Semana de Combates Max con Raikou Dinamax!",
             "link": "https://pokemongolive.com/post/dynamax-raikou-max-battle-weekend?hl=es",
             "date": "28 de febrero de 2025"
@@ -148,11 +153,6 @@
             "title": "Apuntad la fecha: Festival de Pokémon GO 2025",
             "link": "https://pokemongolive.com/post/save-the-date-go-fest-2025?hl=es",
             "date": "6 de enero de 2025"
-        },
-        {
-            "title": "¡Completad desafíos globales con Entrenadores de todos los rincones del mundo para que aparezca Fidough por primera vez!",
-            "link": "https://pokemongolive.com/post/fidough-fetch-2025?hl=es",
-            "date": "2 de enero de 2025"
         }
     ]
 }
