@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "O evento Festival das Cores retorna ao Pokémon GO para 2025!",
+            "link": "https://pokemongolive.com/post/festival-of-colors-2025?hl=pt_BR",
+            "date": "2 de março de 2025"
+        },
+        {
             "title": "Um Fim de semana de batalhas eletrizante espera por você com Raikou Dinamax!",
             "link": "https://pokemongolive.com/post/dynamax-raikou-max-battle-weekend?hl=pt_BR",
             "date": "28 de fevereiro de 2025"
@@ -148,11 +153,6 @@
             "title": "Celebrem o Ano Novo Lunar com o evento Ano Novo Lunar 2025 do Pokémon GO!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2025?hl=pt_BR",
             "date": "13 de janeiro de 2025"
-        },
-        {
-            "title": "O Pokémon GO descontinua o suporte em dispositivos Android de 32 bits",
-            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=pt_BR",
-            "date": "9 de janeiro de 2025"
         }
     ]
 }
