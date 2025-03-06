@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Valiant Trainers are cordially invited to partake in grand global revels this summer at Pokémon GO Fest 2025!",
-            "link": "https://pokemongolive.com/post/go-fest-2025-events-announcement?hl=it",
-            "date": "6 marzo 2025"
-        },
-        {
             "title": "La marea sta cambiando grazie all'evento Abissi bui in Pokémon GO.",
             "link": "https://pokemongolive.com/post/deep-depths-2025?hl=it",
             "date": "4 marzo 2025"
@@ -153,6 +148,11 @@
             "title": "Festeggia il Capodanno lunare con l’evento del 2025 di Pokémon GO!",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2025?hl=it",
             "date": "13 gennaio 2025"
+        },
+        {
+            "title": "Pokémon GO interrompe il supporto per i dispositivi Android a 32 bit",
+            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=it",
+            "date": "9 gennaio 2025"
         }
     ]
 }
