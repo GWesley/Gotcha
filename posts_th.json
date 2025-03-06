@@ -5,11 +5,6 @@
     ],
     "posts": [
         {
-            "title": "Valiant Trainers are cordially invited to partake in grand global revels this summer at Pokémon GO Fest 2025!",
-            "link": "https://pokemongolive.com/post/go-fest-2025-events-announcement?hl=th",
-            "date": "6 มีนาคม 2568"
-        },
-        {
             "title": "สถานการณ์พลิกระหว่างอีเวนต์ห้วงสมุทรลึกใน Pokémon GO!",
             "link": "https://pokemongolive.com/post/deep-depths-2025?hl=th",
             "date": "4 มีนาคม 2568"
@@ -153,6 +148,11 @@
             "title": "ทดสอบความกล้าหาญของคุณในอีเวนต์ปณิธานเหล็กกล้า!",
             "link": "https://pokemongolive.com/post/steeled-resolve-2025?hl=th",
             "date": "9 มกราคม 2568"
+        },
+        {
+            "title": "ทำคำท้าสำหรับทั่วโลกให้เสร็จสิ้นกับเทรนเนอร์ทั่วโลกเพื่อปลดล็อกการเปิดตัวของพาปิม็อตจิ!",
+            "link": "https://pokemongolive.com/post/fidough-fetch-2025?hl=th",
+            "date": "2 มกราคม 2568"
         }
     ]
 }
