@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Valiant Trainers are cordially invited to partake in grand global revels this summer at Pokémon GO Fest 2025!",
+            "link": "https://pokemongolive.com/post/go-fest-2025-events-announcement?hl=en",
+            "date": "March 6, 2025"
+        },
+        {
             "title": "Take part in the Wayfarer Challenge in Chile and India and earn amazing rewards!",
             "link": "https://pokemongolive.com/post/wayfarer-challenge-chile-india-2025?hl=en",
             "date": "March 5, 2025"
@@ -148,11 +153,6 @@
             "title": "Dynamax Articuno, Dynamax Zapdos, and Dynamax Moltres arrive during the Legendary Flight event!",
             "link": "https://pokemongolive.com/post/legendary-flight-2025?hl=en",
             "date": "January 16, 2025"
-        },
-        {
-            "title": "Team GO Rocket and Giovanni return. Give it your all and rescue Shadow Palkia during Fashion Week: Taken Over!",
-            "link": "https://pokemongolive.com/post/fashion-week-taken-over-by-TGR?hl=en",
-            "date": "January 14, 2025"
         }
     ]
 }
