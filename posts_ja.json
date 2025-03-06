@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "勇敢なるトレーナーの皆さん、世界規模で開催されるイベント「Pokémon GO Fest 2025」へ、いざ集結！",
+            "link": "https://pokemongolive.com/post/go-fest-2025-events-announcement?hl=ja",
+            "date": "2025年3月6日"
+        },
+        {
             "title": "『Pokémon GO』の「ディープデプス」イベントで潮目に変化が",
             "link": "https://pokemongolive.com/post/deep-depths-2025?hl=ja",
             "date": "2025年3月4日"
@@ -148,11 +153,6 @@
             "title": "『Pokémon GO』の2025年「旧正月イベント」で、旧正月を祝いましょう！",
             "link": "https://pokemongolive.com/post/lunar-new-year-event-2025?hl=ja",
             "date": "2025年1月13日"
-        },
-        {
-            "title": "『Pokémon GO』は32ビットAndroid端末のサポートを終了します",
-            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=ja",
-            "date": "2025年1月9日"
         }
     ]
 }
