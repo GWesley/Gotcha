@@ -5,9 +5,19 @@
     ],
     "posts": [
         {
+            "title": "Préparez-vous pour un événement Maîtrise de capture mettant à l’honneur Arkéapti, le Pokémon Oisancien !",
+            "link": "https://pokemongolive.com/post/catch-mastery-archen-2025?hl=fr",
+            "date": "10 mars 2025"
+        },
+        {
             "title": "Journée de Raids Méga-Absol",
             "link": "https://pokemongolive.com/post/mega-absol-raid-day-2025?hl=fr",
             "date": "7 mars 2025"
+        },
+        {
+            "title": "Les dresseurs courageux sont cordialement invités à prendre part aux festivités estivales mondiales du Pokémon GO Fest 2025 !",
+            "link": "https://pokemongolive.com/post/go-fest-2025-events-announcement?hl=fr",
+            "date": "6 mars 2025"
         },
         {
             "title": "Les Profondeurs ténébreuses de Pokémon GO recèlent bien des secrets !",
@@ -143,16 +153,6 @@
             "title": "Serrez la pince à la nouvelle année avec Krabboss Gigamax !",
             "link": "https://pokemongolive.com/post/gigantamax-kingler-max-battle-day?hl=fr",
             "date": "13 janvier 2025"
-        },
-        {
-            "title": "Célébrez le Nouvel An lunaire avec l’événement Pokémon GO 2025 : Nouvel An lunaire !",
-            "link": "https://pokemongolive.com/post/lunar-new-year-event-2025?hl=fr",
-            "date": "13 janvier 2025"
-        },
-        {
-            "title": "Pokémon GO met fin à la prise en charge des appareils Android 32 bits",
-            "link": "https://pokemongolive.com/post/32-bit-android-discontinued-support-2025?hl=fr",
-            "date": "9 janvier 2025"
         }
     ]
 }
