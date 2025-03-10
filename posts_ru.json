@@ -5,9 +5,14 @@
     ],
     "posts": [
         {
+            "title": "Valiant Trainers are cordially invited to partake in grand global revels this summer at Pokémon GO Fest 2025!",
+            "link": "https://pokemongolive.com/post/go-fest-2025-events-announcement?hl=ru",
+            "date": "6 марта 2025 г."
+        },
+        {
             "title": "Pokémon GO Fest 2024 details revealed: Ultra Unlock, habitat times, and more!",
             "link": "https://pokemongolive.com/post/go-fest-2024-ultra-unlock-challenges?hl=ru",
-            "date": "8 июля 2024 г."
+            "date": "9 июля 2024 г."
         },
         {
             "title": "Join Pokémon GO Community Meetups for Pokémon GO Fest 2024: Global!",
@@ -147,11 +152,6 @@
         {
             "title": "Праздники Pokémon GO 2021: дебют Бергмайта в Pokémon GO, новые костюмы, предметы для аватара и многое другое!",
             "link": "https://pokemongolive.com/post/holiday2021?hl=ru",
-            "date": "9 декабря 2021 г."
-        },
-        {
-            "title": "Представляем вам Книгу открыток!",
-            "link": "https://pokemongolive.com/post/postcardbook?hl=ru",
             "date": "9 декабря 2021 г."
         }
     ]
