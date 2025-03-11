@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Voici le retour de l’événement Insectomania et l’arrivée de Grillepattes dans Pokémon GO !",
+            "link": "https://pokemongolive.com/post/bug-out-2025?hl=fr",
+            "date": "11 mars 2025"
+        },
+        {
             "title": "Préparez-vous pour un événement Maîtrise de capture mettant à l’honneur Arkéapti, le Pokémon Oisancien !",
             "link": "https://pokemongolive.com/post/catch-mastery-archen-2025?hl=fr",
             "date": "10 mars 2025"
@@ -148,11 +153,6 @@
             "title": "Sauvez Ho-Oh Obscur de la Team GO Rocket durant l’événement Journée de Raids Obscurs !",
             "link": "https://pokemongolive.com/post/shadow-hooh-raid-day-2025?hl=fr",
             "date": "14 janvier 2025"
-        },
-        {
-            "title": "Serrez la pince à la nouvelle année avec Krabboss Gigamax !",
-            "link": "https://pokemongolive.com/post/gigantamax-kingler-max-battle-day?hl=fr",
-            "date": "13 janvier 2025"
         }
     ]
 }
