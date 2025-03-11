@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "L'evento Bacomania sta per tornare e vedrà il debutto di Sizzlipede in Pokémon GO.",
+            "link": "https://pokemongolive.com/post/bug-out-2025?hl=it",
+            "date": "11 marzo 2025"
+        },
+        {
             "title": "Preparati per un evento Obiettivo cattura che avrà come protagonista Archen, il Pokémon Paleouccello.",
             "link": "https://pokemongolive.com/post/catch-mastery-archen-2025?hl=it",
             "date": "10 marzo 2025"
@@ -13,6 +18,11 @@
             "title": "Giorno di raid dedicato a MegaAbsol",
             "link": "https://pokemongolive.com/post/mega-absol-raid-day-2025?hl=it",
             "date": "7 marzo 2025"
+        },
+        {
+            "title": "Gli audaci Allenatori e Allenatrici sono cordialmente invitati a partecipare ai grandi festeggiamenti globali di questa estate al Festival di Pokémon GO 2025.",
+            "link": "https://pokemongolive.com/post/go-fest-2025-events-announcement?hl=it",
+            "date": "6 marzo 2025"
         },
         {
             "title": "La marea sta cambiando grazie all'evento Abissi bui in Pokémon GO.",
@@ -143,16 +153,6 @@
             "title": "Giovanni e il Team GO Rocket stanno tornando. Dai il massimo e salva Palkia Ombra durante l'Assalto dell'evento Settimana della moda.",
             "link": "https://pokemongolive.com/post/fashion-week-taken-over-by-TGR?hl=it",
             "date": "14 gennaio 2025"
-        },
-        {
-            "title": "Salva Ho-Oh Ombra dal Team GO Rocket durante l'evento Giorno di raid Ombra.",
-            "link": "https://pokemongolive.com/post/shadow-hooh-raid-day-2025?hl=it",
-            "date": "14 gennaio 2025"
-        },
-        {
-            "title": "Dai inizio al nuovo anno con Kingler Gigamax!",
-            "link": "https://pokemongolive.com/post/gigantamax-kingler-max-battle-day?hl=it",
-            "date": "13 gennaio 2025"
         }
     ]
 }
