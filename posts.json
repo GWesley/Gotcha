@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "The Bug Out event returns, featuring Sizzlipede’s Pokémon GO debut!",
+            "link": "https://pokemongolive.com/post/bug-out-2025?hl=en",
+            "date": "March 11, 2025"
+        },
+        {
             "title": "Get ready for a Catch Mastery event featuring the First Bird Pokémon, Archen!",
             "link": "https://pokemongolive.com/post/catch-mastery-archen-2025?hl=en",
             "date": "March 10, 2025"
@@ -148,11 +153,6 @@
             "title": "An Alluring Pokémon GO and Eevee Celebration!",
             "link": "https://pokemongolive.com/post/tcg-prismatic-evolutions?hl=en",
             "date": "January 24, 2025"
-        },
-        {
-            "title": "January 2025 Community Day Classic: Ralts",
-            "link": "https://pokemongolive.com/post/communitydayclassic-january-2025-ralts?hl=en",
-            "date": "January 23, 2025"
         }
     ]
 }
