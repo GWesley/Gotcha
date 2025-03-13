@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "「『Pokémon GO』 パートナーリサーチ」のご案内！",
+            "link": "https://pokemongolive.com/post/202503partnerresearch-jp?hl=ja",
+            "date": "2025年3月12日"
+        },
+        {
             "title": "『Pokémon GO』：次の10年に向けて",
             "link": "https://pokemongolive.com/post/moving-to-a-new-home-2025?hl=ja",
             "date": "2025年3月12日"
@@ -148,11 +153,6 @@
             "title": "ちっちゃくても大きなパワー！「ミニマイティ」イベントが開催されます！",
             "link": "https://pokemongolive.com/post/small-yet-strong-2025?hl=ja",
             "date": "2025年1月27日"
-        },
-        {
-            "title": "2025年1月の「コミュニティ・デイ（復刻）」：「ラルトス」",
-            "link": "https://pokemongolive.com/post/communitydayclassic-january-2025-ralts?hl=ja",
-            "date": "2025年1月23日"
         }
     ]
 }
