@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Pokémon GO y GAME España unen fuerzas para colaborar ¡No te pierdas nuestro evento de lanzamiento!",
+            "link": "https://pokemongolive.com/post/tiendasgame?hl=es",
+            "date": "14 de marzo de 2025"
+        },
+        {
             "title": "¡Aprovechad el Día de Investigación Compañero peludo!",
             "link": "https://pokemongolive.com/post/fuzzy-buddy-research-day-2025?hl=es",
             "date": "13 de marzo de 2025"
@@ -148,11 +153,6 @@
             "title": "Día de la Comunidad clásico de enero 2025: Ralts",
             "link": "https://pokemongolive.com/post/communitydayclassic-january-2025-ralts?hl=es",
             "date": "23 de enero de 2025"
-        },
-        {
-            "title": "¡Preparaos para el Tour de Pokémon GO: Teselia con el evento Camino a Teselia!",
-            "link": "https://pokemongolive.com/post/road-to-unova-event?hl=es",
-            "date": "22 de enero de 2025"
         }
     ]
 }
