@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ne luttez pas : la Journée Éclosion de Debugant sera bientôt là !",
+            "link": "https://pokemongolive.com/post/tyrogue-hatch-day-2025?hl=fr",
+            "date": "27 mars 2025"
+        },
+        {
             "title": "Le printemps pointe le bout de son nez avec l’événement Effervescence printanière. C’est l’occasion idéale pour assister à la première apparition de Tournicoton dans Pokémon GO !",
             "link": "https://pokemongolive.com/post/spring-into-spring-2025?hl=fr",
             "date": "27 mars 2025"
@@ -148,11 +153,6 @@
             "title": "Hoopa Déchaîné libère toute sa puissance lors d’une nouvelle Journée de Raids !",
             "link": "https://pokemongolive.com/post/hoopa-raid-day-2025?hl=fr",
             "date": "30 janvier 2025"
-        },
-        {
-            "title": "Journée Communauté de février 2025 : Carabing et Escargaume",
-            "link": "https://pokemongolive.com/post/communityday-february-2025-karrablast-shelmet?hl=fr",
-            "date": "28 janvier 2025"
         }
     ]
 }
