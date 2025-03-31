@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "The GO Pass, a new way to earn rewards in Pokémon GO, is coming soon!",
+            "link": "https://pokemongolive.com/post/go-pass-test-2025?hl=en",
+            "date": "March 31, 2025"
+        },
+        {
             "title": "Power Up Ticket: April is coming soon!",
             "link": "https://pokemongolive.com/post/power-up-ticket-april-2025?hl=en",
             "date": "March 28, 2025"
@@ -148,11 +153,6 @@
             "title": "Meet notable Trainers and join community meetups during Pokémon GO Tour: Unova!",
             "link": "https://pokemongolive.com/post/go-tour-unova-community-meetups?hl=en",
             "date": "February 12, 2025"
-        },
-        {
-            "title": "March 2025 Community Day: Fuecoco",
-            "link": "https://pokemongolive.com/post/communityday-march-2025-fuecoco?hl=en",
-            "date": "February 11, 2025"
         }
     ]
 }
