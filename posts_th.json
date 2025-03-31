@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "บัตรผ่าน GO เป็นวิธีใหม่ในการรับรางวัลใน Pokémon GO และกำลังจะมาเร็ว ๆ นี้!",
+            "link": "https://pokemongolive.com/post/go-pass-test-2025?hl=th",
+            "date": "31 มีนาคม 2568"
+        },
+        {
             "title": "ตั๋วพาวเวอร์อัป: เมษายนจะมาเร็ว ๆ นี้!",
             "link": "https://pokemongolive.com/post/power-up-ticket-april-2025?hl=th",
             "date": "28 มีนาคม 2568"
@@ -148,11 +153,6 @@
             "title": "ฮูปาร่างปลดปล่อยจะปลดปล่อยพลังที่แท้จริงในวันตีบอส!",
             "link": "https://pokemongolive.com/post/hoopa-raid-day-2025?hl=th",
             "date": "30 มกราคม 2568"
-        },
-        {
-            "title": "คอมมิวนิตี้เดย์เดือนกุมภาพันธ์ 2025: คาบูรูโมะและโชโบมากิ",
-            "link": "https://pokemongolive.com/post/communityday-february-2025-karrablast-shelmet?hl=th",
-            "date": "28 มกราคม 2568"
         }
     ]
 }
