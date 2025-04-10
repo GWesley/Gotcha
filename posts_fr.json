@@ -5,6 +5,11 @@
     ],
     "posts": [
         {
+            "title": "Ça va chauffer : Entei Dynamax fait sa première apparition dans Pokémon GO !",
+            "link": "https://pokemongolive.com/post/dynamax-entei-max-battle-weekend?hl=fr",
+            "date": "10 avril 2025"
+        },
+        {
             "title": "Les Pokémon de type Combat viennent prouver leur force lors de la Journée de Raids Partenaires d’entraînement !",
             "link": "https://pokemongolive.com/post/sparring-partners-raid-day-2025?hl=fr",
             "date": "7 avril 2025"
@@ -148,11 +153,6 @@
             "title": "Retrouvez des Dresseur·euse·s de renom et participez aux rencontres organisées par la communauté lors du Circuit Pokémon GO : Unys !",
             "link": "https://pokemongolive.com/post/go-tour-unova-community-meetups?hl=fr",
             "date": "12 février 2025"
-        },
-        {
-            "title": "Journée Communauté de mars 2025 : Chochodile",
-            "link": "https://pokemongolive.com/post/communityday-march-2025-fuecoco?hl=fr",
-            "date": "11 février 2025"
         }
     ]
 }
